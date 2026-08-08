@@ -4,7 +4,7 @@
 - Louise (Redding), Zaius (Broken Hills)
 
 ## v1.11
-- Added voices: Lydia (Vault City)
+- Added voices: Lydia (Vault City), Francis (Broken Hills)
 - Fixed Talking Head bugs related to Don and Kurisu (head was not displayed)
 
 ## v1.10

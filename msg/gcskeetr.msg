@@ -222,7 +222,7 @@
 
 {5500}{}{).}
 
-# VOCK Bonus Tracks (not used, left for the future)
+# VOCK Bonus Tracks (wired to Node850 -- random post-endgame float, see gcskeetr.ssl)
 {800}{skeet65}{You wanna know how I got this scars?}
 {801}{skeet66}{Uranium fever is done and got me down, Uranium fever is spreading all around.}
 {802}{skeet67}{I used to be a smoothskin like you, then I took a bomb to my country.}

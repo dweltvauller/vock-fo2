@@ -32,6 +32,15 @@
            Node112's picker also reuses msg 627 ("Too rich for my blood...") for its afford-check
            fallback instead of 617 -- 627 existed in the file already but was never referenced by
            any code path; this closes that orphan instead of leaving it dead.
+
+           (VOCK) Added Node850: once Fallout2_enclave_destroyed (the same post-endgame flag
+           New Reno/Vault City content already checks, e.g. nckitty.ssl/ncftully.ssl/vcmclure.ssl)
+           shows the PC has beaten Frank Horrigan and won the game, critter_p_proc occasionally
+           (roughly hourly game-time cooldown + 1-in-50 roll, only while self_can_see_dude and not
+           hostile) has Skeeter throw out a random float from the previously-unused skeet65-68
+           bonus tracks (msg 800-803) as ambient chatter. Purely additive to critter_p_proc --
+           talk_p_proc/dialogue is untouched, so clicking him still always opens his normal
+           dialogue tree.
 */
 
 /* Include Files */
@@ -150,6 +159,7 @@ procedure Node138;
 procedure Node139;
 procedure Node140;
 procedure Node150;
+procedure Node850;                                      // VOCK: post-endgame bonus-track float
 
 //~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
 // The Following lines are for anything that is not needed to be
@@ -164,6 +174,7 @@ procedure Node150;
 #define LVAR_Repair_Kit                 (7)
 #define LVAR_Upgrade                    (8)
 #define LVAR_09_before                  (9)
+#define LVAR_Endgame_Float_Cooldown     (10)     // VOCK: game_time of last post-endgame bonus float
 
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
@@ -223,6 +234,17 @@ procedure critter_p_proc begin
    else if ((local_var(LVAR_Hostile) == 2) and (self_can_see_dude)) then begin
        set_local_var(LVAR_Hostile,1);
        attack(dude_obj);
+   end
+   // VOCK: once the PC has beaten Frank Horrigan (game won), Skeeter occasionally throws out
+   // one of his previously-unused bonus-track lines as ambient chatter -- purely a flavor float.
+   // Fallout2_enclave_destroyed (not GVAR_ENCLAVE_FRANK_DEAD) is the flag New Reno/Vault City's
+   // real post-endgame content actually checks (nckitty.ssl, ncftully.ssl, vcmclure.ssl, etc.) --
+   // matched here for consistency, though both flags flip at the same moment in qcfrank.ssl.
+   else if ( (Fallout2_enclave_destroyed) and (self_can_see_dude) and
+             ((game_time - local_var(LVAR_Endgame_Float_Cooldown)) >= ONE_GAME_HOUR) and
+             (random(1,50) == 1) ) then begin
+      set_local_var(LVAR_Endgame_Float_Cooldown, game_time);
+      call Node850;
    end
 
 end
@@ -453,6 +475,17 @@ end
 
 procedure Node001 begin
    floater(random(110,114));
+end
+
+// VOCK: post-endgame bonus-track float. skeet65-68 (msg 800-803) were recorded but never wired
+// to any node ("VOCK Bonus Tracks -- not used, left for the future"); called from critter_p_proc
+// as ambient ONLY, never from talk_p_proc -- see critter_p_proc for the gating.
+// NOTE: called from critter_p_proc, so per the float_msg/_gdialogActive() quirk in this codebase
+// the tied .acm will NOT auto-voice here -- text only for now. A reg_anim_play_sfx bypass exists
+// elsewhere in this project (frank/scripts_src/ecbdygrd.ssl etc.) but is deliberately left out
+// here pending a proper engine-level fix -- revisit later.
+procedure Node850 begin
+   floater(random(800,803));
 end
 
 procedure Node002 begin
