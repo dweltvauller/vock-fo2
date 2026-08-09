@@ -15,12 +15,11 @@
            Created:
 
            Updated:
-           (VOCK) Fixed doSequence/start's
-           start_gdialog/Node001 call being made from timed_event_p_proc, outside talk_p_proc's
-           call stack, so VA never voiced there (_gdialogActive() gate) -- moved the call into
-           talk_p_proc; doSequence/start now just set a new `pending_dialog` flag, which
-           critter_p_proc checks and enters via dialogue_system_enter. Node998 now calls
-           end_dialogue instead of attack(dude_obj), since it now runs inside an active dialogue.
+           (VOCK) Fixed doSequence's start_gdialog/Node001 call being made from
+           timed_event_p_proc, outside talk_p_proc's call stack, so VA never voiced there
+           (_gdialogActive() gate) -- doSequence now calls dialogue_system_enter directly, which
+           routes into talk_p_proc so VA works. Node998 now calls end_dialogue instead of
+           attack(dude_obj), since it now runs inside an active dialogue.
 */
 
 /* Include Files */
@@ -101,7 +100,6 @@ variable Only_Once:=0;
 variable sequence:=0;
 variable animated:=0;
 variable flee:=0;
-variable pending_dialog:=0;
 
 #define TIMER_SEQUENCE 1
 #define ATTACK 2
@@ -114,7 +112,7 @@ procedure doSequence begin
 
       game_ui_enable;
 
-      pending_dialog := 1;
+      dialogue_system_enter;
 
 end
 
@@ -224,11 +222,6 @@ end
 /* Every heartbeat that the critter gets, this procedure will be called. Anything from
    Movement to attacking the player on sight can be placed in here.*/
 procedure critter_p_proc begin
-   if (pending_dialog) then begin
-      pending_dialog := 0;
-      dialogue_system_enter;
-   end
-
 /* If the critter is mad at the player for any reason, it will attack and remember to attack
    the player should the game be saved and loaded repeatedly. Additionally, if any special
    actions need to be taken by the critter based on previous combat, the critter will remember

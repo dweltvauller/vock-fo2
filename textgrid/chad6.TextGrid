@@ -134,10 +134,10 @@ item []:
             text = "on" 
         intervals [31]:
             xmin = 8.93 
-            xmax = 9.52 
+            xmax = 9.53 
             text = "gecko" 
         intervals [32]:
-            xmin = 9.52 
+            xmin = 9.53 
             xmax = 9.682721 
             text = "" 
     item [2]:
@@ -528,9 +528,9 @@ item []:
             text = "K" 
         intervals [96]:
             xmin = 9.23 
-            xmax = 9.52 
+            xmax = 9.53 
             text = "OW0" 
         intervals [97]:
-            xmin = 9.52 
+            xmin = 9.53 
             xmax = 9.682721 
             text = "" 

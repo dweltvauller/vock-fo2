@@ -15,11 +15,10 @@
            Created:
 
            Updated:
-           (VOCK) Fixed doSequence's start_gdialog/
-           Node001 call being made from timed_event_p_proc, outside talk_p_proc's call stack, so
-           VA never voiced there (_gdialogActive() gate) -- moved the call into talk_p_proc;
-           doSequence now just sets a new `pending_dialog` flag, which critter_p_proc checks and
-           enters via dialogue_system_enter. Node998 now calls end_dialogue instead of
+           (VOCK) Fixed doSequence's start_gdialog/Node001 call being made from
+           timed_event_p_proc, outside talk_p_proc's call stack, so VA never voiced there
+           (_gdialogActive() gate) -- doSequence now calls dialogue_system_enter directly, which
+           routes into talk_p_proc so VA works. Node998 now calls end_dialogue instead of
            attack(dude_obj), since it now runs inside an active dialogue.
 */
 
@@ -98,7 +97,6 @@ procedure Node005;
 variable Only_Once:=0;
 variable sequence:=0;
 variable flee:=0;
-variable pending_dialog:=0;
 #define TIMER_SEQUENCE 1
 #define ATTACK 2
 #define DEFEAT 3
@@ -213,11 +211,6 @@ end
 /* Every heartbeat that the critter gets, this procedure will be called. Anything from
    Movement to attacking the player on sight can be placed in here.*/
 procedure critter_p_proc begin
-   if (pending_dialog) then begin
-      pending_dialog := 0;
-      dialogue_system_enter;
-   end
-
    variable rot;
 
    if (self_visible) then begin
@@ -357,7 +350,7 @@ procedure doSequence begin
    Face_Critter(dude_obj, self_obj);
    Face_Critter(self_obj, dude_obj);
 
-   pending_dialog := 1;
+   dialogue_system_enter;
 end
 
 procedure Node001 begin

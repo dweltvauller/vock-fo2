@@ -102,10 +102,10 @@ item []:
             text = "come" 
         intervals [23]:
             xmin = 7.2 
-            xmax = 7.93 
+            xmax = 7.94 
             text = "peacefully" 
         intervals [24]:
-            xmin = 7.93 
+            xmin = 7.94 
             xmax = 8.103764 
             text = "" 
     item [2]:
@@ -388,9 +388,9 @@ item []:
             text = "L" 
         intervals [69]:
             xmin = 7.75 
-            xmax = 7.93 
+            xmax = 7.94 
             text = "IY0" 
         intervals [70]:
-            xmin = 7.93 
+            xmin = 7.94 
             xmax = 8.103764 
             text = "" 

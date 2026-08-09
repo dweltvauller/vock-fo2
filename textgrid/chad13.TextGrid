@@ -114,10 +114,10 @@ item []:
             text = "get" 
         intervals [26]:
             xmin = 6.94 
-            xmax = 7.21 
+            xmax = 7.2 
             text = "outta" 
         intervals [27]:
-            xmin = 7.21 
+            xmin = 7.2 
             xmax = 7.5 
             text = "here" 
         intervals [28]:
@@ -264,10 +264,10 @@ item []:
             text = "D" 
         intervals [34]:
             xmin = 3.24 
-            xmax = 3.29 
+            xmax = 3.3 
             text = "R" 
         intervals [35]:
-            xmin = 3.29 
+            xmin = 3.3 
             xmax = 3.4 
             text = "AA1" 
         intervals [36]:
@@ -432,10 +432,10 @@ item []:
             text = "T" 
         intervals [76]:
             xmin = 7.17 
-            xmax = 7.21 
+            xmax = 7.2 
             text = "AH0" 
         intervals [77]:
-            xmin = 7.21 
+            xmin = 7.2 
             xmax = 7.3 
             text = "HH" 
         intervals [78]:

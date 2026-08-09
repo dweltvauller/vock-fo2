@@ -32,8 +32,7 @@ Vault 15 — Rebecca's daughter, held captive by raiders in the vault.
 
 ## The Full Story
 
-*These three play in sequence — she keeps talking each time you ask her what's going on, piecing the
-whole story together across three passes.*
+*These three play in sequence — she keeps talking each time you ask her what's going on, piecing the whole story together across three passes.*
 
 **chrsy6:** In a nutshell, my name is Chrissy and I'm from the Squat. I was out exploring last week when I found that entrance out there. I thought it might be an abandoned mine or something, so I decided to check it out. Well, it's not a mine; it's a secret entrance into Vault 15. The vault is being used as a base for a band of raiders called the Khans. They caught me snooping around and their leader, Darion, had me locked up in here.
 
@@ -43,8 +42,7 @@ whole story together across three passes.*
 
 ## A Familiar Face
 
-*A returning-visit variant of her greeting — same guarded edge, now with a flash of relief and dry
-humor at seeing a friendly face twice.*
+*A returning-visit variant of her greeting — same guarded edge, now with a flash of relief and dry humor at seeing a friendly face twice.*
 
 **chrsy7:** Well, I'll be damned. Today must be my lucky day. To what do I owe the pleasure of seeing you again?
 

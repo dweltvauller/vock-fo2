@@ -50,10 +50,10 @@ item []:
             text = "are" 
         intervals [10]:
             xmin = 1.78 
-            xmax = 2.23 
+            xmax = 2.19 
             text = "you" 
         intervals [11]:
-            xmin = 2.23 
+            xmin = 2.19 
             xmax = 2.310658 
             text = "" 
     item [2]:
@@ -140,9 +140,9 @@ item []:
             text = "Y" 
         intervals [20]:
             xmin = 1.92 
-            xmax = 2.23 
+            xmax = 2.19 
             text = "UW1" 
         intervals [21]:
-            xmin = 2.23 
+            xmin = 2.19 
             xmax = 2.310658 
             text = "" 

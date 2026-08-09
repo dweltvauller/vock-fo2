@@ -14,10 +14,10 @@ item []:
         intervals: size = 15 
         intervals [1]:
             xmin = 0.0 
-            xmax = 0.26 
+            xmax = 0.27 
             text = "" 
         intervals [2]:
-            xmin = 0.26 
+            xmin = 0.27 
             xmax = 0.66 
             text = "wrong" 
         intervals [3]:
@@ -80,10 +80,10 @@ item []:
         intervals: size = 38 
         intervals [1]:
             xmin = 0.0 
-            xmax = 0.26 
+            xmax = 0.27 
             text = "" 
         intervals [2]:
-            xmin = 0.26 
+            xmin = 0.27 
             xmax = 0.37 
             text = "R" 
         intervals [3]:
