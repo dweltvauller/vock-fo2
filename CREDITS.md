@@ -39,6 +39,7 @@
 | Name | Links |
 |------|-------|
 | C. Jared Castor | [Facebook](https://www.facebook.com/CJaredCastor/) |
+| LebronJane | - |
 
 ## Font Design
 

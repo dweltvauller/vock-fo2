@@ -104,8 +104,7 @@
 {222}{}{Fine, you can count me out, asshole. I'm not gonna be your dog. Bye.}
 {223}{}{You calling me chicken? No one calls me that and lives!}
 
-{225}{vort35}{Well, alright. I think I can round up some boys to aid you in this. They'll meet you on the way. You ready to start
- now?}
+{225}{vort35}{Well, alright. I think I can round up some boys to aid you in this. They'll meet you on the way. You ready to start now?}
 {226}{}{Give me some time. I'll be back when I am ready.}
 {227}{}{I was born ready. Let's rumble.}
 {228}{}{I'm ready. Let's go.}
