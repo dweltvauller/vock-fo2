@@ -18,12 +18,15 @@
 | [Old Joe](https://f2rp.bgforge.net/vault-village/) | Vault City | Lewis Saunders | [Portfolio](https://lewissaundersvo.com/character-voices/) |
 | [Brother Paul](https://f2rp.bgforge.net/abbey/) | Abbey | Matt Bartlett | [Portfolio](https://mattbartlettvo.carrd.co/) |
 | [Big Jesus Mordino](https://fallout.fandom.com/wiki/Big_Jesus_Mordino) | New Reno | Enrico Leone | [AllMyLinks](https://allmylinks.com/enrico-leone-va) · [Casting Call Club](https://www.castingcall.club/incinerico) |
+| [Vortis](https://fallout.fandom.com/wiki/Vortis) | NCR Entrance | Enrico Leone | [AllMyLinks](https://allmylinks.com/enrico-leone-va) · [Casting Call Club](https://www.castingcall.club/incinerico) |
 | [Torr Buckner](https://fallout.fandom.com/wiki/Torr_Buckner) | Klamath | David Pastore-Theriaque | [Linktree](https://linktr.ee/dclpt0) |
 | [Francis](https://fallout.fandom.com/wiki/Francis_(Fallout_2)) | Broken Hills | David Pastore-Theriaque | [Linktree](https://linktr.ee/dclpt0) |
 | [Louise](https://fallout.fandom.com/wiki/Louise) | Redding | Billy Graves | [AllMyLinks](https://allmylinks.com/billy-graves) |
 | [Chad](https://fallout.fandom.com/wiki/Chad_(Broken_Hills)) | Broken Hills | Sn8kezz | [Casting Call Club](https://www.castingcall.club/m/sn8kezz) |
 | [Krom](https://f2rp.bgforge.net/umbra-tribe/) | Umbra Tribe | Jeremy Lindsay | [Portfolio](https://jeremylindsayent.squarespace.com) |
 | [Lydia](https://fallout.fandom.com/wiki/Lydia_(Fallout_2)) | Vault City | Juliet Blank | [AllMyLinks](https://allmylinks.com/julietblank) |
+| [Chrissy](https://fallout.fandom.com/wiki/Chrissy) | Broken Hills | Megan Rowe | [Carrd](https://meganrowevo.carrd.co) · [X](https://x.com/meganrowevo) |
+| [Arthur Pendragon](https://fallout.fandom.com/wiki/Arthur_Pendragon) | Special Encounter | Tsovir | [Casting Call Club](https://www.castingcall.club/m/tsovir) |
 
 ## AI-Voiced Characters (To Be Replaced by Real Actors)
 
@@ -32,7 +35,6 @@
 | [Morlis](https://fallout.fandom.com/wiki/Morlis) | Arroyo |
 | [Sally Dunton](https://fallout.fandom.com/wiki/Sally_Dunton) | Klamath |
 | [Bridgekeeper](https://fallout.fandom.com/wiki/Bridgekeeper) | Special Encounter |
-| [Arthur Pendragon](https://fallout.fandom.com/wiki/Arthur_Pendragon) | Special Encounter |
 
 ## Quality Assurance
 
