@@ -25,7 +25,7 @@ Pulled from public Casting Call Club project listings: [Part 1](https://www.cast
 | [Miria (Companion)](https://fallout.fandom.com/wiki/Miria) | Modoc | Ueichi | [CCC Profile](https://www.castingcall.club/m/ueichi) · [Role page](https://www.castingcall.club/projects/fallout-2-talking-heads-project#jumptorole955622) |
 | [Doctor Schreber](https://fallout.fandom.com/wiki/Schreber) | Navarro | SoldierHobbes | [CCC Profile](https://www.castingcall.club/m/soldierhobbes) · [Role page](https://www.castingcall.club/projects/fallout-2-talking-heads-project#jumptorole1057349) |
 | [K-9 (Companion)](https://fallout.fandom.com/wiki/K-9) | Navarro | | |
-| [Xarn](https://fallout.fandom.com/wiki/Xarn) | Navarro | | |
+| [Xarn](https://fallout.fandom.com/wiki/Xarn) | Navarro | TonyTwoTap | [CCC Profile](https://www.castingcall.club/m/tonytwotap) |
 | [Doctor Henry](https://fallout.fandom.com/wiki/Henry) | NCR | matthewmeadows4 | [CCC Profile](https://www.castingcall.club/m/deleted457292) *(account appears deleted)* · **[Listen — YouTube](https://www.youtube.com/watch?v=WcNgjDRoGUs&t=39s&ab_channel=Black_Electric)** |
 | [Mira](https://fallout.fandom.com/wiki/Mira) | NCR | | |
 | [Roger Westin](https://fallout.fandom.com/wiki/Roger_Westin) | NCR | Dark Lore Dash | [CCC Profile](https://www.castingcall.club/m/dashington) · [Role page](https://www.castingcall.club/projects/fallout-2-talking-heads-project#jumptorole962489) |

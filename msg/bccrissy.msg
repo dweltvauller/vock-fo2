@@ -27,7 +27,7 @@
 {126}{}{}
 {127}{}{I'd like to know who you are and what is going on here.}
 {128}{chrsy12}{Please take me to my mother, Rebecca.}
-{129}{chrsy8}{My knight in shining armor returns. Well, it would shine if you'd clean it every once in a while. Oh, and you might want to consider bathing yourself as well. So, what can I do for you?}
+{129}{chrsy8}{My knight in shining armor returns. Well, it would shine if you'd clean it every once in a while. Oh, and you might want to consider bathing yourself as well. (Chuckles softly.) So, what can I do for you?}
 {130}{}{Me just say hi. Me go now.}
 {131}{}{Just thought I'd say hello. I'll be going now.}
 {132}{chrsy9}{Hey, I know I have a smart mouth, but I want you to know that I'm very grateful for you saving my butt. Thanks very much!}
