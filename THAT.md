@@ -9,7 +9,7 @@ Pulled from public Casting Call Club project listings: [Part 1](https://www.cast
 | [Klint](https://fallout.fandom.com/wiki/Klint) | Arroyo | | |
 | [Mynoc](https://fallout.fandom.com/wiki/Mynoc) | Arroyo | | |
 | [Cameron](https://fallout.fandom.com/wiki/Cameron_(Arroyo)) | Arroyo | Tom Demont | [CCC Profile](https://www.castingcall.club/m/tomdiamond) · [Portfolio](https://tomdemont.carrd.co/) |
-| [Jacob](https://fallout.fandom.com/wiki/Jacob_the_Chemist) | Broken Hills | Laston | [CCC Profile](https://www.castingcall.club/m/laston) · [Role page](https://www.castingcall.club/projects/fallout-2-talking-heads-project#jumptorole1057345) |
+| [Jacob](https://fallout.fandom.com/wiki/Jacob_the_Chemist) | Broken Hills | Martin L. | [CCC Profile](https://www.castingcall.club/m/laston) · [Role page](https://www.castingcall.club/projects/fallout-2-talking-heads-project#jumptorole1057345) · [Portfolio](https://martinlaston.carrd.co/) |
 | [Steve](https://fallout.fandom.com/wiki/Steve_(Broken_Hills)) | Broken Hills | | |
 | [Typhon](https://fallout.fandom.com/wiki/Typhon) | Broken Hills | | |
 | [Dex (Companion)](https://f2rp.bgforge.net/epa/) | EPA | | |

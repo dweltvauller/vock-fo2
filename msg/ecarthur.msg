@@ -5,7 +5,7 @@
 {104}{}{Holy what of who?}
 {105}{}{Player Response}
 {106}{}{Unga.}
-{107}{arth13}{No time to talk. We're on quest.}
+{107}{arth13}{No time to talk. We're on a quest.}
 {108}{arth14}{We seek the Holy Hand Grenade of Antioch.}
 {109}{arth15}{For the Brotherhood of Steel!}
 {110}{arth16}{Hmm... African or European swallow?}
@@ -36,7 +36,7 @@
 {135}{arth12}{No. No. Couldn't do that. Wouldn't be right to end your quest that easily. There's some more of them that way. Go get your own. [He points in a direction about the same way you pointed when you told him where the Holy Hand Grenade of Antioch was.]}
 {136}{}{[END]}
 
-{200}{arth20}{Do you speak the king's tongue?}
+{200}{arth20}{Do you speak the King's tongue?}
 {201}{arth21}{Hellooo.}
 {202}{arth22}{Hey, I'm over here.}
 {203}{arth23}{If you could spare a moment of your time.}

@@ -484,10 +484,10 @@ item []:
             text = "AH1" 
         intervals [70]:
             xmin = 8.9 
-            xmax = 8.96 
+            xmax = 8.97 
             text = "S" 
         intervals [71]:
-            xmin = 8.96 
+            xmin = 8.97 
             xmax = 9.02 
             text = "T" 
         intervals [72]:

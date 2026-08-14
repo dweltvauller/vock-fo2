@@ -122,10 +122,10 @@ item []:
             text = "on" 
         intervals [28]:
             xmin = 6.01 
-            xmax = 6.51 
+            xmax = 6.5 
             text = "here" 
         intervals [29]:
-            xmin = 6.51 
+            xmin = 6.5 
             xmax = 7.2 
             text = "" 
         intervals [30]:
@@ -210,14 +210,14 @@ item []:
             text = "lots" 
         intervals [50]:
             xmin = 11.3 
-            xmax = 11.39 
+            xmax = 11.4 
             text = "of" 
         intervals [51]:
-            xmin = 11.39 
-            xmax = 11.44 
+            xmin = 11.4 
+            xmax = 11.46 
             text = "" 
         intervals [52]:
-            xmin = 11.44 
+            xmin = 11.46 
             xmax = 11.66 
             text = "food" 
         intervals [53]:
@@ -322,10 +322,10 @@ item []:
             text = "the" 
         intervals [78]:
             xmin = 19.190001 
-            xmax = 19.24 
+            xmax = 19.23 
             text = "" 
         intervals [79]:
-            xmin = 19.24 
+            xmin = 19.23 
             xmax = 19.469999 
             text = "food" 
         intervals [80]:
@@ -772,10 +772,10 @@ item []:
             text = "IY1" 
         intervals [90]:
             xmin = 6.25 
-            xmax = 6.51 
+            xmax = 6.5 
             text = "R" 
         intervals [91]:
-            xmin = 6.51 
+            xmin = 6.5 
             xmax = 7.2 
             text = "" 
         intervals [92]:
@@ -1040,18 +1040,18 @@ item []:
             text = "AH0" 
         intervals [157]:
             xmin = 11.34 
-            xmax = 11.39 
+            xmax = 11.4 
             text = "V" 
         intervals [158]:
-            xmin = 11.39 
-            xmax = 11.44 
+            xmin = 11.4 
+            xmax = 11.46 
             text = "" 
         intervals [159]:
-            xmin = 11.44 
-            xmax = 11.5 
+            xmin = 11.46 
+            xmax = 11.49 
             text = "F" 
         intervals [160]:
-            xmin = 11.5 
+            xmin = 11.49 
             xmax = 11.63 
             text = "UW1" 
         intervals [161]:
@@ -1300,10 +1300,10 @@ item []:
             text = "AH0" 
         intervals [222]:
             xmin = 19.190001 
-            xmax = 19.24 
+            xmax = 19.23 
             text = "" 
         intervals [223]:
-            xmin = 19.24 
+            xmin = 19.23 
             xmax = 19.280001 
             text = "F" 
         intervals [224]:

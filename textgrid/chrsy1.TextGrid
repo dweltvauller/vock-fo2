@@ -98,10 +98,10 @@ item []:
             text = "tie" 
         intervals [22]:
             xmin = 4.14 
-            xmax = 4.92 
+            xmax = 4.94 
             text = "" 
         intervals [23]:
-            xmin = 4.92 
+            xmin = 4.94 
             xmax = 5.13 
             text = "get" 
         intervals [24]:
@@ -280,10 +280,10 @@ item []:
             text = "Y" 
         intervals [41]:
             xmin = 2.76 
-            xmax = 2.83 
+            xmax = 2.82 
             text = "UH1" 
         intervals [42]:
-            xmin = 2.83 
+            xmin = 2.82 
             xmax = 2.87 
             text = "R" 
         intervals [43]:
@@ -332,10 +332,10 @@ item []:
             text = "AY1" 
         intervals [54]:
             xmin = 4.14 
-            xmax = 4.92 
+            xmax = 4.94 
             text = "" 
         intervals [55]:
-            xmin = 4.92 
+            xmin = 4.94 
             xmax = 5.0 
             text = "G" 
         intervals [56]:

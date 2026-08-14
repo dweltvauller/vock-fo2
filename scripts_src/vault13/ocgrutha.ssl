@@ -48,6 +48,7 @@
 #include "../headers/modreact.h"
 
 #include "../headers/v13.h"
+#include "../headers/talking_heads.h"
 
 
 /* Standard Script Procedures */

@@ -58,10 +58,10 @@ item []:
             text = "mouth" 
         intervals [12]:
             xmin = 3.7 
-            xmax = 4.16 
+            xmax = 4.17 
             text = "" 
         intervals [13]:
-            xmin = 4.16 
+            xmin = 4.17 
             xmax = 4.27 
             text = "but" 
         intervals [14]:
@@ -224,18 +224,18 @@ item []:
             text = "M" 
         intervals [20]:
             xmin = 3.2 
-            xmax = 3.45 
+            xmax = 3.46 
             text = "AW1" 
         intervals [21]:
-            xmin = 3.45 
+            xmin = 3.46 
             xmax = 3.7 
             text = "TH" 
         intervals [22]:
             xmin = 3.7 
-            xmax = 4.16 
+            xmax = 4.17 
             text = "" 
         intervals [23]:
-            xmin = 4.16 
+            xmin = 4.17 
             xmax = 4.21 
             text = "B" 
         intervals [24]:
@@ -444,10 +444,10 @@ item []:
             text = "EH1" 
         intervals [75]:
             xmin = 9.06 
-            xmax = 9.13 
+            xmax = 9.12 
             text = "R" 
         intervals [76]:
-            xmin = 9.13 
+            xmin = 9.12 
             xmax = 9.22 
             text = "IY0" 
         intervals [77]:

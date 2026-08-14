@@ -106,10 +106,10 @@ item []:
             text = "these" 
         intervals [24]:
             xmin = 6.3 
-            xmax = 7.24 
+            xmax = 7.22 
             text = "monsters" 
         intervals [25]:
-            xmin = 7.24 
+            xmin = 7.22 
             xmax = 7.87 
             text = "" 
         intervals [26]:
@@ -130,10 +130,10 @@ item []:
             text = "me" 
         intervals [30]:
             xmin = 8.55 
-            xmax = 8.94 
+            xmax = 8.93 
             text = "home" 
         intervals [31]:
-            xmin = 8.94 
+            xmin = 8.93 
             xmax = 9.116553 
             text = "" 
     item [2]:
@@ -244,10 +244,10 @@ item []:
             text = "" 
         intervals [26]:
             xmin = 2.55 
-            xmax = 2.64 
+            xmax = 2.65 
             text = "EH1" 
         intervals [27]:
-            xmin = 2.64 
+            xmin = 2.65 
             xmax = 2.69 
             text = "V" 
         intervals [28]:
@@ -436,10 +436,10 @@ item []:
             text = "ER0" 
         intervals [74]:
             xmin = 7.0 
-            xmax = 7.24 
+            xmax = 7.22 
             text = "Z" 
         intervals [75]:
-            xmin = 7.24 
+            xmin = 7.22 
             xmax = 7.87 
             text = "" 
         intervals [76]:
@@ -492,9 +492,9 @@ item []:
             text = "OW1" 
         intervals [88]:
             xmin = 8.79 
-            xmax = 8.94 
+            xmax = 8.93 
             text = "M" 
         intervals [89]:
-            xmin = 8.94 
+            xmin = 8.93 
             xmax = 9.116553 
             text = "" 

@@ -38,18 +38,18 @@ item []:
             text = "armor" 
         intervals [7]:
             xmin = 1.77 
-            xmax = 2.57 
+            xmax = 2.56 
             text = "returns" 
         intervals [8]:
-            xmin = 2.57 
+            xmin = 2.56 
             xmax = 3.3 
             text = "" 
         intervals [9]:
             xmin = 3.3 
-            xmax = 3.63 
+            xmax = 3.62 
             text = "well" 
         intervals [10]:
-            xmin = 3.63 
+            xmin = 3.62 
             xmax = 4.25 
             text = "" 
         intervals [11]:
@@ -292,10 +292,10 @@ item []:
             text = "N" 
         intervals [23]:
             xmin = 2.45 
-            xmax = 2.57 
+            xmax = 2.56 
             text = "Z" 
         intervals [24]:
-            xmin = 2.57 
+            xmin = 2.56 
             xmax = 3.3 
             text = "" 
         intervals [25]:
@@ -308,10 +308,10 @@ item []:
             text = "EH1" 
         intervals [27]:
             xmin = 3.4 
-            xmax = 3.63 
+            xmax = 3.62 
             text = "L" 
         intervals [28]:
-            xmin = 3.63 
+            xmin = 3.62 
             xmax = 4.25 
             text = "" 
         intervals [29]:
@@ -688,10 +688,10 @@ item []:
             text = "F" 
         intervals [122]:
             xmin = 12.55 
-            xmax = 12.61 
+            xmax = 12.62 
             text = "AO1" 
         intervals [123]:
-            xmin = 12.61 
+            xmin = 12.62 
             xmax = 12.71 
             text = "R" 
         intervals [124]:

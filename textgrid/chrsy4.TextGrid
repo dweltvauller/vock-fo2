@@ -42,10 +42,10 @@ item []:
             text = "you" 
         intervals [8]:
             xmin = 2.06 
-            xmax = 2.63 
+            xmax = 2.62 
             text = "here" 
         intervals [9]:
-            xmin = 2.63 
+            xmin = 2.62 
             xmax = 2.762902 
             text = "" 
     item [2]:
@@ -116,9 +116,9 @@ item []:
             text = "IY1" 
         intervals [16]:
             xmin = 2.3 
-            xmax = 2.63 
+            xmax = 2.62 
             text = "R" 
         intervals [17]:
-            xmin = 2.63 
+            xmin = 2.62 
             xmax = 2.762902 
             text = "" 

@@ -324,10 +324,10 @@ item []:
             text = "S" 
         intervals [52]:
             xmin = 5.88 
-            xmax = 5.94 
+            xmax = 5.95 
             text = "IY1" 
         intervals [53]:
-            xmin = 5.94 
+            xmin = 5.95 
             xmax = 6.04 
             text = "IH0" 
         intervals [54]:
