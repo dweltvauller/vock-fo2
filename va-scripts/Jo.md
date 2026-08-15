@@ -1,7 +1,7 @@
 # Jo — VA Script
 **Character:** Jo, trading post owner (and de facto sheriff, mayor, and judge), Modoc
 
-**Total recordable lines:** 86 (`jomod1`–`jomod86`)
+**Total recordable lines:** 94 (`jomod1`–`jomod94`)
 
 ---
 
@@ -182,25 +182,48 @@
 `jomod68:` We killed everyone. Even the children... [sob]
 
 ## Officiating a Wedding
-*Jo doubles as Modoc's wedding officiant. Several of these are short fragments that combine with the couple's names to build the full vow line — read them as separate short beats, not full sentences.*
+*Jo doubles as Modoc's wedding officiant.*
 
 `jomod73:` Dearly Beloved: We are gathered here...
 
 `jomod74:` OK, um... Before we begin, is there anyone in this room who knows any reason why these two here before us should not be joined together in holy matrimony?
+
+*He asks each partner in turn to take the other. One of these four plays for the first partner, depending on who's getting married and the pairing:*
+
+`jomod87:` Do you, Miria, take this person at your side to be your lawfully wedded husband, for as long as it holds up?
+
+`jomod88:` Do you, Miria, take this person at your side to be your lawfully wedded... uhhh... other? Yes, lawfully wedded other -- for as long as it holds up?
+
+`jomod89:` Do you take Davin to be your lawfully wedded husband, for as long as it holds up?
+
+`jomod90:` Do you take Davin to be your lawfully wedded... uhhh... other? Yes, lawfully wedded other -- for as long as it holds up?
+
+*And one of these four plays for the second partner:*
+
+`jomod91:` Do you, Davin, take this person at your side to be your lawfully wedded wife, till death or the drought takes you first?
+
+`jomod92:` Do you, Davin, take this person at your side to be your lawfully wedded other -- till death or the drought takes you first?
+
+`jomod93:` Do you take Miria to be your lawfully wedded wife, till death or the drought takes you first?
+
+`jomod94:` Do you take Miria to be your lawfully wedded other -- till death or the drought takes you first?
+
+*One of these closes the ceremony, depending on the couple:*
+
+`jomod78:` Then by frontier law, I pronounce you attached. You may now kiss the bride.
+
+`jomod79:` Then by frontier law, I pronounce you attached. You brides may now kiss.
+
+`jomod80:` Then by frontier law, I pronounce you attached. You may now kiss the other.
+
+## Cut / Superseded — Original Wedding Vow Fragments
+*These were the original short fragments the vow question used to be built from. They're no longer called by the script (replaced by the complete lines above) but stay tagged in case they're ever useful again.*
 
 `jomod75:` Do you
 
 `jomod76:` take
 
 `jomod77:` to be your lawfully wedded
-
-*One of these plays depending on who's being wed:*
-
-`jomod85:` Miria
-
-`jomod86:` Davin
-
-*One of these plays depending on the pairing:*
 
 `jomod81:` husband?
 
@@ -210,13 +233,9 @@
 
 `jomod84:` other?
 
-*One of these closes the ceremony, depending on the couple:*
+`jomod85:` Miria
 
-`jomod78:` Then by frontier law, I pronounce you attached. You may now kiss the bride.
-
-`jomod79:` Then by frontier law, I pronounce you attached. You brides may now kiss.
-
-`jomod80:` Then by frontier law, I pronounce you attached. You may now kiss the other.
+`jomod86:` Davin
 
 ---
 

@@ -22,7 +22,7 @@
 | [Torr Buckner](https://fallout.fandom.com/wiki/Torr_Buckner) | Klamath | David Pastore-Theriaque | [Linktree](https://linktr.ee/dclpt0) |
 | [Francis](https://fallout.fandom.com/wiki/Francis_(Fallout_2)) | Broken Hills | David Pastore-Theriaque | [Linktree](https://linktr.ee/dclpt0) |
 | [Louise](https://fallout.fandom.com/wiki/Louise) | Redding | Billy Graves | [AllMyLinks](https://allmylinks.com/billy-graves) |
-| [Chad](https://fallout.fandom.com/wiki/Chad_(Broken_Hills)) | Broken Hills | Sn8kezz | [Casting Call Club](https://www.castingcall.club/m/sn8kezz) |
+| [Chad](https://fallout.fandom.com/wiki/Chad_(Fallout_2)) | Broken Hills | Sn8kezz | [Casting Call Club](https://www.castingcall.club/m/sn8kezz) |
 | [Krom](https://f2rp.bgforge.net/umbra-tribe/) | Umbra Tribe | Jeremy Lindsay | [Portfolio](https://jeremylindsayent.squarespace.com) |
 | [Lydia](https://fallout.fandom.com/wiki/Lydia_(Fallout_2)) | Vault City | Juliet Blank | [AllMyLinks](https://allmylinks.com/julietblank) |
 | [Chrissy](https://fallout.fandom.com/wiki/Chrissy) | Broken Hills | Megan Rowe | [Carrd](https://meganrowevo.carrd.co) · [X](https://x.com/meganrowevo) |
