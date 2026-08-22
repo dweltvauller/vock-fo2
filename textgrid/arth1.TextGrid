@@ -180,10 +180,10 @@ item []:
             text = "HH" 
         intervals [3]:
             xmin = 0.25 
-            xmax = 0.51 
+            xmax = 0.52 
             text = "EY1" 
         intervals [4]:
-            xmin = 0.51 
+            xmin = 0.52 
             xmax = 0.71 
             text = "L" 
         intervals [5]:
@@ -324,10 +324,10 @@ item []:
             text = "EH1" 
         intervals [39]:
             xmin = 4.7 
-            xmax = 4.79 
+            xmax = 4.8 
             text = "N" 
         intervals [40]:
-            xmin = 4.79 
+            xmin = 4.8 
             xmax = 4.91 
             text = "D" 
         intervals [41]:
@@ -340,10 +340,10 @@ item []:
             text = "AA0" 
         intervals [43]:
             xmin = 5.07 
-            xmax = 5.13 
+            xmax = 5.14 
             text = "G" 
         intervals [44]:
-            xmin = 5.13 
+            xmin = 5.14 
             xmax = 5.21 
             text = "AO1" 
         intervals [45]:

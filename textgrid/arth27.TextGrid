@@ -276,10 +276,10 @@ item []:
             text = "IY0" 
         intervals [47]:
             xmin = 2.98 
-            xmax = 3.09 
+            xmax = 3.08 
             text = "AA2" 
         intervals [48]:
-            xmin = 3.09 
+            xmin = 3.08 
             xmax = 3.25 
             text = "K" 
         intervals [49]:

@@ -320,10 +320,10 @@ item []:
             text = "EH1" 
         intervals [41]:
             xmin = 3.79 
-            xmax = 3.84 
+            xmax = 3.83 
             text = "L" 
         intervals [42]:
-            xmin = 3.84 
+            xmin = 3.83 
             xmax = 3.92 
             text = "P" 
         intervals [43]:

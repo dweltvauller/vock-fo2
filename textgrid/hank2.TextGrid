@@ -98,10 +98,10 @@ item []:
             text = "" 
         intervals [22]:
             xmin = 6.12 
-            xmax = 6.45 
+            xmax = 6.43 
             text = "most" 
         intervals [23]:
-            xmin = 6.45 
+            xmin = 6.43 
             xmax = 6.85 
             text = "smoothies" 
         intervals [24]:
@@ -348,10 +348,10 @@ item []:
             text = "K" 
         intervals [55]:
             xmin = 5.41 
-            xmax = 5.58 
+            xmax = 5.59 
             text = "AO1" 
         intervals [56]:
-            xmin = 5.58 
+            xmin = 5.59 
             xmax = 5.76 
             text = "R" 
         intervals [57]:
@@ -372,10 +372,10 @@ item []:
             text = "S" 
         intervals [61]:
             xmin = 6.4 
-            xmax = 6.45 
+            xmax = 6.43 
             text = "T" 
         intervals [62]:
-            xmin = 6.45 
+            xmin = 6.43 
             xmax = 6.53 
             text = "S" 
         intervals [63]:
@@ -436,10 +436,10 @@ item []:
             text = "ER0" 
         intervals [77]:
             xmin = 7.42 
-            xmax = 7.45 
+            xmax = 7.49 
             text = "DH" 
         intervals [78]:
-            xmin = 7.45 
+            xmin = 7.49 
             xmax = 7.69 
             text = "AE1" 
         intervals [79]:

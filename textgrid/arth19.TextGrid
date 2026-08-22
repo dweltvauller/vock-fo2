@@ -68,10 +68,10 @@ item []:
             text = "AE1" 
         intervals [4]:
             xmin = 0.3 
-            xmax = 0.38 
+            xmax = 0.39 
             text = "T" 
         intervals [5]:
-            xmin = 0.38 
+            xmin = 0.39 
             xmax = 0.46 
             text = "S" 
         intervals [6]:

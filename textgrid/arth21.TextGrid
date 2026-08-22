@@ -14,10 +14,10 @@ item []:
         intervals: size = 3 
         intervals [1]:
             xmin = 0.0 
-            xmax = 0.19 
+            xmax = 0.2 
             text = "" 
         intervals [2]:
-            xmin = 0.19 
+            xmin = 0.2 
             xmax = 1.44 
             text = "hello" 
         intervals [3]:
@@ -32,14 +32,14 @@ item []:
         intervals: size = 6 
         intervals [1]:
             xmin = 0.0 
-            xmax = 0.19 
+            xmax = 0.2 
             text = "" 
         intervals [2]:
-            xmin = 0.19 
-            xmax = 0.22 
+            xmin = 0.2 
+            xmax = 0.23 
             text = "HH" 
         intervals [3]:
-            xmin = 0.22 
+            xmin = 0.23 
             xmax = 0.34 
             text = "EH0" 
         intervals [4]:

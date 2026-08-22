@@ -14,10 +14,10 @@ item []:
         intervals: size = 40 
         intervals [1]:
             xmin = 0.0 
-            xmax = 0.15 
+            xmax = 0.14 
             text = "" 
         intervals [2]:
-            xmin = 0.15 
+            xmin = 0.14 
             xmax = 0.6 
             text = "festus" 
         intervals [3]:
@@ -90,10 +90,10 @@ item []:
             text = "him" 
         intervals [20]:
             xmin = 4.53 
-            xmax = 4.68 
+            xmax = 4.67 
             text = "" 
         intervals [21]:
-            xmin = 4.68 
+            xmin = 4.67 
             xmax = 4.91 
             text = "he's" 
         intervals [22]:
@@ -180,10 +180,10 @@ item []:
         intervals: size = 117 
         intervals [1]:
             xmin = 0.0 
-            xmax = 0.15 
+            xmax = 0.14 
             text = "" 
         intervals [2]:
-            xmin = 0.15 
+            xmin = 0.14 
             xmax = 0.26 
             text = "F" 
         intervals [3]:
@@ -384,10 +384,10 @@ item []:
             text = "M" 
         intervals [52]:
             xmin = 4.53 
-            xmax = 4.68 
+            xmax = 4.67 
             text = "" 
         intervals [53]:
-            xmin = 4.68 
+            xmin = 4.67 
             xmax = 4.76 
             text = "HH" 
         intervals [54]:
@@ -448,10 +448,10 @@ item []:
             text = "W" 
         intervals [68]:
             xmin = 6.0 
-            xmax = 6.1 
+            xmax = 6.09 
             text = "AH1" 
         intervals [69]:
-            xmin = 6.1 
+            xmin = 6.09 
             xmax = 6.18 
             text = "N" 
         intervals [70]:
@@ -596,10 +596,10 @@ item []:
             text = "IY0" 
         intervals [105]:
             xmin = 9.95 
-            xmax = 10.03 
+            xmax = 10.04 
             text = "EY1" 
         intervals [106]:
-            xmin = 10.03 
+            xmin = 10.04 
             xmax = 10.11 
             text = "B" 
         intervals [107]:

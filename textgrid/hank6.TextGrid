@@ -34,10 +34,10 @@ item []:
             text = "got" 
         intervals [6]:
             xmin = 1.22 
-            xmax = 1.55 
+            xmax = 1.58 
             text = "there" 
         intervals [7]:
-            xmin = 1.55 
+            xmin = 1.58 
             xmax = 1.95 
             text = "" 
         intervals [8]:
@@ -128,10 +128,10 @@ item []:
             text = "EH1" 
         intervals [16]:
             xmin = 1.38 
-            xmax = 1.55 
+            xmax = 1.58 
             text = "R" 
         intervals [17]:
-            xmin = 1.55 
+            xmin = 1.58 
             xmax = 1.95 
             text = "" 
         intervals [18]:

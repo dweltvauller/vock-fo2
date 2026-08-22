@@ -74,10 +74,10 @@ item []:
             text = "reactor" 
         intervals [16]:
             xmin = 4.02 
-            xmax = 4.43 
+            xmax = 4.44 
             text = "core" 
         intervals [17]:
-            xmin = 4.43 
+            xmin = 4.44 
             xmax = 5.56 
             text = "" 
         intervals [18]:
@@ -288,14 +288,14 @@ item []:
             text = "K" 
         intervals [41]:
             xmin = 4.12 
-            xmax = 4.21 
+            xmax = 4.22 
             text = "AO1" 
         intervals [42]:
-            xmin = 4.21 
-            xmax = 4.43 
+            xmin = 4.22 
+            xmax = 4.44 
             text = "R" 
         intervals [43]:
-            xmin = 4.43 
+            xmin = 4.44 
             xmax = 5.56 
             text = "" 
         intervals [44]:

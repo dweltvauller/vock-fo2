@@ -53,3 +53,6 @@
 #VOCK Add Ons
 {300}{arth28}{That was no ordinary rat!}
 {301}{arth29}{This is exactly why we needed the Holy Hand Grenade of Antioch!}
+
+#VOCK Easter Eggs
+{302}{arth30}{This new method of science intrigues me. Tell me again how you can place a suit of power armor in the storage unit of another suit of power armor.}

@@ -62,10 +62,10 @@ item []:
             text = "of" 
         intervals [13]:
             xmin = 2.36 
-            xmax = 2.97 
+            xmax = 2.96 
             text = "antioch" 
         intervals [14]:
-            xmin = 2.97 
+            xmin = 2.96 
             xmax = 3.114603 
             text = "" 
     item [2]:
@@ -260,9 +260,9 @@ item []:
             text = "AA2" 
         intervals [47]:
             xmin = 2.68 
-            xmax = 2.97 
+            xmax = 2.96 
             text = "K" 
         intervals [48]:
-            xmin = 2.97 
+            xmin = 2.96 
             xmax = 3.114603 
             text = "" 

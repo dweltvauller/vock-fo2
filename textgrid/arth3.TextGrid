@@ -150,10 +150,10 @@ item []:
             text = "of" 
         intervals [35]:
             xmin = 9.1 
-            xmax = 9.91 
+            xmax = 9.9 
             text = "antioch" 
         intervals [36]:
-            xmin = 9.91 
+            xmin = 9.9 
             xmax = 10.093016 
             text = "" 
     item [2]:
@@ -232,10 +232,10 @@ item []:
             text = "V" 
         intervals [18]:
             xmin = 1.35 
-            xmax = 1.5 
+            xmax = 1.52 
             text = "S" 
         intervals [19]:
-            xmin = 1.5 
+            xmin = 1.52 
             xmax = 1.57 
             text = "T" 
         intervals [20]:
@@ -656,9 +656,9 @@ item []:
             text = "AA2" 
         intervals [124]:
             xmin = 9.53 
-            xmax = 9.91 
+            xmax = 9.9 
             text = "K" 
         intervals [125]:
-            xmin = 9.91 
+            xmin = 9.9 
             xmax = 10.093016 
             text = "" 

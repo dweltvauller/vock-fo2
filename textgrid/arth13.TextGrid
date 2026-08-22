@@ -30,10 +30,10 @@ item []:
             text = "to" 
         intervals [5]:
             xmin = 0.6 
-            xmax = 0.94 
+            xmax = 0.92 
             text = "talk" 
         intervals [6]:
-            xmin = 0.94 
+            xmin = 0.92 
             xmax = 1.18 
             text = "" 
         intervals [7]:
@@ -104,10 +104,10 @@ item []:
             text = "AA1" 
         intervals [11]:
             xmin = 0.77 
-            xmax = 0.94 
+            xmax = 0.92 
             text = "K" 
         intervals [12]:
-            xmin = 0.94 
+            xmin = 0.92 
             xmax = 1.18 
             text = "" 
         intervals [13]:

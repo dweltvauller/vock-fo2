@@ -18,10 +18,10 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.4 
-            xmax = 1.09 
+            xmax = 1.08 
             text = "ahem" 
         intervals [3]:
-            xmin = 1.09 
+            xmin = 1.08 
             xmax = 1.252744 
             text = "" 
     item [2]:
@@ -48,9 +48,9 @@ item []:
             text = "AH0" 
         intervals [5]:
             xmin = 0.79 
-            xmax = 1.09 
+            xmax = 1.08 
             text = "M" 
         intervals [6]:
-            xmin = 1.09 
+            xmin = 1.08 
             xmax = 1.252744 
             text = "" 

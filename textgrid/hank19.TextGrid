@@ -34,10 +34,10 @@ item []:
             text = "in" 
         intervals [6]:
             xmin = 1.13 
-            xmax = 1.58 
+            xmax = 1.56 
             text = "here" 
         intervals [7]:
-            xmin = 1.58 
+            xmin = 1.56 
             xmax = 1.750748 
             text = "" 
     item [2]:
@@ -100,9 +100,9 @@ item []:
             text = "IY1" 
         intervals [14]:
             xmin = 1.38 
-            xmax = 1.58 
+            xmax = 1.56 
             text = "R" 
         intervals [15]:
-            xmin = 1.58 
+            xmin = 1.56 
             xmax = 1.750748 
             text = "" 

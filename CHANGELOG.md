@@ -1,10 +1,11 @@
 # Changelog
 
 ## WIP
+- Vegeir (Ghost Farm)
 - Louise (Redding), Zaius (Broken Hills)
 
 ## v1.12
-- Added voices: Vegeir (Ghost Farm), Chrissy (Broken Hills), Old Joe (Vault City), Arthur Pendragon (Special Encounter)
+- Added voices: Hank (Gecko), Chrissy (Broken Hills), Old Joe (Vault City), Arthur Pendragon (Special Encounter)
 - Fixed Kaga sometimes not starting the Talking Head menu or spawning too far away for combat
 
 ## v1.11

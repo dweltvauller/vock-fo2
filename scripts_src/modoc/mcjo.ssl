@@ -31,6 +31,7 @@
 #include "../headers/modoc.h"
 #include "../headers/modmain.h"
 #include "../headers/modreact.h"
+#include "../headers/talking_heads.h"
 
 /* Standard Script Procedures */
 procedure start;

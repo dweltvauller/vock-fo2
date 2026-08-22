@@ -26,10 +26,10 @@ item []:
             text = "don't" 
         intervals [4]:
             xmin = 0.56 
-            xmax = 0.76 
+            xmax = 0.83 
             text = "you" 
         intervals [5]:
-            xmin = 0.76 
+            xmin = 0.83 
             xmax = 0.9 
             text = "" 
         intervals [6]:
@@ -82,10 +82,10 @@ item []:
             text = "pretty" 
         intervals [18]:
             xmin = 4.7 
-            xmax = 5.31 
+            xmax = 5.29 
             text = "pretty" 
         intervals [19]:
-            xmin = 5.31 
+            xmin = 5.29 
             xmax = 5.41 
             text = "" 
         intervals [20]:
@@ -156,10 +156,10 @@ item []:
             text = "Y" 
         intervals [10]:
             xmin = 0.66 
-            xmax = 0.76 
+            xmax = 0.83 
             text = "UW1" 
         intervals [11]:
-            xmin = 0.76 
+            xmin = 0.83 
             xmax = 0.9 
             text = "" 
         intervals [12]:
@@ -328,10 +328,10 @@ item []:
             text = "T" 
         intervals [53]:
             xmin = 5.05 
-            xmax = 5.31 
+            xmax = 5.29 
             text = "IY0" 
         intervals [54]:
-            xmin = 5.31 
+            xmin = 5.29 
             xmax = 5.41 
             text = "" 
         intervals [55]:

@@ -86,10 +86,10 @@ item []:
             text = "where" 
         intervals [19]:
             xmin = 4.48 
-            xmax = 4.54 
+            xmax = 4.55 
             text = "" 
         intervals [20]:
-            xmin = 4.54 
+            xmin = 4.55 
             xmax = 4.73 
             text = "we'll" 
         intervals [21]:
@@ -150,10 +150,10 @@ item []:
             text = "were" 
         intervals [35]:
             xmin = 8.2 
-            xmax = 8.63 
+            xmax = 8.65 
             text = "doing" 
         intervals [36]:
-            xmin = 8.63 
+            xmin = 8.65 
             xmax = 8.891202 
             text = "" 
     item [2]:
@@ -348,10 +348,10 @@ item []:
             text = "R" 
         intervals [47]:
             xmin = 4.48 
-            xmax = 4.54 
+            xmax = 4.55 
             text = "" 
         intervals [48]:
-            xmin = 4.54 
+            xmin = 4.55 
             xmax = 4.61 
             text = "W" 
         intervals [49]:
@@ -516,9 +516,9 @@ item []:
             text = "IH0" 
         intervals [89]:
             xmin = 8.37 
-            xmax = 8.63 
+            xmax = 8.65 
             text = "NG" 
         intervals [90]:
-            xmin = 8.63 
+            xmin = 8.65 
             xmax = 8.891202 
             text = "" 

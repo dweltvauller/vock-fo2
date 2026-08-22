@@ -34,10 +34,10 @@ item []:
             text = "that" 
         intervals [6]:
             xmin = 1.09 
-            xmax = 1.13 
+            xmax = 1.12 
             text = "i" 
         intervals [7]:
-            xmin = 1.13 
+            xmin = 1.12 
             xmax = 1.26 
             text = "am" 
         intervals [8]:
@@ -108,14 +108,14 @@ item []:
             text = "T" 
         intervals [13]:
             xmin = 1.09 
-            xmax = 1.13 
+            xmax = 1.12 
             text = "AY1" 
         intervals [14]:
-            xmin = 1.13 
-            xmax = 1.16 
+            xmin = 1.12 
+            xmax = 1.15 
             text = "AE1" 
         intervals [15]:
-            xmin = 1.16 
+            xmin = 1.15 
             xmax = 1.26 
             text = "M" 
         intervals [16]:

@@ -62,10 +62,10 @@ item []:
             text = "right" 
         intervals [13]:
             xmin = 2.74 
-            xmax = 2.84 
+            xmax = 2.85 
             text = "to" 
         intervals [14]:
-            xmin = 2.84 
+            xmin = 2.85 
             xmax = 2.97 
             text = "end" 
         intervals [15]:
@@ -184,14 +184,14 @@ item []:
             text = "UH1" 
         intervals [10]:
             xmin = 0.99 
-            xmax = 1.07 
+            xmax = 1.06 
             text = "D" 
         intervals [11]:
-            xmin = 1.07 
-            xmax = 1.11 
+            xmin = 1.06 
+            xmax = 1.12 
             text = "AH0" 
         intervals [12]:
-            xmin = 1.11 
+            xmin = 1.12 
             xmax = 1.18 
             text = "N" 
         intervals [13]:
@@ -272,10 +272,10 @@ item []:
             text = "T" 
         intervals [32]:
             xmin = 2.78 
-            xmax = 2.84 
+            xmax = 2.85 
             text = "IH0" 
         intervals [33]:
-            xmin = 2.84 
+            xmin = 2.85 
             xmax = 2.88 
             text = "EH1" 
         intervals [34]:
