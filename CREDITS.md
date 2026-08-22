@@ -27,6 +27,7 @@
 | [Lydia](https://fallout.fandom.com/wiki/Lydia_(Fallout_2)) | Vault City | Juliet Blank | [AllMyLinks](https://allmylinks.com/julietblank) |
 | [Chrissy](https://fallout.fandom.com/wiki/Chrissy) | Broken Hills | Megan Rowe | [Carrd](https://meganrowevo.carrd.co) · [X](https://x.com/meganrowevo) |
 | [Arthur Pendragon](https://fallout.fandom.com/wiki/Arthur_Pendragon) | Special Encounter | Tsovir | [Casting Call Club](https://www.castingcall.club/m/tsovir) |
+| [Hank](https://fallout.fandom.com/wiki/Hank_(Fallout_2)) | Gecko | PaleFreak | [X](https://x.com/PaleFreakVA) · [Newgrounds](https://palefreak.newgrounds.com) |
 
 ## AI-Voiced Characters (To Be Replaced by Real Actors)
 
