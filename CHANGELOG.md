@@ -1,7 +1,7 @@
 # Changelog
 
 ## WIP
-- Louise (Redding), Zaius (Broken Hills)
+- Louise (Redding), Zaius (Broken Hills), Ann (Vault City)
 
 ## v1.12
 - Added voices: Hank (Gecko), Chrissy (Broken Hills), Old Joe (Vault City), Arthur Pendragon (Special Encounter), Vegeir (Ghost Farm)
