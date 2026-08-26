@@ -29,6 +29,7 @@
 | [Arthur Pendragon](https://fallout.fandom.com/wiki/Arthur_Pendragon) | Special Encounter | Tsovir | [Casting Call Club](https://www.castingcall.club/m/tsovir) |
 | [Hank](https://fallout.fandom.com/wiki/Hank_(Fallout_2)) | Gecko | PaleFreak | [X](https://x.com/PaleFreakVA) · [Newgrounds](https://palefreak.newgrounds.com) |
 | [Ann](https://f2rp.bgforge.net/vault-village/) | Vault City | Jessica Baxter | [X](https://x.com/jessicabaxtervo) · [Instagram](https://www.instagram.com/jessicabaxter_vo) · [TikTok](https://www.tiktok.com/@jessicabaxter_vo) |
+| [Tubby](https://fallout.fandom.com/wiki/Tubby) | The Den | Dmitry Medvedenko | [SoundCloud](https://m.soundcloud.com/dmitry-medvedenko) · [Instagram](https://www.instagram.com/dmitryvoiceover) |
 
 ## AI-Voiced Characters (To Be Replaced by Real Actors)
 
