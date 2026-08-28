@@ -35,7 +35,7 @@
 
 {160}{buck8}{You had your chance, pal.}
 {161}{buck9}{I don't think there's any work for you here.}
-{162}{buck10}{Well, there is one thing that we could use some help with. (Heh, heh, heh)}
+{162}{buck10}{Well, there is one thing we could use some help with. Heh, heh, heh.}
 {163}{}{What's that Chuck?}
 {164}{}{What's that Buck?}
 {165}{}{Uh, what's that?}
@@ -62,8 +62,8 @@
 
 {198}{buck15}{OK, here's the deal. We need some help in, uh, liberating some brahmin from that idiot Torr. You shouldn't have trouble with that. Just talk him out of them. What do you say?}
 {199}{}{Now I remember. Thanks. }
-{200}{buck79}{Meet us at the brahmin grazing area, just to the east of town, at 6:00 PM tonight.}
-{201}{buck80}{Meet us at the brahmin grazing area, just to the east of town, at 6:00 PM tomorrow night.}
+{200}{buck79}{Meet us at the brahmin grazing area, just to the east of town, at 6 o'clock tonight.}
+{201}{buck80}{Meet us at the brahmin grazing area, just to the east of town, at 6 o'clock tomorrow night.}
 {202}{}{OK, I'll take care of Torr. }
 {203}{}{OK, I'll find Torr at the grazing area and take care of him for you. }
 {204}{}{I don't think I want to do that after all.}
@@ -105,7 +105,7 @@
 
 {259}{buck30}{Well, if it isn't our burly-armed chum.}
 {260}{buck31}{Hey there. How's your arm coming? Ready to go again?}
-{261}{buck32}{Hey there, you little squirt. What are you doing in our bar? You have to prove yourself to the Duntons by arm-wrestling me before we'll let you stay. (ha ha ha)}
+{261}{buck32}{Hey there, you little squirt. What are you doing in our bar? You have to prove yourself to the Duntons by arm-wrestling to me before we'll let you stay. Ha ha ha!}
 {262}{buck33}{You don't look so darn tough. Why don't you arm-wrestle me, Chuck Dunton, for the right to drink in our bar?}
 {263}{buck34}{You don't look so darn tough. Why don't you arm-wrestle me, Buck Dunton, for the right to drink in our bar?}
 {264}{buck35}{Hey there, goody-two-shoes. You've gotta earn your admittance to our bar. You've gotta arm-wrestle me, Chuck Dunton.}
@@ -125,7 +125,7 @@
 {283}{}{I don't really need your beer, thanks. Let me ask you something, though.}
 {284}{}{I don't think I want your beer. Goodbye.}
 
-{290}{buck40}{You're lucky I didn't snap your little arm like a dried twig. (Hyuk, hyk, hyuk) Well, I guess there's still no challenge here in town.}
+{290}{buck40}{You're lucky I didn't snap your little arm like a dried twig. (Hyuk, hyuk, hyuk.) Well, I guess there's still no challenge here in town.}
 {291}{buck41}{Haven't you had enough abuse for one evening?}
 {292}{}{I want to take you on again. I'll show you this time.}
 {293}{}{Ouch. okay, okay, I've had enough. Hey, let me ask you something.}
@@ -137,11 +137,11 @@
 {303}{}{It wouldn't even be a contest. I'd win. Goodbye.}
 {304}{}{You look too wimpy. I only arm-wrestle real men. Take off, you hoser.}
 
-{310}{buck43}{You're looking for a what? Close as I ever get to the Garden of Eden is in lovely Jenny's arms over at Ma's bathhouse. (hyuk, hyuk, hyuk)}
+{310}{buck43}{You're looking for a what? Close as I ever get to the Garden of Eden is in lovely Jenny's arms over at Ma's bathhouse. (Hyuk, hyuk, hyuk.)}
 {311}{}{Uh, thanks. Let me ask you something else, then.}
 {312}{}{I guess that's all I need to know for now. Goodbye.}
 
-{320}{buck44}{Well, I hear that they're some (hyuk, hyuk) bug-men cutting up brahmin out east of us. But I wouldn't believe everything you hear. (hyuk, hyuk, hyuk).}
+{320}{buck44}{Well, I hear that they're some (hyuk, hyuk) bug-men cutting up brahmin out east of us. But I wouldn't believe everything you hear. (Hyuk, hyuk, hyuk).}
 {321}{}{Oh, I see; thanks. There's something else I wanted to know about.}
 {322}{}{I guess that's all I need to know for now. Goodbye.}
 
@@ -160,11 +160,11 @@
 
 {350}{buck48}{Well, our drymeat is an incredible blend of eleven herbs and spices. Let me tell you, it's finger-lickin' good. Animals love it, too. They'll chase you from all over to get some. Must be that rotting smell.}
 {351}{buck49}{There's nothing else like it. Anywhere. It's you-neek. And most people are happy it's like that.}
-{352}{buck50}{It's PEOPLE! Hyuk, hyuk, hyuk, just wanted to see your face when I said that. Heck, it's only part people. Hyuk, hyuk.}
+{352}{buck50}{It's PEOPLE! (Hyuk, hyuk, hyuk.) Just wanted to see your face when I said that. Heck, it's only part people. (Hyuk, hyuk.)}
 {353}{buck51}{It's not like anything that most people would eat. It's different. Not better, just different.}
 {354}{buck52}{No cruelty to animals involved here. This is all found meat. Sometimes it takes us a while to find it, but usually we can home in on the stink.}
 {355}{buck53}{After a long day in the brahmin pen, we get some choice boot scrapings to flavor it with.}
-{356}{buck54}{Well, we've found that a sauce made by us personally, if ya' know what I mean, gives it that down-home taste. }
+{356}{buck54}{Well, we've found that a sauce made by us personally, if ya' know what I mean, gives it that down-home taste.}
 {357}{buck55}{It's made from beef aged over six months and tenderized by the choicest horsefly maggots.}
 {358}{}{Incredible. It sounds as though you actually eat your own drymeat. Uh, what I mean to say is, who wouldn't? Yum-yum.}
 {359}{}{Really? That's fascinating. Tell me more.}
@@ -222,7 +222,7 @@
 {460}{buck69}{Ooogly ann? Huh? You're just as dumb as that idiot Torr. That's good, we need a new fricking village idiot in town. We've just about used that Torr up.}
 {461}{}{Torr up?}
 
-{470}{buck70}{Chosen one, huh? Chosen most likely to be punched in the mouth. Did your momma drop you on the head, or did you just come out that dumb and ugly? Get the hell away from me.}
+{470}{buck70}{Chosen one, huh? Chosen more likely to be punched in the mouth. Did your momma drop you on the head, or did you just come out that dumb and ugly? Get the hell away from me.}
 {471}{}{Ook! }
 {472}{}{ Chosen one!}
 
@@ -247,9 +247,9 @@
 {700}{}{You have rustled the brahmin successfully.}
 
 {702}{}{No, I'll tell you what you have these for. You dress up as "Bug Men" and scare poor old Torr out of his Brahmin, don't you -- don't you?! It all makes sense now. You're just a couple of no good ruffians.}
-{703}{buck72}{[The Dunton brothers' eyes get really wide and the two men begin to fidget uncomfortably.] Yy..yyy... yeah so... what's it to you, tribal? Everyone needs a little extra cash now and then. What's it to you anyway? What are you gonna do about it, huh?}
+{703}{buck72}{[The Dunton brothers' eyes get really wide and the two men begin to fidget uncomfortably.] Y-y... y-y... yeah so... what's it to you, tribal? Everyone needs a little extra cash now and then. What's it to you anyway? What are you gonna do about it, huh?}
 {704}{}{I'll tell you what. If you stop stealing brahmin and bothering Torr, then I won't turn you in. All I need is your word, since if it happens again, there won't be any of you left to steal another brahmin. Got it?!}
-{705}{buck73}{[hyuk, hyuk, hyuk] Yeah right, tribal. I think it's about time we teach you what happens to nosy tribals 'round here.}
+{705}{buck73}{(Hyuk, hyuk, hyuk.) Yeah right, tribal. I think it's about time we teach you what happens to nosy tribals 'round here.}
 {706}{buck74}{Alright Tribal, you win this time. We'll stop, now just leave us alone.}
 {707}{}{You scare the Dunton brothers into never bothering Torr again.}
 {708}{}{[DONE]}
