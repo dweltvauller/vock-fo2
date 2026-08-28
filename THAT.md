@@ -14,7 +14,7 @@ Pulled from public Casting Call Club project listings: [Part 1](https://www.cast
 | [Typhon](https://fallout.fandom.com/wiki/Typhon) | Broken Hills | | |
 | [Dex (Companion)](https://f2rp.bgforge.net/epa/) | EPA | | |
 | [Sergeant Cat Jules (Companion)](https://f2rp.bgforge.net/epa/) | EPA | | |
-| [Brain (Mole Rat)](https://fallout.fandom.com/wiki/Brain_(mole_rat)) | Gecko | | |
+| [Brain (Mole Rat)](https://fallout.fandom.com/wiki/Brain_(mole_rat)) | Gecko | Aaren Kelley | **[YouTube Channel](https://www.youtube.com/@shesafuzy)** |
 | [Festus](https://fallout.fandom.com/wiki/Festus_(Fallout_2)) | Gecko | | |
 | [Gordon](https://fallout.fandom.com/wiki/Gordon_(Gecko)) | Gecko | Jerkytown | [CCC Profile](https://www.castingcall.club/m/jerkytown) · [Role page](https://www.castingcall.club/projects/fallout-2-talking-heads-project#jumptorole978127) |
 | [Wooz](https://fallout.fandom.com/wiki/Wooz) | Gecko | | |
@@ -51,7 +51,7 @@ Pulled from public Casting Call Club project listings: [Part 1](https://www.cast
 | [Skynet (Companion)](https://fallout.fandom.com/wiki/Skynet) | Sierra Army Depot | | |
 | [Joey](https://fallout.fandom.com/wiki/Joey) | The Den | | |
 | [Mom](https://fallout.fandom.com/wiki/Mom_(Fallout_2)) | The Den | coolartist1110 | [CCC Profile](https://www.castingcall.club/m/coolartist1110) · [Role page](https://www.castingcall.club/projects/fallout-2-talking-heads-project#jumptorole962495) |
-| [Smitty](https://fallout.fandom.com/wiki/Smitty_(Den)) | The Den | | |
+| [Smitty](https://fallout.fandom.com/wiki/Smitty_(Den)) | The Den | Aaren Kelley | **[YouTube Channel](https://www.youtube.com/@shesafuzy)** |
 | [Tyler](https://fallout.fandom.com/wiki/Tyler_(Fallout_2)) | The Den | | |
 | [Shaman](https://f2rp.bgforge.net/umbra-tribe/) | Umbra Tribe | wykton | [CCC Profile](https://www.castingcall.club/m/wykton) · [Role page](https://www.castingcall.club/projects/fallout-2-talking-heads-project#jumptorole1054730) |
 | [Dalia](https://fallout.fandom.com/wiki/Dalia) | Vault 13/15 | | |
