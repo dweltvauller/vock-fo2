@@ -30,9 +30,9 @@ Pulled from public Casting Call Club project listings: [Part 1](https://www.cast
 | [Mira](https://fallout.fandom.com/wiki/Mira) | NCR | | |
 | [Roger Westin](https://fallout.fandom.com/wiki/Roger_Westin) | NCR | Dark Lore Dash | [CCC Profile](https://www.castingcall.club/m/dashington) · [Role page](https://www.castingcall.club/projects/fallout-2-talking-heads-project#jumptorole962489) |
 | [Angela Bishop](https://fallout.fandom.com/wiki/Angela_Bishop) | New Reno | coolartist1110 | [CCC Profile](https://www.castingcall.club/m/coolartist1110) · [Role page](https://www.castingcall.club/projects/fallout-2-talking-heads-project#jumptorole955628) |
-| [Father Tully](https://fallout.fandom.com/wiki/Tully) | New Reno | *(cast, unnamed)* | Closed on CCC as "cast offsite" — no username published |
+| [Father Tully](https://fallout.fandom.com/wiki/Tully) | New Reno |  |  |
 | [Miss Kitty](https://fallout.fandom.com/wiki/Miss_Kitty) | New Reno | Katie | [CCC Profile](https://www.castingcall.club/m/kati3_dear) · [Role page](https://www.castingcall.club/projects/fallout-2-talking-heads-project#jumptorole978143) |
-| [Lil' Jesus Mordino](https://fallout.fandom.com/wiki/Lil'_Jesus_Mordino) | New Reno | *(cast, unnamed)* | Closed on CCC as "cast offsite" — no username published |
+| [Lil' Jesus Mordino](https://fallout.fandom.com/wiki/Lil'_Jesus_Mordino) | New Reno |  |  |
 | [Mason](https://fallout.fandom.com/wiki/Mason_(Fallout_2)) | New Reno | Krimson Graey | [CCC Profile](https://www.castingcall.club/m/kamelot777) · [Role page](https://www.castingcall.club/projects/fallout-2-talking-heads-project#jumptorole1052555) · [Portfolio](https://krimsongraey.carrd.co/) · **[Listen — YouTube](https://www.youtube.com/watch?v=p-T_r2VoC_Q)** |
 | [Darlin' Nikki](https://fallout.fandom.com/wiki/Darlin'_Nikki) | New Reno | | |
 | [Renesco](https://fallout.fandom.com/wiki/Renesco) | New Reno | Krimson Graey | [CCC Profile](https://www.castingcall.club/m/kamelot777) · [Role page](https://www.castingcall.club/projects/fallout-2-talking-heads-project#jumptorole1052553) · [Portfolio](https://krimsongraey.carrd.co/) · **[Listen — YouTube](https://www.youtube.com/watch?v=p-T_r2VoC_Q)** |

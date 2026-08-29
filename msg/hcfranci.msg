@@ -107,24 +107,24 @@
 {410}{franc42}{Ow! My arm!}
 {411}{franc43}{Ha ha! Gotcha!}
 
-{500}{phil1}{Over the top, Francis! Over the top!}
-{501}{phil2}{Man, that's what I call an ARMs race! Hahahah!}
-{502}{phil3}{Geez, you guys should join the ARMy. Har Har Har!}
-{503}{phil4}{I gotta HAND it to you, friend. You're WRISTing your life trying to beat Francis!}
-{504}{phil5}{Ouch! Right in the metacarpals!}
-{505}{phil6}{Hey, Francis! You should TRICEP-arating the arm from the shoulder.}
-{506}{phil7}{This fight sure is HUMERUS! Guffaw Guffaw!}
-{507}{phil8}{Use your clavicle, Francis! Use your clavicle!}
-{508}{phil9}{Uh oh... I'd better get out of 'ARM's way! Ha ha ha!}
-{509}{phil10}{Look at them biceps go!}
-{510}{phil11}{I think I hear a tendon getting ready to pop...}
-{511}{phil12}{You know, a simple calculation of mass ratio would seem to favor Francis.}
-{512}{phil13}{Francis! Fran-CIS! FRAN-CIS!}
-{513}{phil14}{Lick 'em, Francis! No, not with your tongue!}
+{500}{}{Over the top, Francis! Over the top!}
+{501}{}{Man, that's what I call an ARMs race! Hahahah!}
+{502}{}{Geez, you guys should join the ARMy. Har Har Har!}
+{503}{}{I gotta HAND it to you, friend. You're WRISTing your life trying to beat Francis!}
+{504}{}{Ouch! Right in the metacarpals!}
+{505}{}{Hey, Francis! You should TRICEP-arating the arm from the shoulder.}
+{506}{}{This fight sure is HUMERUS! Guffaw Guffaw!}
+{507}{}{Use your clavicle, Francis! Use your clavicle!}
+{508}{}{Uh oh... I'd better get out of 'ARM's way! Ha ha ha!}
+{509}{}{Look at them biceps go!}
+{510}{}{I think I hear a tendon getting ready to pop...}
+{511}{}{You know, a simple calculation of mass ratio would seem to favor Francis.}
+{512}{}{Francis! Fran-CIS! FRAN-CIS!}
+{513}{}{Lick 'em, Francis! No, not with your tongue!}
 
-{530}{phil15}{All right Francis! You sure SHOULD-ER!}
-{531}{phil16}{Way to go Francis!}
-{532}{phil17}{Whoa! I've never seen that happen before!}
+{530}{}{All right Francis! You sure SHOULD-ER!}
+{531}{}{Way to go Francis!}
+{532}{}{Whoa! I've never seen that happen before!}
 
 {599}{}{I found a note in the tunnels with the names Francis and Zaius on it. Looks like you've been committing some crimes.}
 {600}{franc28}{Damn it. Zaius left notes lying out again, eh? Well, human, let me tell you this: I knew there are people trying to kill mutants in this town, and I knew that Marcus would only arrest them with evidence. I just wanted to make it happen with as little bloodshed as possible.}
