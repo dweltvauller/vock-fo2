@@ -4,7 +4,7 @@
 - Louise (Redding), Zaius (Broken Hills)
 
 ## v1.13
-- Added voices: Ann (Vault City), Tubby (The Den)
+- Added voices: Ann (Vault City), Tubby (The Den), Chuck & Buck Dunton (Klamath), Vortis (NCR)
 
 ## v1.12
 - Added voices: Hank (Gecko), Chrissy (Broken Hills), Old Joe (Vault City), Arthur Pendragon (Special Encounter), Vegeir (Ghost Farm)

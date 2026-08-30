@@ -45,12 +45,12 @@
 {144}{vort15}{No, you may not go nosing around, shit-for-brains! This ain't a museum!}
 {145}{}{Another question...}
 {146}{}{You're too touchy for me. I'm leaving.}
-{147}{vort16}{Well then, you should know some folks see them as a potential problem. It would be extremely useful if we had a map of their safe houses through the north - New Reno, Klamath, wherever. I'd be willing to pay, oh say, $500 for something like that. You think you could get that for me?}
+{147}{vort16}{Well then, you should know some folks see them as a potential problem. It would be extremely useful if we had a map of their safe houses through the north - New Reno, Klamath, wherever. I'd be willing to pay, oh say, $500 for something like that. You think you can get that for me?}
 {148}{}{Sure.}
 {149}{}{I don't think so.}
 {150}{vort17}{Let me tell you, then. These Rangers have got it in their heads to wipe out slavery and slavers - by force. They've been creating a lot of trouble for hard working folks.}
 {151}{vort18}{They work in secret, especially up north.}
-{152}{vort19}{Jeez, I got to spell this out for you? They raid slavers, drive off the stock, and smuggle 'em down south to NCR lands where slavery's illegal. So you interested?}
+{152}{vort19}{Jeez, I got to spell this out for you? They raid slavers, drive off the stock, and smuggle 'em down south to NCR lands where slavery's illegal. So, you interested?}
 {153}{vort20}{There is no "and"! You want the job or not?}
 {154}{}{And?}
 {155}{}{So what you want me to do?}
@@ -58,7 +58,7 @@
 {157}{}{Where am I going to find a map?}
 {158}{}{Okay, I got some other questions, though.}
 {159}{}{I'm on it. I'll see you then.}
-{160}{vort22}{How the hell should I know!? If I knew, I'd have it, wouldn't I? Look, there's supposed to be a cell in town. Find them and see what you can do.}
+{160}{vort22}{Ugh, how the hell should I know!? If I knew, I'd have it, wouldn't I? Look, there's supposed to be a cell in town. Find them and see what you can do.}
 {161}{}{Just a few more questions.}
 {162}{}{Alright. I'll be back.}
 {163}{vort23}{You're back again. Did you get that map?}
@@ -69,7 +69,7 @@
 {168}{vort25}{Not since you did your job. Thanks.}
 {169}{}{Just a question or two.}
 {170}{}{No problem. Bye.}
-{171}{vort26}{Good work. Now you best make yourself scarce, in case those Rangers ever wise up.}
+{171}{vort26}{Good work. Now - you best make yourself scarce, in case those Rangers ever wise up.}
 {172}{}{Pleasure doing business.}
 {173}{vort27}{Well don't hang around here, you moron! Somebody'll get suspicious.}
 {174}{}{All right, I get the hint.}
@@ -80,12 +80,11 @@
 {177}{vort44}{It's late and we're closed. Come back in the morning.}
 
 #added by killap - expansion
-{200}{vort28}{Good work. One more thing though. You're a slaver, right? How 'bout you lend a hand and wipe out those safe houses for me. I could
- pay you for the job - say $1000.}
-{201}{vort29}{Good work. One more thing though. You look like a mean sonuvabith. How 'bout you wipe out those safe houses for me. There's a reward for it - say $1000.}
+{200}{vort28}{Good work. One more thing though. You're a slaver, right? How 'bout you lend a hand, wipe out those safe houses for me. I could pay you for the job - say $1000.}
+{201}{vort29}{Good work. One more thing though. You look like a mean sonuvabitch. How 'bout you wipe out those safe houses for me. There's a reward for it - say $1000.}
 {202}{}{Sure.}
 {203}{}{Not interested.}
-{204}{vort30}{Excellent. Here, let me mark these coordinates on your map thingy. Report back when you're done.}
+{204}{vort30}{He he... Excellent. Here, let me mark these coordinates on your map thingy. Report back when you're done.}
 {205}{vort31}{Your loss. Now you best make yourself scarce, in case those Rangers ever wise up.}
 {206}{}{Alright. Bye.}
 {207}{}{Actually, do you think you could send some of your men along with me? It'd make things go a hell of a lot faster, and further guarantee success.}
@@ -118,14 +117,14 @@
 
 {241}{}{I'm looking to buy some slaves.}
 
-{250}{vort37}{Well that's fuckin nice. We don't sell here. Metzger up north in the Den can help you with that.}
+{250}{vort37}{Well that's fuckin' nice. We don't sell here. Metzger up north in the Den can help you with that.}
 {251}{}{I've been there and his stock wasn't up to my standards.}
 {252}{}{Seeing how I killed Metzger, I don't know how that's going to be useful to me. I think I'll kill you instead.}
 
 {260}{vort38}{Well aren't you a picky fuck. You do realize that his stock isn't limited to just the Den, right? He's got his own holding pen where slaves are dropped off.}
 {261}{}{Interesting. How would I get to this other location?}
 
-{270}{vort39}{What, do you think you can get whatever the fuck you want for free? $1000. Take it or leave it.}
+{270}{vort39}{What? Do you think you can get whatever the fuck you want for free? $1000. Take it or leave it.}
 {271}{vort40}{What, do you think you can get whatever the fuck you want for free? Plus, you ooze virtuousness. I don't like that. $2000. Take it or leave it.}
 {272}{}{Alright, here.}
 {273}{}{Nevermind.}
