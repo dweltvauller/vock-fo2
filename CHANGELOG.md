@@ -1,7 +1,7 @@
 # Changelog
 
 ## WIP
-- Louise (Redding), Zaius (Broken Hills), Painless Doc Johnson (Redding)
+- Louise (Redding), Zaius (Broken Hills), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno)
 
 ## v1.13
 - Added voices: Ann (Vault City), Tubby (The Den), Chuck & Buck Dunton (Klamath), Vortis (NCR)

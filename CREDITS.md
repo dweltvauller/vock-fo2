@@ -31,6 +31,7 @@
 | [Ann](https://f2rp.bgforge.net/vault-village/) | Vault City | Jessica Baxter | [X](https://x.com/jessicabaxtervo) · [Instagram](https://www.instagram.com/jessicabaxter_vo) · [TikTok](https://www.tiktok.com/@jessicabaxter_vo) |
 | [Tubby](https://fallout.fandom.com/wiki/Tubby) | The Den | Dmitry Medvedenko | [SoundCloud](https://m.soundcloud.com/dmitry-medvedenko) · [Instagram](https://www.instagram.com/dmitryvoiceover) |
 | [Painless Doc Johnson](https://fallout.fandom.com/wiki/Johnson_(Fallout_2)) | Redding | Mike Harrison-Wood | - |
+| [Doctor Andrew](https://fallout.fandom.com/wiki/Andrew_(Fallout_2)) | Vault City | Charles W. Morton | - |
 
 ## AI-Voiced Characters (To Be Replaced by Real Actors)
 
