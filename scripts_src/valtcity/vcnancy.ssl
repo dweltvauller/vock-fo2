@@ -36,6 +36,7 @@
 
 #include "../headers/command.h"
 #include "../headers/modreact.h"
+#include "../headers/talking_heads.h"
 
 #define daytime         ( ( game_time_hour <= 1800 ) and ( game_time_hour >= 700 ) )
 
