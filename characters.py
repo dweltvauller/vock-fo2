@@ -42,7 +42,7 @@ CHARACTERS = [
     ("dcfranki",   "Frankie",                    "frank",   ['dcfranki'],              ['frank']),
     ("dcjoey",     "Joey",                       "joeyd",   ['dcjoey'],                ['joeyd']),
     ("dclara",     "Lara",                       "larad",   ['dclara'],                ['larad']),
-    ("dcmetzge",   "Metzger",                    "metzg",   ['dcmetzge', 'dcslvgrt'],  ['metzg']),
+    ("dcmetzge",   "Metzger",                    "metzg",   ['dcmetzge'],             ['metzg']),
     ("dcmom",      "Mom",                        "mom",     ['dcmom'],                 ['mom']),
     ("dcrebecc",   "Rebecca Dyer",               "rbcca",   ['dcrebecc'],              ['rbcca']),
     ("dcsheila",   "Sheila",                     "shela",   ['dcsheila'],              ['shela']),
