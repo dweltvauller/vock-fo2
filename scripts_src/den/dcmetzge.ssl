@@ -18,8 +18,8 @@
            instead, so dude_name is replaced with mstr(1552) ("slaver", see dcmetzge.msg VOCK Add
            Ons). The tagged/voiced mstr(540)/mstr(543) calls and the slaving_money interpolation are
            unchanged -- this only fixes the displayed name text, not audio routing.
-           (VOCK) Node043's BOption(601,...) IQ gate changed from BEL's 4 to 1, matching live
-           RPU/THAT-RPU behavior (Fede's call, 2026-07-31) -- BEL was the outlier here.
+           (VOCK) Node043's BOption(601,...) IQ gate changed from TH mod 4 to 1, matching live
+           RPU behavior.
 */
 
 /* Include Files */

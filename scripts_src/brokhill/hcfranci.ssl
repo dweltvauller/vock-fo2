@@ -17,11 +17,8 @@
            (VOCK) timed_event_p_proc's float_dude() calls now read msgs 1400-1411 instead of
            reusing Francis's own tagged 400-411 range. message_str() (mstr()) resolves purely on
            (msg file, line id) regardless of which object the float is displayed over, so float_dude
-           re-using a tagged franci* id would have played Francis's VA audio on top of the PC's float
-           if this scene's float-voicing gate is ever fixed (these are timed_event_p_proc floats, so
-           they're not gdialog-active and don't currently voice at all -- see
-           vock_float_msg_mechanics). 1400-1411 are untagged text-identical duplicates (see
-           hcfranci.msg VOCK Add Ons) -- the PC is never voiced.
+           re-using a tagged franci* id would have played Francis's VA audio on top of the PC's float. 1400-1411 are untagged text-identical duplicates (see
+           hcfranci.msg VOCK Add Ons).
 */
 
 /* Include Files */

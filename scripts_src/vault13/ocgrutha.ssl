@@ -15,10 +15,9 @@
            Created: April 09 1998
 
            Updated:
-           VOCK: forked from Black_Electric_LIP (TH baseline). Two changes vs BEL:
+           VOCK:
              1. GRUTHAR_NO_LIKE_YOU uses perceived_rep_negative, not self_rep_negative —
-                carried forward from RPU (the winning compiled layer, THAT-RPU, includes
-                this diff on top of TH's portrait/background baseline).
+                carried forward from RPU.
              2. Node015/Node016/Node017: Reply(USEDUDENAME(x, x1)) concatenated mstr(x) +
                 dude_name + mstr(x1) in one Reply() — only the first tagged mstr() ever
                 voices, so the trailing mstr(x1) half was permanently silent. Replaced each

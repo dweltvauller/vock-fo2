@@ -742,5 +742,3 @@ procedure Node018b begin
   NOption(156,Node999,001);
 end
 //end added
-
-//xxxxxxxxxxxxxxxxxxxx

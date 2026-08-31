@@ -36,20 +36,10 @@
            (VOCK) Added Node850: once Fallout2_enclave_destroyed (the same post-endgame flag
            New Reno/Vault City content already checks, e.g. nckitty.ssl/ncftully.ssl/vcmclure.ssl)
            shows the PC has beaten Frank Horrigan and won the game, Skeeter throws out a random
-           float from the previously-unused skeet65-68 bonus tracks (msg 800-803) as ambient
+           float from the skeet65-68 bonus tracks (msg 800-803) as ambient
            chatter. Purely additive -- talk_p_proc/dialogue is untouched, so clicking him still
            always opens his normal dialogue tree.
 
-           (VOCK, revised) Originally driven from critter_p_proc with a manual LVAR cooldown +
-           1-in-50 roll (critter_p_proc has no pacing of its own -- it runs every heartbeat).
-           Reworked to match vanilla FO2's own post-endgame ambient-float pattern instead, found
-           in the Vault City generic-citizen family (vcdwnbar.ssl/vcbarcit.ssl/vcgreg.ssl/etc.):
-           a self-rescheduling timed_event_p_proc timer (TIMER_VOCK_ENDGAME_FLOAT, armed from
-           map_enter_p_proc, re-arms itself every random(30,40) game-ticks), gated on
-           self_can_see_dude and not combat_is_initialized, calling Node850 once
-           Fallout2_enclave_destroyed is true -- same shape as vcdwnbar.ssl's own timer calling
-           its Node002 (floater_rand). This is now the standard pattern for this kind of
-           post-endgame easter-egg float in this project -- see [[vock_endgame_float_mechanism]].
 */
 
 /* Include Files */
@@ -495,14 +485,9 @@ procedure Node001 begin
    floater(random(110,114));
 end
 
-// VOCK: post-endgame bonus-track float. skeet65-68 (msg 800-803) were recorded but never wired
-// to any node ("VOCK Bonus Tracks -- not used, left for the future"); called from the
+// VOCK: post-endgame bonus-track float. skeet65-68 (msg 800-803) called from the
 // TIMER_VOCK_ENDGAME_FLOAT loop in timed_event_p_proc (armed from map_enter_p_proc) as ambient
 // ONLY, never from talk_p_proc -- see timed_event_p_proc for the gating.
-// NOTE: called outside talk_p_proc's call stack, so per the float_msg/_gdialogActive() quirk in
-// this codebase the tied .acm will NOT auto-voice here -- text only for now. A reg_anim_play_sfx
-// bypass exists elsewhere in this project (frank/scripts_src/ecbdygrd.ssl etc.) but is
-// deliberately left out here pending a proper engine-level fix -- revisit later.
 procedure Node850 begin
    floater(random(800,803));
 end
@@ -905,8 +890,7 @@ end
 
 /* VOCK: Node112 keeps its single Reply(620) -- skeet50 is generic enough to serve as
    the "which one?" prompt, and now that it's the ONLY thing in its own Reply() call it
-   always voices correctly (it already did today, just at the cost of muting whatever
-   got concatenated after it). Node112a/b/c are new leaf nodes, one per rifle, each with
+   always voices correctly. Node112a/b/c are new leaf nodes, one per rifle, each with
    its own single-mstr() Reply() -- this is what actually fixes skeet51/52/53 (and their
    OFFERED-state counterparts skeet61/62/63) always being silent behind skeet50. */
 procedure Node112 begin

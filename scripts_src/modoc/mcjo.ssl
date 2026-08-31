@@ -7,17 +7,17 @@
         Location: Modoc
         Description: He does everything.
 
-        Log: VOCK fork, forked from Black_Electric_LIP baseline (TH). Diff vs. BEL:
+        Log: (VOCK)
           - critter_p_proc's wedding_stage_jo_bride_vow / wedding_stage_jo_groom_vow branches no
             longer build temp_line via mstr(604)+partner-name+mstr(605)+dude_name+mstr(606)+ending
             concatenation (only the first mstr() in that chain ever voiced under this engine's
-            _scr_get_msg_str_speech mechanics -- see claude/audit/vock-fo2/mcjo_va_tagging.md).
+            _scr_get_msg_str_speech mechanics.
             Replaced with 8 direct floater_good() calls to new pre-written msg 1600-1607
             (# VOCK Add Ons), one per wedding x role x ending combination.
 
           Created: February 15, 1998
 
-           Updated: VOCK, 2026-08-14
+           Updated:
 */
 
 /* Include Files */

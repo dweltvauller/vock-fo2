@@ -27,10 +27,7 @@
            self_can_see_dude and not combat_is_initialized -- this matches vanilla FO2's own
            post-endgame ambient-float pattern, found in the Vault City generic-citizen family
            (vcdwnbar.ssl/vcbarcit.ssl/vcgreg.ssl/etc.: their own timed_event_p_proc timers call a
-           Node the same way once Fallout2_enclave_destroyed is true). This is now the standard
-           pattern for this kind of post-endgame easter-egg float in this project -- same shape
-           used in Skeeter's Node850 (vock-fo2/scripts_src/gecko/gcskeetr.ssl) -- see
-           [[vock_endgame_float_mechanism]].
+           Node the same way once Fallout2_enclave_destroyed is true).
 */
 
 /* Include Files */
@@ -383,9 +380,6 @@ end
 // ambient chatter -- from the TIMER_VOCK_ENDGAME_FLOAT loop in timed_event_p_proc (armed from
 // map_enter_p_proc) as ambient ONLY, never from talk_p_proc -- see timed_event_p_proc for the
 // gating.
-// NOTE: called outside talk_p_proc's call stack, so per the float_msg/_gdialogActive() quirk in
-// this codebase the tied .acm will NOT auto-voice here -- text only for now, matching Skeeter's
-// Node850 (gcskeetr.ssl) pending a proper engine-level fix -- revisit later.
 procedure Node850 begin
    floater(302);
 end

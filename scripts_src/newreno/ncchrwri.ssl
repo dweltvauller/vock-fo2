@@ -19,7 +19,6 @@
            name-dropped text in directly instead of splicing dude_name/dude_family_name in at runtime
            (see ncchrwri.msg VOCK Add Ons). The now-unused is_insert_message macro and
            floater_rand_with_check calls were removed from Node001/Node003 accordingly.
-           Node990's reaction check uses perceived_rep (RPU fix, kept from rpu/scripts_src).
 */
 
 /* Include Files */
