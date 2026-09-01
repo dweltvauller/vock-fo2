@@ -15,10 +15,11 @@
            Created:
 
            Updated:
-           (VOCK) Node015's Reply now plays msg 1212
-           directly instead of concatenating mstr(212)+dude_name+mstr(213) (see acmorlis.msg).
-           Node018 adds NOption(115,Node999,001) + return after Reply(154) so that branch ends
-           the dialogue there instead of falling through to NOption(156,...).
+           VOCK changes:
+             Node015's line was one Reply() built from two fragments with the
+             player's name spliced between; it now plays a single pre-written line
+             using "Chosen One". Node018 also ends the dialogue after Reply(154)
+             instead of falling through to the next option.
 */
 
 /* Include Files */
@@ -635,7 +636,7 @@ procedure Node014 begin
 end
 
 procedure Node015 begin
-   // VOCK: was Reply(mstr(212)+dude_name+mstr(213)); msg 1212 is the single recorded line
+   //VOCK: was Reply(mstr(212)+dude_name+mstr(213))
    Reply(1212);
 
    NOption(214,Node016,001);
