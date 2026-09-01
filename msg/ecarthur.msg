@@ -50,8 +50,8 @@
 {300}{}{Our quest has been fulfilled!}
 {301}{}{Arthur, at your service.}
 
-# VOCK Add Ons -- voiced lines for the repeat-visit float killap's expansion added (floater(random(300,301))). VOCK plays its own text via fresh ids 2300/2301, leaving killap's 300/301 untouched.
-# talk_p_proc: fills in floater(random(2300,2301)).
+# VOCK Add Ons -- new flavor lines for Arthur's repeat-visit float (killap's expansion added floater(random(300,301))). These replace what killap's 300/301 said with more in-character quips; the script reads 2300/2301 now, and killap's 300/301 are kept above for reference.
+# talk_p_proc: floater(random(2300,2301)).
 {2300}{arth28}{That was no ordinary rat!}
 {2301}{arth29}{This is exactly why we needed the Holy Hand Grenade of Antioch!}
 

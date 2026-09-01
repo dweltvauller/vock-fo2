@@ -19,10 +19,10 @@
              Added Node850: once the Enclave is destroyed (the post-endgame flag),
              Arthur throws out an ambient easter-egg line (arth30, msg 2302) on a
              self-rescheduling timer, matching vanilla FO2's post-endgame ambient
-             floats. Dialogue is untouched. Also gave the repeat-visit
-             floater(random(2300,2301)) real voiced lines (arth28/arth29): killap's
-             expansion added that call reading msgs 300/301, and VOCK's voiced
-             versions use fresh ids 2300-2302 so killap's 300/301 stay untouched.
+             floats. Dialogue is untouched. The repeat-visit float (killap's
+             expansion, floater(random(300,301))) now plays new in-character
+             flavor lines arth28/arth29 on fresh ids 2300/2301; killap's original
+             300/301 are kept in the msg for reference.
 */
 
 /* Include Files */
@@ -297,7 +297,7 @@ procedure talk_p_proc begin
       end
    //added by killap - expansion
    end else begin
-      floater(random(2300,2301));   //VOCK: was random(300,301); VOCK voiced these as 2300/2301
+      floater(random(2300,2301));   //VOCK: was random(300,301); new flavor lines on 2300/2301
    end
    //end added
    set_local_var(LVAR_Herebefore, 1);
