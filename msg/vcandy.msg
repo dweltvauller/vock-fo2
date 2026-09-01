@@ -254,24 +254,24 @@
 {351}{}{Wahh? Me still fee no good. Me go sleep now.}
 {352}{}{Ugh... otay. Byeeee}
 
-# VOCK Add Ons
-# Merged 240+241 into one line so andr32 covers the full text.
+# VOCK Add Ons -- concatenation fix: merged fragment pairs now play as one pre-written line so each VA take covers the full text. Tags andr1-59, consecutive.
+# Node020: replaces 240 + 241.
 {1241}{andr32}{Well, technically, "high impact" is standard Dermal Impact Armor with extra assault-issue impact plates crammed under your skin. So you're gonna need the basic dermal graft first.}
-# Merged 274+275 into one line so andr39 covers the full text.
+# Node025: replaces 274 + 275.
 {1275}{andr39}{Well, technically, "high thermal" is standard Phoenix Armor with some thermal dissipaters layered over the membranes. So you're gonna need the basic Phoenix implant graft first.}
-# Merged 103+107 into one line so andr1 covers the full text.
+# Node001: replaces 103 + 107.
 {1103}{andr1}{Looks like you've seen some fighting, friend. You here to get patched up?}
-# Merged 104+107 into one line so andr2 covers the full text.
+# Node001: replaces 104 + 107.
 {1104}{andr2}{Whoa... looks like you've seen some serious action, friend. You here to get patched up?}
-# Merged 105+107 into one line so andr3 covers the full text.
+# Node001: replaces 105 + 107.
 {1105}{andr3}{Whoa... looks like you've been in some heavy fighting, friend. You here to get patched up?}
-# Merged 106+107 into one line so andr4 covers the full text.
+# Node001: replaces 106 + 107.
 {1106}{andr4}{Holy...! You're bleeding all over the floor! You here to get patched up?}
-# Merged 134+135 into one line under new tag andr56.
+# Node003: replaces 134 + 135.
 {1135}{andr56}{Well... all right. That sounds fair. Let's get to it, then. I'll just hook you up to the ol' Doctor here... slip your arms into the slots there, and I'll tighten the braces and secure the clamps...}
-# Merged 179+180 into one line under new tag andr57 (also used by Node035's 336+337).
+# Node009: replaces 179 + 180 (Node035 reuses this for 336 + 337).
 {1180}{andr57}{Well... all right. That sounds fair. Let's get to it, then. I'll just hook up the ol' Doctor here... Have 'em lay down, and I'll tighten the braces and secure the clamps...}
-# Merged 293+294 into one line under new tag andr59 (also used by Node030's 306+307).
+# Node028: replaces 293 + 294 (Node030 reuses this for 306 + 307).
 {1294}{andr59}{Well... that sounds fair. All right, let me just bolt you into the ol' Doctor here... hope the anesthesia reservoir ain't clogged again... maybe you better bite down on this piece of brahmin hide just in case.}
-# Merged 315+316 into one line under new tag andr58.
+# Node031: replaces 315 + 316.
 {1316}{andr58}{Well... all right. That sounds fair. Let's get to it, then. I'll just hook up the ol' Doctor here... Let me tighten the braces and secure the clamps...}

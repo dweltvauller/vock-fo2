@@ -197,8 +197,8 @@
 {296}{}{You quickly discover Phyllis is rather dull and self-centered. You resolve never to date anyone like her again.}
 {297}{}{Speaking of octo-generic- uh, octo-ians, uh, old people, I noticed there aren't any children in Vault city.}
 
-# VOCK Add Ons
-# Merged 150+152 into one line (Captain-of-the-Guard greeting) so phl43's recording covers the full displayed text.
+# VOCK Add Ons -- concatenation fix: merged fragment pairs now play as one pre-written line so each VA take covers the full text.
+# Node015: replaces 150 + 152 (Captain-of-the-Guard greeting).
 {298}{phl43}{Oh! Well, welcome to Vault City, Captain. We don't see many new faces around here. I'm Phyllis. What's your name?}
-# Merged 151+152 into one line (fellow-Citizen greeting) so phl44's recording covers the full displayed text.
+# Node015: replaces 151 + 152 (fellow-Citizen greeting).
 {299}{phl44}{Well, welcome to Vault City, fellow Citizen. We don't see many new faces around here. I'm Phyllis. What's your name?}

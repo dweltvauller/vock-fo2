@@ -15,8 +15,11 @@
            Created:
 
            Updated:
-           (VOCK) Node015's Reply now plays msg 298/299 directly instead of concatenating
-           mstr(150)+mstr(152) / mstr(151)+mstr(152) (see vcnancy.msg).
+           VOCK changes:
+             Node015's greeting was one Reply() built from two concatenated
+             fragments, of which only the first played audio; it now plays a
+             single pre-written line (298 for the Captain of the Guard, 299 for a
+             fellow Citizen).
 */
 
 /* Include Files */
@@ -460,9 +463,9 @@ procedure Node015 begin
       set_local_var( LVAR_Phyllis_State, PHYLLIS_KNOWN );
 
    if( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_CAPTAIN_GUARD ) then
-      Reply(298);
+      Reply(298);   //VOCK: was Reply(mstr(150) + mstr(152))
    else
-      Reply(299);
+      Reply(299);   //VOCK: was Reply(mstr(151) + mstr(152))
 
    NOption( mstr(153) + dude_name + mstr(288), Node018, 004);
    NOption( mstr(154) + dude_name + mstr(289), Node019, 004);
