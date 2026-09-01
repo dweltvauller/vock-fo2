@@ -96,8 +96,8 @@
 
 {400}{chad34}{Leave me alone.}
 
-# VOCK Add Ons
-# Merged 220+216 into one line so chad21's recording covers the full displayed text.
+# VOCK Add Ons -- merged a concatenated line and localized one shared floater.
+# Node032: replaces 220 + 216.
 {2200}{chad21}{Oh really?... I thought I recognized you. Oh yeah? Let me help. The documents you're looking for are in a briefcase that's locked away in the bottom drawer of that dresser over there. But you're never gonna touch it, 'cause I'm gonna kill you, you fuckin' do-gooder. If it weren't for you, I coulda kept skimming off the caravan runs for another couple months. But no, you had to go an' meddle in affairs that aren't any of your fuckin' concern. So now I gotta flee town, but at least I'll have the pleasure of leaving your corpse behind.}
-# Moved from generic.msg (was g_mstr(450)) so this floater is Chad's own voice, not shared/generic.
+# map_update_p_proc: local copy, was g_mstr(450) from generic.msg (Chad's own voice).
 {450}{chad35}{The coast is clear. Let's move out!}

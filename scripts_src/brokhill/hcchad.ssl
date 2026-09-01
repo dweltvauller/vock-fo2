@@ -15,10 +15,12 @@
            Created: June 4, 1998
 
            Updated:
-           (VOCK) map_update_p_proc's
-           float_msg now reads mstr(450) from hcchad.msg instead of g_mstr(450) from generic.msg
-           (Chad's own voice). Node032's Reply now plays msg 2200 instead of concatenating
-           mstr(220)+" "+mstr(216) (see inline comment there).
+           VOCK changes:
+             Node032's line was one Reply() built from two concatenated fragments,
+             of which only the first played audio; it now plays a single
+             pre-written line. The "coast is clear" floater in map_update_p_proc
+             reads a local message instead of the shared generic one, so it uses
+             Chad's own voice.
 */
 
 /* Include Files */
@@ -209,7 +211,7 @@ procedure map_update_p_proc begin
    end
    if (cur_map_index == MAP_BH_RND_DESERT) then begin
        if ( map_var(MVAR_Hostile_Total) <= 0 ) then begin //edit by killap - can drop below 0
-           float_msg(self_obj,mstr(450),FLOAT_COLOR_NORMAL); //VOCK: was g_mstr(450) (see file header log)
+           float_msg(self_obj,mstr(450),FLOAT_COLOR_NORMAL); //VOCK: was g_mstr(450)
        end
    end
 end
@@ -691,7 +693,7 @@ procedure Node031 begin
 end
 
 procedure Node032 begin
-   Reply(2200); //VOCK: was Reply(mstr(220) + " " + mstr(216)) (see file header log)
+   Reply(2200); //VOCK: was Reply(mstr(220) + " " + mstr(216))
    NOption(217,Node031,004);
 end
 

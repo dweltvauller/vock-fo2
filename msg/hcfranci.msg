@@ -144,14 +144,8 @@
 
 {800}{}{(Looking at the massive mutant, you realize you wouldn't have stood a chance. Time to walk away while you've still got your dignity.)}
 
-# VOCK Add Ons
-# PC-voiced duplicates of Francis's arm-wrestle grunts/outcome lines. float_dude() and floater()
-# both resolve through message_str() keyed only on (msg file, line ID) -- see interpreter_extra.cc
-# opGetMessageString / _scr_get_msg_str_speech -- so float_dude() must NOT reuse a tagged franc*
-# line, or Francis's VA audio would fire over the PC's float if this scene's float-voicing gate
-# (currently blocked -- timed_event_p_proc floats aren't gdialog-active, see
-# vock_float_msg_mechanics) is ever fixed like fsface.ssl/oscomptr.ssl were. Untagged on purpose --
-# the PC is never voiced.
+# VOCK Add Ons -- untagged PC-voiced duplicates of Francis's arm-wrestle lines. float_dude() resolves a message by (file, line ID) only, so reusing a tagged franc* line would fire Francis's voice over the PC's float. Untagged on purpose: the PC is never voiced.
+# timed_event_p_proc: replaces the float_dude() reuse of 400-411 (1400+N for franc's 400+N).
 {1400}{}{Urrggghh!}
 {1401}{}{Arrrrr!}
 {1402}{}{Aiiigggggg.}
