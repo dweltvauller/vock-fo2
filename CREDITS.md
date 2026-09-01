@@ -34,6 +34,8 @@
 | [Doctor Andrew](https://fallout.fandom.com/wiki/Andrew_(Fallout_2)) | Vault City | Charles W. Morton | - |
 | [Darion](https://fallout.fandom.com/wiki/Darion) | Vault 15 | Dmitry Medvedenko | [SoundCloud](https://m.soundcloud.com/dmitry-medvedenko) · [Instagram](https://www.instagram.com/dmitryvoiceover) |
 | [Fannie Mae](https://fallout.fandom.com/wiki/Fannie_Mae) | Redding | Rin Moore | - |
+| [Peterson](https://f2rp.bgforge.net/abbey/) | Abbey | Darrell Haley | - |
+| [Joseph](https://fallout.fandom.com/wiki/Joseph_(Fallout_2)) | Vault 13 | AnInsaneProfessional | - |
 
 ## AI-Voiced Characters (To Be Replaced by Real Actors)
 
