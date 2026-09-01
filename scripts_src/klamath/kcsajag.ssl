@@ -125,7 +125,7 @@ procedure Node029;
 // The Following lines are for anything that is not needed to be
 // seen by the design Tool
 
-// VOCK: new chain steps for Node018's restructured "(Go on.)" dialogue
+//VOCK: new chain steps for Node018's restructured "(Go on.)" dialogue
 procedure Node018a;
 procedure Node018b;
 procedure Node018c;

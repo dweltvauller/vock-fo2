@@ -15,11 +15,12 @@
            Created:
 
            Updated:
-           (VOCK) Fixed doSequence's start_gdialog/Node001 call being made from
-           timed_event_p_proc, outside talk_p_proc's call stack, so VA never voiced there
-           (_gdialogActive() gate) -- doSequence now calls dialogue_system_enter directly, which
-           routes into talk_p_proc so VA works. Node998 now calls end_dialogue instead of
-           attack(dude_obj), since it now runs inside an active dialogue.
+           VOCK changes:
+             Kaga's ambush line was triggered from timed_event_p_proc, outside
+             talk_p_proc's call stack, so it never voiced (the dialogue-active
+             gate). doSequence now enters through dialogue_system_enter, which
+             routes via talk_p_proc so the voice plays; Node998 ends the dialogue
+             instead of calling attack() since it now runs inside one.
 */
 
 /* Include Files */

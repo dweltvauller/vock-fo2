@@ -171,7 +171,7 @@
 #define HEAD_IANOJ          (182)
 #define HEAD_BUCK           (183)
 #define HEAD_FLICK          (184)
-// VOCK: TH mod define.h has HEAD_JONES twice (185 here, 197 below). Keeping only the value (197) to avoid a redefinition error.
+//VOCK: TH mod define.h has HEAD_JONES twice (185 here, 197 below). Keeping only the value (197) to avoid a redefinition error.
 // #define HEAD_JONES          (185)
 #define HEAD_TUBBY          (186)
 #define HEAD_AMA            (187)
