@@ -22,12 +22,11 @@
            Created: Febuary 3, 1998
 
            Updated:
-           (VOCK) Four concatenated Reply() calls
-           that were losing their second mstr()'s audio now play a single merged msg instead --
-           Node992 (was mstr(198)+mstr(601)), Node027 (mstr(400)+mstr(405) / mstr(404)+mstr(405)),
-           Node029 (mstr(420)+mstr(424) / mstr(420)+mstr(533)), Node032 (mstr(449)+mstr(450) /
-           mstr(449)+mstr(451)) -- see msg 2200-2206 in kcdunton.msg and the inline comment at
-           each site.
+           VOCK changes:
+             Dialogue lines the engine assembled at runtime from two message
+             fragments (losing the second fragment's audio) now play as a single
+             pre-written line, so the recorded voice matches the on-screen text.
+             Affected nodes: Node992, Node027, Node029, Node032.
 */
 
 /* Include Files */
@@ -944,7 +943,7 @@ end
 
 procedure Node992 begin
    //later than 6pm
-   Reply(mstr(2200));   //VOCK: was Reply(mstr(198) + mstr(601)) -- merged so buck16 covers full line
+   Reply(mstr(2200));   //VOCK: was Reply(mstr(198) + mstr(601))
    GOption(202,Node975,004);
    BOption(204,Node993,004);  // if from_14 set Rustle_Refuse flag else reaction-10
 end
@@ -1404,9 +1403,9 @@ end
 
 procedure Node027 begin
    if (map_var(MVAR_Torr_On_Map) == 1) then
-      Reply(mstr(2201));   //VOCK: was Reply(mstr(400) + mstr(405)) -- merged so buck60 covers full line
+      Reply(mstr(2201));   //VOCK: was Reply(mstr(400) + mstr(405))
    else
-      Reply(mstr(2202));   //VOCK: was Reply(mstr(404) + mstr(405)) -- merged so buck61 covers full line; Seraph's Fix note (changed '505' to '405') preserved in msg 2202's text
+      Reply(mstr(2202));   //VOCK: was Reply(mstr(404) + mstr(405))
 
    GOption(401,Node989,004);
    BOption(402,Node923,004);
@@ -1421,9 +1420,9 @@ end
 
 procedure Node029 begin
    if (map_var(MVAR_Torr_On_Map) == 1) then
-      Reply(mstr(2203));   //VOCK: was Reply(mstr(420) + mstr(424)) -- merged so buck63 covers full line
+      Reply(mstr(2203));   //VOCK: was Reply(mstr(420) + mstr(424))
    else
-      Reply(mstr(2204));   //VOCK: was Reply(mstr(420) + mstr(533)) -- merged so buck64 covers full line
+      Reply(mstr(2204));   //VOCK: was Reply(mstr(420) + mstr(533))
 
    GOption(421,Node960,004);
    BOption(422,Node999,004);
@@ -1450,9 +1449,9 @@ end
 
 procedure Node032 begin
    if (who_am_i == 1) then
-      Reply(mstr(2205));   //VOCK: was Reply(mstr(449) + mstr(450)) -- merged so buck67 covers full line
+      Reply(mstr(2205));   //VOCK: was Reply(mstr(449) + mstr(450))
    else
-      Reply(mstr(2206));   //VOCK: was Reply(mstr(449) + mstr(451)) -- merged so buck68 covers full line
+      Reply(mstr(2206));   //VOCK: was Reply(mstr(449) + mstr(451))
 
    BLowOption(452,Node033);
    NLowOption(dude_name + mstr(453),Node034);

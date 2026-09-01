@@ -258,18 +258,18 @@
 
 {800}{}{I found a pile of bug parts in the cabin over at the grazing area. Do you know what they are?}
 
-# VOCK Add Ons
-# Merged 198+601 (Node992's "later than 6pm" variant) into one line so buck16's recording covers the full displayed text.
+# VOCK Add Ons -- concatenation fix: merged fragments now play as one pre-written line so the recording covers the full displayed text.
+# Node992: replaces 198 + 601 (after-6pm variant).
 {2200}{buck16}{OK, here's the deal. We need some help in, uh, liberating some brahmin from that idiot Torr. You shouldn't have trouble with that. Just talk him out of them. What do you say? Ready to go?}
-# Merged 400+405 (Node027's "Torr on map" variant) so buck60's recording covers the full displayed text.
+# Node027: replaces 400 + 405 (Torr-on-map variant).
 {2201}{buck60}{Here's what's happening. You need to get Torr out of here for a while. You can talk to him or knock him unconscious. But don't kill him or you'll get people all riled up. While you do that, we'll get the brahmin. Meet us back at our shop tomorrow to pick up your reward.}
-# Merged 404+405 (Node027's "Torr not on map" variant) so buck61's recording covers the full displayed text.
+# Node027: replaces 404 + 405 (Torr-not-on-map variant; includes Seraph's 505->405 fix).
 {2202}{buck61}{When Torr shows up, we need you to get him out of here for a while. You can talk to him or knock him unconscious. But don't kill him or you'll get people all riled up. While you do that, we'll get the brahmin. Meet us back at our shop tomorrow to pick up your reward.}
-# Merged 420+424 (Node029's "Torr on map" variant) so buck63's recording covers the full displayed text.
+# Node029: replaces 420 + 424 (Torr-on-map variant).
 {2203}{buck63}{Nobody's watching us. We're real careful about that. You're just yellow, aren't you? Frigging coward. Now get back to your job and get rid of that idiot Torr!}
-# Merged 420+533 (Node029's "Torr not on map" variant) so buck64's recording covers the full displayed text.
+# Node029: replaces 420 + 533 (Torr-not-on-map variant).
 {2204}{buck64}{Nobody's watching us. We're real careful about that. You're just yellow, aren't you? Frigging coward. When that Dumb-ass Torr gets here, you just better get rid of him.}
-# Merged 449+450 (Node032's Chuck variant) so buck67's recording covers the full displayed text.
+# Node032: replaces 449 + 450 (Chuck variant).
 {2205}{buck67}{Hello there, tribal. I'm Chuck Dunton.}
-# Merged 449+451 (Node032's Buck variant) so buck68's recording covers the full displayed text.
+# Node032: replaces 449 + 451 (Buck variant).
 {2206}{buck68}{Hello there, tribal. I'm Buck Dunton.}

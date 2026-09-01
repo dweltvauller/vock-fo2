@@ -18,11 +18,12 @@
            Need to add code to check player inventory and remove 5 coins (use $ for money)
 
            Updated:
-           VOCK: Node018 restructured from a single concatenated Reply() into a chained
-           "(Go on.)" dialogue (Node018a-e) so each hint fragment gets its own voice line
-           instead of only the first mstr() in the old concatenation actually triggering
-           audio. Node024-027's "Tell me more local news" option now resumes the chain at
-           the next unheard step instead of restarting the whole thing from the top.
+           VOCK changes:
+             Node018 ("local news") was one Reply() built from several concatenated
+             fragments, of which only the first ever played audio. It is now a
+             chained "(Go on.)" dialogue (Node018a-e) so each hint is its own
+             voiced line, and the "tell me more" options in Node024-027 resume the
+             chain at the next unheard step instead of restarting from the top.
 */
 
 /* Include Files */
