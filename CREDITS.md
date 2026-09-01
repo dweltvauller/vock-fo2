@@ -33,6 +33,7 @@
 | [Painless Doc Johnson](https://fallout.fandom.com/wiki/Johnson_(Fallout_2)) | Redding | Mike Harrison-Wood | [Carrd](https://mikeharrisonwoodva.carrd.co/) |
 | [Doctor Andrew](https://fallout.fandom.com/wiki/Andrew_(Fallout_2)) | Vault City | Charles W. Morton | - |
 | [Darion](https://fallout.fandom.com/wiki/Darion) | Vault 15 | Dmitry Medvedenko | [SoundCloud](https://m.soundcloud.com/dmitry-medvedenko) · [Instagram](https://www.instagram.com/dmitryvoiceover) |
+| [Fannie Mae](https://fallout.fandom.com/wiki/Fannie_Mae) | Redding | Rin Moore | - |
 
 ## AI-Voiced Characters (To Be Replaced by Real Actors)
 
