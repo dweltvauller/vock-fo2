@@ -69,13 +69,13 @@
 {168}{}{I see...}
 {169}{gruth22}{I am displeased with your decision but I accept it. You may leave, but please return if you reconsider.}
 {170}{}{Done.}
-{171}{}{Hello} # superseded by VOCK Add Ons {2171}/gruth23 — dude_name splice, see Log
+{171}{}{Hello}
 {172}{}{No. I'll get to it, though.}
 {173}{}{I'm sorry, Gruthar. The voice module has gone bad. I'll have to go get one.}
-{174}{}{I do not understand the workings of such things but I trust you,} # superseded by VOCK Add Ons {2174}/gruth24
+{174}{}{I do not understand the workings of such things but I trust you,}
 {175}{}{Done.}
 {176}{}{I shall return, you have my word.}
-{177}{}{Hello} # superseded by VOCK Add Ons {2177}/gruth25
+{177}{}{Hello}
 {178}{}{No, I'm still looking.}
 {179}{}{Yes, and here it is!}
 {180}{}{}
@@ -140,9 +140,16 @@
 {239}{}{Yes. Matt no good.}
 
 # VOCK Add Ons
-# dude_name splice fix (Node015, USEDUDENAME(171,231)) — mstr(171) was the only side that could ever voice; merged into one take, dude_name replaced with "human" (Gruthar's own address word for the PC)
+# dude_name splice fix. Node015/016/017 originally did Reply(USEDUDENAME(x,x1)),
+# concatenating mstr(x) + dude_name + mstr(x1); only the first tagged mstr() ever
+# voiced, so the trailing half was permanently silent. Each pair is merged into one
+# take below with "human" (Gruthar's own address word for the PC) baked in.
+# Keep these notes as full-line comments with no curly braces anywhere: the msg
+# parser scans the whole file for brace groups, so a brace token sitting in a
+# comment gets read as the next message and desyncs the parse, aborting the load.
+# Node015: replaces 171 (gruth23) + 231 splice.
 {2171}{gruth23}{Hello, human. Have you examined the machine?}
-# dude_name splice fix (Node016, USEDUDENAME(174,232)) — same bug, same fix
+# Node016: replaces 174 (gruth24) + 232 splice.
 {2174}{gruth24}{I do not understand the workings of such things but I trust you, human. I will wait for your return.}
-# dude_name splice fix (Node017, USEDUDENAME(177,233)) — same bug, same fix
+# Node017: replaces 177 (gruth25) + 233 splice.
 {2177}{gruth25}{Hello, human. Have you found the part to fix the machine?}
