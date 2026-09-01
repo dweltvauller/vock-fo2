@@ -50,12 +50,12 @@
 {268}{}{You want some of THIS, *Fatman?!* You WANT SOME of }
 
 # 7. WHO ARE YOU? (WTG, 5)
-{275}{bgjes13}{(The man speaks in a rasping voice.) I... am Jesus Mordino. You... will address me as SEï¿½OR Mordino. (A bead of sweat trickles down his forehead.) What... is your business with me?}
+{275}{bgjes13}{(The man speaks in a rasping voice.) I... am Jesus Mordino. You... will address me as SEÑOR Mordino. (A bead of sweat trickles down his forehead.) What... is your business with me?}
 {276}{bgjes14}{You have... returned. (A bead of sweat trickles down his forehead.) What... is your business with me?}
 {277}{}{I'm looking for work.}
-{278}{}{I spoke to your son, Seï¿½or Mordino. I'm looking for work.}
-{1278}{}{I spoke to your son, Seï¿½or Mordino. I'm a slaver, and I'm looking for work.}
-{279}{}{I spoke to your son, Seï¿½or Mordino. I'm a slaver, and I'm looking to sell slaves.}
+{278}{}{I spoke to your son, Señor Mordino. I'm looking for work.}
+{1278}{}{I spoke to your son, Señor Mordino. I'm a slaver, and I'm looking for work.}
+{279}{}{I spoke to your son, Señor Mordino. I'm a slaver, and I'm looking to sell slaves.}
 {280}{}{You know anything about Mr. Wright's son's death?}
 {281}{}{Is the heat bothering you? You seem... uncomfortable.}
 {282}{}{No business today. I have to go now.}
@@ -65,9 +65,9 @@
 {291}{bgjes16}{(Studies you for a long time, then shakes his head.) You... are a WOMAN. What I need done is not woman's work.}
 {1291}{}{Very well. Are you interested in buying any slaves?}
 {292}{}{Give me a chance. Give me a job -- any job -- I can do it.}
-{293}{}{Give me a chance, Seï¿½or Mordino. Give me a job, any job, I can do it.}
+{293}{}{Give me a chance, Señor Mordino. Give me a job, any job, I can do it.}
 {294}{}{Let me prove myself. I can do it.}
-{295}{}{Let me prove myself, Seï¿½or Mordino. I can do it.}
+{295}{}{Let me prove myself, Señor Mordino. I can do it.}
 {296}{}{All right then. Catch you later.}
 
 # 9. I'M LOOKING FOR WORK [SECOND TIME REFUSE] (8, 25, 50)
@@ -105,7 +105,7 @@
 {350}{bgjes26}{(Mordino's gaze immediately stops on the Robobrain.) That machine there. I will give you 500 chips for him.}
 {351}{bgjes27}{(Mordino's gaze immediately stops on the cyberdog.) I will buy that... machine dog from you. I will give you 500 chips for him.}
 {352}{bgjes28}{(Mordino studies your companions, then shakes his head.) You have nothing I want.}
-{353}{}{Seï¿½or Mordino, please... The slave is worth MUCH more than that. It has many years of faithful service remaining.}
+{353}{}{Señor Mordino, please... The slave is worth MUCH more than that. It has many years of faithful service remaining.}
 {354}{}{That is a fair price. You may have the slave.}
 {355}{}{Actually, I'm not looking to sell that one just yet. I did have some questions I wanted to ask you...}
 {356}{}{Actually, I'm not looking to sell that slave. Let's deal another time.}
@@ -118,7 +118,7 @@
 {372}{bgjes31}{No. The tribal smells and looks to be... difficult. It will be hard to break him in. 100 chips.}
 {373}{bgjes32}{The man is old. I will take him for 100 chips.}
 {375}{bgjes33}{No. 500 chips.}
-{377}{}{Seï¿½or Mordino, please... You are in danger of insulting me. This is prime stock, it is worth much more than that.}
+{377}{}{Señor Mordino, please... You are in danger of insulting me. This is prime stock, it is worth much more than that.}
 
 # 15. SLAVE DEALINGS 2, BARTER SUCCEED (13)
 {390}{bgjes34}{(Mordino walks around Miria, examines her face carefully, then slaps her ass.) Hmmmm. 500 chips for her, then.}
@@ -138,18 +138,18 @@
 {415}{bgjes41}{(Mordino has Robobrain led away while counting your money.) Here.}
 {416}{bgjes41}{(Mordino has the cyberdog led away while counting your money.) Here.}
 {417}{}{Would you like to see what else I have in stock?}
-{418}{}{Thank you, Seï¿½or Mordino. By the way, I had some questions I wanted to ask you...}
-{419}{}{Thank you, Seï¿½or Mordino. I hope the slave serves you well. Goodbye.}
+{418}{}{Thank you, Señor Mordino. By the way, I had some questions I wanted to ask you...}
+{419}{}{Thank you, Señor Mordino. I hope the slave serves you well. Goodbye.}
 
 # 17. SLAVE DEALINGS 2, PUSH TOO FAR (14, 15)
 {430}{bgjes42}{(Sweat trickles down Mordino's face. His expression darkens.) You are a dog, and a SON of a dog. I will not buy from the likes of you. Leave... and do NOT return.}
-{431}{}{Seï¿½or Mordino, please... Reconsider...}
+{431}{}{Señor Mordino, please... Reconsider...}
 {432}{}{(Leave quietly.)}
 
 # 18. I'M LOOKING FOR WORK [AGREE] (8, 7, 12)
 {440}{bgjes43}{(Mordino studies you.) Very well. I... have work for you. Take... (Takes a deep wheezing breath, wipes sweat from his forehead.) ...this package... to the *stables* north of Reno. Give it to a man... Ramirez, then return.}
 {441}{}{Okay. Sounds easy enough.}
-{442}{}{I will go there now, Seï¿½or Mordino.}
+{442}{}{I will go there now, Señor Mordino.}
 {443}{}{What's in the package?}
 {444}{}{Uh, I've changed my mind. I think I'll pass.}
 
@@ -178,7 +178,7 @@
 # 23. HAVE YOU DONE AS I ASKED - YES (21, 24, 51, 52)
 {490}{bgjes48}{(Nods.) Very well. Here is... your payment. A hundred... chips. For a... simple delivery... It is more than enough.}
 {491}{}{It's better than nothing, I guess.}
-{492}{}{Thank you, Seï¿½or Mordino.}
+{492}{}{Thank you, Señor Mordino.}
 
 # 24. I'VE BEEN TO THE STABLES (21)
 {500}{bgjes49}{(Squints angrily. A bead of sweat trickles down the side of his face.) They are... cattle. No more.}
@@ -197,7 +197,7 @@
 # 27. MISSION 2, AGREE (X)
 {530}{bgjes52}{Head north up Virgin street. They are across from the gym... if they give you trouble... if they make excuses... HURT them.}
 {531}{}{Okay. I'm on it.}
-{532}{}{Very well, Seï¿½or Mordino.}
+{532}{}{Very well, Señor Mordino.}
 
 # 28. CORSICAN BROS DEAD (WTG)
 {540}{bgjes53}{I said you could... HURT the Corsican Brothers. I did not give you permission to... KILL them.}
@@ -221,26 +221,26 @@
 {571}{}{Hey, thanks, Big Jesus.}
 
 # 32. I'M LOOKING FOR WORK [AGREE] (31)
-{580}{bgjes56}{(Seï¿½or Mordino looks at you for a long time, then nods slightly.) I have one last job for you. There... (Takes a deep wheezing breath, wipes sweat from his forehead.)... is a MAN who must die.}
+{580}{bgjes56}{(Señor Mordino looks at you for a long time, then nods slightly.) I have one last job for you. There... (Takes a deep wheezing breath, wipes sweat from his forehead.)... is a MAN who must die.}
 {581}{}{He's as good as dead. The corpse got a name?}
 {582}{}{Who is this man?}
-{583}{}{Who is this man you wish dead, Seï¿½or Mordino?}
+{583}{}{Who is this man you wish dead, Señor Mordino?}
 {584}{}{Whoa, nobody say anything about murder. Forget it.}
-{585}{}{I cannot take this job, Seï¿½or Mordino, I'm sorry. Goodbye.}
+{585}{}{I cannot take this job, Señor Mordino, I'm sorry. Goodbye.}
 
 # 33. REFUSE JOB (18, 19, 26, 32, 35, 36, 52)
 {595}{bgjes57}{You come to me for work. I give you... work and you complain like a CHILD. (Takes a deep, rasping breath, then coughs.) You... are no longer welcome here... in my casino. Leave.}
 {596}{bgjes58}{You come to me for work. You refuse my... offer. (Takes a deep, rasping breath, then coughs.) You... are no longer welcome here... in my casino. Leave.}
 {597}{}{Before I go, I had some questions I wanted to ask you...}
 {598}{}{I'm not done TALKING to you yet, "Big Jesus."}
-{599}{}{My apologies, Seï¿½or Mordino. I will leave at once.}
+{599}{}{My apologies, Señor Mordino. I will leave at once.}
 {600}{}{Why don't you MAKE me leave?}
 
 # 34. THE CORPSE GOT A NAME? (32)
 {610}{bgjes59}{This man, Louis Salvatore... he has killed many of my men... many PROUD men of the Mordino family. He... butchered them in the street like... dogs. (His hand clenches into a fist.) It is my will that this man die.}
 {611}{}{If you got the chips, he's good as dead.}
 {612}{}{Wait a minute. Louis Salvatore who rules the Salvatore family? The ones that have the lightbringers that can slice men in half?}
-{613}{}{I will see the Mordino family avenged, Seï¿½or Mordino. I will return when I have completed the task.}
+{613}{}{I will see the Mordino family avenged, Señor Mordino. I will return when I have completed the task.}
 {614}{}{I can't accept this assignment. I'm leaving.}
 {615}{}{All right then. I'll do it.}
 
@@ -263,12 +263,12 @@
 # 38. CRIPPLE? (37)
 {650}{bgjes63}{(Nods.) The butcher's legs... are weak. (Jesus wipes his forehead, then draws another weak breath.) He also has... difficulty... breathing. He takes air through an... oxygen tank.}
 {651}{}{Oxygen tank, huh? Hmmmm. All right.}
-{652}{}{I'll be back when he is dead, Seï¿½or Mordino.}
+{652}{}{I'll be back when he is dead, Señor Mordino.}
 
 # 39. KILL SALVATORES (WTG)
 {660}{bgjes64}{Louis Salvatore lives. Why have you returned?}
 {661}{bgjes65}{(A bead of sweat trickles down the side of Mordino's face.) You have done as I asked? Louis Salvatore is dead?}
-{662}{}{He is dead. Your family is avenged, Seï¿½or Mordino.}
+{662}{}{He is dead. Your family is avenged, Señor Mordino.}
 {663}{}{No, I shall return when I have killed him.}
 {664}{}{Salvatore's too well-guarded. I'm going to have to cancel on this job.}
 
@@ -311,12 +311,12 @@
 {741}{}{Just adults, huh? I mean, Jet takes a while to kill someone, but it works, right?}
 {742}{}{Somebody else might, and they might blacken the Mordino name. You know who might have sold Richard the Jet that killed him?}
 {743}{}{I see. Look, I had some other questions...}
-{744}{}{Thanks for the information, Seï¿½or Mordino. I must be going now.}
+{744}{}{Thanks for the information, Señor Mordino. I must be going now.}
 
 # 48. YOU KNOW WHO MIGHT HAVE SOLD IT TO HIM? (46, 47)
 {750}{bgjes75}{(Shakes head.) I... know little of the lives of pushers in Reno. (Takes a raspy breath, coughs slightly.) You... might ask my son... in the casino, below.}
 {751}{}{I will. I had some other questions...}
-{752}{}{I will. Thanks, Seï¿½or Mordino.}
+{752}{}{I will. Thanks, Señor Mordino.}
 
 # 49. I HAVE A HEART CONDITION . . . (7, 11)
 {760}{bgjes76}{The temperature does not... agree with me. My breathing is... sometimes difficult. In times of stress or other physical activity, I tire quickly. Sometimes, I have chest pains.}
