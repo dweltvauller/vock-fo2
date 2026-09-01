@@ -17,11 +17,12 @@
            Updated:
            VOCK changes:
              Added Node850: once the Enclave is destroyed (the post-endgame flag),
-             Arthur throws out an ambient easter-egg line (arth30, msg 302) on a
+             Arthur throws out an ambient easter-egg line (arth30, msg 2302) on a
              self-rescheduling timer, matching vanilla FO2's post-endgame ambient
              floats. Dialogue is untouched. Also gave the repeat-visit
-             floater(random(300,301)) real voiced lines (arth28/arth29); killap's
-             expansion added the call but left the messages commented out.
+             floater(random(2300,2301)) real voiced lines (arth28/arth29); killap's
+             expansion added the call but left the messages disabled. VOCK's lines
+             use fresh ids 2300-2302, not killap's 300/301, so nothing collides.
 */
 
 /* Include Files */
@@ -296,7 +297,7 @@ procedure talk_p_proc begin
       end
    //added by killap - expansion
    end else begin
-      floater(random(300,301));
+      floater(random(2300,2301));   //VOCK: was random(300,301); moved off killap's placeholder ids
    end
    //end added
    set_local_var(LVAR_Herebefore, 1);
@@ -370,12 +371,12 @@ procedure Node001 begin
    NLowOption(106, Node018);
 end
 
-//VOCK: post-endgame bonus-track float. arth30 (msg 302, "VOCK Easter Eggs") is called here as
+//VOCK: post-endgame bonus-track float. arth30 (msg 2302, "VOCK Easter Eggs") is called here as
 // ambient chatter -- from the TIMER_VOCK_ENDGAME_FLOAT loop in timed_event_p_proc (armed from
 // map_enter_p_proc) as ambient ONLY, never from talk_p_proc -- see timed_event_p_proc for the
 // gating.
 procedure Node850 begin
-   floater(302);
+   floater(2302);
 end
 
 procedure Node002 begin
