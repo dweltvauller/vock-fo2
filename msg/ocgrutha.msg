@@ -140,16 +140,8 @@
 {239}{}{Yes. Matt no good.}
 
 # VOCK Add Ons
-# dude_name splice fix. Node015/016/017 originally did Reply(USEDUDENAME(x,x1)),
-# concatenating mstr(x) + dude_name + mstr(x1); only the first tagged mstr() ever
-# voiced, so the trailing half was permanently silent. Each pair is merged into one
-# take below with "human" (Gruthar's own address word for the PC) baked in.
-# Keep these notes as full-line comments with no curly braces anywhere: the msg
-# parser scans the whole file for brace groups, so a brace token sitting in a
-# comment gets read as the next message and desyncs the parse, aborting the load.
-# Node015: replaces 171 (gruth23) + 231 splice.
+# dude_name splice fix: Node015/016/017 merged mstr(x)+dude_name+mstr(x1) takes into
+# one line each, with "human" baked in. No braces in these comments (parser reads them).
 {2171}{gruth23}{Hello, human. Have you examined the machine?}
-# Node016: replaces 174 (gruth24) + 232 splice.
 {2174}{gruth24}{I do not understand the workings of such things but I trust you, human. I will wait for your return.}
-# Node017: replaces 177 (gruth25) + 233 splice.
 {2177}{gruth25}{Hello, human. Have you found the part to fix the machine?}
