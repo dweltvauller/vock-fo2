@@ -25,7 +25,7 @@
 | [Chad](https://fallout.fandom.com/wiki/Chad_(Fallout_2)) | Broken Hills | Sn8kezz | [Casting Call Club](https://www.castingcall.club/m/sn8kezz) |
 | [Krom](https://f2rp.bgforge.net/umbra-tribe/) | Umbra Tribe | Jeremy Lindsay | [Portfolio](https://jeremylindsayent.squarespace.com) |
 | [Lydia](https://fallout.fandom.com/wiki/Lydia_(Fallout_2)) | Vault City | Juliet Blank | [AllMyLinks](https://allmylinks.com/julietblank) |
-| [Chrissy](https://fallout.fandom.com/wiki/Chrissy) | Broken Hills | Megan Rowe | [Carrd](https://meganrowevo.carrd.co) · [X](https://x.com/meganrowevo) |
+| [Chrissy](https://fallout.fandom.com/wiki/Chrissy) | Vault 15 | Megan Rowe | [Carrd](https://meganrowevo.carrd.co) · [X](https://x.com/meganrowevo) |
 | [Arthur Pendragon](https://fallout.fandom.com/wiki/Arthur_Pendragon) | Special Encounter | Tsovir | [Casting Call Club](https://www.castingcall.club/m/tsovir) |
 | [Hank](https://fallout.fandom.com/wiki/Hank_(Fallout_2)) | Gecko | PaleFreak | [X](https://x.com/PaleFreakVA) · [Newgrounds](https://palefreak.newgrounds.com) |
 | [Ann](https://f2rp.bgforge.net/vault-village/) | Vault City | Jessica Baxter | [X](https://x.com/jessicabaxtervo) · [Instagram](https://www.instagram.com/jessicabaxter_vo) · [TikTok](https://www.tiktok.com/@jessicabaxter_vo) |
