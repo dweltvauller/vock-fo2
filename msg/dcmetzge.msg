@@ -351,6 +351,6 @@
 {915}{}{Got it. Let me ask you something else.}
 {916}{}{Thanks. I'll be on my way now. Bye.}
 
-# VOCK Add Ons
-# replaces dude_name splice in Node028's the_rand==0/3 payment reactions (metzg68/metzg71) - VA recorded these addressing the player as "slaver" instead of the PC's name
+# VOCK Add Ons -- PC-name splice fix: "slaver" replaces the dude_name splice in Node028's payment reactions (metzg68/metzg71), matching what the VA recorded.
+# Node028: replaces the dude_name splice in the the_rand==0 / the_rand==3 branches.
 {1552}{}{slaver}

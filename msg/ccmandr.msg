@@ -78,6 +78,6 @@
 {320}{cmdr24}{By prying it off my dead body. Good luck with that, mutie. Next question?}
 {330}{cmdr25}{Good, 'cause I'm damn tired of wasting my breath on a mutant. In fact, this whole things a waste of my time, because I don't give a flying fuck what you've got to say to me. Guards! Kill this mutie!}
 
-# VOCK Add Ons
-# pickup_p_proc's floater(105) reused the PC-only BOption(105) text ("Time to die."); minted own ID so the NPC's theft-detection bark can be tagged/voiced separately from the player menu line
+# VOCK Add Ons -- own-ID fix: pickup_p_proc's floater reused the PC-only BOption(105) text, so the NPC bark could not be voiced separately.
+# pickup_p_proc: replaces the floater(105) reuse.
 {2100}{cmdr26}{Time to die.}
