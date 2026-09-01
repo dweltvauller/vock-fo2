@@ -15,14 +15,12 @@
            Created: April 09 1998
 
            Updated:
-           VOCK:
-             1. GRUTHAR_NO_LIKE_YOU uses perceived_rep_negative, not self_rep_negative —
-                carried forward from RPU.
-             2. Node015/Node016/Node017: Reply(USEDUDENAME(x, x1)) concatenated mstr(x) +
-                dude_name + mstr(x1) in one Reply() — only the first tagged mstr() ever
-                voices, so the trailing mstr(x1) half was permanently silent. Replaced each
-                with a single new merged VOCK Add Ons msg ID (2171/2174/2177) that bakes in
-                "human" (Gruthar's own address word for the PC) in place of dude_name.
+           VOCK changes:
+             Dialogue lines the engine assembled at runtime from several message
+             fragments (with the player's name spliced in) now play as a single
+             pre-written line, so the recorded voice matches the on-screen text.
+             Merged lines use "human" where the player's name used to appear.
+             Affected nodes: Node015, Node016, Node017.
 */
 
 /* Include Files */
