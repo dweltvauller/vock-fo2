@@ -12,18 +12,16 @@
            Created: May 6, 1998
 
            Updated:
-           (VOCK) Node003's float and Node006's two Reply() calls now play a single merged msg
-           directly instead of concatenating mstr(lead-in)+made_man_name(or dude_name)+mstr(tail) --
-           the VA recorded keith3/keith8/keith9 with the PC name slot left blank (not substituted
-           with anything), so the merged msgs (1350-1352) bake the name-dropped text in directly
-           instead of splicing made_man_name/dude_name in at runtime (see nckeiwri.msg VOCK Add Ons,
-           same pattern as ncchrwri's fix).
-           (VOCK) Node014's Reply now plays msg 1355+has_rep_slaver instead of concatenating
-           mstr(355 + has_rep_slaver) + mstr(357) -- only the first mstr() in a concatenation ever
-           triggers voice, so mstr(357) ("You better git.") was a dead tag (keith20) that could never
-           voice. Merged 355+357 and 356+357 into new msgs 1355/1356, reusing tags keith18/keith19
-           (their recordings need to be extended to include the "You better git." tail). keith20's tag
-           was stripped off the old 357 entry, left in place untagged for reference.
+           VOCK changes:
+             Node003's float and Node006's two lines were built at runtime with
+             the player's name (or made-man name) spliced in. The VA recorded them
+             with the name slot left blank, so the merged lines (1350-1352) drop
+             the name entirely.
+             Node014's line concatenated mstr(355 + has_rep_slaver) + mstr(357),
+             and only the first fragment ever voiced, leaving "You better git."
+             (keith20) silent. It now plays a single merged line, 1355 or 1356.
+             keith20's tag was stripped from the old 357 entry, left untagged for
+             reference.
 */
 
 /* Include Files */
@@ -251,7 +249,7 @@ procedure Node002 begin
    floater_bad(201);
 end
 procedure Node003 begin
-   float_msg(self_obj, mstr(1350), FLOAT_COLOR_NORMAL); //VOCK: was float_msg(self_obj, mstr(220) + made_man_name + mstr(1220), FLOAT_COLOR_NORMAL) (see file header log)
+   float_msg(self_obj, mstr(1350), FLOAT_COLOR_NORMAL); //VOCK: was float_msg(self_obj, mstr(220) + made_man_name + mstr(1220), FLOAT_COLOR_NORMAL)
 end
 procedure Node004 begin
    floater_bad(230);
@@ -262,9 +260,9 @@ end
 procedure Node006 begin
    if (node_6) then begin
       if (self_family == dude_family) then begin
-         Reply(1351); //VOCK: was Reply(mstr(252) + made_man_name + mstr(1252)) (see file header log)
+         Reply(1351); //VOCK: was Reply(mstr(252) + made_man_name + mstr(1252))
       end else if ((get_mystery_flag(MYSTERY_STATE_SOLVED)) or (get_mystery_flag(MYSTERY_STATE_BAD_SOLVED))) then begin
-         Reply(1352); //VOCK: was Reply(mstr(253) + dude_name + mstr(1253)) (see file header log)
+         Reply(1352); //VOCK: was Reply(mstr(253) + dude_name + mstr(1253))
       end else begin
          Reply(254);
       end
@@ -345,7 +343,7 @@ procedure Node013 begin
    NOption(346, Node026, 004);
 end
 procedure Node014 begin
-   Reply(1355 + has_rep_slaver); //VOCK: was Reply(mstr(355 + has_rep_slaver) + mstr(357)) (see file header log)
+   Reply(1355 + has_rep_slaver); //VOCK: was Reply(mstr(355 + has_rep_slaver) + mstr(357))
    BOption(358, Node015, 004);
    NOption(359, Node999, 004);
 end

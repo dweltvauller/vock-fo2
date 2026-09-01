@@ -139,14 +139,14 @@
 {1252}{}{. Everybody treating you all right? Anything I can do for you?}
 {1253}{}{. We owe you big, and the Wrights always pay their debts. What can I do for you?}
 
-# VOCK Add Ons
-# was 220+made_man_name+1220; VA recorded keith3 with no PC name spoken
+# VOCK Add Ons -- PC-name splice fix (Node003/Node006) + dead-tag merge (Node014).
+# Node003: replaces 220 + made-man-name + 1220 (name slot left blank).
 {1350}{keith3}{Hey. What's goin' on?}
-# was 252+made_man_name+1252; VA recorded keith8 with no PC name spoken
+# Node006: replaces 252 + made-man-name + 1252 (name slot left blank).
 {1351}{keith8}{How's it goin'. Everybody treating you all right? Anything I can do for you?}
-# was 253+dude_name+1253; VA recorded keith9 with no PC name spoken
+# Node006: replaces 253 + PC + 1253 (name slot left blank).
 {1352}{keith9}{Thanks for finding out who killed Richard. We owe you big, and the Wrights always pay their debts. What can I do for you?}
-# Merged 355+357 (Node014's non-slaver variant) so keith18's recording covers the full displayed text instead of only voicing 355's half.
+# Node014: replaces 355 + 357 (non-slaver variant).
 {1355}{keith18}{Naw... We don't hire muscle like the other families, 'least not now. You better git.}
-# Merged 356+357 (Node014's slaver variant) so keith19's recording covers the full displayed text instead of only voicing 356's half.
+# Node014: replaces 356 + 357 (slaver variant).
 {1356}{keith19}{Naw... We don't traffic with slaver trash like the other families. You better git.}

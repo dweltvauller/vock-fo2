@@ -12,13 +12,13 @@
            Created: May 6, 1998
 
            Updated:
-           (VOCK) Node001/Node003's floats and Node006/Node011's Reply() calls now play a single
-           merged msg directly instead of concatenating mstr(lead-in)+dude_name(or dude_family_name)
-           +mstr(tail) -- the VA recorded cw1/cw2/cw3/cw8/cw9/cw10/cw16/cw17/cw24 with the PC name
-           slot left blank (not substituted with anything), so the merged msgs (1300-1308) bake the
-           name-dropped text in directly instead of splicing dude_name/dude_family_name in at runtime
-           (see ncchrwri.msg VOCK Add Ons). The now-unused is_insert_message macro and
-           floater_rand_with_check calls were removed from Node001/Node003 accordingly.
+           VOCK changes:
+             Christopher Wright's floats in Node001/Node003 and lines in
+             Node006/Node011 were built at runtime with the player's name (or
+             family name) spliced in. The VA recorded them with the name slot left
+             blank, so the merged lines (1300-1308) drop the name entirely. The
+             now-unused is_insert_message / floater_rand_with_check calls were
+             removed from Node001/Node003.
 */
 
 /* Include Files */
