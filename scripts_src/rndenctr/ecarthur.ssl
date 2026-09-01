@@ -15,19 +15,13 @@
            Created:
 
            Updated:
-           (VOCK) Added Node850: once Fallout2_enclave_destroyed (the same post-endgame flag
-           New Reno/Vault City content already checks, e.g. nckitty.ssl/ncftully.ssl/vcmclure.ssl)
-           shows the PC has beaten Frank Horrigan and won the game, Arthur throws out the
-           "VOCK Easter Eggs" bonus line (arth30, msg 302) as ambient chatter. Purely additive --
-           talk_p_proc/dialogue is untouched, so clicking him still always opens his normal
-           dialogue tree.
-
-           Driven by a self-rescheduling timed_event_p_proc timer (TIMER_VOCK_ENDGAME_FLOAT,
-           armed from map_enter_p_proc, re-arms itself every random(30,40) game-ticks), gated on
-           self_can_see_dude and not combat_is_initialized -- this matches vanilla FO2's own
-           post-endgame ambient-float pattern, found in the Vault City generic-citizen family
-           (vcdwnbar.ssl/vcbarcit.ssl/vcgreg.ssl/etc.: their own timed_event_p_proc timers call a
-           Node the same way once Fallout2_enclave_destroyed is true).
+           VOCK changes:
+             Added Node850: once the Enclave is destroyed (the post-endgame flag),
+             Arthur throws out an ambient easter-egg line (arth30, msg 302) on a
+             self-rescheduling timer, matching vanilla FO2's post-endgame ambient
+             floats. Dialogue is untouched. Also gave the repeat-visit
+             floater(random(300,301)) real voiced lines (arth28/arth29); killap's
+             expansion added the call but left the messages commented out.
 */
 
 /* Include Files */
@@ -52,7 +46,7 @@
 #include "../headers/specenc.h"
 #include "../headers/rndholy1.h"
 
-#define TIMER_VOCK_ENDGAME_FLOAT (850)  // VOCK: post-endgame ambient bonus-float timer (Node850)
+#define TIMER_VOCK_ENDGAME_FLOAT (850)  //VOCK: post-endgame ambient bonus-float timer (Node850)
 
 /* Standard Script Procedures */
 procedure start;
@@ -93,7 +87,7 @@ procedure Node020;
 
 procedure cycleTalk;
 procedure checkAllInPos;
-procedure Node850;                                      // VOCK: post-endgame bonus-track float
+procedure Node850;                                      //VOCK: post-endgame bonus-track float
 
 
 variable Node2count := 0;
@@ -177,7 +171,7 @@ procedure timed_event_p_proc begin
          add_timer_event(self_obj, 10, TIMER_MOVE_EXIT);
    end
 /* All of the above is pretty much encounter one stuff */
-   // VOCK: post-endgame ambient float timer. Mirrors vanilla FO2's own pattern for this (Vault
+   //VOCK: post-endgame ambient float timer. Mirrors vanilla FO2's own pattern for this (Vault
    // City generic citizens, e.g. vcdwnbar.ssl's timed_event_p_proc calling its Node002) -- a
    // self-rescheduling timer, gated on self_can_see_dude and not being in combat, that calls a
    // Node once Fallout2_enclave_destroyed is true. No cooldown var or probability roll needed;
@@ -198,7 +192,7 @@ procedure map_enter_p_proc begin
    set_self_team(TEAM_RND_KNIGHTS);
    set_self_ai(AI_TOUGH_GUARD);
 
-   // VOCK: arm the post-endgame ambient float timer. Always armed regardless of which encounter
+   //VOCK: arm the post-endgame ambient float timer. Always armed regardless of which encounter
    // iteration this is or the endgame state -- timed_event_p_proc itself checks
    // Fallout2_enclave_destroyed before doing anything, and just keeps re-arming either way, same
    // as vanilla's own ambient-float timers (e.g. vcdwnbar.ssl).
@@ -376,7 +370,7 @@ procedure Node001 begin
    NLowOption(106, Node018);
 end
 
-// VOCK: post-endgame bonus-track float. arth30 (msg 302, "VOCK Easter Eggs") is called here as
+//VOCK: post-endgame bonus-track float. arth30 (msg 302, "VOCK Easter Eggs") is called here as
 // ambient chatter -- from the TIMER_VOCK_ENDGAME_FLOAT loop in timed_event_p_proc (armed from
 // map_enter_p_proc) as ambient ONLY, never from talk_p_proc -- see timed_event_p_proc for the
 // gating.

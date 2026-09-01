@@ -83,8 +83,8 @@
 
 {200}{brige17}{AAAAAAAHHHHHHHHhhhhhh!}
 
-# VOCK Add Ons
-# 2200: untagged twin of 200 (brige17) used only for the player's death float in killPlayer() (dude_obj, not self_obj). Keeps the PC's scream from ever playing back in the Keeper's voice actor's voice.
+# VOCK Add Ons -- unblocked a recorded-but-unused line and split a shared scream.
+# killPlayer(): untagged twin of 200, so the player's death float never plays in the Keeper's voice.
 {2200}{}{AAAAAAAHHHHHHHHhhhhhh!}
-# 2201: Node008 continuation option so Reply(168)/brige9 actually displays before the kill fires -- engine skips the reply screen with zero options queued after it.
+# Node008: continuation option so Reply(168)/brige9 displays before the kill fires (the engine skips a reply with no options queued).
 {2201}{}{[END]}

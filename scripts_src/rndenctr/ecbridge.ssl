@@ -15,16 +15,13 @@
            Created:
 
            Updated:
-           (VOCK) Node008 now plays Reply(168)
-           (msg 168/brige9 was tagged and recorded but never called anywhere). killPlayer()'s
-           float_msg(dude_obj,...) now plays msg 2200 instead of msg 200 (msg 200 = brige17, the
-           Keeper's own VA-tagged death scream -- split onto an untagged copy, see "VOCK Add Ons"
-           in ecbridge.msg, so the player's death float can't play in the Keeper's voice).
-           (VOCK) Node008's Reply(168) never actually displayed/played in-game because no option
-           was queued after it, so the engine skipped straight to end_dialogue/killSelf. Added a
-           continuation option (msg 2201/"[END]", untagged placeholder) so brige9 plays first.
-           give_xp(EXP_DEAD_ROBE_MAN)/doWhat moved out of Node008 into new procedure Node008End,
-           called by the [END] option, so they only fire once the player actually picks it.
+           VOCK changes:
+             Node008 now plays Reply(168) (brige9), which was recorded but never
+             called; a continuation option (2201, "[END]") was added so it
+             actually displays, and give_xp/doWhat moved to a new Node008End that
+             the option calls. killPlayer()'s player-death float uses an untagged
+             twin (2200) of the Keeper's scream (200) so the player's scream never
+             plays in the Keeper's voice.
 */
 
 /* Include Files */
@@ -400,7 +397,7 @@ procedure Node007 begin
 end
 
 procedure Node008 begin
-   //VOCK: added Reply(168) -- recorded but unused in baseline (see file header log)
+   //VOCK: added Reply(168) -- recorded but unused in baseline
    Reply(168);
    //VOCK: a queued option is required for Reply(168) to actually display/play -- with zero options
    //the engine skips straight past the reply screen to end_dialogue/killSelf. 2201/[END] is an
@@ -431,7 +428,7 @@ end
 
 procedure killPlayer begin
    float_msg(self_obj, mstr(170), FLOAT_MSG_NORMAL);
-   //VOCK: was mstr(200), the Keeper's own VA tag -- split to untagged msg 2200 (see file header log)
+   //VOCK: was mstr(200), the Keeper's own VA tag -- split to untagged msg 2200
    float_msg(dude_obj, mstr(2200), FLOAT_MSG_RED);
    critter_damage(dude_obj, 10000);
 end

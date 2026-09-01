@@ -1,13 +1,9 @@
 /*
-   (VOCK) timed_event_p_proc's fixed_param==2 branch (fired when Kurisu arrives home at the
-   Primitive Tribe, queued from critter_p_proc) called start_dialog_at_node(Node017) to play her
-   "we be home at last" conclusion line (msg 600). That macro (command.h) hardcodes
-   start_gdialog(NAME,self_obj,4,-1,-1) -- no portrait -- so this proximity/arrival-triggered
-   dialogue showed no talking head, while dialogue triggered by directly using her (talk_p_proc,
-   which already passes HEAD_KUR/BACKGROUND_JUNKTOWN or BACKGROUND_WASTELAND depending on state)
-   worked fine. Swapped to th_start_dialog_at_node(Node017,HEAD_KUR,BACKGROUND_WASTELAND) (added
-   via talking_heads.h) so this entry point shows the same portrait as the rest of her post-rescue
-   dialogue. Same fix pattern as slvcamp/slvcc1.ssl (Don). No other logic changed.
+   VOCK changes:
+     Kurisu's "we be home at last" line, triggered when she arrives home (not by
+     talking to her directly), opened dialogue with no portrait. It now uses
+     th_start_dialog_at_node so this entry point shows her talking head like the
+     rest of her post-rescue dialogue. Same fix as slvcamp/slvcc1.ssl (Don).
 */
 
 /* Include Files */
@@ -156,7 +152,7 @@ procedure timed_event_p_proc begin
       if (local_var(LVAR_Herebefore) == 0) then
          set_local_var(LVAR_Herebefore,1);
       set_local_var(LVAR_Home_Tile,self_tile);
-      // (VOCK) was start_dialog_at_node(Node017); -- see file header comment
+      //VOCK: was start_dialog_at_node(Node017)
       th_start_dialog_at_node(Node017,HEAD_KUR,BACKGROUND_WASTELAND);
    end else if (fixed_param == 3) then begin
       if (not(combat_is_initialized)) then begin

@@ -15,13 +15,11 @@
            Created:
 
            Updated:
-           (VOCK) Node021: moved the Node021Rep increment to after the ==0 check instead of
-           before it. As written, the counter was incremented first and then compared to 0 on
-           every call, so it could never actually be 0 at check time -- elise23 (the "== 0"
-           branch) was permanently dead code and elise30 played unconditionally on every visit.
-           Now elise23 plays once, the first time this beat is ever reached, and elise30 takes
-           over on every visit after that, matching what the two lines' own text implies (a
-           first-time pitch vs. a repeat-visit short version).
+           VOCK changes:
+             Node021 incremented Node021Rep before checking it against 0, so the
+             "== 0" branch (elise23) was dead code and elise30 played on every
+             visit. The increment now happens after the check, so elise23 plays
+             once and elise30 takes over afterward.
 */
 
 /* Include Files */
@@ -547,7 +545,7 @@ procedure Node020 begin
    end
 end
 
-// (VOCK) fix: check Node021Rep before incrementing it, not after -- see header Log.
+//VOCK: check Node021Rep before incrementing it, not after
 procedure Node021 begin
    if (Node021Rep == 0) then begin
       Node021Rep += 1;

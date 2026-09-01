@@ -17,28 +17,19 @@
            Credit given here to Tommy "the balls" who wrote the weapon upgrade code.
 
            Updated:
-           (VOCK) Node111 (magnum/Desert Eagle) and Node112 (hunting rifle/assault rifle/FN FAL)
-           rewritten from string-concatenation ("Reply(temp_msg)" built from multiple mstr() calls
-           glued together) into a weapon picker + one leaf node per weapon. This fixes a live
-           concatenation dead-tag bug: only the first mstr() in a concatenated Reply() gets voice,
-           so skeet49/skeet60 (Desert Eagle) went silent whenever the PC carried both handguns, and
-           skeet51/52/53/61/62/63 (all three rifle-specific lines) were ALWAYS silent because
-           skeet50 was unconditionally first in every branch. Every leaf node below now calls
-           Reply() with exactly one existing mstr() id, so every already-recorded line is reachable
-           on its own -- no new NPC-voiced content needed, no re-recording. Node111/Node112 are
-           now "OPTION ONLY NODEs" (no Reply call before the picker options), the same pattern
-           already used elsewhere in vanilla FO2 (see dcmetzge.ssl Node005, dcrebecc.ssl Node003).
-           New PC-facing (unvoiced) menu lines 900-904 added under gcskeetr.msg's VOCK Add Ons.
-           Node112's picker also reuses msg 627 ("Too rich for my blood...") for its afford-check
-           fallback instead of 617 -- 627 existed in the file already but was never referenced by
-           any code path; this closes that orphan instead of leaving it dead.
+           VOCK changes:
+             Node111 (handguns) and Node112 (rifles) were single Reply() calls
+             built from concatenated fragments, so only the first fragment voiced
+             -- the Desert Eagle lines and every rifle-specific line were silent.
+             They are now a weapon picker plus one leaf node per weapon, each
+             calling Reply() with a single existing message, so every recorded
+             line is reachable. New unvoiced PC menu lines 900-904 were added, and
+             Node112's afford-check reuses the previously orphaned msg 627.
 
-           (VOCK) Added Node850: once Fallout2_enclave_destroyed (the same post-endgame flag
-           New Reno/Vault City content already checks, e.g. nckitty.ssl/ncftully.ssl/vcmclure.ssl)
-           shows the PC has beaten Frank Horrigan and won the game, Skeeter throws out a random
-           float from the skeet65-68 bonus tracks (msg 800-803) as ambient
-           chatter. Purely additive -- talk_p_proc/dialogue is untouched, so clicking him still
-           always opens his normal dialogue tree.
+             Added Node850: once the Enclave is destroyed, Skeeter throws out an
+             ambient easter-egg float (skeet65-68, msgs 800-803) on a
+             self-rescheduling timer, matching vanilla FO2's post-endgame floats.
+             Dialogue is untouched.
 
 */
 
@@ -66,7 +57,7 @@
 #define Vault_Known             (1)     // Temp Until get command from Jesse
 #define Visited_City            (1)     // Temp Until get command from Jesse
 
-#define TIMER_VOCK_ENDGAME_FLOAT (850)  // VOCK: post-endgame ambient bonus-float timer (Node850)
+#define TIMER_VOCK_ENDGAME_FLOAT (850)  //VOCK: post-endgame ambient bonus-float timer (Node850)
 
 /* Standard Script Procedures */
 procedure start;
@@ -79,7 +70,7 @@ procedure description_p_proc;
 procedure use_skill_on_p_proc;
 procedure damage_p_proc;
 procedure map_enter_p_proc;
-procedure timed_event_p_proc;          // VOCK: added for the post-endgame ambient float timer
+procedure timed_event_p_proc;          //VOCK: added for the post-endgame ambient float timer
 procedure combat;
 
 /* Script Specific Procedure Calls */
@@ -161,7 +152,7 @@ procedure Node138;
 procedure Node139;
 procedure Node140;
 procedure Node150;
-procedure Node850;                                      // VOCK: post-endgame bonus-track float
+procedure Node850;                                      //VOCK: post-endgame bonus-track float
 
 //~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
 // The Following lines are for anything that is not needed to be
@@ -217,13 +208,13 @@ procedure map_enter_p_proc begin
    set_self_team(TEAM_GECKO);
    set_self_ai(AI_TOUGH_CITIZEN);
 
-   // VOCK: arm the post-endgame ambient float timer. Always armed regardless of endgame state --
+   //VOCK: arm the post-endgame ambient float timer. Always armed regardless of endgame state --
    // timed_event_p_proc itself checks Fallout2_enclave_destroyed before doing anything, and just
    // keeps re-arming either way, same as vanilla's own ambient-float timers (e.g. vcdwnbar.ssl).
    add_timer_event(self_obj, game_ticks(random(30,40)), TIMER_VOCK_ENDGAME_FLOAT);
 end
 
-// VOCK: post-endgame ambient bonus-float timer. Mirrors vanilla FO2's own pattern for this
+//VOCK: post-endgame ambient bonus-float timer. Mirrors vanilla FO2's own pattern for this
 // (Vault City generic citizens, e.g. vcdwnbar.ssl's timed_event_p_proc calling its Node002) --
 // a self-rescheduling timer, gated on self_can_see_dude and not being in combat, that calls a
 // Node once Fallout2_enclave_destroyed is true. No cooldown var or probability roll needed; the
@@ -485,7 +476,7 @@ procedure Node001 begin
    floater(random(110,114));
 end
 
-// VOCK: post-endgame bonus-track float. skeet65-68 (msg 800-803) called from the
+//VOCK: post-endgame bonus-track float. skeet65-68 (msg 800-803) called from the
 // TIMER_VOCK_ENDGAME_FLOAT loop in timed_event_p_proc (armed from map_enter_p_proc) as ambient
 // ONLY, never from talk_p_proc -- see timed_event_p_proc for the gating.
 procedure Node850 begin
