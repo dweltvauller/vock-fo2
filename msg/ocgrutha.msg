@@ -139,9 +139,10 @@
 {238}{}{I understand, Gruthar.}
 {239}{}{Yes. Matt no good.}
 
-# VOCK Add Ons
-# dude_name splice fix: Node015/016/017 merged mstr(x)+dude_name+mstr(x1) takes into
-# one line each, with "human" baked in. No braces in these comments (parser reads them).
+# VOCK Add Ons -- dude_name splice fix: merge mstr(x)+dude_name+mstr(x1) into one voiced line, "human" baked in. No braces in comments (parser reads them).
+# Node015: replaces the 171 + 231 splice.
 {2171}{gruth23}{Hello, human. Have you examined the machine?}
+# Node016: replaces the 174 + 232 splice.
 {2174}{gruth24}{I do not understand the workings of such things but I trust you, human. I will wait for your return.}
+# Node017: replaces the 177 + 233 splice.
 {2177}{gruth25}{Hello, human. Have you found the part to fix the machine?}
