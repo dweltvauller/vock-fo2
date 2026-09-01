@@ -19,12 +19,12 @@
            Created: Febuary 3, 1998
 
            Updated:
-           (VOCK) Node013/Node015/Node017's Reply()
-           calls now play a single merged msg directly instead of concatenating
-           mstr(lead-in)+dude_name+mstr(tail) -- the VA re-recorded torr24/torr25/torr28/torr29/
-           torr48 saying "friend" instead of the PC's name, so the merged msgs (1230/1231/1250/
-           1251/1280) bake "friend" into the text instead of splicing dude_name in at runtime
-           (see kctorr.msg VOCK Add Ons).
+           VOCK changes:
+             Dialogue lines the engine assembled at runtime from several message
+             fragments (with the player's name spliced in) now play as a single
+             pre-written line, so the recorded voice matches the on-screen text.
+             Merged lines use "friend" where the player's name used to appear.
+             Affected nodes: Node013, Node015, Node017.
 */
 
 /* Include Files */
@@ -708,9 +708,9 @@ end
 
 procedure Node013 begin
    if dude_low_iq then
-      Reply(1230);   //VOCK: was Reply(mstr(229) + dude_name + mstr(230)) -- merged so torr24 covers full line (see kctorr.msg)
+      Reply(1230);   //VOCK: was Reply(mstr(229) + dude_name + mstr(230))
    else
-      Reply(1231);   //VOCK: was Reply(mstr(229) + dude_name + mstr(231)) -- merged so torr25 covers full line (see kctorr.msg)
+      Reply(1231);   //VOCK: was Reply(mstr(229) + dude_name + mstr(231))
 
    NLowOption(232, Node999);
    NOption(233, Node999, 004);
@@ -734,9 +734,9 @@ end
 
 procedure Node015 begin
    if dude_low_iq then
-      Reply(1250);   //VOCK: was Reply(mstr(249) + dude_name + mstr(250)) -- merged so torr28 covers full line (see kctorr.msg)
+      Reply(1250);   //VOCK: was Reply(mstr(249) + dude_name + mstr(250))
    else
-      Reply(1251);   //VOCK: was Reply(mstr(249) + dude_name + mstr(251)) -- merged so torr29 covers full line (see kctorr.msg)
+      Reply(1251);   //VOCK: was Reply(mstr(249) + dude_name + mstr(251))
 
    GLowOption(252, Node008);
    GLowOption(253, Node999);
@@ -769,7 +769,7 @@ procedure Node016 begin
 end
 
 procedure Node017 begin //shouldn't get here with iq > 3
-   Reply(1280);   //VOCK: was Reply(mstr(279) + dude_name + mstr(280)) -- merged so torr48 covers full line (see kctorr.msg)
+   Reply(1280);   //VOCK: was Reply(mstr(279) + dude_name + mstr(280))
    NLowOption(dude_name + mstr(281), Node008);
    NLowOption(282, Node999);
 end

@@ -14,11 +14,11 @@
 
            Created: Sept 10, 1998
 
-        VOCK: pickup_p_proc's floater() call was reused msg 105, which is also the PC-only
-        BOption(105) menu text in Node001 ("Time to die."). That collision left the
-        commander's own theft-detection bark impossible to tag without also tagging the
-        player's line. Minted a new msg 2100/cmdr26 under "# VOCK Add Ons" in
-        vock-fo2/msg/ccmandr.msg and repointed pickup_p_proc to it. Nothing else changed.
+           Updated:
+           VOCK changes:
+             pickup_p_proc's theft-detection floater reused msg 105, which is also
+             the player's BOption(105) menu text in Node001, so the NPC bark could
+             not be tagged separately. It now uses its own message, 2100.
 */
 
 /* Include Files */
@@ -156,7 +156,7 @@ procedure pickup_p_proc begin
    if (source_obj == dude_obj) then begin
       set_global_var(GVAR_NAVARRO_BASE_ALERT,1);
       set_local_var(LVAR_Said_Intruder,1);
-      floater(2100);  // VOCK: was floater(105), which collides with Node001's BOption(105) PC text; see msg 2100/cmdr26
+      floater(2100);  //VOCK: was floater(105) (collided with Node001's BOption(105) PC text)
    end
 end
 

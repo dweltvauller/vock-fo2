@@ -12,14 +12,11 @@
            Created: August 22, 1998
 
            Updated:
-           (VOCK) Node028's the_rand==0 and the_rand==3 payment-reaction branches no longer splice
-           the PC's literal dude_name mid-sentence ("...Pretty fucking good job, <name>."/"Here's
-           your money, <name>."). The VA recorded metzg68/metzg71 addressing the player as "slaver"
-           instead, so dude_name is replaced with mstr(1552) ("slaver", see dcmetzge.msg VOCK Add
-           Ons). The tagged/voiced mstr(540)/mstr(543) calls and the slaving_money interpolation are
-           unchanged -- this only fixes the displayed name text, not audio routing.
-           (VOCK) Node043's BOption(601,...) IQ gate changed from TH mod 4 to 1, matching live
-           RPU behavior.
+           VOCK changes:
+             Node028's the_rand==0 / the_rand==3 payment reactions spliced the
+             player's name mid-sentence; they now address the player as "slaver"
+             (mstr(1552)), matching what the VA recorded. Node043's BOption(601)
+             IQ gate was changed from 4 to 1 to match live RPU behavior.
 */
 
 /* Include Files */
@@ -753,9 +750,9 @@ variable slaving_money;
    if (temp_score >= slave_score_good) then begin
       the_rand := random(0, 3);
       if (the_rand == 0) then begin
-         Reply(mstr(540) + slaving_money + mstr(15401) + mstr(1552) + mstr(2540));
+         Reply(mstr(540) + slaving_money + mstr(15401) + mstr(1552) + mstr(2540));   //VOCK: mstr(1552) ("slaver") was dude_name
       end else if (the_rand == 3) then begin
-         Reply(mstr(543) + mstr(1552) + mstr(1543) + slaving_money + mstr(2543));
+         Reply(mstr(543) + mstr(1552) + mstr(1543) + slaving_money + mstr(2543));   //VOCK: mstr(1552) ("slaver") was dude_name
       end else begin
          Reply(mstr(540 + the_rand) + slaving_money + mstr(1540));
       end

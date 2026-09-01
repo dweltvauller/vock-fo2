@@ -47,12 +47,14 @@
 {207}{arth27}{Well, we must continue our quest for the Hand Grenade of Antioch. Come, Patsy.}
 
 #added by killap - RP 1.3
-#{300}{}{Our quest has been fulfilled!}
-#{301}{}{Arthur, at your service.}
+{300}{}{Our quest has been fulfilled!}
+{301}{}{Arthur, at your service.}
 
-#VOCK Add Ons
-{300}{arth28}{That was no ordinary rat!}
-{301}{arth29}{This is exactly why we needed the Holy Hand Grenade of Antioch!}
+# VOCK Add Ons -- new flavor lines for Arthur's repeat-visit float (killap's expansion added floater(random(300,301))). These replace what killap's 300/301 said with more in-character quips; the script reads 2300/2301 now, and killap's 300/301 are kept above for reference.
+# talk_p_proc: floater(random(2300,2301)).
+{2300}{arth28}{That was no ordinary rat!}
+{2301}{arth29}{This is exactly why we needed the Holy Hand Grenade of Antioch!}
 
-#VOCK Easter Eggs
-{302}{arth30}{This new method of science intrigues me. Tell me again how you can place a suit of power armor in the storage unit of another suit of power armor.}
+# VOCK Easter Eggs
+# Node850: post-endgame ambient float (fires once the Enclave is destroyed).
+{2302}{arth30}{This new method of science intrigues me. Tell me again how you can place a suit of power armor in the storage unit of another suit of power armor.}

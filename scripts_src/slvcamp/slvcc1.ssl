@@ -3,12 +3,10 @@
 */
 
 /*
-   (VOCK) critter_p_proc calls start_dialog_at_node(Node001) when the player gets close enough to
-   force a talk. That macro (command.h) hardcodes start_gdialog(NAME,self_obj,4,-1,-1) -- no
-   portrait -- so dialogue triggered by walking up to Don showed no talking head, while dialogue
-   triggered by directly using him (talk_p_proc, which already passes HEAD_DON/BACKGROUND_JUNKTOWN)
-   worked fine. Swapped to th_start_dialog_at_node(Node001,HEAD_DON,BACKGROUND_JUNKTOWN) (added via
-   talking_heads.h) so both entry points show the same portrait. No other logic changed.
+   VOCK changes:
+     Walking up to Don forced a talk that opened dialogue with no portrait (only
+     talking to him directly showed his talking head). Both entry points now use
+     th_start_dialog_at_node, so both show the portrait.
 */
 
 
@@ -173,7 +171,7 @@ procedure critter_p_proc begin
       //   set_local_var(LVAR_Force_Talk,1);
       //   start_dialog_at_node(Node001);
    end else if ( (tile_distance(dude_tile, self_tile) < 5) and (local_var(LVAR_Force_Talk) == 0) ) then begin
-      // (VOCK) was start_dialog_at_node(Node001); -- see file header comment
+      //VOCK: was start_dialog_at_node(Node001)
       th_start_dialog_at_node(Node001,HEAD_DON,BACKGROUND_JUNKTOWN);
    end
 end

@@ -177,46 +177,42 @@
 {2001}{goris51}{I believe I am suffering from radiation poisoning. Do you have anything to aid me?}
 {2002}{goris52}{I believe I have been poisoned. Do you have anything to aid me?}
 
-# VOCK Add Ons
-# Concatenation fix for lines calling dude_msg (replaced with brother) or just regular concatenation.
-# New msg ID = old msg ID + 2000
-
-# Concatenation only
-# 112 + 113
+# VOCK Add Ons -- concatenation fix: lines the engine glued from several message fragments now play as one pre-written line; PC-name splices bake in "brother". New ID = lead fragment's ID + 2000.
+# Plain concatenation:
+# Node002: replaces 112 + 113.
 {2112}{goris3}{So you've talked with Gruthar. He has a rather inflated opinion of me. I don't really know half as much as he thinks I do. Anyway... So you're an outsider! I've seen a few like you; some are staying here in the vault, but you look different. You appear to be more 'seasoned,' if you know what I mean. I'll bet you've been around a bit and accomplished things. Am I right?}
-# 120 + 122
+# Node003: replaces 120 + 122.
 {2120}{goris5}{It's a deal! I would love to hear anything you can tell me. What would you like to know?}
-# 121 + 122
+# Node003: replaces 121 + 122.
 {2121}{goris6}{Besides, I couldn't refuse a friend of Gruthar. What would you like to know?}
-
-# Concatenation with PC name
-# 111 + PC + 215 + 113
+# With PC name:
+# Node002: replaces 111 + PC + 215 + 113.
 {2111}{goris2}{It's a pleasure to meet you, brother. So you're an outsider! I've seen a few like you; some are staying here in the vault, but you look different. You appear to be more 'seasoned,' if you know what I mean. I'll bet you've been around a bit and accomplished things. Am I right?}
-# PC + 1158
+# Node014: replaces PC + 1158.
 {3158}{goris43}{Brother, but you've got too many people with you now. I'll wait here until a position opens.}
-# 204 + PC + 216
+# Node021: replaces 204 + PC + 216.
 {2204}{goris55}{What can I do for you, brother?}
-# 1000 + PC + 1156
+# Node1000: replaces 1000 + PC + 1156.
 {3000}{goris31}{Yes, brother?}
-# 1019 + PC + 1157
+# Node1001: replaces 1019 + PC + 1157.
 {3019}{goris32}{I'm healed and ready to go, brother.}
-# 1020 + PC + 1157
+# Node1001: replaces 1020 + PC + 1157.
 {3020}{goris33}{I'm almost completely healed, brother.}
-# 1021 + PC + 1157
+# Node1001: replaces 1021 + PC + 1157.
 {3021}{goris34}{I'm mostly healed, but I could use some assistance when we get the chance, brother.}
-# 1022 + PC + 1157
+# Node1001: replaces 1022 + PC + 1157.
 {3022}{goris35}{I've healed myself as much as I can, but I'm still pretty badly hurt, brother.}
-# 1041 + PC + 1157
+# Node1002: replaces 1041 + PC + 1157.
 {3041}{goris36}{I'll be waiting here for you when you get back, brother.}
-# 1060 + PC + 1157
+# Node1003: replaces 1060 + PC + 1157.
 {3060}{goris37}{I do my best to look inconspicuous, brother.}
-# 1079 + PC + 1157
+# Node1007: replaces 1079 + PC + 1157.
 {3079}{goris38}{I'll stay as close as I can, brother.}
-# 1098 + PC + 1157
+# Node1007: replaces 1098 + PC + 1157.
 {3098}{goris39}{I'll move out a bit and give you room to breathe, brother.}
-# 1117 + PC + 1157
+# Node1007: replaces 1117 + PC + 1157.
 {3117}{goris40}{I'll hang back and give you some room, brother.}
-# 1137 + PC + 1157
+# Node1100: replaces 1137 + PC + 1157.
 {3137}{goris42}{I've learned a lot from our travels together. I'll gladly come with you, brother.}
-# 1136 + PC + 1158
+# Node1100: replaces 1136 + PC + 1158.
 {3136}{goris41}{I'm sorry, brother, but you've got too many people with you now. I'll wait here until a position opens.}

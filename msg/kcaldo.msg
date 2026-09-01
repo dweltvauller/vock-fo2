@@ -157,16 +157,12 @@
 {921}{}{Moar? Ook.}
 {922}{}{Me no share. Byee.}
 
-# VOCK Add Ons
-# PC-name splice fix: Node002 was Reply(mstr(300) + dude_name + mstr(301)) -- merged so aldo2 covers
-# the full line without splicing the PC's literal name mid-sentence. "Oh mighty one" replaces the
-# dude_name splice.
+# VOCK Add Ons -- PC-name splice fix: merged fragments now play as one pre-written line; the splice is replaced with a fixed address ("mighty one" / "friend").
+# Node002: replaces 300 + PC + 301.
 {1300}{aldo2}{The Chosen One. Oh mighty one, you must be very important and powerful among your people.
  Surely one of your great (hic) stature would be happy to follow our custom of tipping the town greeter.
  (urp)}
-# PC-name splice fix: Node003 was Reply(mstr(350) + dude_name + mstr(351)) -- merged so aldo3 covers
-# the full line. The original already led with "friend" before the name, so the splice is simply
-# dropped rather than doubled.
+# Node003: replaces 350 + PC + 351.
 {1350}{aldo3}{Well, friend, since you're new to these (hic) parts, and look as though you could use (urp)
  some pointers, I'll let you know that it's customary to tip the town greeter before asking any
  questions and such.}

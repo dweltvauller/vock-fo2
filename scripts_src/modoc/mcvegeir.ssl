@@ -13,9 +13,11 @@
           Created: February 15, 1998
 
            Updated:
-              (VOCK) Fixed the main talk_p_proc entry point, and separately swapped the forced-dialogue
-              path's check_forced_dialog for an inlined th_start_dialog_at_node (same bug class as
-              Don/Kurisu, see slvcc1.ssl/kur.ssl) since that path lost the portrait too.
+           VOCK changes:
+             Vegeir's talking-head portrait now shows on every dialogue entry. The
+             main talk_p_proc entry and the forced-dialogue path both opened the
+             dialogue with no portrait; the forced path now uses
+             th_start_dialog_at_node like the normal entry.
 */
 
 /* Include Files */
@@ -160,7 +162,7 @@ procedure talk_p_proc begin
    end else
       if (forced_node != 0) then begin
          ndebug("calling forced dialog: "+forced_node);
-         // (VOCK) was check_forced_dialog -- that macro (command.h) hardcodes
+         //VOCK: was check_forced_dialog -- that macro (command.h) hardcodes
          // start_dialog_at_node(forced_node), which itself hardcodes
          // start_gdialog(NAME,self_obj,4,-1,-1) -- no portrait. Swapped to
          // th_start_dialog_at_node so forced dialogue shows the same portrait

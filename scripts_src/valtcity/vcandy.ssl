@@ -15,11 +15,12 @@
            Created:
 
            Updated:
-           (VOCK) Concatenated Reply()/NMessage() calls in Node001, Node003, Node009,
-           Node020, Node025, Node028, Node030, Node031, and Node035 now play single
-           merged msgs directly instead of concatenating two mstr() refs, so each
-           recorded VA line covers its full displayed text (see vcandy.msg VOCK Add
-           Ons). Audio tags are andr1-59, consecutive.
+           VOCK changes:
+             Reply()/NMessage() lines that the engine built at runtime from two
+             concatenated fragments now play as a single pre-written line, so each
+             recorded VA take covers its full displayed text. Affected nodes:
+             Node001, Node003, Node009, Node020, Node025, Node028, Node030,
+             Node031, Node035.
 */
 
 /* Include Files */
@@ -393,22 +394,22 @@ procedure Node001 begin
    else if( currentHP >= (maxHP*3)/4 ) then begin
       Heal_Barter := GOOD_RATE;
       Heal_Rate := GOOD_RATE;
-      Reply(1103);   //VOCK: was Reply(mstr(103) + " " + mstr(107)) -- merged 103+107 into new msg 1103 so andr1 covers full line
+      Reply(1103);   //VOCK: was Reply(mstr(103) + " " + mstr(107))
    end
    else if( currentHP >= maxHP/2 ) then begin
       Heal_Barter := FAIR_RATE;
       Heal_Rate := FAIR_RATE;
-      Reply(1104);   //VOCK: was Reply(mstr(104) + " " + mstr(107)) -- merged 104+107 into new msg 1104 so andr2 covers full line
+      Reply(1104);   //VOCK: was Reply(mstr(104) + " " + mstr(107))
    end
    else if( currentHP >= maxHP/4 ) then begin
       Heal_Barter := POOR_RATE;
       Heal_Rate := POOR_RATE;
-      Reply(1105);   //VOCK: was Reply(mstr(105) + " " + mstr(107)) -- merged 105+107 into new msg 1105 so andr3 covers full line
+      Reply(1105);   //VOCK: was Reply(mstr(105) + " " + mstr(107))
    end
    else begin
       Heal_Barter := HORRIBLE_RATE;
       Heal_Rate := HORRIBLE_RATE;
-      Reply(1106);   //VOCK: was Reply(mstr(106) + " " + mstr(107)) -- merged 106+107 into new msg 1106 so andr4 covers full line
+      Reply(1106);   //VOCK: was Reply(mstr(106) + " " + mstr(107))
    end
 
    if( currentHP < maxHP ) then
@@ -532,7 +533,7 @@ procedure Node003 begin
 
    if( Barter_Succeeds == 1 ) then begin
       Barter_Succeeds := 0;
-      NMessage(1135);   //VOCK: was NMessage(mstr(134) + " " + mstr(135)) -- merged into new tag andr56
+      NMessage(1135);   //VOCK: was NMessage(mstr(134) + " " + mstr(135))
    end
    else
       NMessage(135);
@@ -742,7 +743,7 @@ end
 procedure Node009 begin
    if( Barter_Succeeds == 1 ) then begin
       Barter_Succeeds := 0;
-      NMessage(1180);   //VOCK: was NMessage(mstr(179) + " " + mstr(180)) -- merged into new tag andr57
+      NMessage(1180);   //VOCK: was NMessage(mstr(179) + " " + mstr(180))
    end
    else
       NMessage(180);
@@ -965,7 +966,7 @@ end
 
 procedure Node020 begin
    if( not(dude_perk(PERK_dermal_armor_perk)) ) then
-      Reply(1241);   //VOCK: was Reply(mstr(240) + " " + mstr(241)) -- merged so andr32 covers full line
+      Reply(1241);   //VOCK: was Reply(mstr(240) + " " + mstr(241))
    else
       Reply(240);
 
@@ -1112,7 +1113,7 @@ end
 
 procedure Node025 begin
    if(not(dude_perk(PERK_phoenix_armor_perk))) then
-      Reply(1275);   //VOCK: was Reply(mstr(274) + " " + mstr(275)) -- merged so andr39 covers full line
+      Reply(1275);   //VOCK: was Reply(mstr(274) + " " + mstr(275))
    else
       Reply(274);
 
@@ -1192,7 +1193,7 @@ end
 procedure Node028 begin
    if( Barter_Succeeds == 1 ) then begin
       Barter_Succeeds := 0;
-      Reply(1294);   //VOCK: was Reply(mstr(293) + " " + mstr(294)) -- merged into new tag andr59
+      Reply(1294);   //VOCK: was Reply(mstr(293) + " " + mstr(294))
    end
    else
       Reply(294);
@@ -1209,7 +1210,7 @@ end
 procedure Node030 begin
    if( Barter_Succeeds == 1 ) then begin
       Barter_Succeeds := 0;
-      NMessage(1294);   //VOCK: was NMessage(mstr(306) + " " + mstr(307)) -- reuses 1294/andr59 (same text as Node028)
+      NMessage(1294);   //VOCK: was NMessage(mstr(306) + " " + mstr(307))
    end
    else
       NMessage(307);
@@ -1256,7 +1257,7 @@ end
 procedure Node031 begin
    if( Barter_Succeeds == 1 ) then begin
       Barter_Succeeds := 0;
-      NMessage(1316);   //VOCK: was NMessage(mstr(315) + " " + mstr(316)) -- merged into new tag andr58
+      NMessage(1316);   //VOCK: was NMessage(mstr(315) + " " + mstr(316))
    end
    else
       NMessage(316);
@@ -1335,7 +1336,7 @@ procedure Node035 begin
 
    if( Barter_Succeeds == 1 ) then begin
       Barter_Succeeds := 0;
-      NMessage(1180);   //VOCK: was NMessage(mstr(336) + " " + mstr(337)) -- reuses 1180/andr57 (same text as Node009)
+      NMessage(1180);   //VOCK: was NMessage(mstr(336) + " " + mstr(337))
    end
    else
       NMessage(337);

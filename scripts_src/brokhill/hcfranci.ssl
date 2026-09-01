@@ -14,11 +14,12 @@
            Created: June 4, 1998
 
            Updated:
-           (VOCK) timed_event_p_proc's float_dude() calls now read msgs 1400-1411 instead of
-           reusing Francis's own tagged 400-411 range. message_str() (mstr()) resolves purely on
-           (msg file, line id) regardless of which object the float is displayed over, so float_dude
-           re-using a tagged franci* id would have played Francis's VA audio on top of the PC's float. 1400-1411 are untagged text-identical duplicates (see
-           hcfranci.msg VOCK Add Ons).
+           VOCK changes:
+             The PC's arm-wrestle grunts in timed_event_p_proc are shown with
+             float_dude(), which resolves a message by (file, line id) only. They
+             previously reused Francis's own tagged lines 400-411, which could play
+             Francis's recorded voice over the player's float. They now read
+             untagged text-identical duplicates, 1400-1411.
 */
 
 /* Include Files */
@@ -183,7 +184,7 @@ procedure timed_event_p_proc begin
       // Handle arm-wrestling floats.
       if( fight_round < 4 ) then begin
          floater( random( 400, 409 ) );
-         // (VOCK) was float_dude( random( 400, 409 ) ) -- see hcfranci.msg VOCK Add Ons
+         //VOCK: was float_dude( random( 400, 409 ) )
          float_dude( random( 1400, 1409 ) );
          if( map_var( MVAR_Phil_Dead ) == 0 ) then
             float_phil( random( 500, 513 ) );
@@ -194,14 +195,14 @@ procedure timed_event_p_proc begin
       else if( fight_round == 4 ) then begin
          if( you_lose == 0 ) then begin
             floater( 410 );
-            // (VOCK) was float_dude( 411 ) -- see hcfranci.msg VOCK Add Ons
+            //VOCK: was float_dude( 411 )
             float_dude( 1411 );
             if( map_var( MVAR_Phil_Dead ) == 0 ) then
                float_phil(532);
          end
          else begin
             floater( 411 );
-            // (VOCK) was float_dude( 410 ) -- see hcfranci.msg VOCK Add Ons
+            //VOCK: was float_dude( 410 )
             float_dude( 1410 );
             if( map_var( MVAR_Phil_Dead ) == 0 ) then begin
                if( dude_is_male ) then begin

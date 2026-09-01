@@ -13,10 +13,10 @@
           Created: February 15, 1998
 
            Updated:
-           (VOCK) Node050's two Reply() calls now play a single merged msg directly instead of
-           concatenating mstr(lead-in)+dude_name+mstr(tail) -- the merged msgs (650/651) bake
-           "in-law" into the text instead of splicing the PC's literal name in at runtime (see
-           mcgrisha.msg VOCK Add Ons).
+           VOCK changes:
+             Node050's two lines were each one Reply() built from two fragments
+             with the player's name spliced between; they now play single
+             pre-written lines using "in-law". Affected node: Node050.
 */
 
 /* Include Files */
@@ -845,7 +845,7 @@ procedure Node048 begin
 end
 procedure Node050 begin
    if (dude_spouse_was_female) then begin
-      Reply(650);   //VOCK: was Reply(mstr(600) + dude_name + mstr(1600)) -- merged so grish96 covers full line (see mcgrisha.msg)
+      Reply(650);   //VOCK: was Reply(mstr(600) + dude_name + mstr(1600))
       if (miria_dead) then begin
          BOption(603, Node051, 004);
       end else begin
@@ -854,7 +854,7 @@ procedure Node050 begin
       GOption(607, Node052, 004);
       NOption(g_grunt, Node999, -003);
    end else begin
-      Reply(651);   //VOCK: was Reply(mstr(601) + dude_name + mstr(1601)) -- merged so grish97 covers full line (see mcgrisha.msg)
+      Reply(651);   //VOCK: was Reply(mstr(601) + dude_name + mstr(1601))
       if (davin_dead) then begin
          BOption(602, Node051, 004);
       end else begin

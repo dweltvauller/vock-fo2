@@ -144,16 +144,18 @@
 {391}{}{Well, that's not quite what I was looking for. Let me ask you something else.}
 {392}{}{That's all I need to know for now.}
 
-# VOCK Add Ons
-# Node018 rebuilt as a "Go on." chain instead of one concatenated Reply() -- only the
-# first mstr() in the old concatenation voiced, so 2901-2904 (and 2905, when appended)
-# played as silent subtitle text. These replace 290/2901-2905 (left above, now untagged
-# and unreferenced) as standalone lines so each one gets its own voiced take.
+# VOCK Add Ons -- Node018 rebuilt as a "(Go on.)" chain: the old concatenated Reply() only voiced its first fragment, so the hint lines played silent. Each fragment is now a standalone voiced line. Originals 290 / 2901-2905 left above, untagged.
+# Node018: replaces the 290 intro.
 {2910}{sajag26}{Well, let's see. All sorts of things going on in town lately. (Counts on his fingers.)}
+# Node018a: replaces fragment 2901.
 {2911}{sajag38}{There's been brahmin-mutilating bugmen terrorizing the herds at night.}
+# Node018b: replaces fragment 2902.
 {2912}{sajag39}{There's rodents of unusual size roaming around, if you can believe that.}
+# Node018c: replaces fragment 2903.
 {2913}{sajag40}{There's a walking spirit out there too, or so they say.}
+# Node018d: replaces fragment 2904.
 {2914}{sajag41}{And there's a missing trapper that still hasn't turned up.}
+# Node018e: replaces fragment 2905.
 {2915}{sajag42}{Klamath's become a real hot spot lately.}
-# player continuation option for the Node018 chain above -- never tagged (PC line)
+# Node018 chain: player "(Go on.)" continuation, never tagged.
 {2916}{}{Go on.}

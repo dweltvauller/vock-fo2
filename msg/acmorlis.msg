@@ -56,6 +56,6 @@
 {304}{mor25}{I already gave you the flint, stupid. Now stop wasting my time and get out of here!}
 {305}{mor26}{I already gave you the flint, stupid. Oh well, at least I got my powders. Now off with you! I don't have time to gossip.}
 
-# VOCK Add Ons
-# Merged 212+213 (PC name inserted between) into one line so mor18's recording covers the full displayed text.
+# VOCK Add Ons -- PC-name splice fix: merged fragments now play as one pre-written line; "Chosen One" replaces the splice.
+# Node015: replaces 212 + PC + 213.
 {1212}{mor18}{Listen, Chosen One. People are dying, cattle are dying, and crops are failing. Everyone is either hungry, sick, or both. Our time draws near. If you do not find the GECK soon, we are doomed. Do you understand me?}

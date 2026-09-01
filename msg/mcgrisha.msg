@@ -193,12 +193,8 @@
 {1412}{grish94}{daughter.}
 {1413}{grish95}{son.}
 
-# VOCK Add Ons
-# Node050's two Reply() sites spliced the PC's literal name into Grisham's line at runtime
-# (Reply(mstr(600)+dude_name+mstr(1600)) and Reply(mstr(601)+dude_name+mstr(1601))), which can
-# never be voiced as fixed audio. Per the dude-name-splice fix pattern (see kctorr precedent),
-# merged each into one new msg with "friend" baked in place of the PC's name, and changed the two
-# Reply() calls in mcgrisha.ssl to call these directly. Old 600/601/1600/1601 entries above are
-# left in place, untagged, for reference only -- the script no longer calls them.
+# VOCK Add Ons -- PC-name splice fix: merged fragments now play as one pre-written line; "in-law" replaces the splice. Old 600/601/1600/1601 entries above left untagged for reference.
+# Node050: replaces 600 + PC + 1600.
 {650}{grish96}{Howdy, in-law. I hope you're taking good care of my daughter, Miria. She is the light of my life and it would break my heart if anything were to happen to her. Where is she by the way? I was sure hoping to see her again.}
+# Node050: replaces 601 + PC + 1601.
 {651}{grish97}{Well, if it isn't my in-law. How's the married life treating you? I see my son Davin isn't traveling with you. I sure do miss him. Maybe the next time you visit you can bring him along. It sure would make an old man happy if he could see his only son again.}

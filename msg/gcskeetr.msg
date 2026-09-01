@@ -222,20 +222,17 @@
 
 {5500}{}{).}
 
-# VOCK Easter Eggs (wired to Node850 -- random post-endgame float, see gcskeetr.ssl)
+# VOCK Easter Eggs -- Node850 post-endgame ambient floats (fire once the Enclave is destroyed).
 {800}{skeet65}{You wanna know how I got this scars?}
 {801}{skeet66}{Uranium fever is done and got me down, Uranium fever is spreading all around.}
 {802}{skeet67}{I used to be a smoothskin like you, then I took a bomb to my country.}
 {803}{skeet68}{I ask you: Is there an engine that can resist the love that's in this hands?}
 
-# VOCK Add Ons
-# Node111 weapon picker option (PC line, untagged) -- which handgun to ask about
+# VOCK Add Ons -- unvoiced PC menu lines for the Node111/Node112 weapon pickers.
+# Node111: which handgun to ask about.
 {900}{}{The magnum.}
-# Node111 weapon picker option (PC line, untagged) -- which handgun to ask about
 {901}{}{The Desert Eagle.}
-# Node112 weapon picker option (PC line, untagged) -- which rifle to ask about
+# Node112: which rifle to ask about.
 {902}{}{The hunting rifle.}
-# Node112 weapon picker option (PC line, untagged) -- which rifle to ask about
 {903}{}{The assault rifle.}
-# Node112 weapon picker option (PC line, untagged) -- which rifle to ask about
 {904}{}{The FN FAL.}

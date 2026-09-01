@@ -309,16 +309,20 @@
 # Seraph's Code: Cousin Bo
 {1500}{}{You see Substitute Justice of the Peace Bo.}
 
-# VOCK Add Ons
-# Wedding-vow concat dead-tag fix (see claude/audit/vock-fo2/mcjo_va_tagging.md #6): the original
-# temp_line := mstr(604)+partner-name+mstr(605)+dude_name+mstr(606)+ending splice only ever voiced
-# mstr(604) ("Do you "); everything after it (partner name, PC name, ending word) displayed silently.
-# Replaced with 8 complete pre-written lines covering every wedding x role x ending combination.
+# VOCK Add Ons -- wedding-vow splice fix: the runtime concat (mstr(604) + partner + mstr(605) + PC + mstr(606) + ending) only voiced its first fragment. Replaced with 8 pre-written lines, one per wedding x role x ending.
+# critter_p_proc bride vow: replaces the 604/605/606 splice -- Miria wedding, straight.
 {1600}{jomod87}{Do you, Miria, take this person at your side to be your lawfully wedded husband, for as long as it holds up?}
+# critter_p_proc bride vow: replaces the 604/605/606 splice -- Miria wedding, same-sex.
 {1601}{jomod88}{Do you, Miria, take this person at your side to be your lawfully wedded... uhhh... other? Yes, lawfully wedded other -- for as long as it holds up?}
+# critter_p_proc bride vow: replaces the 604/605/606 splice -- Davin wedding, straight.
 {1602}{jomod89}{Do you take Davin to be your lawfully wedded husband, for as long as it holds up?}
+# critter_p_proc bride vow: replaces the 604/605/606 splice -- Davin wedding, same-sex.
 {1603}{jomod90}{Do you take Davin to be your lawfully wedded... uhhh... other? Yes, lawfully wedded other -- for as long as it holds up?}
+# critter_p_proc groom vow: replaces the 604/605/606 splice -- Davin wedding, straight.
 {1604}{jomod91}{Do you, Davin, take this person at your side to be your lawfully wedded wife, till death or the drought takes you first?}
+# critter_p_proc groom vow: replaces the 604/605/606 splice -- Davin wedding, same-sex.
 {1605}{jomod92}{Do you, Davin, take this person at your side to be your lawfully wedded other -- till death or the drought takes you first?}
+# critter_p_proc groom vow: replaces the 604/605/606 splice -- Miria wedding, straight.
 {1606}{jomod93}{Do you take Miria to be your lawfully wedded wife, till death or the drought takes you first?}
+# critter_p_proc groom vow: replaces the 604/605/606 splice -- Miria wedding, same-sex.
 {1607}{jomod94}{Do you take Miria to be your lawfully wedded other -- till death or the drought takes you first?}

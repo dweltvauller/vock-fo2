@@ -15,10 +15,12 @@
            Created: January 14, 1998
 
            Updated:
-           (VOCK) Node002/Node003's Reply() calls now play a single merged msg directly
-           instead of concatenating mstr(lead-in)+dude_name+mstr(tail) -- aldo2/aldo3 bake a
-           fixed address ("mighty one" / "friend") into the text instead of splicing dude_name
-           in at runtime (see kcaldo.msg VOCK Add Ons, msgs 1300/1350).
+           VOCK changes:
+             Dialogue lines the engine assembled at runtime from several message
+             fragments (with the player's name spliced in) now play as a single
+             pre-written line, so the recorded voice matches the on-screen text.
+             Merged lines use a fixed address ("mighty one" / "friend") where the
+             player's name used to appear. Affected nodes: Node002, Node003.
 */
 
 /* Include Files */
@@ -336,7 +338,7 @@ procedure Node001 begin
 end
 
 procedure Node002 begin
-   Reply(1300);   //VOCK: was Reply(mstr(300) + dude_name + mstr(301)) -- merged so aldo2 covers full line (see kcaldo.msg)
+   Reply(1300);   //VOCK: was Reply(mstr(300) + dude_name + mstr(301))
    NOption(302,Node007,004);
    NOption(303,Node910,004);
    NOption(304,Node910,004);
@@ -345,7 +347,7 @@ procedure Node002 begin
 end
 
 procedure Node003 begin
-   Reply(1350);   //VOCK: was Reply(mstr(350) + dude_name + mstr(351)) -- merged so aldo3 covers full line (see kcaldo.msg)
+   Reply(1350);   //VOCK: was Reply(mstr(350) + dude_name + mstr(351))
    NOption(302,Node007,004);
    NOption(303,Node910,004);
    NOption(304,Node910,004);

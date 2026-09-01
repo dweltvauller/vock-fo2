@@ -344,8 +344,8 @@
 # END LINES
 {5268}{}{?!! Then COME GET SOME, YOU FAT SON OF A B--}
 
-# VOCK Add Ons
-# Merged 680+683 (bonus-branch concatenation) into one line so the existing bgjes68 recording covers the full displayed text instead of only voicing 680's half. Stripped the bgjes68 tag off the old 683 entry above -- it's left in place, untagged, for reference.
+# VOCK Add Ons -- concatenation fix: merged fragment pairs now play as one pre-written line so each VA take covers the full text. Old 683 / 335 entries above left untagged for reference.
+# Node041: replaces 680 + 683 (bonus branch).
 {1680}{bgjes68}{So I have heard. (Nods respectfully.) You have done... well. My faith in you is not misplaced. Here is... your payment. Five hundred... chips. And... armor and a weapon you may find... useful.}
-# Merged 335+336 (Node012 prev_node==7 concatenation) into one line so the existing bgjes19 recording covers the full displayed text instead of only voicing 335's half. Stripped the bgjes19 tag off the old 335 entry above -- it's left in place, untagged, for reference. 336 keeps its own tag (bgjes20); it's still used standalone elsewhere in Node012.
+# Node012: replaces 335 + 336 (prev_node==7 branch; 336 keeps bgjes20, still used standalone).
 {1335}{bgjes19}{(Studies you.) I... do not know you, but I will... hear you. (Wipes sweat from his forehead.) You have slaves to sell?}

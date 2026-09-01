@@ -181,22 +181,22 @@
 {1221}{}{?}
 {1222}{}{. How's things?}
 
-# VOCK Add Ons
-# was 200+dude_name+1200; VA recorded cw1 with no PC name spoken
+# VOCK Add Ons -- PC-name splice fix: the VA left the name slot blank, so these merged lines drop the name entirely.
+# Node001: replaces 200 + PC + 1200.
 {1300}{cw1}{Hey! Way to kick the Enclave's ass!}
-# was 201+dude_name+1201; VA recorded cw2 with no PC name spoken
+# Node001: replaces 201 + PC + 1201.
 {1301}{cw2}{Full on! You rock!}
-# was 202+dude_name+1202; VA recorded cw3 with no PC name spoken
+# Node001: replaces 202 + PC + 1202.
 {1302}{cw3}{Rock on!}
-# was 220+dude_name+1220; VA recorded cw8 with no PC name spoken
+# Node003: replaces 220 + PC + 1220.
 {1303}{cw8}{Howdy. What you been up to?}
-# was 221+dude_name+1221; VA recorded cw9 with no PC name spoken
+# Node003: replaces 221 + PC + 1221.
 {1304}{cw9}{Damn hot, innit?}
-# was 222+dude_name+1222; VA recorded cw10 with no PC name spoken
+# Node003: replaces 222 + PC + 1222.
 {1305}{cw10}{Howdy. How's things?}
-# was 246+dude_name+1246; VA recorded cw16 with no PC name spoken
+# Node006: replaces 246 + PC + 1246.
 {1306}{cw16}{Hey! How's it going? Everybody treating you all right? Anything you need?}
-# was 247+dude_name+248; VA recorded cw17 with no PC name spoken
+# Node006: replaces 247 + PC + 248.
 {1307}{cw17}{Hey, you got my thanks for finding who killed Richard. I owe you big, and the Wright family always pays its debts. What can I do for you?}
-# was 316+dude_family_name+317; VA recorded cw24 with no PC family name spoken
+# Node011: replaces 316 + family-name + 317.
 {1308}{cw24}{(The young man looks you up and down.) Well, now. (He sneers, then spits on your feet.) Why don't you make yourself useful and lick that up, you piece of dogshit?}
