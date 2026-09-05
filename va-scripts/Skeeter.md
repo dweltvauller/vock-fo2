@@ -159,6 +159,10 @@
 
 `skeet50:` (Skeeter studies your long arm, and nods slowly.)
 
+*Added 2026-09-04: this same line/audio also plays as Skeeter's "which one?" reaction when the
+player has both handguns instead of a rifle -- no separate recording, same wordless reaction
+works for either.*
+
 `skeet51:` I can put a nice all-weather scope on that hunting rifle for a fair price. (He chalks the cost onto his workbench: $[cost].)
 
 `skeet52:` Nothing like having an assault rifle with an expanded magazine. I can fix yours up with one for a fee. (He scrawls the number next to his vise: $[cost].)

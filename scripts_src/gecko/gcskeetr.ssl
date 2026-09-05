@@ -23,7 +23,7 @@
              -- the Desert Eagle lines and every rifle-specific line were silent.
              They are now a weapon picker plus one leaf node per weapon, each
              calling Reply() with a single existing message, so every recorded
-             line is reachable. New unvoiced PC menu lines 900-904 were added, and
+             line is reachable. New unvoiced PC menu lines 900-905 were added, and
              Node112's afford-check reuses the previously orphaned msg 627.
 
              Added Node850: once the Enclave is destroyed, Skeeter throws out an
@@ -837,6 +837,7 @@ end
    version, which silenced skeet49/skeet60 whenever the PC carried both a magnum and a
    Desert Eagle. */
 procedure Node111 begin
+   Reply(905);
    if (dude_item_count(PID_44_MAGNUM_REVOLVER)) then begin
       NOption(900, Node111a, 004);
    end

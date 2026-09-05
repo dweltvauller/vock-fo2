@@ -236,3 +236,9 @@
 {902}{}{The hunting rifle.}
 {903}{}{The assault rifle.}
 {904}{}{The FN FAL.}
+# Node111's own "which one" reaction (both handguns owned) -- pistol equivalent of skeet50/msg 620
+# for rifles. Deliberately reuses the skeet50 tag/audio (a wordless "hmm" reaction, not literally
+# "long arm") rather than a new recording -- per the bracket-text tag rule, a fully-bracketed stage
+# direction only needs a matching tag when the actual spoken content differs, and skeet50's isn't
+# specific to rifles.
+{905}{skeet50}{(Skeeter studies your handguns, and nods slowly.)}
