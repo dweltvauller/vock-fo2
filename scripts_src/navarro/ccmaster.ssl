@@ -1,0 +1,344 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/*
+        Name: Quartermaster
+        Location: Navarro
+        Description:
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: Sept 10, 1998
+
+           Updated:
+           VOCK changes:
+             No RPU or Black_Electric_LIP source ever shipped for this script (SCRIPT_CCMASTER,
+             a second Quartermaster distinct from ccqmstr). Rebuilt from the TH layer's decompiled
+             ccmaster.int (the layer that actually wins for this NPC) and rewritten into this
+             project's usual macro style; no gameplay logic was added or removed. A large block of
+             this NPC's own dialog text (msg 105-179, an alternate ID-check/gear-swap scene) is
+             unreferenced by the compiled TH script and was left untagged as likely superseded
+             content, not fixed.
+*/
+
+/* Include Files */
+
+#define SCRIPT_REALNAME "ccmaster"
+#include "../headers/define.h"
+#include "../headers/navarro.h"
+
+#define NAME                    SCRIPT_CCMASTER
+#define TOWN_REP_VAR            GVAR_TOWN_REP_NAVARRO
+
+#include "../headers/command.h"
+#include "../headers/talking_heads.h"
+
+/* Standard Script Procedures */
+procedure start;
+procedure critter_p_proc;
+procedure pickup_p_proc;
+procedure talk_p_proc;
+procedure destroy_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+
+procedure Node001;
+procedure Node002;
+procedure Node005;
+procedure Node008;
+procedure Node010;
+procedure Node011;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node015;
+procedure Node016;
+procedure Node017;
+procedure Node025;
+procedure Node026;
+procedure Node027;
+procedure Node028;
+procedure Node030;
+
+/* Script Specific Procedure Calls */
+procedure Node950;                                      // Loops Node008 back to its "already asked" text
+procedure Node998;                                      // This Node is Always Combat
+procedure Node999;                                      // This Node is Always Ending
+
+/* Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_ */
+#define LVAR_Hostile                    (5)
+#define LVAR_Personal_Enemy             (6)
+#define LVAR_Herebefore                 (8)
+
+/* Local variables which do not need to be saved between map changes. */
+variable Only_Once:=0;
+variable weapon;
+variable item;
+variable v:=0;
+
+procedure start begin
+end
+
+procedure map_enter_p_proc begin
+   Only_Once:=0;
+   critter_add_trait(self_obj,1,6,153);
+   critter_add_trait(self_obj,1,5,12);
+   if (metarule(14,0)) then begin
+      weapon := create_object_sid(242,0,0,-1);
+      add_obj_to_inven(self_obj,weapon);
+      if (random(1,100) < 11) then begin
+         item := create_object_sid(40,0,0,-1);
+         add_obj_to_inven(self_obj,item);
+      end
+      wield_obj_critter(self_obj,weapon);
+   end
+end
+
+procedure critter_p_proc begin
+   if ((local_var(LVAR_Hostile) == 2) and self_can_see_dude) then begin
+      set_local_var(LVAR_Hostile,1);
+      attack(dude_obj);
+   end
+end
+
+/* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
+   In here, various things can happen. The most common response is instant hostility which
+   will be remembered. */
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_local_var(LVAR_Hostile,2);
+   end
+end
+
+/* The dialog system is setup and prepares the player to talk to this NPC. Where To Go
+   written by designers are placed in here. Additionally, Reactions are generated and
+   stored which affects player interactions. */
+procedure talk_p_proc begin
+   if (local_var(LVAR_Personal_Enemy) == 1) then begin
+      call Node998;
+   end
+   else begin
+      if (dude_iq < 4) then begin
+         start_gdialog(NAME,self_obj,4,HEAD_QM2,BACKGROUND_JUNKTOWN);
+         gSay_Start;
+           call Node030;
+         gSay_End;
+         end_dialogue;
+      end
+      else begin
+         if (map_var(2) == 4) then begin
+            start_gdialog(NAME,self_obj,4,HEAD_QM2,BACKGROUND_JUNKTOWN);
+            gSay_Start;
+              call Node001;
+            gSay_End;
+            end_dialogue;
+         end
+         else begin
+            if (map_var(2) == 3) then begin
+               start_gdialog(NAME,self_obj,4,HEAD_QM2,BACKGROUND_JUNKTOWN);
+               gSay_Start;
+                 call Node002;
+               gSay_End;
+               end_dialogue;
+            end
+            else begin
+               if (map_var(2) == 2) then begin
+                  start_gdialog(NAME,self_obj,4,HEAD_QM2,BACKGROUND_JUNKTOWN);
+                  gSay_Start;
+                    call Node002;
+                  gSay_End;
+                  end_dialogue;
+               end
+               else begin
+                  if (local_var(LVAR_Herebefore) == 1) then begin
+                     call Node001;
+                  end
+                  else begin
+                     start_gdialog(NAME,self_obj,4,HEAD_QM2,BACKGROUND_JUNKTOWN);
+                     gSay_Start;
+                       call Node005;
+                     gSay_End;
+                     end_dialogue;
+                  end
+               end
+            end
+         end
+      end
+   end
+end
+
+/* This procedure gets called only on the death of this NPC. Special things like
+   incrementing the death count for reputation purposes and Enemy Counters are placed
+   in here. */
+procedure destroy_p_proc begin
+/* Increment the aligned critter counter*/
+   inc_evil_critter
+end
+
+/* Look_at_p_proc gets called any time that the player passes the cursor over any object.
+   This should only hold the most cursory of glances for the player. */
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
+end
+
+/* The player will see more indepth descriptions from this procedure. They are actively
+   looking at the critter and want more information. Things like names can be added here
+   if the critter is known to the player. */
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
+end
+
+procedure use_skill_on_p_proc begin
+end
+
+procedure damage_p_proc begin
+   if (source_obj == dude_obj) then begin
+      set_local_var(LVAR_Personal_Enemy,1);
+      set_map_var(2,4);
+   end
+end
+
+procedure Node001 begin
+   floater(103);
+end
+
+procedure Node002 begin
+   set_map_var(2,4);
+   floater(104);
+end
+
+procedure Node005 begin
+   Reply(115);
+
+   NOption(116,Node026,004);
+   NOption(117,Node027,004);
+   NOption(118,Node028,004);
+end
+
+procedure Node008 begin
+   if (v == 0) then begin
+      Reply(128);
+
+      NOption(130,Node950,004);
+      NOption(131,Node010,004);
+      NOption(132,Node999,004);
+   end
+   else begin
+      NMessage(129);
+   end
+end
+
+procedure Node010 begin
+   Reply(137);
+
+   NOption(138,Node011,004);
+   NOption(139,Node012,004);
+   NOption(140,Node013,004);
+   NOption(141,Node012,004);
+end
+
+procedure Node011 begin
+   Reply(142);
+
+   NOption(143,Node014,004);
+   NOption(144,Node015,004);
+   NOption(145,Node015,004);
+   NOption(146,Node017,004);
+end
+
+procedure Node012 begin
+   Reply(147);
+
+   NOption(148,Node025,004);
+   NOption(149,Node025,004);
+   NOption(150,Node011,004);
+end
+
+procedure Node013 begin
+   Reply(151);
+
+   NOption(152,Node011,004);
+   NOption(153,Node012,004);
+   NOption(154,Node012,004);
+end
+
+procedure Node014 begin
+   set_map_var(2,4);
+   floater(155);
+   call Node998;
+end
+
+procedure Node015 begin
+   Reply(156);
+
+   NOption(157,Node016,004);
+   NOption(158,Node017,004);
+end
+
+procedure Node016 begin
+   NMessage(159);
+end
+
+procedure Node017 begin
+   NMessage(160);
+end
+
+procedure Node025 begin
+   Reply(180);
+
+   NOption(181,Node014,004);
+   NOption(182,Node015,004);
+   NOption(183,Node015,004);
+   NOption(184,Node017,004);
+end
+
+procedure Node026 begin
+   Reply(185);
+
+   NOption(186,Node027,004);
+   NOption(187,Node028,004);
+end
+
+procedure Node027 begin
+   set_map_var(3,1);
+   Reply(188);
+
+   NOption(189,Node008,004);
+   NOption(190,Node011,004);
+   NOption(191,Node998,004);
+end
+
+procedure Node028 begin
+   set_map_var(2,4);
+   floater(192);
+   call Node998;
+end
+
+procedure Node030 begin
+   Reply(194);
+
+   NLowOption(195,Node028);
+end
+
+procedure Node950 begin
+   v := 1;
+   call Node008;
+end
+
+procedure Node998 begin
+   set_local_var(LVAR_Hostile,2);
+end
+/* Anytime that there is a need for an ending to dialog, this node is to be called. It will just
+   exit from the dialog system without any reprisals from the NPC. */
+procedure Node999 begin
+end

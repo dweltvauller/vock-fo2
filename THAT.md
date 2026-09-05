@@ -33,12 +33,12 @@ Pulled from public Casting Call Club project listings: [Part 1](https://www.cast
 | [Father Tully](https://fallout.fandom.com/wiki/Tully) | New Reno |  |  |
 | [Miss Kitty](https://fallout.fandom.com/wiki/Miss_Kitty) | New Reno | Katie | [CCC Profile](https://www.castingcall.club/m/kati3_dear) · [Role page](https://www.castingcall.club/projects/fallout-2-talking-heads-project#jumptorole978143) |
 | [Lil' Jesus Mordino](https://fallout.fandom.com/wiki/Lil'_Jesus_Mordino) | New Reno |  |  |
-| [Mason](https://fallout.fandom.com/wiki/Mason_(Fallout_2)) | New Reno | Krimson Graey | [CCC Profile](https://www.castingcall.club/m/kamelot777) · [Role page](https://www.castingcall.club/projects/fallout-2-talking-heads-project#jumptorole1052555) · [Portfolio](https://krimsongraey.carrd.co/) · **[Listen — YouTube](https://www.youtube.com/watch?v=p-T_r2VoC_Q)** |
+| [Mason](https://fallout.fandom.com/wiki/Mason_(Fallout_2)) | New Reno | Krimson Graey | [CCC Profile](https://www.castingcall.club/m/kamelot777) · [Role page](https://www.castingcall.club/projects/fallout-2-talking-heads-project#jumptorole1052555) · [Portfolio](https://linktr.ee/Krimson_Graey) · **[Listen — YouTube](https://www.youtube.com/watch?v=p-T_r2VoC_Q)** |
 | [Darlin' Nikki](https://fallout.fandom.com/wiki/Darlin'_Nikki) | New Reno | | |
-| [Renesco](https://fallout.fandom.com/wiki/Renesco) | New Reno | Krimson Graey | [CCC Profile](https://www.castingcall.club/m/kamelot777) · [Role page](https://www.castingcall.club/projects/fallout-2-talking-heads-project#jumptorole1052553) · [Portfolio](https://krimsongraey.carrd.co/) · **[Listen — YouTube](https://www.youtube.com/watch?v=p-T_r2VoC_Q)** |
+| [Renesco](https://fallout.fandom.com/wiki/Renesco) | New Reno | Krimson Graey | [CCC Profile](https://www.castingcall.club/m/kamelot777) · [Role page](https://www.castingcall.club/projects/fallout-2-talking-heads-project#jumptorole1052553) · [Portfolio](https://linktr.ee/Krimson_Graey) · **[Listen — YouTube](https://www.youtube.com/watch?v=p-T_r2VoC_Q)** |
 | [Louis Salvatore](https://fallout.fandom.com/wiki/Louis_Salvatore) | New Reno | SoldierHobbes | [CCC Profile](https://www.castingcall.club/m/soldierhobbes) · [Role page](https://www.castingcall.club/projects/fallout-2-talking-heads-project#jumptorole1052554) |
 | [Stuart Little](https://fallout.fandom.com/wiki/Stuart_Little) | New Reno | | |
-| [Obidiah Hakeswill](https://fallout.fandom.com/wiki/Obidiah_Hakeswill) | Redding | Dylan_B_VO | [CCC Profile](https://www.castingcall.club/m/dylan_b_vo) · **[YouTube Channel](https://youtube.com/@deconvo?si=83VKqUmXEjG8CnY_)** |
+| [Obidiah Hakeswill](https://fallout.fandom.com/wiki/Obidiah_Hakeswill) | Redding | Dylan B VO | [CCC Profile](https://www.castingcall.club/m/dylan_b_vo) · **[YouTube Channel](https://youtube.com/@deconvo?si=83VKqUmXEjG8CnY_)** |
 | [Earl Marion](https://fallout.fandom.com/wiki/Earl_Marion) | Redding | | |
 | [Dan McGrew](https://fallout.fandom.com/wiki/Dan_McGrew) | Redding | | |
 | [Ben Wade](https://fallout.fandom.com/wiki/Ben_Wade) | Redding | | |
@@ -56,9 +56,9 @@ Pulled from public Casting Call Club project listings: [Part 1](https://www.cast
 | [Shaman](https://f2rp.bgforge.net/umbra-tribe/) | Umbra Tribe | wykton | [CCC Profile](https://www.castingcall.club/m/wykton) · [Role page](https://www.castingcall.club/projects/fallout-2-talking-heads-project#jumptorole1054730) |
 | [Dalia](https://fallout.fandom.com/wiki/Dalia) | Vault 13/15 | | |
 | [Barkus](https://fallout.fandom.com/wiki/Barkus) | Vault City | | |
-| [Doctor Troy](https://fallout.fandom.com/wiki/Troy_(Fallout_2)) | Vault City | Dylan_B_VO | [CCC Profile](https://www.castingcall.club/m/dylan_b_vo) · **[YouTube Channel](https://youtube.com/@deconvo?si=83VKqUmXEjG8CnY_)** |
+| [Doctor Troy](https://fallout.fandom.com/wiki/Troy_(Fallout_2)) | Vault City | Dylan B VO | [CCC Profile](https://www.castingcall.club/m/dylan_b_vo) · **[YouTube Channel](https://youtube.com/@deconvo?si=83VKqUmXEjG8CnY_)** |
 | [Gregory](https://fallout.fandom.com/wiki/Gregory_(Fallout_2)) | Vault City | | |
 | [Valerie](https://fallout.fandom.com/wiki/Valerie) | Vault City | Krissey | [CCC Profile](https://www.castingcall.club/m/krisseycrystal) · [Role page](https://www.castingcall.club/projects/fallout-2-talking-heads-project#jumptorole955625) |
 | [McClure](https://fallout.fandom.com/wiki/McClure) | Vault City | Tom Demont | [CCC Profile](https://www.castingcall.club/m/tomdiamond) · **[Listen — YouTube](https://www.youtube.com/watch?v=WcNgjDRoGUs&t=39s&ab_channel=Black_Electric)** · [Portfolio](https://tomdemont.carrd.co/) |
-| [Stark](https://fallout.fandom.com/wiki/Stark) | Vault City | Dylan_B_VO | [CCC Profile](https://www.castingcall.club/m/dylan_b_vo) · **[Listen — YouTube](https://www.youtube.com/watch?v=XJnkoUigQiE&ab_channel=Black_Electric)** · **[YouTube Channel](https://youtube.com/@deconvo?si=83VKqUmXEjG8CnY_)** |
+| [Stark](https://fallout.fandom.com/wiki/Stark) | Vault City | Dylan B VO | [CCC Profile](https://www.castingcall.club/m/dylan_b_vo) · **[Listen — YouTube](https://www.youtube.com/watch?v=XJnkoUigQiE&ab_channel=Black_Electric)** · **[YouTube Channel](https://youtube.com/@deconvo?si=83VKqUmXEjG8CnY_)** |
 | [Wallace](https://fallout.fandom.com/wiki/Wallace_(Fallout_2)) | Vault City | | |
