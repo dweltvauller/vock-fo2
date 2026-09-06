@@ -2,7 +2,7 @@ File type = "ooTextFile"
 Object class = "TextGrid"
 
 xmin = 0 
-xmax = 1.571429 
+xmax = 1.554104 
 tiers? <exists> 
 size = 2 
 item []: 
@@ -10,67 +10,67 @@ item []:
         class = "IntervalTier" 
         name = "words" 
         xmin = 0 
-        xmax = 1.571429 
+        xmax = 1.554104 
         intervals: size = 5 
         intervals [1]:
             xmin = 0.0 
-            xmax = 0.26 
+            xmax = 0.2 
             text = "" 
         intervals [2]:
-            xmin = 0.26 
-            xmax = 0.83 
+            xmin = 0.2 
+            xmax = 0.78 
             text = "you" 
         intervals [3]:
-            xmin = 0.83 
-            xmax = 1.25 
+            xmin = 0.78 
+            xmax = 1.19 
             text = "again" 
         intervals [4]:
-            xmin = 1.25 
-            xmax = 1.29 
+            xmin = 1.19 
+            xmax = 1.31 
             text = "eh" 
         intervals [5]:
-            xmin = 1.29 
-            xmax = 1.571429 
+            xmin = 1.31 
+            xmax = 1.554104 
             text = "" 
     item [2]:
         class = "IntervalTier" 
         name = "phones" 
         xmin = 0 
-        xmax = 1.571429 
+        xmax = 1.554104 
         intervals: size = 9 
         intervals [1]:
             xmin = 0.0 
-            xmax = 0.26 
+            xmax = 0.2 
             text = "" 
         intervals [2]:
-            xmin = 0.26 
-            xmax = 0.32 
+            xmin = 0.2 
+            xmax = 0.26 
             text = "Y" 
         intervals [3]:
-            xmin = 0.32 
-            xmax = 0.83 
+            xmin = 0.26 
+            xmax = 0.78 
             text = "UW1" 
         intervals [4]:
-            xmin = 0.83 
-            xmax = 0.89 
+            xmin = 0.78 
+            xmax = 0.82 
             text = "AH0" 
         intervals [5]:
-            xmin = 0.89 
-            xmax = 0.99 
+            xmin = 0.82 
+            xmax = 0.92 
             text = "G" 
         intervals [6]:
-            xmin = 0.99 
-            xmax = 1.16 
+            xmin = 0.92 
+            xmax = 1.09 
             text = "EH1" 
         intervals [7]:
-            xmin = 1.16 
-            xmax = 1.25 
+            xmin = 1.09 
+            xmax = 1.19 
             text = "N" 
         intervals [8]:
-            xmin = 1.25 
-            xmax = 1.29 
+            xmin = 1.19 
+            xmax = 1.31 
             text = "EH1" 
         intervals [9]:
-            xmin = 1.29 
-            xmax = 1.571429 
+            xmin = 1.31 
+            xmax = 1.554104 
             text = "" 

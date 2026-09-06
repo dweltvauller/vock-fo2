@@ -59,7 +59,7 @@
 {137}{}{Not right now.}
 
 # Node 013 Challenge response
-{138}{zaius13}{Izzat so? Well, my brainy friend, why not fix the air purifier down below? You'll need the parts, and you'll need to find a way to breathe the gas. Until you can show me you can do that, I think I'll just assume the only thing smart about you is your mouth.}
+{138}{zaius13}{Izzat so? Well, my brainy friend, why not fix the air purifier down below? You'll need the parts, and you'll need to find a way to breathe the gas. Until you can show me how you can do that, I think I'll just assume the only thing smart about you is your mouth.}
 {139}{}{What's in it for me?}
 {140}{}{Sure, I'll do it.}
 {141}{}{Are you kidding?}
