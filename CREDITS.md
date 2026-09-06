@@ -35,7 +35,7 @@
 | [Darion](https://fallout.fandom.com/wiki/Darion) | Vault 15 | Dmitry Medvedenko | [SoundCloud](https://m.soundcloud.com/dmitry-medvedenko) · [Instagram](https://www.instagram.com/dmitryvoiceover) |
 | [Fannie Mae](https://fallout.fandom.com/wiki/Fannie_Mae) | Redding | Rin Moore | - |
 | [Peterson](https://f2rp.bgforge.net/abbey/) | Abbey | Darrell Haley | [Casting Call Club](https://www.castingcall.club/darrellhaleyvo) |
-| [Joseph](https://fallout.fandom.com/wiki/Joseph_(Fallout_2)) | Vault 13 | AnInsaneProfessional | - |
+| [Joseph](https://fallout.fandom.com/wiki/Joseph_(Fallout_2)) | Vault 13 | AnInsaneProfessional | [Bluesky](https://bsky.app/profile/insanepr0fessional.bsky.social) · [Youtube](https://www.youtube.com/@insaneprofessional2061) |
 
 ## AI-Voiced Characters (To Be Replaced by Real Actors)
 

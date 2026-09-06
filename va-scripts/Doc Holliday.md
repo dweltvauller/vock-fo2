@@ -1,7 +1,7 @@
 # Doc Holliday — VA Script
 **Character:** Doc Holliday, Town Doctor of Broken Hills
 
-**Total recordable lines:** 41 (`hol1`–`hol41`)
+**Total recordable lines:** 42 (`hol1`–`hol42`)
 
 ---
 
@@ -65,6 +65,10 @@
 ## Buying Stimpaks
 
 `hol19:` It's been a pleasure.
+
+## Turning Down an Offer
+
+`hol42:` That's not acceptable.
 
 ## Healing Complete
 *Plays once the healing is done — whether it was paid for or given free.*
@@ -136,4 +140,4 @@
 
 ---
 
-*Total: 41 lines. Tag numbers follow ascending message-ID order, not this document's topical grouping.*
+*Total: 42 lines. Tag numbers follow ascending message-ID order, not this document's topical grouping.*

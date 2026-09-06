@@ -12,6 +12,11 @@
            Created: August 22, 1998
 
            Updated:
+           VOCK changes:
+             Node008's reputation check used self_rep_negative, which doesn't
+             exist in vock-fo2's headers; swapped to the equivalent
+             perceived_rep_negative. No behavior change -- Rebecca isn't one of
+             the critters the two formulas actually disagree on.
 */
 
 /* Include Files */
@@ -354,7 +359,7 @@ procedure Node007 begin
    prev_node := 7;
 end
 procedure Node008 begin
-   if perceived_rep_negative then begin
+   if perceived_rep_negative then begin   //VOCK: was self_rep_negative
       Reply(350);
    end else if (becky_job(state_becky_job_none)) then begin
       Reply(351 + told_collect);

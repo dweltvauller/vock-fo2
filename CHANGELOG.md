@@ -4,7 +4,7 @@
 - Louise (Redding), Zaius (Broken Hills), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno)
 
 ## v1.14
-- Added voices: Peterson (Abbey)
+- Added voices: Peterson (Abbey), Joseph (Vault 13)
 
 ## v1.13
 - Added voices: Ann (Vault City), Tubby (The Den), Chuck & Buck Dunton (Klamath), Vortis (NCR)
