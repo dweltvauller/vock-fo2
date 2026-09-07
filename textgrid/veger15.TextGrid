@@ -54,10 +54,10 @@ item []:
             text = "decision" 
         intervals [11]:
             xmin = 3.39 
-            xmax = 3.76 
+            xmax = 3.77 
             text = "now" 
         intervals [12]:
-            xmin = 3.76 
+            xmin = 3.77 
             xmax = 3.956689 
             text = "" 
     item [2]:
@@ -204,9 +204,9 @@ item []:
             text = "N" 
         intervals [35]:
             xmin = 3.44 
-            xmax = 3.76 
+            xmax = 3.77 
             text = "AW1" 
         intervals [36]:
-            xmin = 3.76 
+            xmin = 3.77 
             xmax = 3.956689 
             text = "" 

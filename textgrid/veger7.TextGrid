@@ -82,10 +82,10 @@ item []:
             text = "not" 
         intervals [18]:
             xmin = 4.09 
-            xmax = 4.62 
+            xmax = 4.61 
             text = "before" 
         intervals [19]:
-            xmin = 4.62 
+            xmin = 4.61 
             xmax = 4.79737 
             text = "" 
     item [2]:
@@ -256,9 +256,9 @@ item []:
             text = "AO1" 
         intervals [41]:
             xmin = 4.51 
-            xmax = 4.62 
+            xmax = 4.61 
             text = "R" 
         intervals [42]:
-            xmin = 4.62 
+            xmin = 4.61 
             xmax = 4.79737 
             text = "" 

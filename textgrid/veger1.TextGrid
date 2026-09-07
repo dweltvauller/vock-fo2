@@ -384,10 +384,10 @@ item []:
             text = "M" 
         intervals [48]:
             xmin = 4.15 
-            xmax = 4.24 
+            xmax = 4.23 
             text = "EY1" 
         intervals [49]:
-            xmin = 4.24 
+            xmin = 4.23 
             xmax = 4.32 
             text = "K" 
         intervals [50]:
@@ -424,10 +424,10 @@ item []:
             text = "W" 
         intervals [58]:
             xmin = 4.89 
-            xmax = 4.93 
+            xmax = 4.92 
             text = "IH0" 
         intervals [59]:
-            xmin = 4.93 
+            xmin = 4.92 
             xmax = 4.97 
             text = "DH" 
         intervals [60]:

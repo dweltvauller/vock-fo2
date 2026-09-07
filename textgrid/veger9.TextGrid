@@ -14,10 +14,10 @@ item []:
         intervals: size = 39 
         intervals [1]:
             xmin = 0.0 
-            xmax = 0.13 
+            xmax = 0.1 
             text = "" 
         intervals [2]:
-            xmin = 0.13 
+            xmin = 0.1 
             xmax = 0.41 
             text = "fair" 
         intervals [3]:
@@ -54,10 +54,10 @@ item []:
             text = "to" 
         intervals [11]:
             xmin = 2.64 
-            xmax = 3.11 
+            xmax = 3.12 
             text = "blindly" 
         intervals [12]:
-            xmin = 3.11 
+            xmin = 3.12 
             xmax = 3.47 
             text = "accept" 
         intervals [13]:
@@ -162,10 +162,10 @@ item []:
             text = "i" 
         intervals [38]:
             xmin = 10.04 
-            xmax = 10.43 
+            xmax = 10.45 
             text = "can" 
         intervals [39]:
-            xmin = 10.43 
+            xmin = 10.45 
             xmax = 10.692789 
             text = "" 
     item [2]:
@@ -176,10 +176,10 @@ item []:
         intervals: size = 133 
         intervals [1]:
             xmin = 0.0 
-            xmax = 0.13 
+            xmax = 0.1 
             text = "" 
         intervals [2]:
-            xmin = 0.13 
+            xmin = 0.1 
             xmax = 0.22 
             text = "F" 
         intervals [3]:
@@ -328,10 +328,10 @@ item []:
             text = "L" 
         intervals [39]:
             xmin = 3.04 
-            xmax = 3.11 
+            xmax = 3.12 
             text = "IY0" 
         intervals [40]:
-            xmin = 3.11 
+            xmin = 3.12 
             xmax = 3.15 
             text = "AH0" 
         intervals [41]:
@@ -700,9 +700,9 @@ item []:
             text = "AE1" 
         intervals [132]:
             xmin = 10.34 
-            xmax = 10.43 
+            xmax = 10.45 
             text = "N" 
         intervals [133]:
-            xmin = 10.43 
+            xmin = 10.45 
             xmax = 10.692789 
             text = "" 

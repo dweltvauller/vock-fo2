@@ -102,10 +102,10 @@ item []:
             text = "personal" 
         intervals [23]:
             xmin = 6.07 
-            xmax = 6.45 
+            xmax = 6.46 
             text = "gain" 
         intervals [24]:
-            xmin = 6.45 
+            xmin = 6.46 
             xmax = 7.19 
             text = "involved" 
         intervals [25]:
@@ -146,10 +146,10 @@ item []:
             text = "as" 
         intervals [34]:
             xmin = 9.8 
-            xmax = 10.1 
+            xmax = 10.11 
             text = "you" 
         intervals [35]:
-            xmin = 10.1 
+            xmin = 10.11 
             xmax = 10.59 
             text = "" 
         intervals [36]:
@@ -588,10 +588,10 @@ item []:
             text = "EY1" 
         intervals [75]:
             xmin = 6.39 
-            xmax = 6.45 
+            xmax = 6.46 
             text = "N" 
         intervals [76]:
-            xmin = 6.45 
+            xmin = 6.46 
             xmax = 6.51 
             text = "IH0" 
         intervals [77]:
@@ -604,10 +604,10 @@ item []:
             text = "V" 
         intervals [79]:
             xmin = 6.67 
-            xmax = 6.71 
+            xmax = 6.74 
             text = "AA1" 
         intervals [80]:
-            xmin = 6.71 
+            xmin = 6.74 
             xmax = 6.96 
             text = "L" 
         intervals [81]:
@@ -752,10 +752,10 @@ item []:
             text = "Y" 
         intervals [116]:
             xmin = 9.95 
-            xmax = 10.1 
+            xmax = 10.11 
             text = "UW1" 
         intervals [117]:
-            xmin = 10.1 
+            xmin = 10.11 
             xmax = 10.59 
             text = "" 
         intervals [118]:

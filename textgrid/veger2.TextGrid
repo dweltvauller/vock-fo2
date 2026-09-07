@@ -110,10 +110,10 @@ item []:
             text = "" 
         intervals [25]:
             xmin = 5.8 
-            xmax = 6.4 
+            xmax = 6.41 
             text = "received" 
         intervals [26]:
-            xmin = 6.4 
+            xmin = 6.41 
             xmax = 6.55941 
             text = "" 
     item [2]:
@@ -392,9 +392,9 @@ item []:
             text = "V" 
         intervals [68]:
             xmin = 6.3 
-            xmax = 6.4 
+            xmax = 6.41 
             text = "D" 
         intervals [69]:
-            xmin = 6.4 
+            xmin = 6.41 
             xmax = 6.55941 
             text = "" 

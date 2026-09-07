@@ -46,7 +46,7 @@ Pulled from public Casting Call Club project listings: [Part 1](https://www.cast
 | [Matthew](https://fallout.fandom.com/wiki/Matthew_(Fallout_2)) | San Francisco | | |
 | [Ken Lee](https://fallout.fandom.com/wiki/Ken_Lee) | San Francisco | | |
 | [Lao Chou](https://fallout.fandom.com/wiki/Lao_Chou) | San Francisco | | |
-| [AHS-9](https://fallout.fandom.com/wiki/AHS-9) | San Francisco | BenjangoVA | [CCC Profile](https://www.castingcall.club/m/benjango) · [Role page](https://www.castingcall.club/projects/fallout-2-talking-heads-project#jumptorole978145) |
+| [AHS-9](https://fallout.fandom.com/wiki/AHS-9) | San Francisco | BenjangoVA | [IMDb](https://www.imdb.com/name/nm15962256/) |
 | [Ron Meyers](https://fallout.fandom.com/wiki/A._Ron_Meyers) | San Francisco | | |
 | [Skynet (Companion)](https://fallout.fandom.com/wiki/Skynet) | Sierra Army Depot | | |
 | [Joey](https://fallout.fandom.com/wiki/Joey) | The Den | | |

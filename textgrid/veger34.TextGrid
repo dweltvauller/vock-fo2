@@ -18,10 +18,10 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.19 
-            xmax = 0.46 
+            xmax = 0.44 
             text = "no" 
         intervals [3]:
-            xmin = 0.46 
+            xmin = 0.44 
             xmax = 0.56 
             text = "" 
         intervals [4]:
@@ -60,10 +60,10 @@ item []:
             text = "N" 
         intervals [3]:
             xmin = 0.27 
-            xmax = 0.46 
+            xmax = 0.44 
             text = "OW1" 
         intervals [4]:
-            xmin = 0.46 
+            xmin = 0.44 
             xmax = 0.56 
             text = "" 
         intervals [5]:

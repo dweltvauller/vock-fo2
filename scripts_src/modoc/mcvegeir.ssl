@@ -18,6 +18,12 @@
              main talk_p_proc entry and the forced-dialogue path both opened the
              dialogue with no portrait; the forced path now uses
              th_start_dialog_at_node like the normal entry.
+
+             Added Node850: once the Enclave is destroyed (the post-endgame flag),
+             Vegeir throws out an ambient easter-egg line on a self-rescheduling
+             timer (veger35-36, msg 800-801), matching vanilla FO2's post-endgame
+             floats and the standard VOCK mechanism (see Skeeter/Arthur). Dialogue
+             is untouched.
 */
 
 /* Include Files */
@@ -77,6 +83,8 @@ procedure Node033;
 procedure Node034;
 procedure Node035;
 
+procedure Node850;                                      //VOCK: post-endgame bonus-track float
+
 procedure Node999;                                      // This is the do nothing node
 procedure Node998;                                      // This Node is Always Combat
 
@@ -84,6 +92,7 @@ procedure Node998;                                      // This Node is Always C
 #define LVAR_Hostile                      (5)
 #define LVAR_Here_Before                  (6)
 #define LVAR_Refused                      (7)
+#define TIMER_VOCK_ENDGAME_FLOAT          (850)   //VOCK: post-endgame ambient bonus-float timer (Node850)
 
 variable only_once := 0;
 #define do_force_talk_vegeir(the_node)    set_spoke_to_vegeir;                      \
@@ -102,13 +111,28 @@ procedure combat_p_proc begin
 end
 
 procedure timed_event_p_proc begin
-   //add_timer_event(self_obj,game_ticks(random(1,7)),1);
+   //VOCK: post-endgame ambient bonus-float timer. Mirrors vanilla FO2's own pattern for this
+   // (Vault City generic citizens, e.g. vcdwnbar.ssl's timed_event_p_proc calling its Node002) --
+   // a self-rescheduling timer, gated on self_can_see_dude and not being in combat, that calls a
+   // Node once Fallout2_enclave_destroyed is true. No cooldown var or probability roll needed; the
+   // timer's own random(30,40) re-arm interval does the pacing, same as vanilla.
+   if (fixed_param == TIMER_VOCK_ENDGAME_FLOAT) then begin
+      if ( (not combat_is_initialized) and (self_can_see_dude) and (Fallout2_enclave_destroyed) ) then begin
+         call Node850;
+      end
+      add_timer_event(self_obj, game_ticks(random(30,40)), TIMER_VOCK_ENDGAME_FLOAT);
+   end
 end
 
 procedure map_enter_p_proc begin
    if ((vegeir_dead) or ((slags_killed_by_townspeople) and (started_slag_attack == false))) then begin
       dec_slag_cnt;
       destroy_object(self_obj);
+   end else begin
+      //VOCK: arm the post-endgame ambient float timer. Always armed regardless of endgame state --
+      // timed_event_p_proc itself checks Fallout2_enclave_destroyed before doing anything, and just
+      // keeps re-arming either way, same as vanilla's own ambient-float timers (e.g. vcdwnbar.ssl).
+      add_timer_event(self_obj, game_ticks(random(30,40)), TIMER_VOCK_ENDGAME_FLOAT);
    end
    if (only_once == 0) then begin
       only_once := 1;
@@ -428,4 +452,11 @@ procedure Node035 begin
    set_message_state_given
    Reply(233);
    NOption(g_mstr(350),Node999,001);
+end
+
+//VOCK: post-endgame bonus-track float. veger35-36 (msg 800-801) called from the
+// TIMER_VOCK_ENDGAME_FLOAT loop in timed_event_p_proc (armed from map_enter_p_proc) as ambient
+// ONLY, never from talk_p_proc -- see timed_event_p_proc for the gating.
+procedure Node850 begin
+   floater(random(800,801));
 end

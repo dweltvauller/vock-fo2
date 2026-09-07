@@ -38,10 +38,10 @@ item []:
             text = "to" 
         intervals [7]:
             xmin = 1.54 
-            xmax = 2.19 
+            xmax = 2.2 
             text = "modoc" 
         intervals [8]:
-            xmin = 2.19 
+            xmin = 2.2 
             xmax = 2.375646 
             text = "" 
     item [2]:
@@ -148,9 +148,9 @@ item []:
             text = "AH0" 
         intervals [25]:
             xmin = 2.02 
-            xmax = 2.19 
+            xmax = 2.2 
             text = "K" 
         intervals [26]:
-            xmin = 2.19 
+            xmin = 2.2 
             xmax = 2.375646 
             text = "" 

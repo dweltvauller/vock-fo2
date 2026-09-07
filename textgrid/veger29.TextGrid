@@ -70,10 +70,10 @@ item []:
             text = "tricks" 
         intervals [15]:
             xmin = 3.96 
-            xmax = 4.4 
+            xmax = 4.39 
             text = "" 
         intervals [16]:
-            xmin = 4.4 
+            xmin = 4.39 
             xmax = 4.54 
             text = "you're" 
         intervals [17]:
@@ -424,10 +424,10 @@ item []:
             text = "S" 
         intervals [41]:
             xmin = 3.96 
-            xmax = 4.4 
+            xmax = 4.39 
             text = "" 
         intervals [42]:
-            xmin = 4.4 
+            xmin = 4.39 
             xmax = 4.46 
             text = "Y" 
         intervals [43]:
@@ -736,10 +736,10 @@ item []:
             text = "IY1" 
         intervals [119]:
             xmin = 11.0 
-            xmax = 11.08 
+            xmax = 11.09 
             text = "HH" 
         intervals [120]:
-            xmin = 11.08 
+            xmin = 11.09 
             xmax = 11.13 
             text = "AE1" 
         intervals [121]:

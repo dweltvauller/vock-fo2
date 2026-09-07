@@ -30,10 +30,10 @@ item []:
             text = "request" 
         intervals [5]:
             xmin = 1.29 
-            xmax = 2.01 
+            xmax = 2.0 
             text = "" 
         intervals [6]:
-            xmin = 2.01 
+            xmin = 2.0 
             xmax = 2.11 
             text = "we" 
         intervals [7]:
@@ -134,10 +134,10 @@ item []:
             text = "this" 
         intervals [31]:
             xmin = 8.33 
-            xmax = 8.8 
+            xmax = 8.79 
             text = "favor" 
         intervals [32]:
-            xmin = 8.8 
+            xmin = 8.79 
             xmax = 8.980862 
             text = "" 
     item [2]:
@@ -208,10 +208,10 @@ item []:
             text = "T" 
         intervals [16]:
             xmin = 1.29 
-            xmax = 2.01 
+            xmax = 2.0 
             text = "" 
         intervals [17]:
-            xmin = 2.01 
+            xmin = 2.0 
             xmax = 2.07 
             text = "W" 
         intervals [18]:
@@ -260,10 +260,10 @@ item []:
             text = "AA1" 
         intervals [29]:
             xmin = 2.78 
-            xmax = 2.84 
+            xmax = 2.83 
             text = "N" 
         intervals [30]:
-            xmin = 2.84 
+            xmin = 2.83 
             xmax = 2.93 
             text = "T" 
         intervals [31]:
@@ -424,10 +424,10 @@ item []:
             text = "M" 
         intervals [70]:
             xmin = 6.44 
-            xmax = 6.54 
+            xmax = 6.55 
             text = "AA1" 
         intervals [71]:
-            xmin = 6.54 
+            xmin = 6.55 
             xmax = 6.65 
             text = "D" 
         intervals [72]:
@@ -504,9 +504,9 @@ item []:
             text = "V" 
         intervals [90]:
             xmin = 8.6 
-            xmax = 8.8 
+            xmax = 8.79 
             text = "ER0" 
         intervals [91]:
-            xmin = 8.8 
+            xmin = 8.79 
             xmax = 8.980862 
             text = "" 

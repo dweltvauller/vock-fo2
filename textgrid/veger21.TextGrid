@@ -368,10 +368,10 @@ item []:
             text = "R" 
         intervals [66]:
             xmin = 6.42 
-            xmax = 6.5 
+            xmax = 6.51 
             text = "OW0" 
         intervals [67]:
-            xmin = 6.5 
+            xmin = 6.51 
             xmax = 6.61 
             text = "G" 
         intervals [68]:

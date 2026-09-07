@@ -138,10 +138,10 @@ item []:
             text = "was" 
         intervals [32]:
             xmin = 10.25 
-            xmax = 10.9 
+            xmax = 10.91 
             text = "broken" 
         intervals [33]:
-            xmin = 10.9 
+            xmin = 10.91 
             xmax = 11.14 
             text = "" 
         intervals [34]:
@@ -186,10 +186,10 @@ item []:
             text = "for" 
         intervals [44]:
             xmin = 13.32 
-            xmax = 14.02 
+            xmax = 14.01 
             text = "survival" 
         intervals [45]:
-            xmin = 14.02 
+            xmin = 14.01 
             xmax = 14.166122 
             text = "" 
     item [2]:
@@ -344,10 +344,10 @@ item []:
             text = "L" 
         intervals [37]:
             xmin = 3.08 
-            xmax = 3.18 
+            xmax = 3.17 
             text = "IH0" 
         intervals [38]:
-            xmin = 3.18 
+            xmin = 3.17 
             xmax = 3.35 
             text = "NG" 
         intervals [39]:
@@ -660,10 +660,10 @@ item []:
             text = "AH0" 
         intervals [116]:
             xmin = 10.7 
-            xmax = 10.9 
+            xmax = 10.91 
             text = "N" 
         intervals [117]:
-            xmin = 10.9 
+            xmin = 10.91 
             xmax = 11.14 
             text = "" 
         intervals [118]:
@@ -808,9 +808,9 @@ item []:
             text = "AH0" 
         intervals [153]:
             xmin = 13.85 
-            xmax = 14.02 
+            xmax = 14.01 
             text = "L" 
         intervals [154]:
-            xmin = 14.02 
+            xmin = 14.01 
             xmax = 14.166122 
             text = "" 

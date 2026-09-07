@@ -14,10 +14,10 @@ item []:
         intervals: size = 17 
         intervals [1]:
             xmin = 0.0 
-            xmax = 0.15 
+            xmax = 0.16 
             text = "" 
         intervals [2]:
-            xmin = 0.15 
+            xmin = 0.16 
             xmax = 0.31 
             text = "you" 
         intervals [3]:
@@ -88,10 +88,10 @@ item []:
         intervals: size = 47 
         intervals [1]:
             xmin = 0.0 
-            xmax = 0.15 
+            xmax = 0.16 
             text = "" 
         intervals [2]:
-            xmin = 0.15 
+            xmin = 0.16 
             xmax = 0.26 
             text = "Y" 
         intervals [3]:

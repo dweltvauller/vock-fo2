@@ -22,10 +22,10 @@ item []:
             text = "years" 
         intervals [3]:
             xmin = 0.52 
-            xmax = 0.98 
+            xmax = 0.99 
             text = "ago" 
         intervals [4]:
-            xmin = 0.98 
+            xmin = 0.99 
             xmax = 1.25 
             text = "" 
         intervals [5]:
@@ -298,10 +298,10 @@ item []:
             text = "to" 
         intervals [72]:
             xmin = 20.59 
-            xmax = 20.950001 
+            xmax = 20.959999 
             text = "scare" 
         intervals [73]:
-            xmin = 20.950001 
+            xmin = 20.959999 
             xmax = 21.24 
             text = "away" 
         intervals [74]:
@@ -544,10 +544,10 @@ item []:
             text = "G" 
         intervals [8]:
             xmin = 0.66 
-            xmax = 0.98 
+            xmax = 0.99 
             text = "OW1" 
         intervals [9]:
-            xmin = 0.98 
+            xmin = 0.99 
             xmax = 1.25 
             text = "" 
         intervals [10]:
@@ -656,10 +656,10 @@ item []:
             text = "HH" 
         intervals [36]:
             xmin = 3.62 
-            xmax = 3.71 
+            xmax = 3.72 
             text = "AA1" 
         intervals [37]:
-            xmin = 3.71 
+            xmin = 3.72 
             xmax = 3.75 
             text = "R" 
         intervals [38]:
@@ -1228,10 +1228,10 @@ item []:
             text = "G" 
         intervals [179]:
             xmin = 16.620001 
-            xmax = 16.74 
+            xmax = 16.75 
             text = "OW1" 
         intervals [180]:
-            xmin = 16.74 
+            xmin = 16.75 
             xmax = 16.870001 
             text = "S" 
         intervals [181]:
@@ -1428,10 +1428,10 @@ item []:
             text = "EH1" 
         intervals [229]:
             xmin = 20.84 
-            xmax = 20.950001 
+            xmax = 20.959999 
             text = "R" 
         intervals [230]:
-            xmin = 20.950001 
+            xmin = 20.959999 
             xmax = 21.02 
             text = "AH0" 
         intervals [231]:
@@ -1528,10 +1528,10 @@ item []:
             text = "OW1" 
         intervals [254]:
             xmin = 23.129999 
-            xmax = 23.23 
+            xmax = 23.24 
             text = "Z" 
         intervals [255]:
-            xmin = 23.23 
+            xmin = 23.24 
             xmax = 23.290001 
             text = "IY0" 
         intervals [256]:
@@ -1652,10 +1652,10 @@ item []:
             text = "AH0" 
         intervals [285]:
             xmin = 26.32 
-            xmax = 26.41 
+            xmax = 26.42 
             text = "L" 
         intervals [286]:
-            xmin = 26.41 
+            xmin = 26.42 
             xmax = 26.459999 
             text = "IH1" 
         intervals [287]:
@@ -1864,10 +1864,10 @@ item []:
             text = "S" 
         intervals [338]:
             xmin = 30.200001 
-            xmax = 30.35 
+            xmax = 30.34 
             text = "ER0" 
         intervals [339]:
-            xmin = 30.35 
+            xmin = 30.34 
             xmax = 30.49 
             text = "Z" 
         intervals [340]:
@@ -1992,10 +1992,10 @@ item []:
             text = "F" 
         intervals [370]:
             xmin = 32.779999 
-            xmax = 32.880001 
+            xmax = 32.869999 
             text = "IH1" 
         intervals [371]:
-            xmin = 32.880001 
+            xmin = 32.869999 
             xmax = 32.959999 
             text = "R" 
         intervals [372]:

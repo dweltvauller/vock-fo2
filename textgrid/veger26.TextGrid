@@ -576,10 +576,10 @@ item []:
             text = "HH" 
         intervals [99]:
             xmin = 8.76 
-            xmax = 8.79 
+            xmax = 8.8 
             text = "EH1" 
         intervals [100]:
-            xmin = 8.79 
+            xmin = 8.8 
             xmax = 8.85 
             text = "D" 
         intervals [101]:

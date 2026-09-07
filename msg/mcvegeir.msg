@@ -70,3 +70,8 @@
 
 {400}{}{The message was received well. The town of Modoc would like to establish trade with your people.}
 {401}{}{Modoc happy. Trade good!}
+
+# VOCK Easter Eggs
+# Node850: post-endgame ambient float (fires once the Enclave is destroyed).
+{800}{veger35}{Oh, you think darkness is your ally. But you merely adopted the dark; I was born in it, moulded by it. I didn't see the light until I was already a man, by then it was nothing to me but blinding!}
+{801}{veger36}{Cave life is simple. Sleep, echo, repeat.}

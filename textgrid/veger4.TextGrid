@@ -66,10 +66,10 @@ item []:
             text = "here" 
         intervals [14]:
             xmin = 3.84 
-            xmax = 4.53 
+            xmax = 4.52 
             text = "" 
         intervals [15]:
-            xmin = 4.53 
+            xmin = 4.52 
             xmax = 4.64 
             text = "for" 
         intervals [16]:
@@ -78,10 +78,10 @@ item []:
             text = "your" 
         intervals [17]:
             xmin = 4.77 
-            xmax = 5.54 
+            xmax = 5.53 
             text = "services" 
         intervals [18]:
-            xmin = 5.54 
+            xmin = 5.53 
             xmax = 5.93 
             text = "" 
         intervals [19]:
@@ -280,10 +280,10 @@ item []:
             text = "R" 
         intervals [40]:
             xmin = 3.84 
-            xmax = 4.53 
+            xmax = 4.52 
             text = "" 
         intervals [41]:
-            xmin = 4.53 
+            xmin = 4.52 
             xmax = 4.57 
             text = "F" 
         intervals [42]:
@@ -332,10 +332,10 @@ item []:
             text = "IH0" 
         intervals [53]:
             xmin = 5.34 
-            xmax = 5.54 
+            xmax = 5.53 
             text = "Z" 
         intervals [54]:
-            xmin = 5.54 
+            xmin = 5.53 
             xmax = 5.93 
             text = "" 
         intervals [55]:

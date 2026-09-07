@@ -394,10 +394,10 @@ item []:
             text = "return" 
         intervals [96]:
             xmin = 23.200001 
-            xmax = 23.68 
+            xmax = 23.690001 
             text = "jonny" 
         intervals [97]:
-            xmin = 23.68 
+            xmin = 23.690001 
             xmax = 23.98 
             text = "" 
         intervals [98]:
@@ -808,10 +808,10 @@ item []:
             text = "W" 
         intervals [90]:
             xmin = 8.24 
-            xmax = 8.31 
+            xmax = 8.32 
             text = "EH1" 
         intervals [91]:
-            xmin = 8.31 
+            xmin = 8.32 
             xmax = 8.43 
             text = "L" 
         intervals [92]:
@@ -1004,10 +1004,10 @@ item []:
             text = "T" 
         intervals [139]:
             xmin = 12.56 
-            xmax = 12.59 
+            xmax = 12.6 
             text = "R" 
         intervals [140]:
-            xmin = 12.59 
+            xmin = 12.6 
             xmax = 12.67 
             text = "IY1" 
         intervals [141]:
@@ -1548,10 +1548,10 @@ item []:
             text = "N" 
         intervals [275]:
             xmin = 23.440001 
-            xmax = 23.68 
+            xmax = 23.690001 
             text = "IY0" 
         intervals [276]:
-            xmin = 23.68 
+            xmin = 23.690001 
             xmax = 23.98 
             text = "" 
         intervals [277]:

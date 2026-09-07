@@ -18,10 +18,10 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.2 
-            xmax = 0.78 
+            xmax = 0.79 
             text = "once" 
         intervals [3]:
-            xmin = 0.78 
+            xmin = 0.79 
             xmax = 0.92 
             text = "" 
         intervals [4]:
@@ -110,10 +110,10 @@ item []:
             text = "caught" 
         intervals [25]:
             xmin = 7.77 
-            xmax = 8.33 
+            xmax = 8.31 
             text = "fire" 
         intervals [26]:
-            xmin = 8.33 
+            xmin = 8.31 
             xmax = 8.79 
             text = "" 
         intervals [27]:
@@ -162,10 +162,10 @@ item []:
             text = "militia" 
         intervals [38]:
             xmin = 11.89 
-            xmax = 12.14 
+            xmax = 12.13 
             text = "" 
         intervals [39]:
-            xmin = 12.14 
+            xmin = 12.13 
             xmax = 12.48 
             text = "sealed" 
         intervals [40]:
@@ -300,10 +300,10 @@ item []:
             text = "N" 
         intervals [5]:
             xmin = 0.52 
-            xmax = 0.78 
+            xmax = 0.79 
             text = "S" 
         intervals [6]:
-            xmin = 0.78 
+            xmin = 0.79 
             xmax = 0.92 
             text = "" 
         intervals [7]:
@@ -360,10 +360,10 @@ item []:
             text = "AH1" 
         intervals [20]:
             xmin = 2.54 
-            xmax = 2.59 
+            xmax = 2.58 
             text = "N" 
         intervals [21]:
-            xmin = 2.59 
+            xmin = 2.58 
             xmax = 2.69 
             text = "S" 
         intervals [22]:
@@ -576,10 +576,10 @@ item []:
             text = "AY1" 
         intervals [74]:
             xmin = 8.07 
-            xmax = 8.33 
+            xmax = 8.31 
             text = "R" 
         intervals [75]:
-            xmin = 8.33 
+            xmin = 8.31 
             xmax = 8.79 
             text = "" 
         intervals [76]:
@@ -736,10 +736,10 @@ item []:
             text = "AH0" 
         intervals [114]:
             xmin = 11.89 
-            xmax = 12.14 
+            xmax = 12.13 
             text = "" 
         intervals [115]:
-            xmin = 12.14 
+            xmin = 12.13 
             xmax = 12.26 
             text = "S" 
         intervals [116]:
@@ -788,14 +788,14 @@ item []:
             text = "Z" 
         intervals [127]:
             xmin = 13.12 
-            xmax = 13.15 
+            xmax = 13.16 
             text = "AH0" 
         intervals [128]:
-            xmin = 13.15 
-            xmax = 13.18 
+            xmin = 13.16 
+            xmax = 13.19 
             text = "N" 
         intervals [129]:
-            xmin = 13.18 
+            xmin = 13.19 
             xmax = 13.22 
             text = "D" 
         intervals [130]:

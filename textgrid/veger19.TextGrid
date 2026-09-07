@@ -836,10 +836,10 @@ item []:
             text = "R" 
         intervals [148]:
             xmin = 12.97 
-            xmax = 13.01 
+            xmax = 13.02 
             text = "IY0" 
         intervals [149]:
-            xmin = 13.01 
+            xmin = 13.02 
             xmax = 13.17 
             text = "T" 
         intervals [150]:
@@ -880,10 +880,10 @@ item []:
             text = "K" 
         intervals [159]:
             xmin = 14.57 
-            xmax = 14.66 
+            xmax = 14.65 
             text = "Y" 
         intervals [160]:
-            xmin = 14.66 
+            xmin = 14.65 
             xmax = 14.73 
             text = "UW1" 
         intervals [161]:
