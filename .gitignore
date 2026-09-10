@@ -6,9 +6,6 @@ audio/
 pending/
 dat/
 
-# Compiled .INT scratch; the shipped copies live in data/scripts/
-scripts/
-
 # Pre-data-layout category folders (contents now under data/) — ignore stragglers
 msg/
 acm/
