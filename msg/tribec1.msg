@@ -90,7 +90,7 @@
 {341}{}{Why's that?}
 {342}{}{I don't see how I fit into this. What's your point?}
 
-{350}{krom19}{When last we spoke, he boasted he'd be bringing me something truly miraculous, and that I'd be wise to haul all the golden gecko hides I could carry to the meet. I don't know what his miracle item is, but it's likely some civilized trinket that he'll hope I'll be ignorant of enough to pay far more than it's worth. That's why I'd like you to make the trade.}
+{350}{krom19}{When last we spoke, he boasted he'd be bringing me something truly miraculous, and that I'd be wise to haul all the golden gecko hides I could carry to the meet. I don't know what his miracle item is, but it's likely some civilized trinket that he'll hope I'll be ignorant enough to pay far more than it's worth. That's why I'd like you to make the trade.}
 {351}{}{Why me?}
 {352}{}{Sorry, but I think I'll pass. Bye.}
 
@@ -162,7 +162,7 @@
 {474}{}{Huh, that's strange. It seems I forgot what I wanted to ask you. I'll come back if I remember. Bye.}
 
 # Response to PC asking about Krom's story.
-{480}{krom38}{[He chuckles.] Yes, I suppose I've been through a lot. I come from a tribe far to the north. When I was fifteen, we were attacked by savages. I awoke that day as a boy, but by the time the sun set on that grim scene, I had slayed my way to manhood. Every man, woman, and child was dead, except for me. Ah, but what's life without battle and strife? It either breaks a man, or it forges him into steel. I wear my scars with pride.}
+{480}{krom38}{[He chuckles.] Yes, I suppose I've been through a lot. I come from a tribe far to the north. When I was fifteen, we were attacked by savages. I awoke that day as a boy, but by the time the sun set on that grim scene, I had slayed my way to manhood. Every man, woman, and child was dead, except for me. Ah, what's life without battle and strife? It either breaks a man, or it forges him into steel. I wear my scars with pride.}
 {481}{}{So what'd you do then?}
 {482}{}{Alright, I think I've heard enough. Let me ask you something else.}
 
@@ -190,7 +190,7 @@
 {532}{}{Sure. What do you need?}
 {533}{}{Sorry, I'm busy now. Perhaps later.}
 
-{540}{krom45}{Two of our hunters, Serin and Jerem, have not yet returned from the hunting ground and some people are starting to worry. They're two of our best warriors, and I'd hate to think something has happened to them. I'd go search for them myself, but if the villagers saw me take such a personal interest in the matter, I fear they'd assume the worst. I'd rather not get people riled up until I know what's going on. So, will you seek them out for me?}
+{540}{krom45}{Two of our hunters, Serin and Jerem, have not yet returned from the hunting ground and some people are starting to worry. They're two of our best warriors, and I'd hate to think something has happened to them. I'd go search for them myself, but if the villagers saw me take such a personal interest in the matter, I fear they'd assume the worst. I'd rather not get people riled until I know what's going on. So, will you seek them out for me?}
 {541}{}{Alright, but where should I look?}
 {542}{}{Sorry, but I don't have time to look for them. Besides, I'm sure they'll turn up soon. Bye.}
 {543}{}{I'm not here to babysit your warriors. Bye.}
@@ -249,7 +249,7 @@
 {862}{}{No, I just wanted to apologize for offending you.}
 {863}{}{No, I was just leaving.}
 
-{870}{krom59}{Ah, it seems I'm in a forgiving mood today, friend. Now what can I do for you?}
+{870}{krom59}{Ah, it seems like I'm in a forgiving mood today, friend. Now what can I do for you?}
 {871}{krom60}{I don't like being toyed with girl, but by the gods, how could I stay mad at a goddess like you? Now, what can I do for you?}
 {872}{}{Nevermind. Bye.}
 
