@@ -6,6 +6,8 @@
 
 **In-universe author:** Roger Westin, a real interactive NPC (Vault City Councillor). This is his own signed letter, so whoever voices him in dialogue should read this too.
 
+**Wiki:** https://fallout.fandom.com/wiki/Roger_Westin
+
 ---
 
 > **Direction:** Intimate and diplomatic, a little conspiratorial. Allies writing candidly, not a public document. Warm but calculating. Male voice, measured, courteous.
