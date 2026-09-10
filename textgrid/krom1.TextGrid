@@ -82,10 +82,10 @@ item []:
             text = "what" 
         intervals [18]:
             xmin = 6.2 
-            xmax = 6.76 
+            xmax = 6.75 
             text = "brings" 
         intervals [19]:
-            xmin = 6.76 
+            xmin = 6.75 
             xmax = 6.93 
             text = "you" 
         intervals [20]:
@@ -284,10 +284,10 @@ item []:
             text = "NG" 
         intervals [46]:
             xmin = 6.63 
-            xmax = 6.76 
+            xmax = 6.75 
             text = "Z" 
         intervals [47]:
-            xmin = 6.76 
+            xmin = 6.75 
             xmax = 6.83 
             text = "Y" 
         intervals [48]:

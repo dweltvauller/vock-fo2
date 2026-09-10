@@ -278,10 +278,10 @@ item []:
             text = "the" 
         intervals [67]:
             xmin = 19.809999 
-            xmax = 20.35 
+            xmax = 20.34 
             text = "matter" 
         intervals [68]:
-            xmin = 20.35 
+            xmin = 20.34 
             xmax = 20.65 
             text = "" 
         intervals [69]:
@@ -338,10 +338,10 @@ item []:
             text = "people" 
         intervals [82]:
             xmin = 24.860001 
-            xmax = 25.4 
+            xmax = 25.389999 
             text = "riled" 
         intervals [83]:
-            xmin = 25.4 
+            xmin = 25.389999 
             xmax = 25.799999 
             text = "until" 
         intervals [84]:
@@ -480,10 +480,10 @@ item []:
             text = "S" 
         intervals [16]:
             xmin = 1.88 
-            xmax = 1.93 
+            xmax = 1.94 
             text = "EH1" 
         intervals [17]:
-            xmin = 1.93 
+            xmin = 1.94 
             xmax = 2.12 
             text = "R" 
         intervals [18]:
@@ -1248,10 +1248,10 @@ item []:
             text = "T" 
         intervals [208]:
             xmin = 20.110001 
-            xmax = 20.35 
+            xmax = 20.34 
             text = "ER0" 
         intervals [209]:
-            xmin = 20.35 
+            xmin = 20.34 
             xmax = 20.65 
             text = "" 
         intervals [210]:
@@ -1264,10 +1264,10 @@ item []:
             text = "F" 
         intervals [212]:
             xmin = 20.969999 
-            xmax = 21.110001 
+            xmax = 21.1 
             text = "IH1" 
         intervals [213]:
-            xmin = 21.110001 
+            xmin = 21.1 
             xmax = 21.450001 
             text = "R" 
         intervals [214]:
@@ -1412,10 +1412,10 @@ item []:
             text = "L" 
         intervals [249]:
             xmin = 25.32 
-            xmax = 25.4 
+            xmax = 25.389999 
             text = "D" 
         intervals [250]:
-            xmin = 25.4 
+            xmin = 25.389999 
             xmax = 25.450001 
             text = "AH0" 
         intervals [251]:

@@ -26,10 +26,10 @@ item []:
             text = "yes" 
         intervals [4]:
             xmin = 2.05 
-            xmax = 2.29 
+            xmax = 2.3 
             text = "" 
         intervals [5]:
-            xmin = 2.29 
+            xmin = 2.3 
             xmax = 2.53 
             text = "one" 
         intervals [6]:
@@ -70,10 +70,10 @@ item []:
             text = "this" 
         intervals [15]:
             xmin = 5.63 
-            xmax = 5.67 
+            xmax = 5.66 
             text = "" 
         intervals [16]:
-            xmin = 5.67 
+            xmin = 5.66 
             xmax = 6.43 
             text = "certain" 
         intervals [17]:
@@ -94,10 +94,10 @@ item []:
             text = "of" 
         intervals [21]:
             xmin = 8.56 
-            xmax = 9.07 
+            xmax = 9.06 
             text = "" 
         intervals [22]:
-            xmin = 9.07 
+            xmin = 9.06 
             xmax = 9.31 
             text = "your" 
         intervals [23]:
@@ -130,10 +130,10 @@ item []:
             text = "large" 
         intervals [30]:
             xmin = 11.93 
-            xmax = 12.56 
+            xmax = 12.55 
             text = "canyon" 
         intervals [31]:
-            xmin = 12.56 
+            xmin = 12.55 
             xmax = 12.75 
             text = "is" 
         intervals [32]:
@@ -232,10 +232,10 @@ item []:
             text = "S" 
         intervals [8]:
             xmin = 2.05 
-            xmax = 2.29 
+            xmax = 2.3 
             text = "" 
         intervals [9]:
-            xmin = 2.29 
+            xmin = 2.3 
             xmax = 2.33 
             text = "HH" 
         intervals [10]:
@@ -356,10 +356,10 @@ item []:
             text = "S" 
         intervals [39]:
             xmin = 5.63 
-            xmax = 5.67 
+            xmax = 5.66 
             text = "" 
         intervals [40]:
-            xmin = 5.67 
+            xmin = 5.66 
             xmax = 6.01 
             text = "S" 
         intervals [41]:
@@ -452,10 +452,10 @@ item []:
             text = "V" 
         intervals [63]:
             xmin = 8.56 
-            xmax = 9.07 
+            xmax = 9.06 
             text = "" 
         intervals [64]:
-            xmin = 9.07 
+            xmin = 9.06 
             xmax = 9.12 
             text = "Y" 
         intervals [65]:
@@ -588,10 +588,10 @@ item []:
             text = "AH0" 
         intervals [97]:
             xmin = 12.44 
-            xmax = 12.56 
+            xmax = 12.55 
             text = "N" 
         intervals [98]:
-            xmin = 12.56 
+            xmin = 12.55 
             xmax = 12.66 
             text = "IH1" 
         intervals [99]:

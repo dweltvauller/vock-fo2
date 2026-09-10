@@ -46,14 +46,14 @@ item []:
             text = "with" 
         intervals [9]:
             xmin = 2.57 
-            xmax = 3.14 
+            xmax = 3.13 
             text = "girl" 
         intervals [10]:
-            xmin = 3.14 
-            xmax = 3.4 
+            xmin = 3.13 
+            xmax = 3.41 
             text = "" 
         intervals [11]:
-            xmin = 3.4 
+            xmin = 3.41 
             xmax = 3.5 
             text = "but" 
         intervals [12]:
@@ -252,14 +252,14 @@ item []:
             text = "ER1" 
         intervals [23]:
             xmin = 2.9 
-            xmax = 3.14 
+            xmax = 3.13 
             text = "L" 
         intervals [24]:
-            xmin = 3.14 
-            xmax = 3.4 
+            xmin = 3.13 
+            xmax = 3.41 
             text = "" 
         intervals [25]:
-            xmin = 3.4 
+            xmin = 3.41 
             xmax = 3.45 
             text = "B" 
         intervals [26]:

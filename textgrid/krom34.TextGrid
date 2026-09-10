@@ -50,10 +50,10 @@ item []:
             text = "dog" 
         intervals [10]:
             xmin = 2.87 
-            xmax = 3.6 
+            xmax = 3.61 
             text = "again" 
         intervals [11]:
-            xmin = 3.6 
+            xmin = 3.61 
             xmax = 4.11 
             text = "" 
         intervals [12]:
@@ -98,10 +98,10 @@ item []:
             text = "ugly" 
         intervals [22]:
             xmin = 7.35 
-            xmax = 8.12 
+            xmax = 8.09 
             text = "skull" 
         intervals [23]:
-            xmin = 8.12 
+            xmin = 8.09 
             xmax = 8.5 
             text = "" 
         intervals [24]:
@@ -330,10 +330,10 @@ item []:
             text = "your" 
         intervals [80]:
             xmin = 28.299999 
-            xmax = 28.870001 
+            xmax = 28.84 
             text = "help" 
         intervals [81]:
-            xmin = 28.870001 
+            xmin = 28.84 
             xmax = 29.212562 
             text = "" 
     item [2]:
@@ -440,10 +440,10 @@ item []:
             text = "EH1" 
         intervals [25]:
             xmin = 3.32 
-            xmax = 3.6 
+            xmax = 3.61 
             text = "N" 
         intervals [26]:
-            xmin = 3.6 
+            xmin = 3.61 
             xmax = 4.11 
             text = "" 
         intervals [27]:
@@ -584,10 +584,10 @@ item []:
             text = "AH1" 
         intervals [61]:
             xmin = 7.73 
-            xmax = 8.12 
+            xmax = 8.09 
             text = "L" 
         intervals [62]:
-            xmin = 8.12 
+            xmin = 8.09 
             xmax = 8.5 
             text = "" 
         intervals [63]:
@@ -1200,9 +1200,9 @@ item []:
             text = "L" 
         intervals [215]:
             xmin = 28.610001 
-            xmax = 28.870001 
+            xmax = 28.84 
             text = "P" 
         intervals [216]:
-            xmin = 28.870001 
+            xmin = 28.84 
             xmax = 29.212562 
             text = "" 

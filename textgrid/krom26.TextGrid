@@ -138,10 +138,10 @@ item []:
             text = "taking" 
         intervals [32]:
             xmin = 9.95 
-            xmax = 10.58 
+            xmax = 10.59 
             text = "" 
         intervals [33]:
-            xmin = 10.58 
+            xmin = 10.59 
             xmax = 10.74 
             text = "but" 
         intervals [34]:
@@ -206,10 +206,10 @@ item []:
             text = "returned" 
         intervals [49]:
             xmin = 15.07 
-            xmax = 15.67 
+            xmax = 15.68 
             text = "" 
         intervals [50]:
-            xmin = 15.67 
+            xmin = 15.68 
             xmax = 15.98 
             text = "we'll" 
         intervals [51]:
@@ -588,10 +588,10 @@ item []:
             text = "NG" 
         intervals [87]:
             xmin = 9.95 
-            xmax = 10.58 
+            xmax = 10.59 
             text = "" 
         intervals [88]:
-            xmin = 10.58 
+            xmin = 10.59 
             xmax = 10.63 
             text = "B" 
         intervals [89]:
@@ -780,10 +780,10 @@ item []:
             text = "D" 
         intervals [135]:
             xmin = 15.07 
-            xmax = 15.67 
+            xmax = 15.68 
             text = "" 
         intervals [136]:
-            xmin = 15.67 
+            xmin = 15.68 
             xmax = 15.83 
             text = "W" 
         intervals [137]:

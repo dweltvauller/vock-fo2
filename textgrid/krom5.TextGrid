@@ -18,10 +18,10 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.23 
-            xmax = 1.12 
+            xmax = 1.11 
             text = "ah" 
         intervals [3]:
-            xmin = 1.12 
+            xmin = 1.11 
             xmax = 1.32 
             text = "" 
         intervals [4]:
@@ -198,10 +198,10 @@ item []:
             text = "before" 
         intervals [47]:
             xmin = 18.52 
-            xmax = 18.66 
+            xmax = 18.65 
             text = "the" 
         intervals [48]:
-            xmin = 18.66 
+            xmin = 18.65 
             xmax = 19.219999 
             text = "great" 
         intervals [49]:
@@ -284,10 +284,10 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.23 
-            xmax = 1.12 
+            xmax = 1.11 
             text = "AA1" 
         intervals [3]:
-            xmin = 1.12 
+            xmin = 1.11 
             xmax = 1.32 
             text = "" 
         intervals [4]:
@@ -900,10 +900,10 @@ item []:
             text = "DH" 
         intervals [156]:
             xmin = 18.59 
-            xmax = 18.66 
+            xmax = 18.65 
             text = "AH0" 
         intervals [157]:
-            xmin = 18.66 
+            xmin = 18.65 
             xmax = 18.780001 
             text = "G" 
         intervals [158]:

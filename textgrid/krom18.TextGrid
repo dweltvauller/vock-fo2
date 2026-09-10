@@ -138,10 +138,10 @@ item []:
             text = "starving" 
         intervals [32]:
             xmin = 10.7 
-            xmax = 11.89 
+            xmax = 11.92 
             text = "radscorpion" 
         intervals [33]:
-            xmin = 11.89 
+            xmin = 11.92 
             xmax = 12.23 
             text = "" 
         intervals [34]:
@@ -608,10 +608,10 @@ item []:
             text = "AH0" 
         intervals [99]:
             xmin = 11.76 
-            xmax = 11.89 
+            xmax = 11.92 
             text = "N" 
         intervals [100]:
-            xmin = 11.89 
+            xmin = 11.92 
             xmax = 12.23 
             text = "" 
         intervals [101]:

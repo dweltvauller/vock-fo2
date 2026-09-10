@@ -42,10 +42,10 @@ item []:
             text = "to" 
         intervals [8]:
             xmin = 1.49 
-            xmax = 2.15 
+            xmax = 2.14 
             text = "decide" 
         intervals [9]:
-            xmin = 2.15 
+            xmin = 2.14 
             xmax = 2.521633 
             text = "" 
     item [2]:
@@ -124,9 +124,9 @@ item []:
             text = "AY1" 
         intervals [18]:
             xmin = 1.94 
-            xmax = 2.15 
+            xmax = 2.14 
             text = "D" 
         intervals [19]:
-            xmin = 2.15 
+            xmin = 2.14 
             xmax = 2.521633 
             text = "" 

@@ -388,10 +388,10 @@ item []:
             text = "DH" 
         intervals [47]:
             xmin = 6.21 
-            xmax = 6.25 
+            xmax = 6.26 
             text = "B" 
         intervals [48]:
-            xmin = 6.25 
+            xmin = 6.26 
             xmax = 6.43 
             text = "R" 
         intervals [49]:
@@ -728,10 +728,10 @@ item []:
             text = "G" 
         intervals [132]:
             xmin = 15.51 
-            xmax = 15.58 
+            xmax = 15.57 
             text = "OW1" 
         intervals [133]:
-            xmin = 15.58 
+            xmin = 15.57 
             xmax = 15.75 
             text = "L" 
         intervals [134]:

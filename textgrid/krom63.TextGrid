@@ -552,10 +552,10 @@ item []:
             text = "L" 
         intervals [84]:
             xmin = 10.82 
-            xmax = 10.92 
+            xmax = 10.91 
             text = "AY1" 
         intervals [85]:
-            xmin = 10.92 
+            xmin = 10.91 
             xmax = 11.02 
             text = "K" 
         intervals [86]:

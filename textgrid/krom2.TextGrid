@@ -252,10 +252,10 @@ item []:
             text = "AA1" 
         intervals [35]:
             xmin = 5.52 
-            xmax = 5.63 
+            xmax = 5.62 
             text = "D" 
         intervals [36]:
-            xmin = 5.63 
+            xmin = 5.62 
             xmax = 5.69 
             text = "Z" 
         intervals [37]:

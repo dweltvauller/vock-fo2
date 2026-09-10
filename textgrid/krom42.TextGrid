@@ -480,10 +480,10 @@ item []:
             text = "AA1" 
         intervals [86]:
             xmin = 9.61 
-            xmax = 9.69 
+            xmax = 9.68 
             text = "B" 
         intervals [87]:
-            xmin = 9.69 
+            xmin = 9.68 
             xmax = 9.74 
             text = "L" 
         intervals [88]:

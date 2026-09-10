@@ -548,10 +548,10 @@ item []:
             text = "R" 
         intervals [88]:
             xmin = 12.21 
-            xmax = 12.3 
+            xmax = 12.31 
             text = "M" 
         intervals [89]:
-            xmin = 12.3 
+            xmin = 12.31 
             xmax = 12.38 
             text = "AH0" 
         intervals [90]:

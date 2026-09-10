@@ -146,10 +146,10 @@ item []:
             text = "spears" 
         intervals [34]:
             xmin = 17.809999 
-            xmax = 18.15 
+            xmax = 18.16 
             text = "" 
         intervals [35]:
-            xmin = 18.15 
+            xmin = 18.16 
             xmax = 18.459999 
             text = "doesn't" 
         intervals [36]:
@@ -170,10 +170,10 @@ item []:
             text = "they" 
         intervals [40]:
             xmin = 19.68 
-            xmax = 20.280001 
+            xmax = 20.290001 
             text = "are" 
         intervals [41]:
-            xmin = 20.280001 
+            xmin = 20.290001 
             xmax = 20.66 
             text = "" 
         intervals [42]:
@@ -432,10 +432,10 @@ item []:
             text = "DH" 
         intervals [54]:
             xmin = 11.53 
-            xmax = 11.59 
+            xmax = 11.6 
             text = "AE1" 
         intervals [55]:
-            xmin = 11.59 
+            xmin = 11.6 
             xmax = 11.66 
             text = "T" 
         intervals [56]:
@@ -580,10 +580,10 @@ item []:
             text = "Z" 
         intervals [91]:
             xmin = 17.809999 
-            xmax = 18.15 
+            xmax = 18.16 
             text = "" 
         intervals [92]:
-            xmin = 18.15 
+            xmin = 18.16 
             xmax = 18.200001 
             text = "D" 
         intervals [93]:
@@ -660,10 +660,10 @@ item []:
             text = "AA1" 
         intervals [111]:
             xmin = 19.879999 
-            xmax = 20.280001 
+            xmax = 20.290001 
             text = "R" 
         intervals [112]:
-            xmin = 20.280001 
+            xmin = 20.290001 
             xmax = 20.66 
             text = "" 
         intervals [113]:

@@ -54,10 +54,10 @@ item []:
             text = "asked" 
         intervals [11]:
             xmin = 2.5 
-            xmax = 2.99 
+            xmax = 3.0 
             text = "for" 
         intervals [12]:
-            xmin = 2.99 
+            xmin = 3.0 
             xmax = 3.300181 
             text = "" 
     item [2]:
@@ -84,10 +84,10 @@ item []:
             text = "F" 
         intervals [5]:
             xmin = 0.51 
-            xmax = 0.71 
+            xmax = 0.7 
             text = "AY1" 
         intervals [6]:
-            xmin = 0.71 
+            xmin = 0.7 
             xmax = 0.76 
             text = "N" 
         intervals [7]:
@@ -176,9 +176,9 @@ item []:
             text = "AO1" 
         intervals [28]:
             xmin = 2.77 
-            xmax = 2.99 
+            xmax = 3.0 
             text = "R" 
         intervals [29]:
-            xmin = 2.99 
+            xmin = 3.0 
             xmax = 3.300181 
             text = "" 

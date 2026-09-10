@@ -86,10 +86,10 @@ item []:
             text = "texts" 
         intervals [19]:
             xmin = 6.46 
-            xmax = 6.97 
+            xmax = 6.95 
             text = "" 
         intervals [20]:
-            xmin = 6.97 
+            xmin = 6.95 
             xmax = 7.19 
             text = "it's" 
         intervals [21]:
@@ -130,10 +130,10 @@ item []:
             text = "times" 
         intervals [30]:
             xmin = 11.4 
-            xmax = 11.88 
+            xmax = 11.87 
             text = "" 
         intervals [31]:
-            xmin = 11.88 
+            xmin = 11.87 
             xmax = 12.04 
             text = "but" 
         intervals [32]:
@@ -376,10 +376,10 @@ item []:
             text = "N" 
         intervals [17]:
             xmin = 2.33 
-            xmax = 2.45 
+            xmax = 2.46 
             text = "K" 
         intervals [18]:
-            xmin = 2.45 
+            xmin = 2.46 
             xmax = 2.55 
             text = "R" 
         intervals [19]:
@@ -512,12 +512,12 @@ item []:
             text = "S" 
         intervals [51]:
             xmin = 6.46 
-            xmax = 6.97 
+            xmax = 6.95 
             text = "" 
         intervals [52]:
-            xmin = 6.97 
+            xmin = 6.95 
             xmax = 7.05 
-            text = "IH1" 
+            text = "IH0" 
         intervals [53]:
             xmin = 7.05 
             xmax = 7.13 
@@ -680,10 +680,10 @@ item []:
             text = "Z" 
         intervals [93]:
             xmin = 11.4 
-            xmax = 11.88 
+            xmax = 11.87 
             text = "" 
         intervals [94]:
-            xmin = 11.88 
+            xmin = 11.87 
             xmax = 11.92 
             text = "B" 
         intervals [95]:

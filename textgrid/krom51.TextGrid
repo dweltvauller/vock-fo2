@@ -46,10 +46,10 @@ item []:
             text = "" 
         intervals [9]:
             xmin = 3.09 
-            xmax = 3.21 
+            xmax = 3.22 
             text = "the" 
         intervals [10]:
-            xmin = 3.21 
+            xmin = 3.22 
             xmax = 3.79 
             text = "loss" 
         intervals [11]:
@@ -118,10 +118,10 @@ item []:
             text = "have" 
         intervals [27]:
             xmin = 9.52 
-            xmax = 10.05 
+            xmax = 10.06 
             text = "died" 
         intervals [28]:
-            xmin = 10.05 
+            xmin = 10.06 
             xmax = 10.09 
             text = "" 
         intervals [29]:
@@ -284,10 +284,10 @@ item []:
             text = "AE1" 
         intervals [4]:
             xmin = 0.38 
-            xmax = 0.47 
+            xmax = 0.45 
             text = "NG" 
         intervals [5]:
-            xmin = 0.47 
+            xmin = 0.45 
             xmax = 0.57 
             text = "K" 
         intervals [6]:
@@ -380,10 +380,10 @@ item []:
             text = "DH" 
         intervals [28]:
             xmin = 3.13 
-            xmax = 3.21 
+            xmax = 3.22 
             text = "AH1" 
         intervals [29]:
-            xmin = 3.21 
+            xmin = 3.22 
             xmax = 3.43 
             text = "L" 
         intervals [30]:
@@ -572,10 +572,10 @@ item []:
             text = "AY1" 
         intervals [76]:
             xmin = 9.9 
-            xmax = 10.05 
+            xmax = 10.06 
             text = "D" 
         intervals [77]:
-            xmin = 10.05 
+            xmin = 10.06 
             xmax = 10.09 
             text = "" 
         intervals [78]:

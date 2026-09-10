@@ -448,10 +448,10 @@ item []:
             text = "N" 
         intervals [52]:
             xmin = 6.05 
-            xmax = 6.13 
+            xmax = 6.12 
             text = "AA1" 
         intervals [53]:
-            xmin = 6.13 
+            xmin = 6.12 
             xmax = 6.22 
             text = "N" 
         intervals [54]:
@@ -468,10 +468,10 @@ item []:
             text = "CH" 
         intervals [57]:
             xmin = 6.62 
-            xmax = 6.72 
+            xmax = 6.73 
             text = "ER0" 
         intervals [58]:
-            xmin = 6.72 
+            xmin = 6.73 
             xmax = 6.79 
             text = "IH0" 
         intervals [59]:

@@ -426,10 +426,10 @@ item []:
             text = "into" 
         intervals [104]:
             xmin = 38.810001 
-            xmax = 39.59 
+            xmax = 39.599998 
             text = "steel" 
         intervals [105]:
-            xmin = 39.59 
+            xmin = 39.599998 
             xmax = 39.900002 
             text = "" 
         intervals [106]:
@@ -528,10 +528,10 @@ item []:
             text = "S" 
         intervals [16]:
             xmin = 3.13 
-            xmax = 3.19 
+            xmax = 3.18 
             text = "AH0" 
         intervals [17]:
-            xmin = 3.19 
+            xmin = 3.18 
             xmax = 3.39 
             text = "P" 
         intervals [18]:
@@ -656,10 +656,10 @@ item []:
             text = "F" 
         intervals [48]:
             xmin = 7.51 
-            xmax = 7.78 
+            xmax = 7.77 
             text = "AA1" 
         intervals [49]:
-            xmin = 7.78 
+            xmin = 7.77 
             xmax = 7.94 
             text = "R" 
         intervals [50]:
@@ -1536,10 +1536,10 @@ item []:
             text = "IY1" 
         intervals [268]:
             xmin = 39.330002 
-            xmax = 39.59 
+            xmax = 39.599998 
             text = "L" 
         intervals [269]:
-            xmin = 39.59 
+            xmin = 39.599998 
             xmax = 39.900002 
             text = "" 
         intervals [270]:

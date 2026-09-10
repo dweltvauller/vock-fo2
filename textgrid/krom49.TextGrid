@@ -146,10 +146,10 @@ item []:
             text = "battle" 
         intervals [34]:
             xmin = 12.2 
-            xmax = 12.52 
+            xmax = 12.53 
             text = "" 
         intervals [35]:
-            xmin = 12.52 
+            xmin = 12.53 
             xmax = 12.72 
             text = "like" 
         intervals [36]:
@@ -596,10 +596,10 @@ item []:
             text = "L" 
         intervals [79]:
             xmin = 12.2 
-            xmax = 12.52 
+            xmax = 12.53 
             text = "" 
         intervals [80]:
-            xmin = 12.52 
+            xmin = 12.53 
             xmax = 12.58 
             text = "L" 
         intervals [81]:
@@ -856,10 +856,10 @@ item []:
             text = "K" 
         intervals [144]:
             xmin = 21.9 
-            xmax = 22.02 
+            xmax = 22.030001 
             text = "IH0" 
         intervals [145]:
-            xmin = 22.02 
+            xmin = 22.030001 
             xmax = 22.200001 
             text = "NG" 
         intervals [146]:

@@ -488,10 +488,10 @@ item []:
             text = "D" 
         intervals [64]:
             xmin = 8.48 
-            xmax = 8.69 
+            xmax = 8.77 
             text = "UW1" 
         intervals [65]:
-            xmin = 8.69 
+            xmin = 8.77 
             xmax = 8.93 
             text = "M" 
         intervals [66]:

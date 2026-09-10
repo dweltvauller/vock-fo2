@@ -202,10 +202,10 @@ item []:
             text = "now" 
         intervals [48]:
             xmin = 15.89 
-            xmax = 16.139999 
+            xmax = 16.15 
             text = "" 
         intervals [49]:
-            xmin = 16.139999 
+            xmin = 16.15 
             xmax = 16.389999 
             text = "you're" 
         intervals [50]:
@@ -920,10 +920,10 @@ item []:
             text = "AW1" 
         intervals [142]:
             xmin = 15.89 
-            xmax = 16.139999 
+            xmax = 16.15 
             text = "" 
         intervals [143]:
-            xmin = 16.139999 
+            xmin = 16.15 
             xmax = 16.219999 
             text = "Y" 
         intervals [144]:
@@ -940,10 +940,10 @@ item []:
             text = "W" 
         intervals [147]:
             xmin = 16.51 
-            xmax = 16.549999 
+            xmax = 16.559999 
             text = "EH1" 
         intervals [148]:
-            xmin = 16.549999 
+            xmin = 16.559999 
             xmax = 16.629999 
             text = "L" 
         intervals [149]:

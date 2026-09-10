@@ -46,10 +46,10 @@ item []:
             text = "fellow" 
         intervals [9]:
             xmin = 3.12 
-            xmax = 3.98 
+            xmax = 3.97 
             text = "tribal" 
         intervals [10]:
-            xmin = 3.98 
+            xmin = 3.97 
             xmax = 4.22 
             text = "" 
         intervals [11]:
@@ -58,14 +58,14 @@ item []:
             text = "as" 
         intervals [12]:
             xmin = 4.54 
-            xmax = 4.74 
+            xmax = 4.75 
             text = "they" 
         intervals [13]:
-            xmin = 4.74 
-            xmax = 5.27 
+            xmin = 4.75 
+            xmax = 5.29 
             text = "call" 
         intervals [14]:
-            xmin = 5.27 
+            xmin = 5.29 
             xmax = 5.62 
             text = "us" 
         intervals [15]:
@@ -372,10 +372,10 @@ item []:
             text = "AH0" 
         intervals [26]:
             xmin = 3.69 
-            xmax = 3.98 
+            xmax = 3.97 
             text = "L" 
         intervals [27]:
-            xmin = 3.98 
+            xmin = 3.97 
             xmax = 4.22 
             text = "" 
         intervals [28]:
@@ -392,10 +392,10 @@ item []:
             text = "DH" 
         intervals [31]:
             xmin = 4.6 
-            xmax = 4.74 
+            xmax = 4.75 
             text = "EY1" 
         intervals [32]:
-            xmin = 4.74 
+            xmin = 4.75 
             xmax = 4.95 
             text = "K" 
         intervals [33]:
@@ -404,10 +404,10 @@ item []:
             text = "AO1" 
         intervals [34]:
             xmin = 5.12 
-            xmax = 5.27 
+            xmax = 5.29 
             text = "L" 
         intervals [35]:
-            xmin = 5.27 
+            xmin = 5.29 
             xmax = 5.33 
             text = "AH1" 
         intervals [36]:
@@ -1016,10 +1016,10 @@ item []:
             text = "NG" 
         intervals [187]:
             xmin = 22.959999 
-            xmax = 23.02 
+            xmax = 23.01 
             text = "K" 
         intervals [188]:
-            xmin = 23.02 
+            xmin = 23.01 
             xmax = 23.07 
             text = "T" 
         intervals [189]:

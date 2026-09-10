@@ -30,10 +30,10 @@ item []:
             text = "girl" 
         intervals [5]:
             xmin = 1.88 
-            xmax = 2.18 
+            xmax = 2.19 
             text = "" 
         intervals [6]:
-            xmin = 2.18 
+            xmin = 2.19 
             xmax = 2.63 
             text = "what's" 
         intervals [7]:
@@ -128,10 +128,10 @@ item []:
             text = "L" 
         intervals [10]:
             xmin = 1.88 
-            xmax = 2.18 
+            xmax = 2.19 
             text = "" 
         intervals [11]:
-            xmin = 2.18 
+            xmin = 2.19 
             xmax = 2.22 
             text = "HH" 
         intervals [12]:

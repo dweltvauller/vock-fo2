@@ -90,10 +90,10 @@ item []:
             text = "ugly" 
         intervals [20]:
             xmin = 6.47 
-            xmax = 7.23 
+            xmax = 7.22 
             text = "skull" 
         intervals [21]:
-            xmin = 7.23 
+            xmin = 7.22 
             xmax = 7.67 
             text = "" 
         intervals [22]:
@@ -448,10 +448,10 @@ item []:
             text = "AH1" 
         intervals [59]:
             xmin = 6.86 
-            xmax = 7.23 
+            xmax = 7.22 
             text = "L" 
         intervals [60]:
-            xmin = 7.23 
+            xmin = 7.22 
             xmax = 7.67 
             text = "" 
         intervals [61]:

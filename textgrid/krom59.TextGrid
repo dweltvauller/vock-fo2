@@ -46,22 +46,22 @@ item []:
             text = "a" 
         intervals [9]:
             xmin = 2.01 
-            xmax = 2.68 
+            xmax = 2.65 
             text = "forgiving" 
         intervals [10]:
-            xmin = 2.68 
-            xmax = 3.03 
+            xmin = 2.65 
+            xmax = 3.04 
             text = "mood" 
         intervals [11]:
-            xmin = 3.03 
+            xmin = 3.04 
             xmax = 3.46 
             text = "today" 
         intervals [12]:
             xmin = 3.46 
-            xmax = 4.12 
+            xmax = 4.11 
             text = "friend" 
         intervals [13]:
-            xmin = 4.12 
+            xmin = 4.11 
             xmax = 4.41 
             text = "" 
         intervals [14]:
@@ -192,10 +192,10 @@ item []:
             text = "IH0" 
         intervals [23]:
             xmin = 2.6 
-            xmax = 2.68 
+            xmax = 2.65 
             text = "NG" 
         intervals [24]:
-            xmin = 2.68 
+            xmin = 2.65 
             xmax = 2.76 
             text = "M" 
         intervals [25]:
@@ -204,10 +204,10 @@ item []:
             text = "UW1" 
         intervals [26]:
             xmin = 2.96 
-            xmax = 3.03 
+            xmax = 3.04 
             text = "D" 
         intervals [27]:
-            xmin = 3.03 
+            xmin = 3.04 
             xmax = 3.12 
             text = "T" 
         intervals [28]:
@@ -240,10 +240,10 @@ item []:
             text = "N" 
         intervals [35]:
             xmin = 3.98 
-            xmax = 4.12 
+            xmax = 4.11 
             text = "D" 
         intervals [36]:
-            xmin = 4.12 
+            xmin = 4.11 
             xmax = 4.41 
             text = "" 
         intervals [37]:

@@ -30,10 +30,10 @@ item []:
             text = "gods" 
         intervals [5]:
             xmin = 1.41 
-            xmax = 2.14 
+            xmax = 2.15 
             text = "girl" 
         intervals [6]:
-            xmin = 2.14 
+            xmin = 2.15 
             xmax = 2.25 
             text = "" 
         intervals [7]:
@@ -100,10 +100,10 @@ item []:
             text = "ER1" 
         intervals [12]:
             xmin = 1.82 
-            xmax = 2.14 
+            xmax = 2.15 
             text = "L" 
         intervals [13]:
-            xmin = 2.14 
+            xmin = 2.15 
             xmax = 2.25 
             text = "" 
         intervals [14]:

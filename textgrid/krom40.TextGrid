@@ -238,10 +238,10 @@ item []:
             text = "" 
         intervals [57]:
             xmin = 19.99 
-            xmax = 20.57 
+            xmax = 20.559999 
             text = "someday" 
         intervals [58]:
-            xmin = 20.57 
+            xmin = 20.559999 
             xmax = 21.190001 
             text = "soon" 
         intervals [59]:
@@ -1004,10 +1004,10 @@ item []:
             text = "D" 
         intervals [171]:
             xmin = 20.4 
-            xmax = 20.57 
+            xmax = 20.559999 
             text = "EY2" 
         intervals [172]:
-            xmin = 20.57 
+            xmin = 20.559999 
             xmax = 20.790001 
             text = "S" 
         intervals [173]:

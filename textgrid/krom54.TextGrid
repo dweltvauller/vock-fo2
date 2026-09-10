@@ -30,10 +30,10 @@ item []:
             text = "change" 
         intervals [5]:
             xmin = 0.85 
-            xmax = 1.01 
+            xmax = 1.02 
             text = "your" 
         intervals [6]:
-            xmin = 1.01 
+            xmin = 1.02 
             xmax = 1.67 
             text = "mind" 
         intervals [7]:
@@ -128,10 +128,10 @@ item []:
             text = "AO1" 
         intervals [13]:
             xmin = 0.93 
-            xmax = 1.01 
+            xmax = 1.02 
             text = "R" 
         intervals [14]:
-            xmin = 1.01 
+            xmin = 1.02 
             xmax = 1.13 
             text = "M" 
         intervals [15]:

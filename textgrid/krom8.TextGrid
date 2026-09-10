@@ -34,10 +34,10 @@ item []:
             text = "" 
         intervals [6]:
             xmin = 0.87 
-            xmax = 1.04 
+            xmax = 1.05 
             text = "ha" 
         intervals [7]:
-            xmin = 1.04 
+            xmin = 1.05 
             xmax = 1.63 
             text = "" 
         intervals [8]:
@@ -204,10 +204,10 @@ item []:
             text = "HH" 
         intervals [9]:
             xmin = 0.9 
-            xmax = 1.04 
+            xmax = 1.05 
             text = "AA1" 
         intervals [10]:
-            xmin = 1.04 
+            xmin = 1.05 
             xmax = 1.63 
             text = "" 
         intervals [11]:

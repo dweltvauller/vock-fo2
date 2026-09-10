@@ -118,10 +118,10 @@ item []:
             text = "with" 
         intervals [27]:
             xmin = 10.0 
-            xmax = 10.74 
+            xmax = 10.72 
             text = "various" 
         intervals [28]:
-            xmin = 10.74 
+            xmin = 10.72 
             xmax = 11.67 
             text = "tribes" 
         intervals [29]:
@@ -238,10 +238,10 @@ item []:
             text = "behind" 
         intervals [57]:
             xmin = 24.5 
-            xmax = 24.719999 
+            xmax = 24.73 
             text = "their" 
         intervals [58]:
-            xmin = 24.719999 
+            xmin = 24.73 
             xmax = 24.83 
             text = "" 
         intervals [59]:
@@ -736,10 +736,10 @@ item []:
             text = "AH0" 
         intervals [84]:
             xmin = 10.65 
-            xmax = 10.74 
+            xmax = 10.72 
             text = "S" 
         intervals [85]:
-            xmin = 10.74 
+            xmin = 10.72 
             xmax = 10.93 
             text = "T" 
         intervals [86]:
@@ -1156,10 +1156,10 @@ item []:
             text = "EH1" 
         intervals [189]:
             xmin = 24.540001 
-            xmax = 24.719999 
+            xmax = 24.73 
             text = "R" 
         intervals [190]:
-            xmin = 24.719999 
+            xmin = 24.73 
             xmax = 24.83 
             text = "" 
         intervals [191]:

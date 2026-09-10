@@ -186,10 +186,10 @@ item []:
             text = "such" 
         intervals [44]:
             xmin = 18.16 
-            xmax = 18.190001 
+            xmax = 18.200001 
             text = "a" 
         intervals [45]:
-            xmin = 18.190001 
+            xmin = 18.200001 
             xmax = 18.9 
             text = "device" 
         intervals [46]:
@@ -274,10 +274,10 @@ item []:
             text = "" 
         intervals [66]:
             xmin = 26.450001 
-            xmax = 26.83 
+            xmax = 26.85 
             text = "i've" 
         intervals [67]:
-            xmin = 26.83 
+            xmin = 26.85 
             xmax = 27.549999 
             text = "traveled" 
         intervals [68]:
@@ -797,7 +797,7 @@ item []:
         intervals [109]:
             xmin = 12.39 
             xmax = 12.46 
-            text = "IH1" 
+            text = "IH0" 
         intervals [110]:
             xmin = 12.46 
             xmax = 12.56 
@@ -984,10 +984,10 @@ item []:
             text = "CH" 
         intervals [156]:
             xmin = 18.16 
-            xmax = 18.190001 
+            xmax = 18.200001 
             text = "AH0" 
         intervals [157]:
-            xmin = 18.190001 
+            xmin = 18.200001 
             xmax = 18.27 
             text = "D" 
         intervals [158]:
@@ -1244,10 +1244,10 @@ item []:
             text = "AY1" 
         intervals [221]:
             xmin = 26.74 
-            xmax = 26.83 
+            xmax = 26.85 
             text = "V" 
         intervals [222]:
-            xmin = 26.83 
+            xmin = 26.85 
             xmax = 27.02 
             text = "T" 
         intervals [223]:
@@ -1448,10 +1448,10 @@ item []:
             text = "AH1" 
         intervals [272]:
             xmin = 33.610001 
-            xmax = 33.68 
+            xmax = 33.689999 
             text = "Z" 
         intervals [273]:
-            xmin = 33.68 
+            xmin = 33.689999 
             xmax = 33.740002 
             text = "AH0" 
         intervals [274]:
