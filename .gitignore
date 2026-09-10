@@ -2,10 +2,12 @@
 # wav/ and textgrid/ stay top-level as rebuild metadata.
 
 # Build scratch / generated — do not commit
-audio/          # raw voice-actor takes (various formats)
+audio/
 pending/
-dat/            # built vock.dat / vock_floats.dat / vock_combat.dat
-scripts/        # compiled .INT scratch; the shipped copies live in data/scripts/
+dat/
+
+# Compiled .INT scratch; the shipped copies live in data/scripts/
+scripts/
 
 # Pre-data-layout category folders (contents now under data/) — ignore stragglers
 msg/
