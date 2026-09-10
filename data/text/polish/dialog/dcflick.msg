@@ -1,0 +1,80 @@
+{100}{}{Widzisz chudego mê¿czyznê o niemi³ej powierzchownoœci.}
+{150}{}{Widzisz Flicka. Zapamiêtale drapie swoje klejnoty rodowe.}
+{151}{}{Widzisz niezbyt domytego mê¿czyznê o nieprzyjemnej twarzy.}
+{200}{flick25}{Uciekaj st¹d, g³upolu.}
+{201}{flick26}{Hej przyg³upie! Tak, do ciebie mówiê! Smykaj st¹d, sio!}
+{202}{flick27}{Nies³y s ciebie g³upol, co?}
+{203}{flick28}{Szczym masz problem, hê?!}
+{204}{flick29}{Uciekaj st¹d, sio!}
+{220}{flick1}{Heja, jestem Flick. Czego tu do cholery szukasz?}
+{221}{flick2}{I co teras? Marnujesz mój czas.}
+{222}{}{O co chodzi z tym akcentem, Flick?}
+{223}{}{Co ty tu do cholery robisz?}
+{224}{}{Szukam Krypty - no i kupca imieniem Vic. Wiesz gdzie go mo¿na znaleŸæ?}
+{225}{}{Chcê z tob¹ pohandlowaæ.}
+{240}{flick3}{To jak, chcesz jeszcze coœ?}
+{241}{}{Jeœli mo¿na, chêtnie jeszcze raz rzucê okiem na twoj¹ ofertê.}
+{242}{}{W zasadzie chcê ciê tylko o coœ zapytaæ.}
+{243}{}{To ju¿ wszystko. Do zobaczenia Flick.}
+{260}{flick4}{Ja tu kurna handlujê, a co myœlisz? Jestem jak taki Samurajtanin, nie?}
+{261}{}{¯e co?}
+{262}{}{No tak... mogê ciê zapytaæ o coœ jeszcze?}
+{263}{}{A, tak. W porz¹dku. ¯egnaj, Flick.}
+{280}{flick5}{Dbam o te ma³e urwipo³cie.}
+{281}{}{Handlujesz miêsem, tak?}
+{290}{flick6}{Urwipo³cie! No, kumasz, dzieci. Moje dzieci!}
+{291}{}{Twoje dzieci?}
+{292}{}{Có¿, nie interesuje mnie zbytnio dokarmianie dzieci. Chcê ciê zapytaæ o coœ innego.}
+{300}{flick7}{No tak! Dzieci, które dla mnie pracuj¹. Pszynosz¹ mi szeczy. Ró¿ne takie pierdu³y. No wiesz!}
+{301}{}{Ee, nie.}
+{302}{}{W porz¹dku. Chcê ciê jeszcze o coœ zapytaæ.}
+{303}{}{Ach, rozumiem. No to nie bêdê ci przeszkadzaæ. ¯egnaj.}
+{315}{flick8}{Pszynosz¹ mi wszystkie swoje snalesiska. Takie tam malutkie pierdu³ki. Takie, co to ich nikt inny nie potszebuje. A ja siê nimi w samian opiekujê.}
+{316}{}{To chyba niez³y uk³ad.}
+{325}{flick9}{[Flick wzrusza ramionami] Jakoœ sobie wspólnie radzimy.}
+{326}{}{To mo¿e zapytam ciê o coœ innego?}
+{327}{}{Na pewno przynosz¹ ci ró¿ne ciekawe rzeczy. Zobaczmy co tam masz.}
+{328}{}{Tylko pytam. Có¿, ¿egnaj Flick.}
+{340}{flick10}{O czym ty gadasz?! Co ja ci wygl¹dam, jak pirla? Jakiœ g³upi filio di puttana? Masz mnie sa b³asna? Myœlisz, sze jestem sajebiœcie sabawny, tak?}
+{341}{}{Ale¿ sk¹d. Przepraszam, pytam tylko z ciekawoœci. Mogê ciê zapytaæ o coœ innego?}
+{342}{}{W³aœnie tak. A nic nie rozbawi mnie bardziej, ni¿ twoje wyprute na ziemiê bebechy.}
+{343}{}{Cholera, jeœli zamierzasz siê z³oœciæ o byle co, to ja wychodzê.}
+{360}{flick11}{Krypta, co? Mo¿e Mamuœka coœ o tym wie, bo ja nie mam pojêcia. Ale ten ca³y Vic - jego snam. Metsger dorwa³ tego porca pistola.}
+{361}{flick12}{Vic? A to nie jest ten goœæ s tob¹? Biota. Ale Mamuœka... j¹ znam.}
+{362}{}{Kim jest Metzger?}
+{363}{}{Kim jest Mamuœka?}
+{364}{}{Dziêkujê. Pozwól, ¿e zapytam o coœ innego.}
+{365}{}{Dziêki, to ju¿ chyba wszystko. Do widzenia.}
+{380}{flick13}{Mamuœka prowadzi restauracjê we wschodniej czêœci miasta. Saras sa Cmentarzem. Fajne miejsce, dobre spaghetti, Mama mia.}
+{381}{}{Dziêki, a co z tym Metsgerem, który przetrzymuje Vica?}
+{382}{}{Dziêkujê. Pozwól, ¿e zapytam o coœ innego.}
+{383}{}{Dziêki, to ju¿ chyba wszystko. Do widzenia.}
+{400}{flick14}{A, tak! Metsger, ten stronzo, ju¿ nie ¿yje. Nie wiem co siê sta³o z Vicem.}
+{401}{flick15}{Ten Metsger, to prawdziwy rompiballe. Prowadzi gildiê ³owców niewolników. To na wschodzie, saras na pó³noc od Mamuœki. To on uwiêzi³ Vica.}
+{402}{}{Dziêki, a co z Mamuœk¹?}
+{403}{}{Dziêkujê. Pozwól, ¿e zapytam o coœ innego.}
+{404}{}{Dziêki, to ju¿ chyba wszystko. Do widzenia.}
+{410}{flick16}{Jasna dupa, kogo ja kurdê widzê. Sbawienie uciœnionych, ratunek kurdê dzieci, zaszczyca mnie sw¹ obecnoœci¹. Sam jestem dobrym Samurajtaninem. Dbam o te ma³e urwipo³cie. To snaczy kurdê dba³em do czasu as uda³o ci siê useczywistniæ cholerne plany Mamuœki.}
+{411}{flick17}{Jasna dupa, kogo ja kurdê widzê. Sbawienie uciœnionych, ratunek kurdê dzieci, zaszczyca mnie sw¹ obecnoœci¹. Sam jestem dobrym Samurajtaninem. Dbam o te ma³e urwipo³cie. To snaczy kurdê dba³em do czasu as uda³o ci siê useczywistniæ cholerne plany Mamuœki.}
+{412}{}{Handlujesz miêsem, tak?}
+{413}{}{Mówisz jak by ci nie odpowiada³o, ¿e dzieci ju¿ nie w³ócz¹ siê po ulicach.}
+{420}{flick18}{Hej, nie srosum mnie Ÿle. ¯ycie na ulicach jest ciêskie dla dzieci, ale naprawdê dobija mnie fakt, se sakoñczy³o to nasz ma³y uk³ad.}
+{421}{}{Jaki uk³ad?}
+{422}{}{Masz na myœli sprzeda¿ rzeczy które dla ciebie krad³y?}
+{430}{flick19}{Nie pszem¹dsaj siê tutaj. Dzieciaki pszynosi³y mi wszystkie swoje snalesiska. Nie wiem sk¹d je bra³y i szczese mówi¹c gówno mnie to obchodzi.}
+{431}{}{W porz¹dku.}
+{432}{}{Chrzanisz. Mam powy¿ej uszu ludzi takich jak ty, którzy wykorzystuj¹ innych dla w³asnego zysku. Czas ciê uœpiæ!}
+{440}{flick20}{Urwipo³cie! No, kumasz, dzieci. Moje dzieci!}
+{441}{}{A ty masz z nimi uk³ad tak?}
+{450}{flick21}{Pszynosz¹ mi wszystkie swoje snalesiska. Takie tam malutkie pierdu³ki. Takie, co to ich nikt inny nie potszebuje. A ja siê nimi w samian opiekujê.}
+{451}{}{To chyba niez³y uk³ad.}
+{460}{flick22}{Taa...bisnes siê krêci³, do casu twojego pszybycia. Widzisz, twój ma³y wyczyn duso mnie bêdzie kosztowa³. Mój bisnes pszes ciebie ucierpia³. Pszes to nie za bardzo ciê lubiê. W³aœciwie to ciê kurdê nienawidsê. Ale, jestem bisnesmenem i jeseli chcesz pohandlowaæ to biesmy siê sa to, w przeciwnym wypadku sjesdzaj st¹d.}
+{461}{}{Dobra, wiêc zobaczmy co tam masz.}
+{462}{}{Myœlê, ¿e mam wszystko czego potrzebowa³em. ¯egnaj.}
+{463}{}{Myœlê, ¿e jeszcze zostanê...i skopie ci dupsko.}
+{470}{flick23}{Snowu ty? Lepiej seby celem twojej wisyty by³a wymiana towaru, sam twój widok powoduje u mnie odruch wymiotny. A w³aœciwie, to rzygam odrobinê w ustach sa ka¿dym rasem jak cie widse. Tak bardso mnie brzydzisz. Wiêc jeœli nie przyhodzisz handlowaæ, to sugeruje w ty³ swrot i na przód marsz, st¹d w cholerê.}
+{471}{}{Pohandlujmy.}
+{472}{}{Tylko pytam. Có¿, ¿egnaj Flick.}
+{480}{flick24}{Nie traæ mojego czasu?}
+{481}{}{Pozwól, ¿e zerknê jeszcze raz.}
+{482}{}{To powinno wystarczyæ. ¯egnaj Flick.}

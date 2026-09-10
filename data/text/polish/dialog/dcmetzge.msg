@@ -1,0 +1,259 @@
+{100}{}{Widzisz wrednie wygl¹daj¹cego mê¿czyznê.}
+{101}{}{Widzisz Metzgera, handlarza niewolnikami.}
+{150}{}{Metzger jest g³ow¹ gildii ³owców niewolników.}
+{200}{metzg1}{Zap³acisz mi za to.}
+{210}{}{Czego tu kurwa szukasz? To jest gildia £owców Niewolników, a nie 
+przytu³ek dla jebanych æpunów.}
+{211}{metzg3}{Czego tu szukasz, paskudna suko? Tu jest gildia £owców, a nie pieprzony burdel.}
+{212}{metzg4}{Czego tu szukasz, cholerna suko? Tu jest gildia £owców, a nie jakiœ pieprzony burdel.}
+{213}{metzg5}{Zaczynasz mnie wkurwiaæ. Czego jeszcze chcesz?}
+{214}{metzg6}{Czego znowu?}
+{215}{metzg7}{Co?}
+{216}{metzg8}{Lepiej siê poœpiesz.}
+{217}{metzg9}{Mo¿e dla odmiany weŸmiesz siê do roboty?}
+{218}{metzg10}{Zaczynam siê oswajaæ z twoj¹ paskudn¹ gêb¹. No... szukasz tu czegoœ?}
+{219}{metzg11}{Czy ja wygl¹dam na twojego pieprzonego ojca? Mam cholern¹ nadziejê, ¿e nie. No, gadaj: czego chcesz?}
+{220}{metzg12}{No patrzcie pañstwo kto tu przyszed³. No i co tak stoisz? Gadaj o co chodzi albo spieprzaj.}
+{221}{metzg13}{Czego chcesz, £owco?}
+{222}{metzg14}{D³ugo mo¿esz tak staæ? Czego chcesz?}
+{223}{metzg15}{Gadaj. Nie bêdê tu czeka³ do jutra.}
+{230}{metzg16}{Och, a któ¿ to taki? Wiesz, ¿e to podró¿ w jedn¹ stronê?}
+{231}{metzg17}{Nie masz nikogo, kto by mnie interesowa³. Skupujê tylko ludzi... to znaczy: normalnych ludzi.}
+{232}{metzg18}{Co ja niby, kurwa, jestem. Pieprzony sklepikarz? Wróæ tutaj z jakimœ niewolnikiem to pogadamy. A po zakupy idŸ do pieprzonego sklepu.}
+{233}{}{Miria}
+{234}{}{Davin}
+{235}{}{Vic}
+{236}{}{Myron}
+{237}{}{Cassidy}
+{238}{}{Sulik}
+{239}{}{Mogê ciê jeszcze o coœ zapytaæ?}
+{240}{}{To ja ju¿ podziêkujê. Czeœæ.}
+{241}{}{Dex}
+{242}{}{Kot Jules}
+{243}{}{Kitsune}
+{245}{metzg19}{No, dalej.}
+{246}{metzg20}{Taak?}
+{247}{metzg21}{Czy ja ci wygl¹dam na s³u¿¹cego, sprê¿aj siê.}
+{248}{metzg22}{Czego? Mam ma³o czasu.}
+{249}{metzg23}{Wal œmia³o.}
+{250}{metzg24}{Mo¿e.}
+{255}{}{Mam coœ na sprzeda¿.}
+{256}{}{Porozmawiajmy o Vicu...}
+{257}{}{Szukam kupca.}
+{258}{}{Lara chcia³a ciê prosiæ o pozwolenie na walkê z Tylerem.}
+{259}{}{Chcê do³¹czyæ do gildii.}
+{260}{}{Co to za gildia?}
+{261}{}{Chcê polowaæ na niewolników.}
+{262}{}{Niewa¿ne. Czeœæ.}
+{263}{}{ chce robiæ.}
+{264}{}{Na.}
+{265}{}{Z tego co widzê masz tu spory wybór niewolników, ale widzisz, ja mam bardzo, hmm...*wyszukane* gusta i ¿adne z nich nie jest tym czego szukam. Czy to wszyscy niewolnicy których masz do zaoferowania?}
+{270}{metzg25}{Myœlisz, ¿e dasz radê? Nie przyjmujê byle kogo... A zreszt¹. Jak coœ spieprzysz, najwy¿ej ciê sprzedam. Musisz sobie zrobiæ na czole tatua¿ ³owcy niewolników. Nie da siê go usun¹æ, wiêc lepiej dobrze siê zastanów!}
+{271}{metzg26}{O! Nasza ksiê¿niczka wróci³a... Zmiana planów? Jednak chcesz ten tatua¿?}
+{272}{metzg27}{No, mo¿esz siê nadaæ... W koñcu do tego nie trzeba byæ geniuszem. Jak coœ spieprzysz, to ciê sprzedam. Jeœli naprawdê chcesz do nas do³¹czyæ, musimy ci zrobiæ na czole tatua¿ ³owcy niewolników.}
+{273}{}{Zróbmy to.}
+{274}{}{Muszê siê jeszcze zastanowiæ. Porozmawiamy póŸniej.}
+{275}{}{Mo¿e lepiej nie. ¯egnam.}
+{276}{}{Uja! [kiwniêcie]}
+{277}{}{Nie nie nie nie nie!}
+{285}{metzg28}{A jak kurwa myœlisz? To gildia ³owców niewolników. Kupujê i sprzedajê niewolników.}
+{286}{}{Sk¹d bierzecie niewolników?}
+{287}{}{Chcê do was do³¹czyæ.}
+{288}{}{Mam jeszcze jedno pytanie.}
+{289}{}{Rozumiem. Pa.}
+{300}{metzg29}{£apiemy ich gdzie popadnie. G³ównie dzikusów i nomadów.}
+{301}{}{Brzmi ciekawie. Mo¿na do was do³¹czyæ?}
+{302}{}{Mam jeszcze jedno pytanie.}
+{303}{}{Rozumiem. Pa.}
+{310}{metzg30}{No proszê, oby³o siê bez p³aczu. Jestem z ciebie taki dumny... Prawdê mówi¹c, dobrze ci z tym tatua¿em. Daj znaæ jak uznasz, ¿e ju¿ czas ruszyæ na pierwsze polowanie.}
+{311}{}{Dziêki. Na razie.}
+{312}{}{Chcê od razu wzi¹æ siê do roboty.}
+{313}{}{Muszê zabijaæ, JU¯!}
+{314}{}{Dobra!}
+{320}{metzg31}{Dwóch moich ludzi podprowadzi ciê pod cel. Wynagrodzenie zale¿y od liczby niewolników, których mi przyprowadzicie. Uwa¿ajcie na siebie. Jeœli któryœ z was zginie, potr¹cê z pensji pozosta³ej dwójce.}
+{321}{metzg32}{Cholera. Okolica jest jak wymar³a. Musimy poczekaæ, a¿ znów pojawi¹ siê jakieœ dzikusy. Mo¿e powinniœmy zacz¹æ ich rozmna¿aæ? }
+{322}{metzg33}{Nie ma mowy. Po prostu mi siê to nie op³aca. To jest interes, a przez ciebie mam za du¿o strat.}
+{323}{metzg34}{Dobra. Po robocie.}
+{324}{metzg35}{Dobra, mo¿esz wracaæ do miasta.}
+{325}{metzg36}{No to ruszaj.}
+{326}{metzg37}{Dobra. Wróæ jak bêdzie po wszystkim.}
+{327}{}{W porz¹dku.}
+{328}{}{Uch.}
+{340}{metzg38}{Zabijaj tylko tych agresywnych. Jeœli ciê zaatakuj¹ - wal bez namys³u. Nie mam ochoty siê z nimi szarpaæ. Jak ju¿ skoñczysz, twoi kumple spêdz¹ i oznakuj¹ resztê.}
+{341}{}{W porz¹dku.}
+{342}{}{Och.}
+{350}{metzg39}{Jak zaczn¹ znakowanie, mo¿esz wracaæ do miasta. Poskramianie dzikusów nie jest takie ³atwe, na jakie wygl¹da, wiêc zostaw to profesjonalistom. Zreszt¹, rób co chcesz, tylko uwa¿aj, ¿eby nie uszkodziæ towaru.}
+{351}{}{Dobrze.}
+{352}{}{Uhum.}
+{360}{metzg40}{Niez³a. Dam ci za ni¹ $}
+{361}{metzg41}{Mo¿e byæ. Kupie go od ciebie za... powiedzmy... $}
+{362}{metzg42}{Odbi³o ci? Po jak¹ cholerê mia³bym znowu braæ tego starego pierdziela? Diabli wiedz¹, ile czasu œlêcza³ nad tym pieprzonym radiem! Radiem! To ju¿ twój problem. Nie chcê go wiêcej ogl¹daæ.}
+{363}{metzg43}{Bo ja wiem? Taka szczapa... mówisz, ¿e nie g³upie to, to? Mo¿e siê na coœ przyda. Dam ci $}
+{364}{metzg44}{Wygl¹da na kogoœ, kto potrafi nieŸle przy³o¿yæ. Hmm... $}
+{365}{metzg45}{Znowu jakiœ dzikus. I to jeszcze jakiœ popapraniec. No, ale wygl¹da na silnego, mo¿e da siê go sprzedaæ. $}
+{366}{}{Mo¿e kogoœ innego?}
+{367}{}{Mam jeszcze jedno pytanie.}
+{368}{}{W porz¹dku.}
+{369}{}{Dobra.}
+{370}{}{W porz¹dku.}
+{371}{}{Nie warto.}
+{372}{}{Nie.}
+{380}{metzg46}{Dobra, ch³opaki, do zagrody z nim.}
+{381}{metzg47}{Dobra, ch³opaki, do zagrody z ni¹.}
+{382}{}{Robi siê, szefie.}
+{390}{metzg48}{No to nie marnuj mojego cennego czasu. Jak zechcesz siê czegoœ naprawdê pozbyæ, to pogadamy.}
+{391}{}{Chcê ciê jeszcze o coœ zapytaæ.}
+{392}{}{Dobra. Na razie.}
+{400}{metzg49}{Co j¹ raptem w dupê ugryz³o? Da³em ju¿ raz szansê tej suce. Kto by pomyœla³, ¿e ma doœæ jaj na tak¹ robotê.}
+{401}{}{O czym ty mówisz?}
+{402}{}{A wiêc zgadzasz siê?}
+{410}{metzg50}{Nie r¿nij g³upa. Dok³adnie wiem o co jej chodzi. Da³em jej kiedyœ szansê, ale wymiêk³a. Jeœli myœli, ¿e teraz da radê, to niech próbuje. Mi to zwisa...}
+{411}{}{A wiêc zgadzasz siê?}
+{420}{metzg51}{Mówi³em, ¿e drzwi stoj¹ ca³y czas otworem. Jak myœli, ¿e jest wystarczaj¹co silna, ¿eby skopaæ mu dupê i lepiej pilnowaæ mojego gówna...}
+{421}{}{No i?}
+{422}{}{Zgadzasz siê, czy nie?}
+{430}{metzg52}{S³uchaj, mam w dupie, które z nich bêdzie pilnowa³o towaru, tak d³ugo, jak towar pozostaje nienaruszony.}
+{431}{}{Mam jeszcze jedno pytanie.}
+{432}{}{Dobra, dziêki.}
+{440}{metzg53}{Czego kurwa ode mnie wymagasz? Czy ja ci wygl¹dam na pieprzon¹ infor... a, czekaj. Pewnie szukasz Vica?}
+{441}{metzg54}{To ten, co specjalizuje siê w technologii z Krypt. Tak przynajmniej twierdzi. Teraz nale¿y do mnie. Nigdzie go nie puszczê.}
+{442}{}{Co z nim?}
+{443}{}{Tak, to on.}
+{444}{}{Czy mogê siê z nim zobaczyæ?}
+{445}{}{Czemu go tu trzymasz?}
+{446}{}{Dobra, dziêki. Do zobaczenia.}
+{455}{metzg55}{Ten stary fiut sprzeda³ mi radio, które mia³o odbieraæ pewne transmisje. Nie odbiera³o. Z³apa³em go, jak próbowa³ wymkn¹æ siê z miasta. B³¹d. Nie dam siê wydymaæ. Ma farta, ¿e jeszcze ¿yje.}
+{456}{metzg56}{Jak ju¿ mówi³em, musi najpierw naprawiæ sprzêt. Potem zobaczê co z nim zrobiæ.}
+{457}{metzg57}{Niby naprawi³ ju¿ to cholerne radio, ale to nie znaczy, ¿e tak po prostu go puszczê.}
+{458}{metzg58}{Jakby nie by³o - próbowa³ mnie or¿n¹æ.}
+{459}{}{Czy mogê siê z nim zobaczyæ?}
+{460}{}{Jakie transmisje?}
+{461}{}{Dobra, dziêki.}
+{462}{}{Mo¿e trochê kasy pomo¿e ci podj¹æ decyzjê?}
+{463}{}{Wspomina³eœ ostatnio o jakichœ transmisjach...}
+{475}{metzg59}{Po kiego? A zreszt¹. Tylko nie przeszkadzaj mu w robocie. Ma naprawiæ to cholerne radio, zanim stracê cierpliwoœæ.}
+{476}{}{Czemu go tu trzymasz?}
+{477}{}{Dziêkujê.}
+{485}{metzg60}{Enklawa i Now... hej! Gówno ciê to obchodzi! Nie twój interes. Drugi raz nie pozwolê siê wydymaæ. Reszta nie powinna ciê obchodziæ.}
+{486}{metzg61}{Nie twój interes.}
+{487}{}{W porz¹dku.}
+{495}{metzg62}{Pewnie, ale bêdzie ciê to kosztowaæ $}
+{496}{metzg63}{$}
+{497}{}{Mo¿e jakoœ siê dogadamy?}
+{498}{}{Niech bêdzie. Proszê.}
+{499}{}{Mam jeszcze kilka pytañ.}
+{500}{}{Przykro mi, chwilowo nie mam tyle pieniêdzy.}
+{510}{metzg64}{Dobra, jest twój, ale niech st¹d spieprza, zanim zmieniê zdanie i rozwalê mu ten jego pusty ³eb.}
+{511}{}{Mogê ciê najpierw o coœ zapytaæ?}
+{512}{}{Dziêkujê.}
+{520}{metzg65}{No pewnie! Mo¿emy siê jakoœ umówiæ. Obni¿ê cenê o po³owê, jeœli odpowiednio siê postarasz...}
+{521}{metzg66}{Nie dra¿nij mnie, dziewczynko. Szybko tracê cierpliwoœæ.}
+{522}{}{Tylko je¿eli bêdziesz dla mnie dobry.}
+{523}{}{Pewnie, czemu nie.}
+{524}{}{Mo¿e póŸniej.}
+{530}{metzg67}{Masz to jak w banku.}
+{531}{}{To dobrze.}
+{540}{metzg68}{Masz tu $}
+{541}{metzg69}{Masz tu swoje $}
+{542}{metzg70}{Solidna robota. Tu jest twoje $}
+{543}{metzg71}{Masz tu swoj¹ kasê, }
+{544}{metzg72}{$}
+{545}{metzg73}{Tym razem bêdzie $}
+{546}{metzg74}{Nie by³o tak Ÿle, co? Nastêpnym razem ma byæ jeszcze lepiej. Masz tu $}
+{547}{metzg75}{$}
+{548}{metzg76}{Hej! $}
+{549}{metzg77}{Pamiêtaj, uwa¿aj na swoich kumpli i zabijaj tylko agresywnych dzikusów. Masz tu $}
+{550}{metzg78}{Tylko $}
+{551}{metzg79}{Chcesz u mnie trochê zarobiæ czy nie? Zaczynasz mnie wkurzaæ. Przecie¿ to nie jest takie trudne! Masz tu swoje $}
+{552}{metzg80}{Co to, cholera, by³o? Tym razem gówno zarobisz. Mamy tu zbijaæ kasê, a nie siê opieprzaæ.}
+{553}{}{Nastêpnym razem lepiej siê postaram.}
+{554}{}{Wielkie dziêki... za nic.}
+{555}{}{Dziêkujê.}
+{556}{}{Ug.}
+{570}{metzg81}{Cholerna suko, co to mia³o byæ?! Twój pierwszy raz? Za³o¿ê siê, ¿e to by³ twój pierwszy raz.}
+{571}{metzg82}{Cholera, dziewczyno? Twój pierwszy raz, czy co?}
+{572}{metzg83}{No, no... Ca³kiem nieŸle.}
+{573}{metzg84}{NieŸle, mo¿e to kiedyœ powtórzymy?}
+{574}{metzg85}{Cholera! By³o... warto.}
+{575}{metzg86}{Cholera! Najlepszy kawa³ dupy, jaki w ¿yciu mia³em. A mia³em sporo.}
+{600}{metzg87}{MASZ PRZEJEBANE! Jak œmiesz opuszczaæ kolegów na polu bitwy? [Pluje ci w twarz] ZABIÆ GO!}
+{601}{}{Ale ja...}
+{602}{}{No to bêdzie bal.}
+{620}{metzg88}{Có¿, dobrze, ¿e jeszcze ¿yjesz.}
+{621}{}{Tak, ale ³atwo nie by³o.}
+{622}{}{Dziêki. Sprawy wymknê³y siê trochê spod kontroli.}
+{623}{}{Agra Mu ne!}
+{630}{metzg89}{A, chcesz pieniêdzy? Chcesz, ¿eby ci p³aciæ?}
+{631}{}{Tah.}
+{632}{}{Ugh.}
+{640}{metzg90}{Oczywiœcie CHÊTNIE bym ci pomóg³, ale... mam trochê w¹tpliwoœci w sprawie... strzelania do moich ludzi.}
+{641}{}{Przepraszam! To by³ przypadek - Znaczy... Ug?}
+{642}{}{Ych, ach.}
+{650}{metzg91}{Bez obaw. Na pewno jakoœ ci siê oddŸwiêczê... znaczy - odwdziêczê. Ch³opcy - dzieñ zap³aty.}
+{651}{metzg92}{Bez obaw. Na pewno jakoœ ci siê oddŸwiêczê... znaczy - odwdziêczê. Ch³opcy - zabiæ sukê..}
+{652}{}{Ups.}
+{653}{}{Garaka!}
+{654}{}{Uk... Dziank?}
+{670}{metzg93}{Zapewne. Widzisz, ta praca jest doœæ wymagaj¹ca. Opiera siê na zaufaniu i lojalnoœci. Jeden za wszystkich i tak dalej. To chyba dobre podejœcie, nie?}
+{671}{}{Chyba tak.}
+{672}{}{Ee, co siê dzieje?}
+{673}{}{Naturalnie.}
+{680}{metzg94}{Chyba? Jesteœ wiêkszym debilem, ni¿ myœla³em. [Metzger przypatruje ci siê uwa¿nie, a nastêpnie wskazuje ciê swoim stra¿nikom.]}
+{681}{}{Co siê dzieje?}
+{682}{}{Co?}
+{690}{metzg95}{No proszê, mo¿e masz nieco wiêcej inteligencji, ni¿ myœla³em. Jaka szkoda. Widzisz, mam tu pewien problem. Ktoœ œmia³ zaatakowaæ moich ludzi.}
+{691}{}{Naprawdê?}
+{692}{}{To by³ wypadek!}
+{700}{metzg96}{Tak? Cieszê siê, ¿e siê zgadzamy. A co nale¿a³o by zrobiæ z kimœ, kto zawiód³ to zaufanie?}
+{701}{}{Daæ mu ostrze¿enie?}
+{702}{}{Pozwól, ¿e ci poka¿ê. [Zaatakuj]}
+{703}{}{Daæ mu popaliæ.}
+{710}{metzg97}{Tak myœlisz? Serio? No nie wiem. Mia³em na myœli coœ bardziej... trwa³ego. [Z ponurym uœmiechem, Metzger patrzy na swoich stra¿ników i kiwa g³ow¹.]}
+{711}{}{Co?}
+{712}{}{O ludzie...}
+{720}{metzg98}{Cieszê siê, ¿e podzielasz moje zdanie. [Metzger patrzy na swoich stra¿ników.] Ch³opcy, pora zap³aty.}
+{721}{}{Uch...}
+{730}{metzg99}{Tak. To smutne. Ta osoba ma naprawdê bardzo przechlapane. CHOLERNIE przechlapane! [Widzisz, jak Metzger daje znak swoim ludziom.] Czas na imprezê.}
+{731}{}{Serio?}
+{732}{}{O, o.}
+{740}{metzg100}{No tak, wypadki czêsto zdarzaj¹ siê w tym zawodzie. Skoro o tym mowa: obawiam siê, ¿e nied³ugo tobie te¿ siê jakiœ przydarzy. [Metzger uœmiecha siê ponuro, poczym daje znak swoim ludziom.]}
+{741}{}{No dawaj!}
+{742}{}{Nie ujdzie mi to na sucho, co?}
+{750}{metzg101}{Bêdzie zabawa. Zaufaj mi.}
+{751}{}{IdŸ siê jebaæ.}
+{752}{}{Uhm, w porz¹dku.}
+{800}{}{Przywódca gildii ³owców niewolników zgin¹³ z twojej rêki.}
+{900}{metzg102}{Co to kurwa za pytanie?! Zaczynasz mnie wkurwiaæ. Jest to co widaæ. Jak ci siê nie podoba mój towar, to spieprzaj mi sprzed oczu i przestañ marnowaæ mój czas.}
+{901}{}{Yyy, przepraszam. Pozwól, ¿e zapytam o coœ innego.}
+{902}{}{Dobra. Myœlê, ¿e czas ju¿ na mnie.}
+{903}{}{W³aœciwie, chyba *ciê* rozwalê, razem z ca³¹ tym pieprzonym interesem.}
+{910}{metzg103}{To wszystko co mam na stanie, tutaj, ty wybredny posrañcu, ale nowy towar zawsze dostajê z innego mojego obozu niewolników. Mo¿e jeœli wrócisz póŸniej, bêdê mia³ coœ co przykuje twoj¹ uwagê, ale wiêkszoœæ z nich to g³upie dzikusy, a oni wszyscy wygl¹daj¹ tak samo, wiêc jeœli to nie w twoim guœcie, to masz pecha.}
+{911}{}{S³uchaj, to mo¿e nie codzienna proœba, ale lubiê œwie¿y towar. Czy jest szansa zobaczyæ niewolników w twoim drugim obozie? Oczywiœcie, zap³acê ekstra.}
+{912}{}{Dobra, jeszcze tu zajrzê.}
+{913}{metzg104}{Œwietnie, ale nastêpnym razem zrób mi przys³ugê i nie marnuj mojego czasu o ile nie masz interesu do omówienia.}
+{914}{}{P³acisz ekstra, co? Wreszcie mówisz moim jêzykiem. Zwykle za³atwiamy sprzeda¿ tutaj, ale myœlê, ¿e mo¿emy zrobiæ wyj¹tek, o ile mówisz powa¿nie. Mogê ci powiedzieæ jak tam trafiæ, 
+ ale lepiej to kurwa zachowaj dla siebie. Przysiêgam, jeœli oka¿esz siê szpiegiem zasranych Stra¿ników, dorwê ciê i obedrê ze skóry. [S³uchasz jego wskazówek i zaznaczasz po³o¿enie 
+ Obozu £owców Niewolników na mapie w Pip-Boju.]}
+{915}{}{Mam to. Pozwól, ¿e jeszcze ciê o coœ zapytam.}
+{916}{}{Dziêki. Czas na mnie. Czeœæ.}
+{1360}{}{ . No jak, robimy interes?}
+{1361}{}{?}
+{1363}{}{.}
+{1364}{}{.}
+{1365}{}{?}
+{1496}{}{.}
+{1540}{}{. Dobra kurde robota.}
+{1541}{}{. Kawa³ dobrej roboty. Tak trzymaæ.}
+{1542}{}{.}
+{1543}{}{. $}
+{1544}{}{ to niema³o, ale mo¿esz zarabiaæ du¿o wiêcej.}
+{1545}{}{ . Niez³a robota.}
+{1546}{}{.}
+{1547}{}{? NieŸle.}
+{1548}{}{? Mog³o byæ lepiej.}
+{1549}{}{.}
+{1550}{}{! To¿ to ¿a³osne! Postaraj siê, albo ciê wykopiê.}
+{1551}{}{ i spieprzaj.}
+{2540}{}{.}
+{2543}{}{.}
+{15401}{}{. Kurwa ca³kiem niez³a robota, }
