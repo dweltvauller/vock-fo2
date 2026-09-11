@@ -1,8 +1,8 @@
 # V.O.C.K. Fallout 2 — RPU-shaped source tree lives in data/ (committed).
-# wav/ and textgrid/ stay top-level as rebuild metadata.
+# work/wav and work/textgrid are committed as MFA rebuild metadata.
 
 # Build scratch / generated — do not commit
-audio/
+work/audio/
 pending/
 dat/
 
@@ -11,7 +11,6 @@ msg/
 acm/
 lip/
 txt/
-loc/
 
 # Editor / worktrees
 .claude/
