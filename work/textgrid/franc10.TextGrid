@@ -50,10 +50,10 @@ item []:
             text = "here" 
         intervals [10]:
             xmin = 1.71 
-            xmax = 1.78 
+            xmax = 1.77 
             text = "" 
         intervals [11]:
-            xmin = 1.78 
+            xmin = 1.77 
             xmax = 2.01 
             text = "there's" 
         intervals [12]:
@@ -168,10 +168,10 @@ item []:
             text = "R" 
         intervals [22]:
             xmin = 1.71 
-            xmax = 1.78 
+            xmax = 1.77 
             text = "" 
         intervals [23]:
-            xmin = 1.78 
+            xmin = 1.77 
             xmax = 1.82 
             text = "DH" 
         intervals [24]:
@@ -208,10 +208,10 @@ item []:
             text = "W" 
         intervals [32]:
             xmin = 2.74 
-            xmax = 2.95 
+            xmax = 2.93 
             text = "ER1" 
         intervals [33]:
-            xmin = 2.95 
+            xmin = 2.93 
             xmax = 3.0 
             text = "L" 
         intervals [34]:

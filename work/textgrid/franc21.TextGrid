@@ -78,10 +78,10 @@ item []:
             text = "a" 
         intervals [17]:
             xmin = 4.06 
-            xmax = 4.68 
+            xmax = 4.67 
             text = "drink" 
         intervals [18]:
-            xmin = 4.68 
+            xmin = 4.67 
             xmax = 4.868209 
             text = "" 
     item [2]:
@@ -276,9 +276,9 @@ item []:
             text = "NG" 
         intervals [47]:
             xmin = 4.54 
-            xmax = 4.68 
+            xmax = 4.67 
             text = "K" 
         intervals [48]:
-            xmin = 4.68 
+            xmin = 4.67 
             xmax = 4.868209 
             text = "" 

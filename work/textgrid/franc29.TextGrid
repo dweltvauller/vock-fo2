@@ -200,10 +200,10 @@ item []:
             text = "AH0" 
         intervals [5]:
             xmin = 0.51 
-            xmax = 0.62 
+            xmax = 0.63 
             text = "S" 
         intervals [6]:
-            xmin = 0.62 
+            xmin = 0.63 
             xmax = 0.77 
             text = "AH0" 
         intervals [7]:
@@ -356,10 +356,10 @@ item []:
             text = "AH1" 
         intervals [44]:
             xmin = 5.58 
-            xmax = 5.64 
+            xmax = 5.63 
             text = "S" 
         intervals [45]:
-            xmin = 5.64 
+            xmin = 5.63 
             xmax = 5.69 
             text = "T" 
         intervals [46]:

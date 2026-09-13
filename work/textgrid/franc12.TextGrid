@@ -34,10 +34,10 @@ item []:
             text = "want" 
         intervals [6]:
             xmin = 1.02 
-            xmax = 1.14 
+            xmax = 1.13 
             text = "to" 
         intervals [7]:
-            xmin = 1.14 
+            xmin = 1.13 
             xmax = 1.45 
             text = "arm" 
         intervals [8]:
@@ -172,10 +172,10 @@ item []:
             text = "T" 
         intervals [15]:
             xmin = 1.05 
-            xmax = 1.14 
+            xmax = 1.13 
             text = "AH0" 
         intervals [16]:
-            xmin = 1.14 
+            xmin = 1.13 
             xmax = 1.28 
             text = "AA1" 
         intervals [17]:
@@ -284,10 +284,10 @@ item []:
             text = "M" 
         intervals [43]:
             xmin = 3.61 
-            xmax = 3.67 
+            xmax = 3.66 
             text = "T" 
         intervals [44]:
-            xmin = 3.67 
+            xmin = 3.66 
             xmax = 3.74 
             text = "AH0" 
         intervals [45]:

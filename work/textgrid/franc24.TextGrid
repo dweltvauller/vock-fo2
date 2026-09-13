@@ -82,10 +82,10 @@ item []:
             text = "to" 
         intervals [18]:
             xmin = 4.4 
-            xmax = 4.64 
+            xmax = 4.65 
             text = "get" 
         intervals [19]:
-            xmin = 4.64 
+            xmin = 4.65 
             xmax = 4.98 
             text = "past" 
         intervals [20]:
@@ -396,10 +396,10 @@ item []:
             text = "IH1" 
         intervals [52]:
             xmin = 4.57 
-            xmax = 4.64 
+            xmax = 4.65 
             text = "T" 
         intervals [53]:
-            xmin = 4.64 
+            xmin = 4.65 
             xmax = 4.7 
             text = "P" 
         intervals [54]:
@@ -520,10 +520,10 @@ item []:
             text = "T" 
         intervals [83]:
             xmin = 7.58 
-            xmax = 7.69 
+            xmax = 7.67 
             text = "AO1" 
         intervals [84]:
-            xmin = 7.69 
+            xmin = 7.67 
             xmax = 7.75 
             text = "R" 
         intervals [85]:

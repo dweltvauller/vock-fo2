@@ -26,10 +26,10 @@ item []:
             text = "lost" 
         intervals [4]:
             xmin = 1.12 
-            xmax = 1.33 
+            xmax = 1.32 
             text = "" 
         intervals [5]:
-            xmin = 1.33 
+            xmin = 1.32 
             xmax = 1.53 
             text = "no" 
         intervals [6]:
@@ -112,10 +112,10 @@ item []:
             text = "T" 
         intervals [8]:
             xmin = 1.12 
-            xmax = 1.33 
+            xmax = 1.32 
             text = "" 
         intervals [9]:
-            xmin = 1.33 
+            xmin = 1.32 
             xmax = 1.4 
             text = "N" 
         intervals [10]:

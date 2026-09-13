@@ -70,10 +70,10 @@ item []:
             text = "in" 
         intervals [15]:
             xmin = 3.41 
-            xmax = 3.48 
+            xmax = 3.52 
             text = "" 
         intervals [16]:
-            xmin = 3.48 
+            xmin = 3.52 
             xmax = 4.25 
             text = "ages" 
         intervals [17]:
@@ -122,10 +122,10 @@ item []:
             text = "enjoy" 
         intervals [28]:
             xmin = 7.26 
-            xmax = 7.39 
+            xmax = 7.38 
             text = "the" 
         intervals [29]:
-            xmin = 7.39 
+            xmin = 7.38 
             xmax = 7.96 
             text = "glove" 
         intervals [30]:
@@ -276,10 +276,10 @@ item []:
             text = "N" 
         intervals [35]:
             xmin = 3.41 
-            xmax = 3.48 
+            xmax = 3.52 
             text = "" 
         intervals [36]:
-            xmin = 3.48 
+            xmin = 3.52 
             xmax = 3.76 
             text = "EY1" 
         intervals [37]:
@@ -400,14 +400,14 @@ item []:
             text = "OY1" 
         intervals [66]:
             xmin = 7.26 
-            xmax = 7.32 
+            xmax = 7.31 
             text = "DH" 
         intervals [67]:
-            xmin = 7.32 
-            xmax = 7.39 
-            text = "AH0" 
+            xmin = 7.31 
+            xmax = 7.38 
+            text = "AH1" 
         intervals [68]:
-            xmin = 7.39 
+            xmin = 7.38 
             xmax = 7.45 
             text = "G" 
         intervals [69]:

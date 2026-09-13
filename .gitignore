@@ -6,12 +6,6 @@ work/audio/
 pending/
 dat/
 
-# Pre-data-layout category folders (contents now under data/) — ignore stragglers
-msg/
-acm/
-lip/
-txt/
-
 # Editor / worktrees
 .claude/
 

@@ -66,10 +66,10 @@ item []:
             text = "ask" 
         intervals [14]:
             xmin = 3.26 
-            xmax = 3.52 
+            xmax = 3.53 
             text = "phil" 
         intervals [15]:
-            xmin = 3.52 
+            xmin = 3.53 
             xmax = 3.67 
             text = "the" 
         intervals [16]:
@@ -256,10 +256,10 @@ item []:
             text = "IH1" 
         intervals [40]:
             xmin = 3.4 
-            xmax = 3.52 
+            xmax = 3.53 
             text = "L" 
         intervals [41]:
-            xmin = 3.52 
+            xmin = 3.53 
             xmax = 3.59 
             text = "DH" 
         intervals [42]:

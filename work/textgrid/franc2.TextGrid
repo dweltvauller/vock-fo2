@@ -54,10 +54,10 @@ item []:
             text = "to" 
         intervals [11]:
             xmin = 3.07 
-            xmax = 3.66 
+            xmax = 3.64 
             text = "say" 
         intervals [12]:
-            xmin = 3.66 
+            xmin = 3.64 
             xmax = 3.91 
             text = "" 
         intervals [13]:
@@ -192,10 +192,10 @@ item []:
             text = "S" 
         intervals [30]:
             xmin = 3.19 
-            xmax = 3.66 
+            xmax = 3.64 
             text = "EY1" 
         intervals [31]:
-            xmin = 3.66 
+            xmin = 3.64 
             xmax = 3.91 
             text = "" 
         intervals [32]:

@@ -106,10 +106,10 @@ item []:
             text = "beat" 
         intervals [24]:
             xmin = 6.74 
-            xmax = 7.15 
+            xmax = 7.14 
             text = "me" 
         intervals [25]:
-            xmin = 7.15 
+            xmin = 7.14 
             xmax = 7.330249 
             text = "" 
     item [2]:
@@ -192,10 +192,10 @@ item []:
             text = "" 
         intervals [19]:
             xmin = 2.07 
-            xmax = 2.11 
+            xmax = 2.12 
             text = "DH" 
         intervals [20]:
-            xmin = 2.11 
+            xmin = 2.12 
             xmax = 2.21 
             text = "IY0" 
         intervals [21]:
@@ -416,9 +416,9 @@ item []:
             text = "M" 
         intervals [75]:
             xmin = 6.84 
-            xmax = 7.15 
+            xmax = 7.14 
             text = "IY1" 
         intervals [76]:
-            xmin = 7.15 
+            xmin = 7.14 
             xmax = 7.330249 
             text = "" 

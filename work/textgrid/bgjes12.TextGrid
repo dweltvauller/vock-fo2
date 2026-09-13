@@ -54,10 +54,10 @@ item []:
             text = "your" 
         intervals [11]:
             xmin = 2.39 
-            xmax = 4.01 
+            xmax = 3.76 
             text = "use" 
         intervals [12]:
-            xmin = 4.01 
+            xmin = 3.76 
             xmax = 4.07 
             text = "" 
         intervals [13]:
@@ -70,10 +70,10 @@ item []:
             text = "" 
         intervals [15]:
             xmin = 5.47 
-            xmax = 6.14 
+            xmax = 6.1 
             text = "me" 
         intervals [16]:
-            xmin = 6.14 
+            xmin = 6.1 
             xmax = 6.4 
             text = "" 
         intervals [17]:
@@ -94,10 +94,10 @@ item []:
             text = "" 
         intervals [21]:
             xmin = 7.73 
-            xmax = 9.35 
+            xmax = 9.34 
             text = "end" 
         intervals [22]:
-            xmin = 9.35 
+            xmin = 9.34 
             xmax = 16.549433 
             text = "" 
     item [2]:
@@ -208,14 +208,14 @@ item []:
             text = "Y" 
         intervals [26]:
             xmin = 2.5 
-            xmax = 3.98 
+            xmax = 3.73 
             text = "UW1" 
         intervals [27]:
-            xmin = 3.98 
-            xmax = 4.01 
+            xmin = 3.73 
+            xmax = 3.76 
             text = "Z" 
         intervals [28]:
-            xmin = 4.01 
+            xmin = 3.76 
             xmax = 4.07 
             text = "" 
         intervals [29]:
@@ -236,10 +236,10 @@ item []:
             text = "M" 
         intervals [33]:
             xmin = 5.61 
-            xmax = 6.14 
+            xmax = 6.1 
             text = "IY1" 
         intervals [34]:
-            xmin = 6.14 
+            xmin = 6.1 
             xmax = 6.4 
             text = "" 
         intervals [35]:
@@ -280,9 +280,9 @@ item []:
             text = "N" 
         intervals [44]:
             xmin = 7.94 
-            xmax = 9.35 
+            xmax = 9.34 
             text = "D" 
         intervals [45]:
-            xmin = 9.35 
+            xmin = 9.34 
             xmax = 16.549433 
             text = "" 

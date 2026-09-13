@@ -66,10 +66,10 @@ item []:
             text = "crush" 
         intervals [14]:
             xmin = 4.53 
-            xmax = 4.68 
+            xmax = 4.67 
             text = "your" 
         intervals [15]:
-            xmin = 4.68 
+            xmin = 4.67 
             xmax = 4.79 
             text = "" 
         intervals [16]:
@@ -144,14 +144,14 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.18 
-            xmax = 0.36 
+            xmax = 0.3 
             text = "R" 
         intervals [3]:
-            xmin = 0.36 
-            xmax = 0.51 
-            text = "IY1" 
+            xmin = 0.3 
+            xmax = 0.52 
+            text = "IH1" 
         intervals [4]:
-            xmin = 0.51 
+            xmin = 0.52 
             xmax = 0.62 
             text = "L" 
         intervals [5]:
@@ -324,10 +324,10 @@ item []:
             text = "AO1" 
         intervals [47]:
             xmin = 4.62 
-            xmax = 4.68 
+            xmax = 4.67 
             text = "R" 
         intervals [48]:
-            xmin = 4.68 
+            xmin = 4.67 
             xmax = 4.79 
             text = "" 
         intervals [49]:
@@ -488,10 +488,10 @@ item []:
             text = "S" 
         intervals [88]:
             xmin = 8.03 
-            xmax = 8.19 
+            xmax = 8.2 
             text = "AY1" 
         intervals [89]:
-            xmin = 8.19 
+            xmin = 8.2 
             xmax = 8.27 
             text = "T" 
         intervals [90]:

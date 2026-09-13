@@ -202,10 +202,10 @@ item []:
             text = "" 
         intervals [48]:
             xmin = 15.72 
-            xmax = 15.94 
+            xmax = 15.92 
             text = "i" 
         intervals [49]:
-            xmin = 15.94 
+            xmin = 15.92 
             xmax = 16.23 
             text = "just" 
         intervals [50]:
@@ -396,10 +396,10 @@ item []:
             text = "W" 
         intervals [33]:
             xmin = 4.23 
-            xmax = 4.4 
+            xmax = 4.39 
             text = "EH1" 
         intervals [34]:
-            xmin = 4.4 
+            xmin = 4.39 
             xmax = 4.65 
             text = "L" 
         intervals [35]:
@@ -812,10 +812,10 @@ item []:
             text = "" 
         intervals [137]:
             xmin = 15.72 
-            xmax = 15.94 
+            xmax = 15.92 
             text = "AY1" 
         intervals [138]:
-            xmin = 15.94 
+            xmin = 15.92 
             xmax = 16.049999 
             text = "JH" 
         intervals [139]:

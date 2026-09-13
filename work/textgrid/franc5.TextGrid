@@ -90,10 +90,10 @@ item []:
             text = "the" 
         intervals [20]:
             xmin = 5.33 
-            xmax = 6.16 
+            xmax = 6.17 
             text = "refinery" 
         intervals [21]:
-            xmin = 6.16 
+            xmin = 6.17 
             xmax = 6.33 
             text = "" 
         intervals [22]:
@@ -456,10 +456,10 @@ item []:
             text = "ER0" 
         intervals [54]:
             xmin = 5.95 
-            xmax = 6.16 
+            xmax = 6.17 
             text = "IY0" 
         intervals [55]:
-            xmin = 6.16 
+            xmin = 6.17 
             xmax = 6.33 
             text = "" 
         intervals [56]:
@@ -576,10 +576,10 @@ item []:
             text = "T" 
         intervals [84]:
             xmin = 8.97 
-            xmax = 9.19 
+            xmax = 9.2 
             text = "AY1" 
         intervals [85]:
-            xmin = 9.19 
+            xmin = 9.2 
             xmax = 9.28 
             text = "M" 
         intervals [86]:
@@ -864,10 +864,10 @@ item []:
             text = "UW1" 
         intervals [156]:
             xmin = 16.290001 
-            xmax = 16.370001 
+            xmax = 16.379999 
             text = "T" 
         intervals [157]:
-            xmin = 16.370001 
+            xmin = 16.379999 
             xmax = 16.459999 
             text = "AH0" 
         intervals [158]:
