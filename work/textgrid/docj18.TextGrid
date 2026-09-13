@@ -38,10 +38,10 @@ item []:
             text = "fifty" 
         intervals [7]:
             xmin = 1.75 
-            xmax = 1.88 
+            xmax = 1.87 
             text = "" 
         intervals [8]:
-            xmin = 1.88 
+            xmin = 1.87 
             xmax = 2.49 
             text = "dollars" 
         intervals [9]:
@@ -86,10 +86,10 @@ item []:
             text = "" 
         intervals [19]:
             xmin = 5.72 
-            xmax = 6.42 
+            xmax = 6.31 
             text = "as" 
         intervals [20]:
-            xmin = 6.42 
+            xmin = 6.31 
             xmax = 6.5 
             text = "" 
         intervals [21]:
@@ -196,10 +196,10 @@ item []:
             text = "IY0" 
         intervals [18]:
             xmin = 1.75 
-            xmax = 1.88 
+            xmax = 1.87 
             text = "" 
         intervals [19]:
-            xmin = 1.88 
+            xmin = 1.87 
             xmax = 1.92 
             text = "D" 
         intervals [20]:
@@ -328,10 +328,10 @@ item []:
             text = "EH1" 
         intervals [51]:
             xmin = 6.08 
-            xmax = 6.42 
+            xmax = 6.31 
             text = "Z" 
         intervals [52]:
-            xmin = 6.42 
+            xmin = 6.31 
             xmax = 6.5 
             text = "" 
         intervals [53]:

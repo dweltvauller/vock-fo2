@@ -86,14 +86,14 @@ item []:
             text = "" 
         intervals [19]:
             xmin = 5.45 
-            xmax = 6.17 
+            xmax = 6.18 
             text = "medical" 
         intervals [20]:
-            xmin = 6.17 
-            xmax = 6.73 
+            xmin = 6.18 
+            xmax = 6.74 
             text = "" 
         intervals [21]:
-            xmin = 6.73 
+            xmin = 6.74 
             xmax = 7.19 
             text = "supplies" 
         intervals [22]:
@@ -332,18 +332,18 @@ item []:
             text = "AH0" 
         intervals [53]:
             xmin = 5.82 
-            xmax = 6.17 
+            xmax = 6.18 
             text = "L" 
         intervals [54]:
-            xmin = 6.17 
-            xmax = 6.73 
+            xmin = 6.18 
+            xmax = 6.74 
             text = "" 
         intervals [55]:
-            xmin = 6.73 
-            xmax = 6.76 
+            xmin = 6.74 
+            xmax = 6.77 
             text = "S" 
         intervals [56]:
-            xmin = 6.76 
+            xmin = 6.77 
             xmax = 6.92 
             text = "AH0" 
         intervals [57]:

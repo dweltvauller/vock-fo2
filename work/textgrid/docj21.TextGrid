@@ -400,12 +400,12 @@ item []:
             text = "IY1" 
         intervals [69]:
             xmin = 6.9 
-            xmax = 6.93 
+            xmax = 6.94 
             text = "T" 
         intervals [70]:
-            xmin = 6.93 
+            xmin = 6.94 
             xmax = 7.01 
-            text = "AH0" 
+            text = "IH0" 
         intervals [71]:
             xmin = 7.01 
             xmax = 7.1 

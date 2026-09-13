@@ -30,10 +30,10 @@ item []:
             text = "you" 
         intervals [5]:
             xmin = 1.03 
-            xmax = 1.37 
+            xmax = 1.36 
             text = "came" 
         intervals [6]:
-            xmin = 1.37 
+            xmin = 1.36 
             xmax = 1.5 
             text = "to" 
         intervals [7]:
@@ -164,10 +164,10 @@ item []:
             text = "EY1" 
         intervals [13]:
             xmin = 1.3 
-            xmax = 1.37 
+            xmax = 1.36 
             text = "M" 
         intervals [14]:
-            xmin = 1.37 
+            xmin = 1.36 
             xmax = 1.44 
             text = "T" 
         intervals [15]:

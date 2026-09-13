@@ -18,10 +18,10 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.2 
-            xmax = 0.37 
+            xmax = 0.38 
             text = "got" 
         intervals [3]:
-            xmin = 0.37 
+            xmin = 0.38 
             xmax = 0.77 
             text = "yourself" 
         intervals [4]:
@@ -144,18 +144,18 @@ item []:
             text = "AA1" 
         intervals [4]:
             xmin = 0.28 
-            xmax = 0.37 
+            xmax = 0.38 
             text = "T" 
         intervals [5]:
-            xmin = 0.37 
-            xmax = 0.4 
+            xmin = 0.38 
+            xmax = 0.41 
             text = "Y" 
         intervals [6]:
-            xmin = 0.4 
-            xmax = 0.43 
+            xmin = 0.41 
+            xmax = 0.44 
             text = "ER0" 
         intervals [7]:
-            xmin = 0.43 
+            xmin = 0.44 
             xmax = 0.55 
             text = "S" 
         intervals [8]:
@@ -416,10 +416,10 @@ item []:
             text = "N" 
         intervals [72]:
             xmin = 8.93 
-            xmax = 9.13 
+            xmax = 9.08 
             text = "AH0" 
         intervals [73]:
-            xmin = 9.13 
+            xmin = 9.08 
             xmax = 9.32 
             text = "L" 
         intervals [74]:

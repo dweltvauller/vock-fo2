@@ -276,10 +276,10 @@ item []:
             text = "AW1" 
         intervals [34]:
             xmin = 3.81 
-            xmax = 3.92 
+            xmax = 3.91 
             text = "Y" 
         intervals [35]:
-            xmin = 3.92 
+            xmin = 3.91 
             xmax = 3.97 
             text = "UH1" 
         intervals [36]:
@@ -452,10 +452,10 @@ item []:
             text = "V" 
         intervals [78]:
             xmin = 9.05 
-            xmax = 9.12 
+            xmax = 9.11 
             text = "Y" 
         intervals [79]:
-            xmin = 9.12 
+            xmin = 9.11 
             xmax = 9.44 
             text = "UW1" 
         intervals [80]:

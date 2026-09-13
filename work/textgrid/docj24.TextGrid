@@ -90,10 +90,10 @@ item []:
             text = "money" 
         intervals [20]:
             xmin = 8.51 
-            xmax = 8.62 
+            xmax = 8.61 
             text = "to" 
         intervals [21]:
-            xmin = 8.62 
+            xmin = 8.61 
             xmax = 8.88 
             text = "pay" 
         intervals [22]:
@@ -296,10 +296,10 @@ item []:
             text = "T" 
         intervals [45]:
             xmin = 8.55 
-            xmax = 8.62 
-            text = "AH0" 
+            xmax = 8.61 
+            text = "IH0" 
         intervals [46]:
-            xmin = 8.62 
+            xmin = 8.61 
             xmax = 8.75 
             text = "P" 
         intervals [47]:

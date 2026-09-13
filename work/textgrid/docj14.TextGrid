@@ -54,10 +54,10 @@ item []:
             text = "can" 
         intervals [11]:
             xmin = 3.13 
-            xmax = 3.57 
+            xmax = 3.58 
             text = "fix" 
         intervals [12]:
-            xmin = 3.57 
+            xmin = 3.58 
             xmax = 3.73 
             text = "it" 
         intervals [13]:
@@ -220,10 +220,10 @@ item []:
             text = "K" 
         intervals [32]:
             xmin = 3.49 
-            xmax = 3.57 
+            xmax = 3.58 
             text = "S" 
         intervals [33]:
-            xmin = 3.57 
+            xmin = 3.58 
             xmax = 3.68 
             text = "IH1" 
         intervals [34]:

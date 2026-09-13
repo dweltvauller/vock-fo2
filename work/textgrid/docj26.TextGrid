@@ -264,10 +264,10 @@ item []:
             text = "ER1" 
         intervals [18]:
             xmin = 3.74 
-            xmax = 3.79 
+            xmax = 3.8 
             text = "V" 
         intervals [19]:
-            xmin = 3.79 
+            xmin = 3.8 
             xmax = 4.06 
             text = "AH0" 
         intervals [20]:
@@ -496,10 +496,10 @@ item []:
             text = "W" 
         intervals [76]:
             xmin = 9.45 
-            xmax = 9.84 
+            xmax = 9.83 
             text = "IY1" 
         intervals [77]:
-            xmin = 9.84 
+            xmin = 9.83 
             xmax = 10.01 
             text = "K" 
         intervals [78]:

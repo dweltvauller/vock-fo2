@@ -74,10 +74,10 @@ item []:
             text = "" 
         intervals [16]:
             xmin = 5.57 
-            xmax = 5.86 
+            xmax = 5.85 
             text = "i'm" 
         intervals [17]:
-            xmin = 5.86 
+            xmin = 5.85 
             xmax = 6.29 
             text = "doc" 
         intervals [18]:
@@ -304,10 +304,10 @@ item []:
             text = "AY1" 
         intervals [43]:
             xmin = 5.78 
-            xmax = 5.86 
+            xmax = 5.85 
             text = "M" 
         intervals [44]:
-            xmin = 5.86 
+            xmin = 5.85 
             xmax = 5.96 
             text = "D" 
         intervals [45]:
