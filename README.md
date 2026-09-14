@@ -21,9 +21,3 @@ The source is a sparse, RPU-shaped `data/` tree — only the files this mod adds
 | `wav/`, `textgrid/` | rebuild metadata (kept out of `data/`) |
 
 Build with `vock.py` (`layout = data` in `vock.cfg`): it packs `data/**` verbatim into `dat/vock.dat`, plus `dat/vock_floats.dat` (ambient floats) and `dat/vock_combat.dat` (per-NPC combat barks) as opt-out overlays defined by `float_filter.cfg` / `combat_filter.cfg`.
-
-## Tiers
-
-- **Core** — talking-head / NPC dialogue. Works on stock Fallout 2 CE.
-- **Floats** — voiced ambient float lines (`vock_floats.dat`).
-- **FISSION-only** — holodisk narration (`pipboy.msg`) and combat barks. The audio ships inert and lights up only on a [FISSION](https://github.com/dweltvauller/fission-ce) engine build with the matching hook.

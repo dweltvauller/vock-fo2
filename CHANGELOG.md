@@ -1,7 +1,7 @@
 # Changelog
 
 ## WIP
-- Louise (Redding), Zaius (Broken Hills), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno)
+- Louise (Redding), Zaius (Broken Hills), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno), Flick (The Den)
 
 ## v1.14
 - Added voices: Peterson (Abbey), Joseph (Vault 13), Krom (Umbra Tribe)
