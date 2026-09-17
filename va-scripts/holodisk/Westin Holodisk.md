@@ -24,7 +24,7 @@ useful at the next council debate. With what you have
 sent me I'm certain I can hinder, if not thwart, any  
 further attempts at an NCR/New Reno Alliance.         
 
-    I can only assure you that if given my way as I   
+I can only assure you that if given my way as I   
 expect, there will be no more interference or          
 provocation by the NCR in any of Vault City's affairs.
 I, for one, respect your sovereignty, and do not agree
