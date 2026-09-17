@@ -7,7 +7,7 @@
 # 1. Low Intelligence (WtG)
 {200}{flick25}{Get outta heeya, you dumb-ass.}
 {201}{flick26}{Hey meatball! Yeah, you. Get outta heeya.}
-{202}{flick27}{You dumb or sumpin'?}
+{202}{flick27}{Are you dumb or sumpin'?}
 {203}{flick28}{Whatchur problem, eh?}
 {204}{flick29}{Get the hell outta heeya.}
 
@@ -64,14 +64,15 @@
 
 # 11. Vic & Vault (2)
 {360}{flick11}{Vault huh? Maybe Momma knows about that, 'cause I don't. But that Vic guy - him I know. Metzger's got that porca pistola.}
-{361}{flick12}{Vic? Ain't that him with you? You biota. But Momma, her I know.}
+# VOCK Note: 'biota' means 'biome'. We think they wanted to say idiot.
+{361}{flick12}{Vic? Ain't that him with you? You idiota. But Momma, her I know.}
 {362}{}{Who's Metzger?}
 {363}{}{Who's Momma?}
 {364}{}{Thanks. Let me ask you something else.}
 {365}{}{Thanks, that's all I need to know. Goodbye.}
 
 # 12. Who's Momma? (11,13)
-{380}{flick13}{Momma runs a food place over in da East side a town. Just past the graveyard. Nice place, she got good pasta, Mama mia.}
+{380}{flick13}{Momma runs a food place in da East side a town. Just past the graveyard. Nice place, she got good a pasta, Mama mia.}
 {381}{}{Thanks, What about that Metzger fellow that's got Vic?}
 {382}{}{Thanks. Let me ask you something else.}
 {383}{}{Thanks, that's all I need to know. Goodbye.}
@@ -90,7 +91,7 @@
 {412}{}{You provide little pianos?}
 {413}{}{You sound like you don't like the fact that the children are no longer roaming the streets.}
 
-{420}{flick18}{Hey, don't get me wrong. Life on the street is tough fer them kids, but it's the end of our little arrangement that gets me down.}
+{420}{flick18}{Hey, don't get me wrong. Life on the street is tough fer them little kids, but it's the end of our little arrangement that gets me down.}
 {421}{}{What arrangement?}
 {422}{}{You mean them pickpocketing from people and bringing the items to you to sell.}
 
@@ -98,10 +99,12 @@
 {431}{}{Right.}
 {432}{}{You're full of it. I'm sick of skum like you who use people for their own benefit. Time to die!}
 
-{440}{flick20}{Pai-san-o, you know, the kids. My kids.}
+# VOCK Note: flick20 = flick6 - removed to save space
+{440}{flick6}{Pai-san-o, you know, the kids. My kids.}
 {441}{}{And you have an arrangement with them?}
 
-{450}{flick21}{They bring me stuff that they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
+# VOCK Note: flick21 = flick8 - removed to save space
+{450}{flick8}{They bring me stuff that they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
 {451}{}{Sounds like a nice arrangement.}
 
 {460}{flick22}{Yeah... business was good 'til you came along. See, yer little stunt's gonna cost me. My business is gonna suffer thanks to you. Because of this, I don't really like you too much. In fact, I fuckin' hate you. But, I'm a business man, so if you need to barter, get to it. If not, fuck off.}

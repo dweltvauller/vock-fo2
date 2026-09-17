@@ -14,10 +14,10 @@ item []:
         intervals: size = 23 
         intervals [1]:
             xmin = 0.0 
-            xmax = 0.2 
+            xmax = 0.19 
             text = "" 
         intervals [2]:
-            xmin = 0.2 
+            xmin = 0.19 
             xmax = 0.29 
             text = "you've" 
         intervals [3]:
@@ -112,10 +112,10 @@ item []:
         intervals: size = 65 
         intervals [1]:
             xmin = 0.0 
-            xmax = 0.2 
+            xmax = 0.19 
             text = "" 
         intervals [2]:
-            xmin = 0.2 
+            xmin = 0.19 
             xmax = 0.23 
             text = "Y" 
         intervals [3]:
@@ -152,10 +152,10 @@ item []:
             text = "P" 
         intervals [11]:
             xmin = 0.74 
-            xmax = 0.92 
+            xmax = 0.91 
             text = "AA1" 
         intervals [12]:
-            xmin = 0.92 
+            xmin = 0.91 
             xmax = 1.06 
             text = "R" 
         intervals [13]:

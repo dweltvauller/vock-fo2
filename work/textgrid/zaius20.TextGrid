@@ -50,10 +50,10 @@ item []:
             text = "it" 
         intervals [10]:
             xmin = 3.07 
-            xmax = 3.18 
+            xmax = 3.27 
             text = "or" 
         intervals [11]:
-            xmin = 3.18 
+            xmin = 3.27 
             xmax = 3.47 
             text = "leave" 
         intervals [12]:
@@ -96,10 +96,10 @@ item []:
             text = "" 
         intervals [7]:
             xmin = 1.22 
-            xmax = 1.32 
+            xmax = 1.31 
             text = "DH" 
         intervals [8]:
-            xmin = 1.32 
+            xmin = 1.31 
             xmax = 1.48 
             text = "AE1" 
         intervals [9]:
@@ -164,14 +164,14 @@ item []:
             text = "T" 
         intervals [24]:
             xmin = 3.07 
-            xmax = 3.18 
+            xmax = 3.27 
             text = "ER0" 
         intervals [25]:
-            xmin = 3.18 
-            xmax = 3.27 
+            xmin = 3.27 
+            xmax = 3.31 
             text = "L" 
         intervals [26]:
-            xmin = 3.27 
+            xmin = 3.31 
             xmax = 3.37 
             text = "IY1" 
         intervals [27]:

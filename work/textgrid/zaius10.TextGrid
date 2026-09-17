@@ -90,10 +90,10 @@ item []:
             text = "sure" 
         intervals [20]:
             xmin = 6.75 
-            xmax = 6.95 
+            xmax = 6.96 
             text = "there" 
         intervals [21]:
-            xmin = 6.95 
+            xmin = 6.96 
             xmax = 7.02 
             text = "are" 
         intervals [22]:
@@ -148,10 +148,10 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.18 
-            xmax = 0.22 
+            xmax = 0.65 
             text = "HH" 
         intervals [3]:
-            xmin = 0.22 
+            xmin = 0.65 
             xmax = 0.82 
             text = "AY1" 
         intervals [4]:
@@ -192,10 +192,10 @@ item []:
             text = "N" 
         intervals [13]:
             xmin = 2.06 
-            xmax = 2.22 
+            xmax = 2.18 
             text = "AA1" 
         intervals [14]:
-            xmin = 2.22 
+            xmin = 2.18 
             xmax = 2.28 
             text = "T" 
         intervals [15]:
@@ -256,10 +256,10 @@ item []:
             text = "B" 
         intervals [29]:
             xmin = 4.76 
-            xmax = 4.9 
+            xmax = 4.81 
             text = "AE1" 
         intervals [30]:
-            xmin = 4.9 
+            xmin = 4.81 
             xmax = 4.95 
             text = "NG" 
         intervals [31]:
@@ -320,10 +320,10 @@ item []:
             text = "EH1" 
         intervals [45]:
             xmin = 6.85 
-            xmax = 6.95 
+            xmax = 6.96 
             text = "R" 
         intervals [46]:
-            xmin = 6.95 
+            xmin = 6.96 
             xmax = 7.02 
             text = "ER0" 
         intervals [47]:

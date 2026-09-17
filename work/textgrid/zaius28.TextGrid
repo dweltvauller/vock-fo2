@@ -18,10 +18,10 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.19 
-            xmax = 0.62 
+            xmax = 0.63 
             text = "thanks" 
         intervals [3]:
-            xmin = 0.62 
+            xmin = 0.63 
             xmax = 1.04 
             text = "so" 
         intervals [4]:
@@ -58,14 +58,14 @@ item []:
             text = "don't" 
         intervals [12]:
             xmin = 3.87 
-            xmax = 3.96 
+            xmax = 4.07 
             text = "know" 
         intervals [13]:
-            xmin = 3.96 
-            xmax = 4.07 
+            xmin = 4.07 
+            xmax = 4.13 
             text = "how" 
         intervals [14]:
-            xmin = 4.07 
+            xmin = 4.13 
             xmax = 4.63 
             text = "hard" 
         intervals [15]:
@@ -74,10 +74,10 @@ item []:
             text = "we" 
         intervals [16]:
             xmin = 4.74 
-            xmax = 5.08 
+            xmax = 5.07 
             text = "work" 
         intervals [17]:
-            xmin = 5.08 
+            xmin = 5.07 
             xmax = 5.28 
             text = "for" 
         intervals [18]:
@@ -120,10 +120,10 @@ item []:
             text = "K" 
         intervals [6]:
             xmin = 0.59 
-            xmax = 0.62 
+            xmax = 0.63 
             text = "S" 
         intervals [7]:
-            xmin = 0.62 
+            xmin = 0.63 
             xmax = 0.8 
             text = "S" 
         intervals [8]:
@@ -228,22 +228,22 @@ item []:
             text = "N" 
         intervals [33]:
             xmin = 3.93 
-            xmax = 3.96 
+            xmax = 4.07 
             text = "OW1" 
         intervals [34]:
-            xmin = 3.96 
-            xmax = 3.99 
-            text = "HH" 
-        intervals [35]:
-            xmin = 3.99 
-            xmax = 4.07 
-            text = "AW1" 
-        intervals [36]:
             xmin = 4.07 
             xmax = 4.1 
             text = "HH" 
-        intervals [37]:
+        intervals [35]:
             xmin = 4.1 
+            xmax = 4.13 
+            text = "AW1" 
+        intervals [36]:
+            xmin = 4.13 
+            xmax = 4.16 
+            text = "HH" 
+        intervals [37]:
+            xmin = 4.16 
             xmax = 4.44 
             text = "AA1" 
         intervals [38]:
@@ -272,10 +272,10 @@ item []:
             text = "ER1" 
         intervals [44]:
             xmin = 5.03 
-            xmax = 5.08 
+            xmax = 5.07 
             text = "K" 
         intervals [45]:
-            xmin = 5.08 
+            xmin = 5.07 
             xmax = 5.18 
             text = "F" 
         intervals [46]:

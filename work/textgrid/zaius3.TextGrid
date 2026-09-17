@@ -58,10 +58,10 @@ item []:
             text = "down" 
         intervals [12]:
             xmin = 3.49 
-            xmax = 3.57 
+            xmax = 3.58 
             text = "to" 
         intervals [13]:
-            xmin = 3.57 
+            xmin = 3.58 
             xmax = 3.7 
             text = "the" 
         intervals [14]:
@@ -74,10 +74,10 @@ item []:
             text = "" 
         intervals [16]:
             xmin = 4.89 
-            xmax = 5.41 
+            xmax = 5.39 
             text = "hell" 
         intervals [17]:
-            xmin = 5.41 
+            xmin = 5.39 
             xmax = 5.71 
             text = "" 
         intervals [18]:
@@ -110,10 +110,10 @@ item []:
             text = "with" 
         intervals [25]:
             xmin = 7.9 
-            xmax = 8.24 
+            xmax = 8.22 
             text = "you" 
         intervals [26]:
-            xmin = 8.24 
+            xmin = 8.22 
             xmax = 8.467029 
             text = "" 
     item [2]:
@@ -264,10 +264,10 @@ item []:
             text = "T" 
         intervals [36]:
             xmin = 3.52 
-            xmax = 3.57 
-            text = "AH0" 
+            xmax = 3.58 
+            text = "UW1" 
         intervals [37]:
-            xmin = 3.57 
+            xmin = 3.58 
             xmax = 3.64 
             text = "DH" 
         intervals [38]:
@@ -308,10 +308,10 @@ item []:
             text = "EH1" 
         intervals [47]:
             xmin = 5.1 
-            xmax = 5.41 
+            xmax = 5.39 
             text = "L" 
         intervals [48]:
-            xmin = 5.41 
+            xmin = 5.39 
             xmax = 5.71 
             text = "" 
         intervals [49]:
@@ -424,9 +424,9 @@ item []:
             text = "Y" 
         intervals [76]:
             xmin = 7.93 
-            xmax = 8.24 
+            xmax = 8.22 
             text = "UW1" 
         intervals [77]:
-            xmin = 8.24 
+            xmin = 8.22 
             xmax = 8.467029 
             text = "" 

@@ -180,10 +180,10 @@ item []:
             text = "L" 
         intervals [24]:
             xmin = 3.09 
-            xmax = 3.13 
+            xmax = 3.12 
             text = "DH" 
         intervals [25]:
-            xmin = 3.13 
+            xmin = 3.12 
             xmax = 3.21 
             text = "EY1" 
         intervals [26]:
@@ -236,14 +236,14 @@ item []:
             text = "B" 
         intervals [38]:
             xmin = 4.81 
-            xmax = 4.94 
+            xmax = 4.89 
             text = "EH1" 
         intervals [39]:
-            xmin = 4.94 
-            xmax = 5.01 
+            xmin = 4.89 
+            xmax = 4.92 
             text = "T" 
         intervals [40]:
-            xmin = 5.01 
+            xmin = 4.92 
             xmax = 5.23 
             text = "ER0" 
         intervals [41]:

@@ -156,7 +156,7 @@
 {198}{}{That's the last straw. Goodbye, dead man.}
 
 # Node 032 Quiet Reprimand Loop
-{199}{zaius38}{Please hurry. The mine is our town's lifeblood.}
+{199}{zaius38}{Please hurry. This mine is our town's lifeblood.}
 {200}{}{All right, all right.}
 
 # Node 033 Town Direction Inquiries

@@ -18,10 +18,10 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.16 
-            xmax = 0.32 
+            xmax = 0.31 
             text = "you" 
         intervals [3]:
-            xmin = 0.32 
+            xmin = 0.31 
             xmax = 0.85 
             text = "changed" 
         intervals [4]:
@@ -80,10 +80,10 @@ item []:
             text = "Y" 
         intervals [3]:
             xmin = 0.23 
-            xmax = 0.32 
+            xmax = 0.31 
             text = "UW1" 
         intervals [4]:
-            xmin = 0.32 
+            xmin = 0.31 
             xmax = 0.46 
             text = "CH" 
         intervals [5]:
@@ -180,10 +180,10 @@ item []:
             text = "F" 
         intervals [28]:
             xmin = 2.29 
-            xmax = 2.39 
+            xmax = 2.38 
             text = "IH1" 
         intervals [29]:
-            xmin = 2.39 
+            xmin = 2.38 
             xmax = 2.43 
             text = "K" 
         intervals [30]:

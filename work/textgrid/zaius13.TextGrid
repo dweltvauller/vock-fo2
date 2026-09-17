@@ -30,10 +30,10 @@ item []:
             text = "" 
         intervals [5]:
             xmin = 1.89 
-            xmax = 2.5 
+            xmax = 2.49 
             text = "well" 
         intervals [6]:
-            xmin = 2.5 
+            xmin = 2.49 
             xmax = 2.74 
             text = "" 
         intervals [7]:
@@ -312,10 +312,10 @@ item []:
             text = "EH1" 
         intervals [11]:
             xmin = 2.16 
-            xmax = 2.5 
+            xmax = 2.49 
             text = "L" 
         intervals [12]:
-            xmin = 2.5 
+            xmin = 2.49 
             xmax = 2.74 
             text = "" 
         intervals [13]:
@@ -480,10 +480,10 @@ item []:
             text = "IH0" 
         intervals [53]:
             xmin = 7.26 
-            xmax = 7.35 
+            xmax = 7.33 
             text = "L" 
         intervals [54]:
-            xmin = 7.35 
+            xmin = 7.33 
             xmax = 7.7 
             text = "OW1" 
         intervals [55]:
@@ -848,10 +848,10 @@ item []:
             text = "N" 
         intervals [145]:
             xmin = 17.82 
-            xmax = 17.870001 
+            xmax = 17.860001 
             text = "L" 
         intervals [146]:
-            xmin = 17.870001 
+            xmin = 17.860001 
             xmax = 17.940001 
             text = "IY0" 
         intervals [147]:

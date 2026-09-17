@@ -22,10 +22,10 @@ item []:
             text = "right" 
         intervals [3]:
             xmin = 0.79 
-            xmax = 1.0 
+            xmax = 0.98 
             text = "" 
         intervals [4]:
-            xmin = 1.0 
+            xmin = 0.98 
             xmax = 1.53 
             text = "well" 
         intervals [5]:
@@ -234,10 +234,10 @@ item []:
             text = "by" 
         intervals [56]:
             xmin = 15.67 
-            xmax = 15.79 
+            xmax = 15.8 
             text = "the" 
         intervals [57]:
-            xmin = 15.79 
+            xmin = 15.8 
             xmax = 16.370001 
             text = "radon" 
         intervals [58]:
@@ -288,10 +288,10 @@ item []:
             text = "T" 
         intervals [5]:
             xmin = 0.79 
-            xmax = 1.0 
+            xmax = 0.98 
             text = "" 
         intervals [6]:
-            xmin = 1.0 
+            xmin = 0.98 
             xmax = 1.05 
             text = "W" 
         intervals [7]:
@@ -936,10 +936,10 @@ item []:
             text = "DH" 
         intervals [167]:
             xmin = 15.73 
-            xmax = 15.79 
-            text = "AH1" 
+            xmax = 15.8 
+            text = "AH0" 
         intervals [168]:
-            xmin = 15.79 
+            xmin = 15.8 
             xmax = 15.94 
             text = "R" 
         intervals [169]:

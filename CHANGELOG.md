@@ -1,10 +1,11 @@
 # Changelog
 
 ## WIP
-- Louise (Redding), Zaius (Broken Hills), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno), Flick (The Den)
+- Louise (Redding), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno), Flick (The Den)
 
 ## v1.14
-- Added voices: Peterson (Abbey), Joseph (Vault 13), Krom (Umbra Tribe)
+- Added voices: Peterson (Abbey), Joseph (Vault 13), Krom (Umbra Tribe), Zaius (Broken Hills)
+- Fixed a bug: Francis audio track crossover
 
 ## v1.13
 - Added voices: Ann (Vault City), Tubby (The Den), Chuck & Buck Dunton (Klamath), Vortis (NCR)

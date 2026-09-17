@@ -58,10 +58,10 @@ item []:
             text = "here's" 
         intervals [12]:
             xmin = 4.6 
-            xmax = 4.67 
+            xmax = 4.68 
             text = "the" 
         intervals [13]:
-            xmin = 4.67 
+            xmin = 4.68 
             xmax = 5.23 
             text = "remainder" 
         intervals [14]:
@@ -94,10 +94,10 @@ item []:
             text = "thank" 
         intervals [21]:
             xmin = 7.28 
-            xmax = 7.46 
+            xmax = 7.45 
             text = "you" 
         intervals [22]:
-            xmin = 7.46 
+            xmin = 7.45 
             xmax = 7.99 
             text = "again" 
         intervals [23]:
@@ -196,10 +196,10 @@ item []:
             text = "" 
         intervals [22]:
             xmin = 3.14 
-            xmax = 3.29 
+            xmax = 3.28 
             text = "AE1" 
         intervals [23]:
-            xmin = 3.29 
+            xmin = 3.28 
             xmax = 3.38 
             text = "Z" 
         intervals [24]:
@@ -248,10 +248,10 @@ item []:
             text = "DH" 
         intervals [35]:
             xmin = 4.64 
-            xmax = 4.67 
+            xmax = 4.68 
             text = "AH0" 
         intervals [36]:
-            xmin = 4.67 
+            xmin = 4.68 
             xmax = 4.76 
             text = "R" 
         intervals [37]:
@@ -344,10 +344,10 @@ item []:
             text = "Y" 
         intervals [59]:
             xmin = 7.31 
-            xmax = 7.46 
+            xmax = 7.45 
             text = "UW1" 
         intervals [60]:
-            xmin = 7.46 
+            xmin = 7.45 
             xmax = 7.5 
             text = "AH0" 
         intervals [61]:

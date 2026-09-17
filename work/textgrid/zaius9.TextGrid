@@ -50,14 +50,14 @@ item []:
             text = "money" 
         intervals [10]:
             xmin = 2.73 
-            xmax = 3.46 
+            xmax = 3.47 
             text = "" 
         intervals [11]:
-            xmin = 3.46 
-            xmax = 3.58 
+            xmin = 3.47 
+            xmax = 3.57 
             text = "go" 
         intervals [12]:
-            xmin = 3.58 
+            xmin = 3.57 
             xmax = 3.95 
             text = "bother" 
         intervals [13]:
@@ -156,10 +156,10 @@ item []:
             text = "S" 
         intervals [19]:
             xmin = 2.32 
-            xmax = 2.37 
+            xmax = 2.38 
             text = "AH1" 
         intervals [20]:
-            xmin = 2.37 
+            xmin = 2.38 
             xmax = 2.43 
             text = "M" 
         intervals [21]:
@@ -180,18 +180,18 @@ item []:
             text = "IY0" 
         intervals [25]:
             xmin = 2.73 
-            xmax = 3.46 
+            xmax = 3.47 
             text = "" 
         intervals [26]:
-            xmin = 3.46 
+            xmin = 3.47 
             xmax = 3.5 
             text = "G" 
         intervals [27]:
             xmin = 3.5 
-            xmax = 3.58 
+            xmax = 3.57 
             text = "OW1" 
         intervals [28]:
-            xmin = 3.58 
+            xmin = 3.57 
             xmax = 3.68 
             text = "B" 
         intervals [29]:

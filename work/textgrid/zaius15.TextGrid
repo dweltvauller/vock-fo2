@@ -50,10 +50,10 @@ item []:
             text = "me" 
         intervals [10]:
             xmin = 3.39 
-            xmax = 3.98 
+            xmax = 3.99 
             text = "" 
         intervals [11]:
-            xmin = 3.98 
+            xmin = 3.99 
             xmax = 4.05 
             text = "the" 
         intervals [12]:
@@ -284,10 +284,10 @@ item []:
             text = "ER1" 
         intervals [13]:
             xmin = 1.37 
-            xmax = 1.43 
+            xmax = 1.44 
             text = "K" 
         intervals [14]:
-            xmin = 1.43 
+            xmin = 1.44 
             xmax = 1.52 
             text = "S" 
         intervals [15]:
@@ -344,10 +344,10 @@ item []:
             text = "IY1" 
         intervals [28]:
             xmin = 3.39 
-            xmax = 3.98 
+            xmax = 3.99 
             text = "" 
         intervals [29]:
-            xmin = 3.98 
+            xmin = 3.99 
             xmax = 4.02 
             text = "DH" 
         intervals [30]:

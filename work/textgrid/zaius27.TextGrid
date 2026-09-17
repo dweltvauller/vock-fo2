@@ -22,10 +22,10 @@ item []:
             text = "thanks" 
         intervals [3]:
             xmin = 0.63 
-            xmax = 0.8 
+            xmax = 0.81 
             text = "for" 
         intervals [4]:
-            xmin = 0.8 
+            xmin = 0.81 
             xmax = 1.36 
             text = "selling" 
         intervals [5]:
@@ -58,10 +58,10 @@ item []:
             text = "we" 
         intervals [12]:
             xmin = 3.85 
-            xmax = 4.19 
+            xmax = 4.2 
             text = "couldn't" 
         intervals [13]:
-            xmin = 4.19 
+            xmin = 4.2 
             xmax = 4.54 
             text = "use" 
         intervals [14]:
@@ -128,10 +128,10 @@ item []:
             text = "R" 
         intervals [9]:
             xmin = 0.74 
-            xmax = 0.8 
+            xmax = 0.81 
             text = "ER0" 
         intervals [10]:
-            xmin = 0.8 
+            xmin = 0.81 
             xmax = 0.96 
             text = "S" 
         intervals [11]:
@@ -228,10 +228,10 @@ item []:
             text = "AH0" 
         intervals [34]:
             xmin = 4.14 
-            xmax = 4.19 
+            xmax = 4.2 
             text = "N" 
         intervals [35]:
-            xmin = 4.19 
+            xmin = 4.2 
             xmax = 4.26 
             text = "Y" 
         intervals [36]:
