@@ -26,5 +26,5 @@ talking_heads.dat
 talking_heads_audio.dat
 talking_heads_that_rpu_map_update_patch.dat
 vock.dat
-vock-floats.dat
+vock_floats.dat
 talking_goris_alt.dat
