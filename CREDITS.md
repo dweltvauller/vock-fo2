@@ -53,6 +53,12 @@
 | C. Jared Castor | [Facebook](https://www.facebook.com/CJaredCastor/) |
 | LebronJane | - |
 
+## Talking Heads Art
+
+| Name | Contribution |
+|------|--------------|
+| Goat_Boy | Talking-head images and art asset bugfixes |
+
 ## Font Design
 
 | Name | Links |
