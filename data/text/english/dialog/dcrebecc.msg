@@ -30,7 +30,7 @@
 {222}{rbcca23}{Please keep it short. It's a busy day. What do you need?}
 {223}{rbcca24}{What can I do for you? I'm really busy.}
 {224}{rbcca25}{You here for a drink? The tables are over there.}
-{225}{rbcca26}{I'm really not in the mood. What now?}
+{225}{rbcca26}{I'm not really in the mood. What now?}
 {226}{rbcca27}{You're back already? I guess you want a drink then?}
 
 # 2. Prelude to questions (From ?)
