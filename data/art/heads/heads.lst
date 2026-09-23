@@ -23,7 +23,7 @@ lbshp,2,2,2
 ljmrd,1,1,1
 rbcca,2,2,2
 mason,2,2,2
-gruth,1,1,0
+gruth,1,1,0 ;VOCK: was 1,1,1, no gruthbf1
 miria,3,3,3
 jomod,3,3,3
 veger,2,2,2
@@ -45,7 +45,7 @@ ahs9h,2,2,2
 kensf,2,2,2
 ardin,2,2,2
 typhn,2,2,2
-franc,1,2,2
+franc,1,2,2 ;VOCK: was 2,2,2, no francgf2
 klint,3,3,3
 kitty,2,2,2
 west,2,2,2
@@ -199,8 +199,8 @@ jones,3,3,3
 hangm,3,3,3
 badg,3,3,3
 eld,1,1,1
-tray,1,1,1
-arth,2,2,2
+tray,1,1,1 ;VOCK: was 2,2,2, no traygf2/traynf2/traybf2
+arth,2,2,2 ;VOCK: was 1,1,1, arthgf2/arthnf2/arthbf2 unused
 brige,1,1,1
 aldo,2,2,2
 sajag,2,2,2
