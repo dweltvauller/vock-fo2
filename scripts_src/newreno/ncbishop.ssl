@@ -20,9 +20,7 @@
              voices in-engine, so the trailing pieces would have recorded but
              never played. Node001, Node005, Node009, Node032, Node034, Node036,
              Node049, Node052, Node056, Node057, Node061, and Node063 now call a
-             single merged VOCK Add Ons message per branch instead. See
-             VOCK/claude/audit/vock-fo2/bishp_va_tagging.md for the full
-             breakdown.
+             single merged VOCK Add Ons message per branch instead.
 */
 
 /* Include Files */

@@ -297,7 +297,7 @@ procedure talk_p_proc begin
       end
    //added by killap - expansion
    end else begin
-      floater(random(2300,2301));   //VOCK: was random(300,301); new flavor lines on 2300/2301
+      floater(random(2300,2301));   //VOCK: was random(300,301) - new flavor lines on 2300/2301
    end
    //end added
    set_local_var(LVAR_Herebefore, 1);

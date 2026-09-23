@@ -15,8 +15,7 @@
            VOCK changes:
              Node028's the_rand==0 / the_rand==3 payment reactions spliced the
              player's name mid-sentence; they now address the player as "slaver"
-             (mstr(1552)), matching what the VA recorded. Node043's BOption(601)
-             IQ gate was changed from 4 to 1 to match live RPU behavior.
+             (mstr(1552)).
 */
 
 /* Include Files */

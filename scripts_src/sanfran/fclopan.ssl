@@ -15,10 +15,6 @@
            Created:
 
            Updated:
-           VOCK changes:
-             Node4_5's karma check now matches what actually shipped (THAT-RPU): cult_rep
-             <= KARMA_BETRAYER, not the BEL/TH value of check_general_rep < -249. Both read
-             the same threshold, just a different rep function.
 */
 
 /* Include Files */

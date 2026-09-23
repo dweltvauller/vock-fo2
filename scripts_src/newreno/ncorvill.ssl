@@ -646,7 +646,7 @@ procedure Node037 begin
    prev_node := 37;
 end
 procedure Node038 begin
-   Reply(1590);   //VOCK: was Reply(mstr(590) + " Well well well " + mstr(5590))
+   Reply(1590);   //VOCK: was Reply(mstr(590) + made_man_name + mstr(5590));
    NOption(591, Node981, 004);
    NOption(592, Node999, 004);
    prev_node := 38;

@@ -16,11 +16,10 @@
 
            Updated:
            VOCK changes:
-             Full VA tagging pass (workflow v11): 49 tags, vaj1-vaj29 head lines then vaj30-vaj49
-             floats. Node006's pornstar-check reply merged two spoken halves into one continuous
+             Node006's pornstar-check reply merged two spoken halves into one continuous
              take (msg 1121) instead of only voicing the first. Node024's greeting merged the
              PC-name splice into one line addressing the player as "recruit" (msg 1193), matching
-             how Juan and Vikki refer to new arrivals elsewhere in the file. Talking-head portrait
+             how Juan and Vikki refer to new arrivals. Talking-head portrait
              already wired correctly (HEAD_VAJ/BACKGROUND_RAIDERS).
 */
 

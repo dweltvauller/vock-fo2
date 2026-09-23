@@ -27,6 +27,10 @@
              address term so it can be voiced as a single take.
              Corrected the normal (invisible) map-entry placement hex to match the current
              mole-rat-guard baseline; the old value was stale.
+             map_enter_p_proc now returns early when a save is being loaded, so the
+             placement/visibility/raid block only runs on a real map entry.
+             Removed the unused Only_Once variable and the commented-out older
+             map_enter_p_proc block.
 */
 
 
@@ -156,8 +160,6 @@ procedure Node994;
 
 
 /* Local variables which do not need to be saved between map changes. */
-variable Only_Once:=0;
-
 
 procedure start begin
 end
@@ -165,15 +167,10 @@ end
 /* This procedure will get called each time that the map is first entered. It will
    set up the Team number and AI packet for this critter. This will override the
    default from the prototype, and needs to be set in scripts. */
-/*procedure map_enter_p_proc begin
-   Only_Once:=0;
-   set_self_team(TEAM_VAULT_VILLAGERS);
-   set_self_ai(AI_COWARD);
-end*/
-
 procedure map_enter_p_proc
 begin
-   Only_Once := 0;
+   if is_loading_game then return;   //VOCK: added (see file header log)
+
    set_self_team(TEAM_VAULT_VILLAGERS);
    if ( (global_var(GVAR_VAULT_SERVANT) == SERVANT_FINISHED_VIOLENT) or (((game_time - global_var(GVAR_SERVANT_RAID_DATE)) >= ONE_GAME_MONTH) and (((global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) > 0)) or (global_var(GVAR_QUEST_VAULT_SERVANT) > 0) and (global_var(GVAR_VAULT_SERVANT) != SERVANT_FINISHED_DIPLOMATIC) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS))) )  then begin
       if (cur_map_index == MAP_VAULT_VILLAGE) then begin

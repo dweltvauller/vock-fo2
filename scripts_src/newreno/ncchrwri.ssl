@@ -274,9 +274,9 @@ procedure Node005 begin
 end
 procedure Node006 begin
    if ((get_mystery_flag(MYSTERY_STATE_BAD_SOLVED)) or (get_mystery_flag(MYSTERY_STATE_SOLVED))) then begin
-      Reply(1307);
+      Reply(1307); //VOCK: was Reply(mstr(247) + dude_name + mstr(248))
    end else if (self_family == dude_family) then begin
-      Reply(1306);
+      Reply(1306); //VOCK: was Reply(mstr(246) + dude_name + mstr(1246))
    end else begin
       Reply(245);
    end
@@ -360,7 +360,7 @@ end
 procedure Node011 begin
    set_pissed;
    if (dude_is_made_man) then begin
-      Reply(1308);
+      Reply(1308); //VOCK: was Reply(mstr(316) + dude_family_name + mstr(317))
    end else begin
       Reply(315);
    end

@@ -604,7 +604,7 @@ nbody(002)
       msgNum := 105;
    else
       set_merk_status(MERK_STATUS_MET);
-   if (msgNum == 109 and cult_rep < KARMA_DEFENDER) then   //VOCK: was check_title_bad(KARMA_DEFENDER)
+   if (msgNum == 109 and cult_rep < KARMA_DEFENDER) then
       msgNum := 105;
    if (msgNum == 113 and dude_is_male) then
       msgNum := 105;
@@ -618,7 +618,7 @@ nbody(003)
    msgNum += Random(0, 6);
    if (msgNum == 115 and not has_rep_childkiller) then
       msgNum := 114;
-   if (msgNum == 116 and cult_rep < KARMA_DEFENDER) then   //VOCK: was check_title_bad(KARMA_DEFENDER)
+   if (msgNum == 116 and cult_rep < KARMA_DEFENDER) then
       msgNum := 114;
    if (msgNum == 117 and dude_is_male) then
       msgNum := 114;
@@ -758,7 +758,7 @@ nbodyEnd
 
 procedure Node2413a begin
    set_merk_status(MERK_STATUS_BAD_REACTION);
-//   if (check_general_rep <= KARMA_SWORD_OF_DESPAIR) then
+//   if (cult_rep <= KARMA_SWORD_OF_DESPAIR) then
    if (dude_strength >= 8) then //added by killap
       call Node024;
    else
@@ -1223,7 +1223,7 @@ procedure Node5051a begin
       give_xp(EXP_MERK_GET_PAPERS);
 
       //give_exp_points(EXP_MERK_GET_PAPERS);
-      //display_msg(mstr(271) + EXP_MERK_GET_PAPERS + mstr(272));
+      //display_msg(mstr(271) + calc_actual_xp_gain(EXP_MERK_GET_PAPERS) + mstr(272));
    end
    if (merk_seed_status(MSS_DR_HENRY_DEAD)) then
       call Node050;

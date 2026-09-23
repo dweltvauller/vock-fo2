@@ -13,8 +13,7 @@
 
            Updated:
            VOCK changes:
-             Forked from Black_Electric_LIP for VA tagging. Merged every multi-mstr()
-             concatenated Reply() into one new recordable line covering every branch
+             Merged every multi-mstr() concatenated Reply() into one new recordable line covering every branch
              (gender/charisma/reputation/plot-state variant), so nothing is silently
              dropped. No behavior changes -- Jules says exactly what he always said,
              just as one recorded line instead of two or three.
