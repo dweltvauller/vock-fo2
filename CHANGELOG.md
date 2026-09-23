@@ -2,6 +2,7 @@
 
 ## WIP
 - Louise (Redding), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno), Flick (The Den), Rebecca Dyer (The Den)
+- Fixed Miss Kitty (New Reno) greeting showing "Error" for a returning prizefighter or porn star (THAT-RPU script bug)
 
 ## v1.14
 - Added voices: Peterson (Abbey), Joseph (Vault 13), Krom (Umbra Tribe), Zaius (Broken Hills)
