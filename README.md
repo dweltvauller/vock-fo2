@@ -18,6 +18,7 @@ The source is a sparse, RPU-shaped `data/` tree — only the files this mod adds
 | `data/sound/speech/<npc>/*.acm,.lip,.txt` | generated speech |
 | `data/scripts/*.int` | compiled talking-head scripts (source in `scripts_src/`) |
 | `data/art/heads/*.frm` | talking-head art |
+| `data/art/heads/heads.lst` | Talking Heads' head list with fidget counts corrected to match the art |
 | `wav/`, `textgrid/` | rebuild metadata (kept out of `data/`) |
 
 Build with `vock.py` (`layout = data` in `vock.cfg`): it packs `data/**` verbatim into `dat/vock.dat`, plus `dat/vock_floats.dat` (ambient floats) and `dat/vock_combat.dat` (per-NPC combat barks) as opt-out overlays defined by `float_filter.cfg` / `combat_filter.cfg`.
