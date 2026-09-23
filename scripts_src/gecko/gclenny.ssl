@@ -16,16 +16,7 @@
 
            Updated:
            VOCK changes:
-             Forked from Black_Electric_LIP (TH), header includes trimmed to vock-fo2's staged
-             header set (dropped sfall/define_lite.h, newr1.h, rpu.h -- not present there; added
-             talking_heads.h per convention).
-             Merged two fixes present in current RPU that BEL's snapshot predates: the timer
-             reschedule in map_update_p_proc now uses flush_add_timer_event_sec (was
-             add_timer_event), and the NPC-info floater block (broken limb/radiated/poisoned)
-             now re-schedules itself (was missing entirely in BEL). Checked Node951's reputation
-             check too: BEL already uses self_rep_positive there, RPU is the one still on the
-             older perceived_rep_positive, so no merge needed. No content edit beyond the two
-             timer merges -- tagging only, no new msg IDs introduced.
+             Merge between RPU and TH scripts.
 */
 
 /* Include Files */
@@ -38,6 +29,8 @@
 */
 #define SCRIPT_REALNAME "gclenny"
 #include "../headers/define.h"
+#include "../headers/gecko.h"
+#include "../headers/rpu.h"
 
 #define NAME                    SCRIPT_GCLENNY
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_GECKO)
@@ -49,7 +42,6 @@
 #define PARTY_NODE_X            Node1000
 
 #include "../headers/command.h"
-#include "../headers/gecko.h"
 #include "../headers/modreact.h"
 #include "../headers/partybkg.h"
 #include "../headers/talking_heads.h"
@@ -255,7 +247,7 @@ procedure map_enter_p_proc begin
    end
 
    //added by killap
-   flush_add_timer_event_sec(self_obj, random(25, 40), 900);   //VOCK: was add_timer_event(self_obj, random(25, 40), 900)
+   flush_add_timer_event_sec(self_obj, random(25, 40), 900);
 end
 
 procedure map_update_p_proc begin
@@ -344,6 +336,10 @@ procedure critter_p_proc begin
          call Node071;
          ndebug("Childkiller");
       end
+      //else if (has_rep_berserker) then begin
+      //   call Node072;
+      //   ndebug("Berserker");
+      //end
       else if (has_rep_slaver) then begin
          call Node073;
          ndebug("Slaver");
@@ -622,8 +618,8 @@ procedure timed_event_p_proc begin
                floater(5002);
          end
       end
+      flush_add_timer_event_sec(self_obj, random(60, 90), 900);
    end
-   flush_add_timer_event_sec(self_obj, random(60, 90), 900);   //VOCK: was missing in BEL
 end
 //end added
 
@@ -838,7 +834,7 @@ procedure Node940 begin
 end
 
 procedure Node951 begin
-   if (self_rep_positive and (local_var(LVAR_reaction) > 30) ) then begin
+   if (perceived_rep_positive and (local_var(LVAR_reaction) > 30) ) then begin
       call Node021;
    end
    else begin
