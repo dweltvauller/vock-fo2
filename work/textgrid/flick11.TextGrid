@@ -78,10 +78,10 @@ item []:
             text = "vic" 
         intervals [17]:
             xmin = 4.66 
-            xmax = 4.99 
+            xmax = 4.98 
             text = "guy" 
         intervals [18]:
-            xmin = 4.99 
+            xmin = 4.98 
             xmax = 5.25 
             text = "" 
         intervals [19]:
@@ -312,10 +312,10 @@ item []:
             text = "G" 
         intervals [46]:
             xmin = 4.71 
-            xmax = 4.99 
+            xmax = 4.98 
             text = "AY1" 
         intervals [47]:
-            xmin = 4.99 
+            xmin = 4.98 
             xmax = 5.25 
             text = "" 
         intervals [48]:
@@ -392,10 +392,10 @@ item []:
             text = "DH" 
         intervals [66]:
             xmin = 7.15 
-            xmax = 7.23 
+            xmax = 7.24 
             text = "AE1" 
         intervals [67]:
-            xmin = 7.23 
+            xmin = 7.24 
             xmax = 7.35 
             text = "T" 
         intervals [68]:

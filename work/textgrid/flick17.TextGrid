@@ -388,10 +388,10 @@ item []:
             text = "EH1" 
         intervals [36]:
             xmin = 3.55 
-            xmax = 3.63 
+            xmax = 3.64 
             text = "R" 
         intervals [37]:
-            xmin = 3.63 
+            xmin = 3.64 
             xmax = 3.68 
             text = "IH0" 
         intervals [38]:

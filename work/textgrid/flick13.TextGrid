@@ -336,10 +336,10 @@ item []:
             text = "Y" 
         intervals [52]:
             xmin = 3.52 
-            xmax = 3.61 
+            xmax = 3.6 
             text = "AA2" 
         intervals [53]:
-            xmin = 3.61 
+            xmin = 3.6 
             xmax = 3.68 
             text = "R" 
         intervals [54]:
@@ -424,10 +424,10 @@ item []:
             text = "S" 
         intervals [74]:
             xmin = 5.27 
-            xmax = 5.32 
+            xmax = 5.33 
             text = "T" 
         intervals [75]:
-            xmin = 5.32 
+            xmin = 5.33 
             xmax = 5.37 
             text = "AH0" 
         intervals [76]:

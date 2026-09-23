@@ -30,10 +30,10 @@ item []:
             text = "talkin'about" 
         intervals [5]:
             xmin = 1.07 
-            xmax = 1.64 
+            xmax = 1.63 
             text = "" 
         intervals [6]:
-            xmin = 1.64 
+            xmin = 1.63 
             xmax = 1.71 
             text = "you" 
         intervals [7]:
@@ -224,10 +224,10 @@ item []:
             text = "T" 
         intervals [17]:
             xmin = 1.07 
-            xmax = 1.64 
+            xmax = 1.63 
             text = "" 
         intervals [18]:
-            xmin = 1.64 
+            xmin = 1.63 
             xmax = 1.68 
             text = "Y" 
         intervals [19]:
@@ -300,10 +300,10 @@ item []:
             text = "P" 
         intervals [36]:
             xmin = 2.84 
-            xmax = 2.91 
+            xmax = 2.9 
             text = "AH0" 
         intervals [37]:
-            xmin = 2.91 
+            xmin = 2.9 
             xmax = 3.03 
             text = "D" 
         intervals [38]:

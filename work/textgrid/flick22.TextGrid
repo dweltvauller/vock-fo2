@@ -194,10 +194,10 @@ item []:
             text = "you" 
         intervals [46]:
             xmin = 11.45 
-            xmax = 11.94 
+            xmax = 11.93 
             text = "" 
         intervals [47]:
-            xmin = 11.94 
+            xmin = 11.93 
             xmax = 12.06 
             text = "but" 
         intervals [48]:
@@ -246,10 +246,10 @@ item []:
             text = "barter" 
         intervals [59]:
             xmin = 14.35 
-            xmax = 14.8 
+            xmax = 14.81 
             text = "" 
         intervals [60]:
-            xmin = 14.8 
+            xmin = 14.81 
             xmax = 15.03 
             text = "get" 
         intervals [61]:
@@ -672,10 +672,10 @@ item []:
             text = "D" 
         intervals [95]:
             xmin = 7.99 
-            xmax = 8.08 
+            xmax = 8.09 
             text = "OW1" 
         intervals [96]:
-            xmin = 8.08 
+            xmin = 8.09 
             xmax = 8.13 
             text = "N" 
         intervals [97]:
@@ -816,10 +816,10 @@ item []:
             text = "UW1" 
         intervals [131]:
             xmin = 11.45 
-            xmax = 11.94 
+            xmax = 11.93 
             text = "" 
         intervals [132]:
-            xmin = 11.94 
+            xmin = 11.93 
             xmax = 11.97 
             text = "B" 
         intervals [133]:
@@ -944,18 +944,18 @@ item []:
             text = "ER0" 
         intervals [163]:
             xmin = 14.35 
-            xmax = 14.8 
+            xmax = 14.81 
             text = "" 
         intervals [164]:
-            xmin = 14.8 
+            xmin = 14.81 
             xmax = 14.85 
             text = "G" 
         intervals [165]:
             xmin = 14.85 
-            xmax = 14.91 
-            text = "EH1" 
+            xmax = 14.92 
+            text = "IH1" 
         intervals [166]:
-            xmin = 14.91 
+            xmin = 14.92 
             xmax = 15.03 
             text = "T" 
         intervals [167]:
