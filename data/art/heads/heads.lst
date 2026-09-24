@@ -9,7 +9,7 @@ power,2,2,2
 sulik,3,3,3
 presi,3,3,3
 hakun,3,3,3
-bosss,2,2,2
+bosss,1,2,2 ;VOCK: was 2,2,2, no bosssgf2 (vanilla/RPU bug)
 haku2,3,3,3
 casdy,3,3,3
 haku3,3,3,3
@@ -23,7 +23,7 @@ lbshp,2,2,2
 ljmrd,1,1,1
 rbcca,2,2,2
 mason,2,2,2
-gruth,1,1,0 ;VOCK: was 1,1,1, no gruthbf1
+gruth,1,1,1 ;VOCK: gruthbf1 is a 1-frame placeholder
 miria,3,3,3
 jomod,3,3,3
 veger,2,2,2

@@ -3,9 +3,10 @@
 ## WIP
 - Louise (Redding), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno), Flick (The Den), Rebecca Dyer (The Den)
 - Fixed Miss Kitty (New Reno) greeting showing "Error" for a returning prizefighter or porn star (THAT-RPU script bug)
-- Fixed frozen lip-sync on talking heads ardin, bishp, kitty, merk, sch (full 9-frame phoneme art by Goat_Boy)
-- Fixed heads.lst fidget counts for gruth, franc, tray, arth that pointed at missing or unused art
+- Fixed frozen lip-sync on talking heads ardin, bgjes, bishp, kitty, merk, sch (full 9-frame phoneme art by Goat_Boy)
+- Fixed heads.lst fidget counts for franc, tray, arth, bosss that pointed at missing or unused art
 - Fixed see-through spots on Sajag's talking head (cheeks, forehead, nose, lip)
+- Fixed Gruthar's head freezing in a bad mood (placeholder bad-mood fidget until Goat_Boy's art)
 
 ## v1.14
 - Added voices: Peterson (Abbey), Joseph (Vault 13), Krom (Umbra Tribe), Zaius (Broken Hills)
