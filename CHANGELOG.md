@@ -8,6 +8,7 @@
 - Fixed heads.lst fidget counts for franc, tray, arth, bosss that pointed at missing or unused art
 - Fixed see-through spots on Sajag's talking head
 - Fixed Gruthar's head freezing in a bad mood (new bad-mood fidget: a blink)
+- Fixed Sheriff Dumont (NCR) never praising the player for talking Officer Jack into surrendering (RPU script bug)
 
 ## v1.14
 - Added voices: Peterson (Abbey), Joseph (Vault 13), Krom (Umbra Tribe), Zaius (Broken Hills), Flick (The Den)
