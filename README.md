@@ -3,7 +3,7 @@
 A voice-acting mod for Fallout 2, adding spoken dialogue for NPCs using volunteer voice actors. Built with the [V.O.C.K. pipeline tool](https://github.com/dweltvauller/vock).
 
 - [CREDITS.md](CREDITS.md): voice cast
-- [docs/THAT.md](docs/THAT.md): Talking Heads Actually Talk voice cast
+- [THAT.md](THAT.md): Talking Heads Actually Talk voice cast
 - [docs/TALKING-HEADS.md](docs/TALKING-HEADS.md): Talking Heads art findings and fixes
 - [docs/COMBAT-AI.md](docs/COMBAT-AI.md): companion combat taunts
 - [CHANGELOG.md](CHANGELOG.md): release history
