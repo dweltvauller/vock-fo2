@@ -1,7 +1,7 @@
 # Kaga — VA Script
 **Character:** Kaga, disgraced tribal warrior, ec`kaga1`–ec`kaga5` (five recurring encounters)
 
-**Total recordable lines:** 49 (`kaga1`–`kaga49`)
+**Total recordable lines:** 122 (`kaga1`–`kaga122`)
 
 ---
 
@@ -85,7 +85,7 @@
 
 `kaga28:` You will regret you ever heard the name Kaga!
 
-`kaga29:` My skills have increased since we last met.
+`kaga29:` My skills have increased since last we met.
 
 `kaga30:` This is getting to be a bad habit.
 
@@ -132,6 +132,182 @@
 `kaga48:` I am looking forward to going home to Arroyo - to burn it down.
 
 `kaga49:` Kaga will be famous for killing you.
+
+## Combat Barks
+*Short lines Kaga shouts during the fight itself: when he gets hit, when he runs, when he closes in, when he attacks, and when the player misses him. Keep them short and punchy, the way you would shout them mid swing or mid stagger. Record each line once; many of them play in several fights.*
+
+### Hit in the head
+*Pain and anger, a blow he did not see coming.*
+
+`kaga50:` Gawd! That hit me in the head!
+
+`kaga51:` Ow! My head!
+
+`kaga52:` Oof! Kaga's head is on fire!
+
+### Hit in the arm
+
+`kaga53:` My hand!
+
+`kaga54:` Ow! Good thing I'm right handed.
+
+`kaga55:` Ow!!
+
+`kaga56:` Ow, my arm!
+
+`kaga57:` You broke my arm!
+
+`kaga58:` You're gonna regret that!
+
+### Hit in the body
+*The grunt is a wordless effort sound, not the word itself.*
+
+`kaga59:` (Grunt!)
+
+`kaga60:` It's only a flesh wound!
+
+`kaga61:` Grrr!
+
+`kaga62:` You should stop while you're ahead!
+
+`kaga63:` Good shot. My turn.
+
+### Hit in the leg
+
+`kaga64:` Ow, my leg!
+
+`kaga65:` You're gonna pay for that!
+
+`kaga66:` Ah! MY LEG!
+
+`kaga67:` My leg!
+
+`kaga68:` Unh! Aiming a little low aren't you?
+
+`kaga69:` You weren't trying to hit my leg were you!?!
+
+### Hit in the eyes
+
+`kaga70:` Damn blood in my eyes!
+
+`kaga71:` My eye! You'll pay for that one!
+
+`kaga72:` Bastard!
+
+### Hit below the belt
+*Winded and wheezing. Played for a laugh, but still Kaga.*
+
+`kaga73:` Oooooo, time out, I have to pick something up.
+
+`kaga74:` Ooo! Kaga gotta learn that move...
+
+`kaga75:` Urg! Petey! You OK down there?
+
+`kaga76:` That... wheeeeze... hurt!
+
+`kaga77:` Urp!
+
+`kaga78:` Gasp!
+
+### Retreating
+*He is losing and leaving, but his pride will not let him admit it.*
+
+`kaga79:` I'll be back...
+
+`kaga80:` I will dedicate myself to hunting you down!
+
+`kaga81:` You ain't heard the last of me!
+
+`kaga82:` You'll pay for this -- later!
+
+`kaga101:` You cannot kill the Great Kaga!
+
+`kaga102:` You are in luck! Kaga has business elsewhere.
+
+`kaga103:` You and Kaga will meet again.
+
+`kaga111:` Kaga needs more training.
+
+`kaga112:` I'll be back. Yada yada yada I'm gonna kill you.
+
+### Closing in
+*Moving in for the kill, full of confidence.*
+
+`kaga83:` Arroyo will regret casting me out!
+
+`kaga84:` I will have my revenge on YOU!
+
+`kaga85:` Kaga will send you to the next life!
+
+`kaga86:` Another Chosen One to kill!
+
+`kaga104:` After I kill you, I will burn Arroyo to the ground!
+
+`kaga105:` I am to be feared by all!
+
+`kaga106:` Kaga will have your head for a trophy!
+
+`kaga107:` Surrender and I'll make your death quick!
+
+`kaga113:` Kaga and the Chosen One meet again.
+
+`kaga114:` You will regret ever hearing the name Kaga!
+
+`kaga115:` My skills have increased since we last met.
+
+`kaga117:` Let Kaga teach you new skills he has learned!
+
+`kaga118:` Kaga is ready for you now.
+
+`kaga119:` Kaga will send you to your next life!
+
+`kaga120:` Kaga gonna miss you.
+
+### Attacking
+*Mid attack. Vicious and gloating.*
+
+`kaga87:` Your momma's not here to help you!
+
+`kaga88:` I'm gonna enjoy this!
+
+`kaga89:` Oooo, that gotta hurt!
+
+`kaga90:` I'm gonna take your head back to the Elder!
+
+`kaga91:` I'm gonna eat your liver!
+
+`kaga92:` Hope you don't die as quickly as the others!
+
+`kaga93:` Die!
+
+`kaga94:` Scream for me.
+
+`kaga108:` Don't bother screaming for mercy...
+
+`kaga109:` Oooo, Kaga felt that one from here.
+
+`kaga110:` I'm gonna carve your heart out with a spoon!
+
+`kaga116:` Hope you don't die as quick as the others.
+
+`kaga121:` It ends here Chosen One!
+
+`kaga122:` Kaga has to kill you now!
+
+### When the player misses
+*Mocking and arrogant, he thinks he is untouchable.*
+
+`kaga95:` You cannot hurt me!
+
+`kaga96:` The spirits are protecting me.
+
+`kaga97:` Hope that ain't your best shot.
+
+`kaga98:` Bwahaha. Kaga didn't even have to duck!
+
+`kaga99:` You can't kill what you can't hit!
+
+`kaga100:` Too slow!
 
 ---
 

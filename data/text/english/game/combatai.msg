@@ -3253,57 +3253,57 @@
 #
 # target hit in head
 #
-{36000}{}{Gawd! That hit me in the head!}
-{36001}{}{Ow! My head!}
-{36002}{}{Oof! Kaga's head is on fire!}
+{36000}{kaga50}{Gawd! That hit me in the head!}
+{36001}{kaga51}{Ow! My head!}
+{36002}{kaga52}{Oof! Kaga's head is on fire!}
 #
 # target hit in left arm
 #
-{36010}{}{My hand!}
-{36011}{}{Ow! Good thing I'm right handed.}
-{36012}{}{Ow!!}
+{36010}{kaga53}{My hand!}
+{36011}{kaga54}{Ow! Good thing I'm right handed.}
+{36012}{kaga55}{Ow!!}
 #
 # target hit in right arm
 #
-{36020}{}{Ow, my arm!}
-{36021}{}{You broke my arm!}
-{36022}{}{You're gonna regret that!}
+{36020}{kaga56}{Ow, my arm!}
+{36021}{kaga57}{You broke my arm!}
+{36022}{kaga58}{You're gonna regret that!}
 #
 # target hit in torso
 #
-{36030}{}{(Grunt!)}
-{36031}{}{It's only a flesh wound!}
-{36032}{}{Grrr!}
-{36033}{}{You're gonna regret that!}
-{36034}{}{You should stop while you're ahead!}
-{36035}{}{Good shot. My turn.}
+{36030}{kaga59}{(Grunt!)}
+{36031}{kaga60}{It's only a flesh wound!}
+{36032}{kaga61}{Grrr!}
+{36033}{kaga58}{You're gonna regret that!}
+{36034}{kaga62}{You should stop while you're ahead!}
+{36035}{kaga63}{Good shot. My turn.}
 #
 # target hit in right leg
 #
-{36060}{}{Ow, my leg!}
-{36061}{}{You're gonna pay for that!}
-{36062}{}{Ah! MY LEG!}
+{36060}{kaga64}{Ow, my leg!}
+{36061}{kaga65}{You're gonna pay for that!}
+{36062}{kaga66}{Ah! MY LEG!}
 #
 # target hit in left leg
 #
-{36070}{}{My leg!}
-{36071}{}{Unh! Aiming a little low aren't you?}
-{36072}{}{You weren't trying to hit my leg were you!?!}
+{36070}{kaga67}{My leg!}
+{36071}{kaga68}{Unh! Aiming a little low aren't you?}
+{36072}{kaga69}{You weren't trying to hit my leg were you!?!}
 #
 # target hit in eyes
 #
-{36080}{}{Damn blood in my eyes!}
-{36081}{}{My eye! You'll pay for that one!}
-{36082}{}{Bastard!}
+{36080}{kaga70}{Damn blood in my eyes!}
+{36081}{kaga71}{My eye! You'll pay for that one!}
+{36082}{kaga72}{Bastard!}
 #
 # target hit in groin
 #
-{36090}{}{Oooooo, time out, I have to pick something up.}
-{36091}{}{Ooo! Kaga gotta learn that move...}
-{36092}{}{Urg! Petey! You OK down there?}
-{36093}{}{That... wheeeeze... hurt!}
-{36094}{}{Urp!}
-{36095}{}{Gasp!}
+{36090}{kaga73}{Oooooo, time out, I have to pick something up.}
+{36091}{kaga74}{Ooo! Kaga gotta learn that move...}
+{36092}{kaga75}{Urg! Petey! You OK down there?}
+{36093}{kaga76}{That... wheeeeze... hurt!}
+{36094}{kaga77}{Urp!}
+{36095}{kaga78}{Gasp!}
 #
 ###########################################
 # 36100 Kaga (Combat Messages) Area 1
@@ -3312,41 +3312,41 @@
 #
 #  running away
 #
-{36100}{}{We will meet again!}
-{36101}{}{I'll be back...}
-{36102}{}{I have never been beaten before!}
-{36103}{}{I will dedicate myself to hunting you down!}
-{36104}{}{You ain't heard the last of me!}
-{36105}{}{You'll pay for this -- later!}
+{36100}{kaga10}{We will meet again!}
+{36101}{kaga79}{I'll be back...}
+{36102}{kaga11}{I have never been beaten before!}
+{36103}{kaga80}{I will dedicate myself to hunting you down!}
+{36104}{kaga81}{You ain't heard the last of me!}
+{36105}{kaga82}{You'll pay for this -- later!}
 #
 # moving in to attack
 #
-{36120}{}{I should have been the Chosen One!}
-{36121}{}{Arroyo will regret casting me out!}
-{36122}{}{I will have my revenge on YOU!}
-{36123}{}{Kaga will send you to the next life!}
-{36124}{}{Another Chosen One to kill!}
+{36120}{kaga6}{I should have been the Chosen One!}
+{36121}{kaga83}{Arroyo will regret casting me out!}
+{36122}{kaga84}{I will have my revenge on YOU!}
+{36123}{kaga85}{Kaga will send you to the next life!}
+{36124}{kaga86}{Another Chosen One to kill!}
 #
 # attacking
 #
-{36140}{}{Your momma's not here to help you!}
-{36141}{}{I'm gonna enjoy this!}
-{36142}{}{Oooo, that gotta hurt!}
-{36143}{}{I'm gonna take your head back to the Elder!}
-{36144}{}{I'm gonna eat your liver!}
-{36145}{}{Hope you don't die as quickly as the others!}
-{36146}{}{Another Chosen One to kill!}
-{36147}{}{Die!}
-{36148}{}{Scream for me.}
+{36140}{kaga87}{Your momma's not here to help you!}
+{36141}{kaga88}{I'm gonna enjoy this!}
+{36142}{kaga89}{Oooo, that gotta hurt!}
+{36143}{kaga90}{I'm gonna take your head back to the Elder!}
+{36144}{kaga91}{I'm gonna eat your liver!}
+{36145}{kaga92}{Hope you don't die as quickly as the others!}
+{36146}{kaga86}{Another Chosen One to kill!}
+{36147}{kaga93}{Die!}
+{36148}{kaga94}{Scream for me.}
 #
 # target being missed
 #
-{36160}{}{You cannot hurt me!}
-{36161}{}{The spirits are protecting me.}
-{36162}{}{Hope that ain't your best shot.}
-{36163}{}{Bwahaha. Kaga didn't even have to duck!}
-{36164}{}{You can't kill what you can't hit!}
-{36165}{}{Too slow!}
+{36160}{kaga95}{You cannot hurt me!}
+{36161}{kaga96}{The spirits are protecting me.}
+{36162}{kaga97}{Hope that ain't your best shot.}
+{36163}{kaga98}{Bwahaha. Kaga didn't even have to duck!}
+{36164}{kaga99}{You can't kill what you can't hit!}
+{36165}{kaga100}{Too slow!}
 #
 ############################################
 # 36200 Kaga (Combat Messages) Area 2
@@ -3355,41 +3355,41 @@
 #
 #  running away
 #
-{36200}{}{We will meet again!}
-{36201}{}{I'll be back...}
-{36202}{}{You cannot kill the Great Kaga!}
-{36203}{}{You are in luck! Kaga has business elsewhere.}
-{36204}{}{You and Kaga will meet again.}
-{36205}{}{You'll pay for this -- later!}
+{36200}{kaga10}{We will meet again!}
+{36201}{kaga79}{I'll be back...}
+{36202}{kaga101}{You cannot kill the Great Kaga!}
+{36203}{kaga102}{You are in luck! Kaga has business elsewhere.}
+{36204}{kaga103}{You and Kaga will meet again.}
+{36205}{kaga82}{You'll pay for this -- later!}
 #
 # moving in to attack
 #
-{36220}{}{After I kill you, I will burn Arroyo to the ground!}
-{36221}{}{I am to be feared by all!}
-{36222}{}{Kaga will have your head for a trophy!}
-{36223}{}{Surrender and I'll make your death quick!}
+{36220}{kaga104}{After I kill you, I will burn Arroyo to the ground!}
+{36221}{kaga105}{I am to be feared by all!}
+{36222}{kaga106}{Kaga will have your head for a trophy!}
+{36223}{kaga107}{Surrender and I'll make your death quick!}
 #
 # attacking
 #
-{36240}{}{Feel the wrath of Kaga!}
-{36241}{}{Don't bother screaming for mercy...}
-{36242}{}{I'm gonna enjoy this!}
-{36243}{}{Oooo, Kaga felt that one from here.}
-{36244}{}{I'm gonna take your head back to the Elder!}
-{36245}{}{I'm gonna carve your heart out with a spoon!}
-{36246}{}{Hope you don't die as quickly as the others!}
-{36247}{}{Another Chosen One to kill!}
-{36248}{}{Die!}
-{36249}{}{Scream for me.}
+{36240}{kaga15}{Feel the wrath of Kaga!}
+{36241}{kaga108}{Don't bother screaming for mercy...}
+{36242}{kaga88}{I'm gonna enjoy this!}
+{36243}{kaga109}{Oooo, Kaga felt that one from here.}
+{36244}{kaga90}{I'm gonna take your head back to the Elder!}
+{36245}{kaga110}{I'm gonna carve your heart out with a spoon!}
+{36246}{kaga92}{Hope you don't die as quickly as the others!}
+{36247}{kaga86}{Another Chosen One to kill!}
+{36248}{kaga93}{Die!}
+{36249}{kaga94}{Scream for me.}
 #
 # target being missed
 #
-{36260}{}{You cannot hurt me!}
-{36261}{}{The spirits are protecting me.}
-{36262}{}{Hope that ain't your best shot.}
-{36263}{}{Bwahaha. Kaga didn't even have to duck!}
-{36264}{}{You can't kill what you can't hit!}
-{36265}{}{Too slow!}
+{36260}{kaga95}{You cannot hurt me!}
+{36261}{kaga96}{The spirits are protecting me.}
+{36262}{kaga97}{Hope that ain't your best shot.}
+{36263}{kaga98}{Bwahaha. Kaga didn't even have to duck!}
+{36264}{kaga99}{You can't kill what you can't hit!}
+{36265}{kaga100}{Too slow!}
 #
 ############################################
 # 36300 Kaga (Combat Messages) Area 3
@@ -3398,40 +3398,40 @@
 #
 #  running away
 #
-{36300}{}{This is getting to be a bad habit.}
-{36301}{}{Kaga needs more training.}
-{36302}{}{I'll be back. Yada yada yada I'm gonna kill you.}
-{36303}{}{You are in luck! Kaga has business elsewhere.}
-{36304}{}{You and Kaga will meet again.}
-{36305}{}{You'll pay for this -- later!}
+{36300}{kaga30}{This is getting to be a bad habit.}
+{36301}{kaga111}{Kaga needs more training.}
+{36302}{kaga112}{I'll be back. Yada yada yada I'm gonna kill you.}
+{36303}{kaga102}{You are in luck! Kaga has business elsewhere.}
+{36304}{kaga103}{You and Kaga will meet again.}
+{36305}{kaga82}{You'll pay for this -- later!}
 #
 # moving in to attack
 #
-{36320}{}{Kaga and the Chosen One meet again.}
-{36321}{}{Let's end this.}
-{36322}{}{You will regret ever hearing the name Kaga!}
-{36323}{}{My skills have increased since we last met.}
+{36320}{kaga113}{Kaga and the Chosen One meet again.}
+{36321}{kaga27}{Let's end this.}
+{36322}{kaga114}{You will regret ever hearing the name Kaga!}
+{36323}{kaga115}{My skills have increased since we last met.}
 #
 # attacking
 #
-{36340}{}{Feel the wrath of Kaga!}
-{36341}{}{I'm gonna enjoy this!}
-{36342}{}{Oooo, Kaga felt that one from here.}
-{36343}{}{I'm gonna take your head back to the Elder.}
-{36344}{}{I'm gonna carve your heart out with a spoon!}
-{36345}{}{Hope you don't die as quick as the others.}
-{36346}{}{Another Chosen One to kill!}
-{36347}{}{Die!}
-{36348}{}{Scream for me.}
+{36340}{kaga15}{Feel the wrath of Kaga!}
+{36341}{kaga88}{I'm gonna enjoy this!}
+{36342}{kaga109}{Oooo, Kaga felt that one from here.}
+{36343}{kaga90}{I'm gonna take your head back to the Elder.}
+{36344}{kaga110}{I'm gonna carve your heart out with a spoon!}
+{36345}{kaga116}{Hope you don't die as quick as the others.}
+{36346}{kaga86}{Another Chosen One to kill!}
+{36347}{kaga93}{Die!}
+{36348}{kaga94}{Scream for me.}
 #
 # target being missed
 #
-{36360}{}{You cannot hurt me!}
-{36361}{}{The spirits are protecting me.}
-{36362}{}{Hope that ain't your best shot.}
-{36363}{}{Bwahaha. Kaga didn't even have to duck!}
-{36364}{}{You can't kill what you can't hit!}
-{36365}{}{Too slow!}
+{36360}{kaga95}{You cannot hurt me!}
+{36361}{kaga96}{The spirits are protecting me.}
+{36362}{kaga97}{Hope that ain't your best shot.}
+{36363}{kaga98}{Bwahaha. Kaga didn't even have to duck!}
+{36364}{kaga99}{You can't kill what you can't hit!}
+{36365}{kaga100}{Too slow!}
 #
 ############################################
 # 36400 Kaga (Combat Messages) Area 4
@@ -3440,41 +3440,41 @@
 #
 #  running away
 #
-{36400}{}{This is getting to be a bad habit.}
-{36401}{}{Kaga needs more training.}
-{36402}{}{This is not the last you will see of Kaga.}
-{36403}{}{You are in luck! Kaga has business elsewhere.}
-{36404}{}{You and Kaga will meet again.}
-{36405}{}{You'll pay for this -- later!}
+{36400}{kaga30}{This is getting to be a bad habit.}
+{36401}{kaga111}{Kaga needs more training.}
+{36402}{kaga39}{This is not the last you will see of Kaga.}
+{36403}{kaga102}{You are in luck! Kaga has business elsewhere.}
+{36404}{kaga103}{You and Kaga will meet again.}
+{36405}{kaga82}{You'll pay for this -- later!}
 #
 # moving in to attack
 #
-{36420}{}{The Chosen One will never return to Arroyo!}
-{36421}{}{Kaga will crush you!}
-{36422}{}{Kaga fears no one!}
-{36423}{}{Let Kaga teach you new skills he has learned!}
+{36420}{kaga34}{The Chosen One will never return to Arroyo!}
+{36421}{kaga35}{Kaga will crush you!}
+{36422}{kaga36}{Kaga fears no one!}
+{36423}{kaga117}{Let Kaga teach you new skills he has learned!}
 #
 # attacking
 #
-{36440}{}{Feel the wrath of Kaga!}
-{36441}{}{Hold still so Kaga can get a good shot.}
-{36442}{}{I'm gonna enjoy this!}
-{36443}{}{Oooo, Kaga felt that one from here.}
-{36444}{}{I'm gonna take your head back to the Elder!}
-{36445}{}{I'm gonna carve your heart out with a spoon!}
-{36446}{}{Hope you don't die as quickly as the others!}
-{36447}{}{Another Chosen One to kill!}
-{36448}{}{Die!}
-{36449}{}{Scream for me.}
+{36440}{kaga15}{Feel the wrath of Kaga!}
+{36441}{kaga37}{Hold still so Kaga can get a good shot.}
+{36442}{kaga88}{I'm gonna enjoy this!}
+{36443}{kaga109}{Oooo, Kaga felt that one from here.}
+{36444}{kaga90}{I'm gonna take your head back to the Elder!}
+{36445}{kaga110}{I'm gonna carve your heart out with a spoon!}
+{36446}{kaga92}{Hope you don't die as quickly as the others!}
+{36447}{kaga86}{Another Chosen One to kill!}
+{36448}{kaga93}{Die!}
+{36449}{kaga94}{Scream for me.}
 #
 # target being missed
 #
-{36460}{}{You cannot hurt me!}
-{36461}{}{The spirits are protecting me.}
-{36462}{}{Hope that ain't your best shot.}
-{36463}{}{Bwahaha. Kaga didn't even have to duck!}
-{36464}{}{You can't kill what you can't hit!}
-{36465}{}{Too slow!}
+{36460}{kaga95}{You cannot hurt me!}
+{36461}{kaga96}{The spirits are protecting me.}
+{36462}{kaga97}{Hope that ain't your best shot.}
+{36463}{kaga98}{Bwahaha. Kaga didn't even have to duck!}
+{36464}{kaga99}{You can't kill what you can't hit!}
+{36465}{kaga100}{Too slow!}
 #
 ############################################
 # 36500 Kaga (Combat Messages) Area 5
@@ -3492,31 +3492,31 @@
 #
 # moving in to attack
 #
-{36520}{}{Kaga is ready for you now.}
-{36521}{}{You are no match for Kaga.}
-{36522}{}{Kaga will send you to your next life!}
-{36523}{}{Kaga gonna miss you.}
+{36520}{kaga118}{Kaga is ready for you now.}
+{36521}{kaga43}{You are no match for Kaga.}
+{36522}{kaga119}{Kaga will send you to your next life!}
+{36523}{kaga120}{Kaga gonna miss you.}
 #
 # attacking
 #
-{36540}{}{Feel the wrath of Kaga!}
-{36541}{}{Kaga will be famous for killing you!}
-{36542}{}{I'm gonna enjoy this.}
-{36543}{}{Oooo, Kaga felt that one from here.}
-{36544}{}{I'm gonna take your head back to the Elder!}
-{36545}{}{It ends here Chosen One!}
-{36546}{}{Kaga has to kill you now!}
-{36547}{}{Die!}
-{36548}{}{Scream for me.}
+{36540}{kaga15}{Feel the wrath of Kaga!}
+{36541}{kaga49}{Kaga will be famous for killing you!}
+{36542}{kaga88}{I'm gonna enjoy this.}
+{36543}{kaga109}{Oooo, Kaga felt that one from here.}
+{36544}{kaga90}{I'm gonna take your head back to the Elder!}
+{36545}{kaga121}{It ends here Chosen One!}
+{36546}{kaga122}{Kaga has to kill you now!}
+{36547}{kaga93}{Die!}
+{36548}{kaga94}{Scream for me.}
 #
 # target being missed
 #
-{36560}{}{You cannot hurt me!}
-{36561}{}{The spirits are protecting me.}
-{36562}{}{Hope that ain't your best shot.}
-{36563}{}{Bwahaha. Kaga didn't even have to duck!}
-{36564}{}{You can't kill what you can't hit!}
-{36565}{}{Too slow!}
+{36560}{kaga95}{You cannot hurt me!}
+{36561}{kaga96}{The spirits are protecting me.}
+{36562}{kaga97}{Hope that ain't your best shot.}
+{36563}{kaga98}{Bwahaha. Kaga didn't even have to duck!}
+{36564}{kaga99}{You can't kill what you can't hit!}
+{36565}{kaga100}{Too slow!}
 #
 #
 ############################################
