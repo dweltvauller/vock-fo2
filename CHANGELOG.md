@@ -13,6 +13,7 @@
 ## v1.14
 - Added voices: Peterson (Abbey), Joseph (Vault 13), Krom (Umbra Tribe), Zaius (Broken Hills), Flick (The Den)
 - Fixed a bug: Francis audio track crossover
+- Removed AI voices: Morlis (Arroyo), Sally Dunton (Klamath), Bridgekeeper (Special Encounter), per community poll
 
 ## v1.13
 - Added voices: Ann (Vault City), Tubby (The Den), Chuck & Buck Dunton (Klamath), Vortis (NCR)

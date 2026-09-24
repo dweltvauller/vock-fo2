@@ -38,14 +38,6 @@
 | [Joseph](https://fallout.fandom.com/wiki/Joseph_(Fallout_2)) | Vault 13 | AnInsaneProfessional | [Bluesky](https://bsky.app/profile/insanepr0fessional.bsky.social) · [Youtube](https://www.youtube.com/@insaneprofessional2061) |
 | [Flick](https://fallout.fandom.com/wiki/Flick) | The Den | Lapo Riccardi | [YouTube](https://youtube.com/@f-guy-006) · [Casting Call Club](https://www.castingcall.club/m/f-guy) |
 
-## AI-Voiced Characters (To Be Replaced by Real Actors)
-
-| Character | Location |
-|-----------|----------|
-| [Morlis](https://fallout.fandom.com/wiki/Morlis) | Arroyo |
-| [Sally Dunton](https://fallout.fandom.com/wiki/Sally_Dunton) | Klamath |
-| [Bridgekeeper](https://fallout.fandom.com/wiki/Bridgekeeper) | Special Encounter |
-
 ## Quality Assurance
 
 | Name | Links |
