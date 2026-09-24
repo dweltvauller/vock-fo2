@@ -102,10 +102,10 @@ item []:
             text = "they" 
         intervals [23]:
             xmin = 4.47 
-            xmax = 4.78 
+            xmax = 4.77 
             text = "get" 
         intervals [24]:
-            xmin = 4.78 
+            xmin = 4.77 
             xmax = 4.92 
             text = "them" 
         intervals [25]:
@@ -118,10 +118,10 @@ item []:
             text = "and" 
         intervals [27]:
             xmin = 5.18 
-            xmax = 5.61 
+            xmax = 5.62 
             text = "frankly" 
         intervals [28]:
-            xmin = 5.61 
+            xmin = 5.62 
             xmax = 5.76 
             text = "" 
         intervals [29]:
@@ -130,10 +130,10 @@ item []:
             text = "i" 
         intervals [30]:
             xmin = 5.85 
-            xmax = 6.08 
+            xmax = 6.07 
             text = "don't" 
         intervals [31]:
-            xmin = 6.08 
+            xmin = 6.07 
             xmax = 6.26 
             text = "give" 
         intervals [32]:
@@ -408,10 +408,10 @@ item []:
             text = "EH1" 
         intervals [64]:
             xmin = 4.68 
-            xmax = 4.78 
+            xmax = 4.77 
             text = "T" 
         intervals [65]:
-            xmin = 4.78 
+            xmin = 4.77 
             xmax = 4.81 
             text = "DH" 
         intervals [66]:
@@ -464,10 +464,10 @@ item []:
             text = "L" 
         intervals [78]:
             xmin = 5.5 
-            xmax = 5.61 
+            xmax = 5.62 
             text = "IY0" 
         intervals [79]:
-            xmin = 5.61 
+            xmin = 5.62 
             xmax = 5.76 
             text = "" 
         intervals [80]:
@@ -484,14 +484,14 @@ item []:
             text = "OW1" 
         intervals [83]:
             xmin = 5.94 
-            xmax = 6.04 
+            xmax = 6.03 
             text = "N" 
         intervals [84]:
-            xmin = 6.04 
-            xmax = 6.08 
+            xmin = 6.03 
+            xmax = 6.07 
             text = "T" 
         intervals [85]:
-            xmin = 6.08 
+            xmin = 6.07 
             xmax = 6.13 
             text = "G" 
         intervals [86]:

@@ -70,10 +70,10 @@ item []:
             text = "" 
         intervals [15]:
             xmin = 2.51 
-            xmax = 2.74 
+            xmax = 2.73 
             text = "just" 
         intervals [16]:
-            xmin = 2.74 
+            xmin = 2.73 
             xmax = 3.03 
             text = "past" 
         intervals [17]:
@@ -288,10 +288,10 @@ item []:
             text = "S" 
         intervals [40]:
             xmin = 2.64 
-            xmax = 2.74 
+            xmax = 2.73 
             text = "T" 
         intervals [41]:
-            xmin = 2.74 
+            xmin = 2.73 
             xmax = 2.78 
             text = "P" 
         intervals [42]:
@@ -424,10 +424,10 @@ item []:
             text = "S" 
         intervals [74]:
             xmin = 5.27 
-            xmax = 5.33 
+            xmax = 5.32 
             text = "T" 
         intervals [75]:
-            xmin = 5.33 
+            xmin = 5.32 
             xmax = 5.37 
             text = "AH0" 
         intervals [76]:

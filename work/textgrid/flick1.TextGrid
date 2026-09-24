@@ -30,10 +30,10 @@ item []:
             text = "i'm" 
         intervals [5]:
             xmin = 0.6 
-            xmax = 1.14 
+            xmax = 1.13 
             text = "flick" 
         intervals [6]:
-            xmin = 1.14 
+            xmin = 1.13 
             xmax = 1.28 
             text = "" 
         intervals [7]:
@@ -120,10 +120,10 @@ item []:
             text = "IH1" 
         intervals [11]:
             xmin = 0.95 
-            xmax = 1.14 
+            xmax = 1.13 
             text = "K" 
         intervals [12]:
-            xmin = 1.14 
+            xmin = 1.13 
             xmax = 1.28 
             text = "" 
         intervals [13]:

@@ -78,10 +78,10 @@ item []:
             text = "i" 
         intervals [17]:
             xmin = 4.41 
-            xmax = 4.93 
+            xmax = 4.85 
             text = "know" 
         intervals [18]:
-            xmin = 4.93 
+            xmin = 4.85 
             xmax = 5.01551 
             text = "" 
     item [2]:
@@ -252,9 +252,9 @@ item []:
             text = "N" 
         intervals [41]:
             xmin = 4.54 
-            xmax = 4.93 
+            xmax = 4.85 
             text = "OW1" 
         intervals [42]:
-            xmin = 4.93 
+            xmin = 4.85 
             xmax = 5.01551 
             text = "" 

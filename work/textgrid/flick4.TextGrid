@@ -66,10 +66,10 @@ item []:
             text = "itan" 
         intervals [14]:
             xmin = 3.34 
-            xmax = 3.78 
+            xmax = 3.77 
             text = "guy" 
         intervals [15]:
-            xmin = 3.78 
+            xmin = 3.77 
             xmax = 4.063492 
             text = "" 
     item [2]:
@@ -260,9 +260,9 @@ item []:
             text = "G" 
         intervals [46]:
             xmin = 3.41 
-            xmax = 3.78 
+            xmax = 3.77 
             text = "AY1" 
         intervals [47]:
-            xmin = 3.78 
+            xmin = 3.77 
             xmax = 4.063492 
             text = "" 

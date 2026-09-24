@@ -1,7 +1,7 @@
 # Changelog
 
 ## WIP
-- Louise (Redding), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno), Flick (The Den), Rebecca Dyer (The Den)
+- Louise (Redding), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno), Rebecca Dyer (The Den)
 - Fixed Miss Kitty (New Reno) greeting showing "Error" for a returning prizefighter or porn star (THAT-RPU script bug)
 - Miss Kitty now plays 15 THAT recordings that the THAT-RPU script left silent (free services, companion sex, post-Enclave greeting, date, job offer)
 - Fixed frozen lip-sync on talking heads ardin, bgjes, bishp, kitty, merk, sch (full 9-frame phoneme art by Goat_Boy)
@@ -10,7 +10,7 @@
 - Fixed Gruthar's head freezing in a bad mood (placeholder bad-mood fidget until Goat_Boy's art)
 
 ## v1.14
-- Added voices: Peterson (Abbey), Joseph (Vault 13), Krom (Umbra Tribe), Zaius (Broken Hills)
+- Added voices: Peterson (Abbey), Joseph (Vault 13), Krom (Umbra Tribe), Zaius (Broken Hills), Flick (The Den)
 - Fixed a bug: Francis audio track crossover
 
 ## v1.13

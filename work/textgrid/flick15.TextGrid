@@ -102,10 +102,10 @@ item []:
             text = "of" 
         intervals [23]:
             xmin = 5.95 
-            xmax = 6.5 
+            xmax = 6.49 
             text = "momma's" 
         intervals [24]:
-            xmin = 6.5 
+            xmin = 6.49 
             xmax = 7.0 
             text = "" 
         intervals [25]:
@@ -348,10 +348,10 @@ item []:
             text = "T" 
         intervals [52]:
             xmin = 4.45 
-            xmax = 4.55 
+            xmax = 4.54 
             text = "S" 
         intervals [53]:
-            xmin = 4.55 
+            xmin = 4.54 
             xmax = 4.69 
             text = "AY1" 
         intervals [54]:
@@ -440,10 +440,10 @@ item []:
             text = "AH0" 
         intervals [75]:
             xmin = 6.34 
-            xmax = 6.5 
+            xmax = 6.49 
             text = "Z" 
         intervals [76]:
-            xmin = 6.5 
+            xmin = 6.49 
             xmax = 7.0 
             text = "" 
         intervals [77]:
@@ -460,10 +460,10 @@ item []:
             text = "IY0" 
         intervals [80]:
             xmin = 7.19 
-            xmax = 7.3 
+            xmax = 7.31 
             text = "HH" 
         intervals [81]:
-            xmin = 7.3 
+            xmin = 7.31 
             xmax = 7.62 
             text = "AW2" 
         intervals [82]:
