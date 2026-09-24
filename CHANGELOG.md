@@ -7,7 +7,7 @@
 - Fixed frozen lip-sync on talking heads ardin, bgjes, bishp, kitty, merk, sch (full 9-frame phoneme art by Goat_Boy)
 - Fixed heads.lst fidget counts for franc, tray, arth, bosss that pointed at missing or unused art
 - Fixed see-through spots on Sajag's talking head
-- Fixed Gruthar's head freezing in a bad mood (placeholder bad-mood fidget until Goat_Boy's art)
+- Fixed Gruthar's head freezing in a bad mood (new bad-mood fidget: a blink)
 
 ## v1.14
 - Added voices: Peterson (Abbey), Joseph (Vault 13), Krom (Umbra Tribe), Zaius (Broken Hills), Flick (The Den)
