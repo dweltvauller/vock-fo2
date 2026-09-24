@@ -1,7 +1,7 @@
 # Doc Jones — VA Script
 **Character:** Doc Jones, a doctor held prisoner in Darion's Vault 15
 
-**Total recordable lines:** 21 (`jones1`–`jones21`)
+**Total recordable lines:** 26 (`jones1`–`jones26`)
 
 ---
 
@@ -84,6 +84,22 @@
 
 `jones21:` It feels good to be helping civilized people again.
 
+## Cat's Paw (New Reno)
+
+*Comes back from a room at the Cat's Paw, the New Reno brothel, after a session with one of the girls. Floats over his head.*
+
+`jones22:` Wow.
+
+*A party member (or the player) comes back from a room at the Cat's Paw. One plays at random, floating over the head.*
+
+`jones23:` *whistles*
+
+`jones24:` *clap clap clap*
+
+`jones25:` Way to go!
+
+`jones26:` Wahoo.
+
 ---
 
-*End of script — 21 lines total. Tag numbers follow ascending message-ID order, not this document's topical grouping.*
+*End of script — 26 lines total. Tag numbers follow ascending message-ID order, not this document's topical grouping.*

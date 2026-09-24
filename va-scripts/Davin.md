@@ -1,7 +1,7 @@
 # Davin — VA Script
 **Character:** Davin, Grisham's son, Modoc slaughterhouse (mcdavin)
 
-**Total recordable lines:** 42 (`davin1`–`davin42`)
+**Total recordable lines:** 45 (`davin1`–`davin45`)
 
 ---
 
@@ -195,6 +195,18 @@
 *Poisoned. Queasy and uncomfortable.*
 
 `davin42:` Ugh, I feel so sick. I think I am poisoned.
+
+## Cat's Paw (New Reno)
+
+*Comes back from a room at the Cat's Paw, the New Reno brothel, after a session with one of the girls. Floats over his head.*
+
+`davin45:` Wow.
+
+*A party member (or the player) comes back from a room at the Cat's Paw. Heartbroken. One plays at random, floating over the head.*
+
+`davin43:` *sob sob sob*
+
+`davin44:` I feel so... so cheated...
 
 ---
 

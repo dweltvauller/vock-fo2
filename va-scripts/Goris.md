@@ -1,6 +1,6 @@
 # Goris — Vault 13
 
-55 recordable lines, tags goris1-goris55.
+56 recordable lines, tags goris1-goris56.
 
 > **Direction:** Goris is an articulate, scholarly deathclaw living among humans in Vault 13, hiding
 > his true nature under a hooded robe. He speaks like a careful academic — measured, curious,
@@ -189,6 +189,12 @@
 
 **goris55:** What can I do for you, brother?
 
+## Cat's Paw (New Reno)
+
+*A party member (or the player) comes back from a room at the Cat's Paw. Floats over the head.*
+
+**goris56:** *Grunt*
+
 ---
 
-55 lines total. Tag numbers follow ascending message-ID order, not this document's topical grouping.
+56 lines total. Tag numbers follow ascending message-ID order, not this document's topical grouping.

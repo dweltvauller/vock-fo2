@@ -1,7 +1,7 @@
 # Robodog — VA Script
 **Character:** Robodog, Dr. Henry's cybernetic dog, NCR
 
-**Total recordable lines:** 33 (`dogr1`–`dogr33`)
+**Total recordable lines:** 34 (`dogr1`–`dogr34`)
 
 ---
 
@@ -130,6 +130,12 @@
 
 `dogr33:` GRRR-ROWF!
 
+## Cat's Paw (New Reno)
+
+*A party member (or the player) comes back from a room at the Cat's Paw. Floats over the head.*
+
+`dogr34:` *Aaawoooo*
+
 ---
 
-*33 lines total. Tag numbers follow ascending message-ID order, not this document's topical grouping.*
+*34 lines total. Tag numbers follow ascending message-ID order, not this document's topical grouping.*

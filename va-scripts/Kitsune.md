@@ -1,7 +1,7 @@
 # Kitsune — VA Script
 **Character:** Kitsune, EPA specimen / companion (epac12)
 
-**Total recordable lines:** 202 (`kit1`–`kit202`)
+**Total recordable lines:** 207 (`kit1`–`kit207`)
 
 ---
 
@@ -509,6 +509,22 @@
 
 `kit202:` The ride comes before the fall.
 
+## Cat's Paw (New Reno)
+
+*Comes back from a room at the Cat's Paw, the New Reno brothel, after a session with one of the girls. Floats over her head.*
+
+`kit203:` Wow.
+
+*A party member (or the player) comes back from a room at the Cat's Paw. One plays at random, floating over the head.*
+
+`kit204:` *whistles*
+
+`kit205:` *clap clap clap*
+
+`kit206:` Way to go!
+
+`kit207:` Wahoo.
+
 ---
 
-*End of script -- 202 lines total. Tag numbers follow ascending message-ID order, not this document's topical grouping.*
+*End of script -- 207 lines total. Tag numbers follow ascending message-ID order, not this document's topical grouping.*

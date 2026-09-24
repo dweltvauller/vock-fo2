@@ -1,7 +1,7 @@
 # Vic — VA Script
 **Character:** Vic, the Den's Radio Repairman (recruitable companion)
 
-**Total recordable lines:** 204 (`vic1`–`vic204`)
+**Total recordable lines:** 210 (`vic1`–`vic210`)
 
 ---
 
@@ -556,6 +556,26 @@
 `vic196:` I feel like I am burning up, Boss. You better have a look.
 
 `vic197:` I feel like I have been poisoned, Boss. You better have a look.
+
+## Cat's Paw (New Reno)
+
+*Comes back from a room at the Cat's Paw, the New Reno brothel, after a session with one of the girls. Floats over his head.*
+
+`vic206:` Wow.
+
+*The player comes back from a room at the Cat's Paw.*
+
+`vic205:` Way to go, Boss! Ain't had sex myself in a loooooong time.
+
+*Another party member comes back from a room at the Cat's Paw. One plays at random, floating over the head.*
+
+`vic207:` *whistles*
+
+`vic208:` *clap clap clap*
+
+`vic209:` Way to go!
+
+`vic210:` Wahoo.
 
 ---
 

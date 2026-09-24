@@ -1,7 +1,7 @@
 # Lenny — VA Script
 **Character:** Lenny, Harold's assistant and town doctor in Gecko (later a party member)
 
-**Total recordable lines:** 78 (`lenny1`–`lenny78`)
+**Total recordable lines:** 83 (`lenny1`–`lenny83`)
 
 ---
 
@@ -278,6 +278,22 @@ doing. You're a d'disgrace to the Vault Dweller's m'memory. B'dee-ya, b'dee-ya, 
 
 `lenny64:` Oh. Heh. Musta b'been a little before your t'time. Sorry. Anything else I can d'do for you?
 
+## Cat's Paw (New Reno)
+
+*Comes back from a room at the Cat's Paw, the New Reno brothel, after a session with one of the girls. Floats over his head.*
+
+`lenny79:` Wow.
+
+*A party member (or the player) comes back from a room at the Cat's Paw. One plays at random, floating over the head.*
+
+`lenny80:` *whistles*
+
+`lenny81:` *clap clap clap*
+
+`lenny82:` Way to go!
+
+`lenny83:` Wahoo.
+
 ---
 
-*78 lines total. Tag numbers follow ascending message-ID order, not this document's topical grouping.*
+*83 lines total. Tag numbers follow ascending message-ID order, not this document's topical grouping.*
