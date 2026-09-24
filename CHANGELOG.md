@@ -6,7 +6,7 @@
 - Miss Kitty now plays 15 THAT recordings that the THAT-RPU script left silent (free services, companion sex, post-Enclave greeting, date, job offer)
 - Fixed frozen lip-sync on talking heads ardin, bgjes, bishp, kitty, merk, sch (full 9-frame phoneme art by Goat_Boy)
 - Fixed heads.lst fidget counts for franc, tray, arth, bosss that pointed at missing or unused art
-- Fixed see-through spots on Sajag's talking head (cheeks, forehead, nose, lip)
+- Fixed see-through spots on Sajag's talking head
 - Fixed Gruthar's head freezing in a bad mood (placeholder bad-mood fidget until Goat_Boy's art)
 
 ## v1.14

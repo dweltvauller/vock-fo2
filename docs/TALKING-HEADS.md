@@ -49,13 +49,12 @@ TH's `heads.lst` also lists 62 heads with no art in TH. Those heads use base-gam
 
 ## What we fixed
 
-- Goat_Boy redrew the short phoneme files with 9 frames each: `ardinbp`, `ardingp`, `ardinnp`, `bgjesnp`, `bishpbp`, `kittybp`, `kittygp`, `kittynp`, `merkbp` and `schbp`. `bishpbp` grew from 216x185 to 337x192, the size of Bishop's other bad-mood files. Goat_Boy's three Kitty files share one image, and TH had already shared `kittybp` with `kittygp`.
+- Goat_Boy redrew the short phoneme files with 9 frames each: `ardinbp`, `ardingp`, `ardinnp`, `bgjesnp`, `bishpbp`, `kittybp`, `kittygp`, `kittynp`, `merkbp` and `schbp`.
 - `heads.lst` changes four counts: `franc,1,2,2`, `tray,1,1,1`, `arth,2,2,2`, `bosss,1,2,2`. `bosss` has only `bosssgf1` in `master.dat`, but vanilla and RPU both declare 2 good fidgets.
 - `gruthbf1.frm` is a placeholder: frame 0 of `gruthbp` as a 1-frame FRM, so gruth stays `1,1,1`. In a bad mood fidget Gruthar's head holds still.
-- The 13 `sajag*.frm` files are the TH files with each enclosed index-0 pixel filled. The fill is the palette color closest to the average of the pixel's neighbors. Nothing else in those files changed.
-- Every file name in `data/art/heads/` is lowercase, and a duplicate `bgjesnp.FRM` that git tracked next to `bgjesnp.frm` is gone.
+- The 13 `sajag*.frm` files fix the see-through spots on Sajag's talking head.
 
-Script-side Talking Heads fixes live in `CHANGELOG.md`: Don and Kurisu heads not showing, Kaga's head menu, Francis audio crossover, and Miss Kitty's "Error" greeting for prizefighters.
+Script-side Talking Heads fixes live in `CHANGELOG.md`: Don and Kurisu heads not showing, Kaga's head menu, and Miss Kitty's "Error" greeting for prizefighters.
 
 ## Still open
 
@@ -63,8 +62,7 @@ Script-side Talking Heads fixes live in `CHANGELOG.md`: Don and Kurisu heads not
 - Ask Goat_Boy if he wants to replace the placeholder for Gruthar `gruthbf1.frm`.
 - Lou drifts sideways while talking. `lounp`, `lougp` and `loubp` have x offsets of -1 and +1 on several frames. The same kind of offsets are in the lip-sync files of `bird`, `suze`, `merk` (TH `merkgp`), `plant`, `marge`, `fest`, `phl`, `fannc` and `vcval`. Zeroing the offsets stops the drift, with at most a 1-pixel wobble.
 - Francis changes lighting. His only good fidget `francgf1` is as dark as his bad-mood art (average brightness 40 against 58 for the rest of his good-mood files). `francnb` ends brighter than the bad-mood art it leads into, and `francbn` ends darker than the neutral art, so the light jumps when his mood changes.
-- Other heads have see-through specks like Sajag had. The worst are `bgjes` (fingers in the `bgjesnf2` fidget), `ahs9h` (face, most files), `tndi2` (vanilla, mostly hair), `jenny`, `vcval` and `henry`. Some specks are real gaps in hair or fur, so check each head before filling.
-- Sajag's good, neutral and bad files are byte-identical copies, so his mood never shows. That needs new art.
+- Other heads have see-through specks like Sajag had. The worst are `bgjes` (fingers in the `bgjesnf2` fidget), `ahs9h` (face, most files), `jenny`, `vcval` and `henry`. Some specks are real gaps in hair or fur, so check each head before filling.
 
 ## License
 
