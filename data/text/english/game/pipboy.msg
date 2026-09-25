@@ -63,26 +63,26 @@
 # Holodisk titles
 #
 {400}{}{Vault 13 Holodisk}
-{401}{}{Military Base Outside}
-{402}{}{Military Base Level 1}
-{403}{}{Military Base Level 2}
-{404}{}{Military Base Level 3}
-{405}{}{Military Base Level 4}
-{406}{}{Sierra Depot Exp. Log}
-{407}{}{Sierra Depot Medical Log}
-{408}{}{Sierra Depot Evac. Notice}
-{409}{}{Sierra Depot GNN Transcript}
-{410}{}{Sierra Mission Statement}
-{411}{}{Hubologist Teachings}
-{412}{}{Vault City Designer Notes}
-{413}{}{Vault City Travel Log}
-{414}{}{NCR Spy Holodisk}
-{415}{}{NCR History Holodisk}
-{416}{}{Westin Holodisk}
-{417}{}{State of the Nation}
-{418}{}{Word List}
-{419}{}{The Project}
-{420}{}{Power Plant Operations}
+{401}{mbout}{Military Base Outside}
+{402}{mblvl1}{Military Base Level 1}
+{403}{mblvl2}{Military Base Level 2}
+{404}{mblvl3}{Military Base Level 3}
+{405}{mblvl4}{Military Base Level 4}
+{406}{sierexp}{Sierra Depot Exp. Log}
+{407}{siermed}{Sierra Depot Medical Log}
+{408}{sierevc}{Sierra Depot Evac. Notice}
+{409}{siergnn}{Sierra Depot GNN Transcript}
+{410}{siermis}{Sierra Mission Statement}
+{411}{hubtch}{Hubologist Teachings}
+{412}{vcdsgn}{Vault City Designer Notes}
+{413}{vctrav}{Vault City Travel Log}
+{414}{ncrspy}{NCR Spy Holodisk}
+{415}{ncrhist}{NCR History Holodisk}
+{416}{westinhd}{Westin Holodisk}
+{417}{rchsotn}{State of the Nation}
+{418}{birdwrds}{Word List}
+{419}{curlproj}{The Project}
+{420}{murraypp}{Power Plant Operations}
 
 #
 # Movie archive titles
@@ -199,7 +199,7 @@
 {1004}{}{**END-DISK**}
 # *** ***
 # GVAR_HOLODISK_MB_OUTSIDE
-{2000}{mbout}{To: CHQ}
+{2000}{}{To: CHQ}
 {2001}{}{Our team of scientists has finished testing the sample}
 {2002}{}{obtained from the base. It has been confirmed as 99%}
 {2003}{}{pure. You can expect the sample to arrive shortly. As}
@@ -214,7 +214,7 @@
 
 # *** ***
 # GVAR_HOLODISK_MB_LEVEL_1
-{3000}{mblvl1}{This is Captain Pickard reporting at checkpoint 1.}
+{3000}{}{This is Captain Pickard reporting at checkpoint 1.}
 {3001}{}{Contact with checkpoints 2 & 3 has been cut off. We}
 {3002}{}{can only assume the worst. The monsters are swarming}
 {3003}{}{up the mineshafts. All efforts to delay them have}
@@ -224,7 +224,7 @@
 
 # *** ***
 # GVAR_HOLODISK_MB_LEVEL_2
-{4000}{mblvl2}{Checkpoint 3 is under attack. We have shut down the}
+{4000}{}{Checkpoint 3 is under attack. We have shut down the}
 {4001}{}{mine elevators as a precaution, but I can hear them}
 {4002}{}{coming up the mineshaft. Holy shit! Huge, ugly,}
 {4003}{}{green, creatures are climbing out of the lower levels!}
@@ -236,7 +236,7 @@
 
 # *** ***
 # GVAR_HOLODISK_MB_LEVEL_3
-{5000}{mblvl3}{Sergeant Bracks reporting at checkpoint 3. Everything}
+{5000}{}{Sergeant Bracks reporting at checkpoint 3. Everything}
 {5001}{}{is normal, just like yesterday and the day before that.}
 {5002}{}{I don't know why the brass has us guarding these}
 {5003}{}{wretched miners. They are so scrawny and weak, they}
@@ -253,7 +253,7 @@
 
 # *** ***
 # GVAR_HOLODISK_MB_LEVEL_4
-{6000}{mblvl4}{The excavation is going according to schedule. Judging}
+{6000}{}{The excavation is going according to schedule. Judging}
 {6001}{}{by the old base blueprints, we should be reaching the}
 {6002}{}{vat area shortly. Increased levels of the FEV virus}
 {6003}{}{are present in both the air and soil samples we've}
@@ -285,7 +285,7 @@
 {6028}{}{from obtaining the virus once we are gone.}
 {6029}{}{**END-DISK**}
 #
-{7000}{sierexp}{Sierra Army Depot - R & D}
+{7000}{}{Sierra Army Depot - R & D}
 {7001}{}{Attending Physician - Dr. H. Lector}
 {7002}{}{Personal Log}
 {7003}{}{**END-PAR**}
@@ -347,7 +347,7 @@
 {7059}{}{research as possible.}
 {7060}{}{**END-DISK**}
 #
-{8000}{siermed}{July 5, 2077}
+{8000}{}{July 5, 2077}
 {8001}{}{Sierra Army Depot - Infirmary}
 {8002}{}{Attending Physician - Dr. Solomon}
 {8003}{}{Subject - Corporal Dixon}
@@ -377,7 +377,7 @@
 {8027}{}{under such circumstances.}
 {8028}{}{**END-DISK**}
 #
-{9000}{sierevc}{July 9, 2077}
+{9000}{}{July 9, 2077}
 {9001}{}{Priority Release}
 {9002}{}{General Posting}
 {9003}{}{}
@@ -394,7 +394,7 @@
 {9014}{}{**END-DISK**}
 
 # Sierra Base Mission Statement
-{10000}{siermis}{Sierra Army Depot}
+{10000}{}{Sierra Army Depot}
 {10001}{}{Mission Statement 1942 - 1991}
 {10002}{}{Store and maintain a defensive supply of military ordnance.}
 {10003}{}{In the event of an invasion Sierra Army Depot is to lend }
@@ -428,7 +428,7 @@
 {10031}{}{**END-DISK**}
 
 # Sierra Base GNN Transscript
-{11000}{siergnn}{Galaxy News Network}
+{11000}{}{Galaxy News Network}
 {11001}{}{Transcript of Broadcast January 11, 2073}
 {11002}{}{Today's top story on GNN. In a financial coup,}
 {11003}{}{the US managed to be the first to tap the world's}
@@ -552,7 +552,7 @@
 
 
 # Elron Bible
-{12000}{hubtch}{Welcome!}
+{12000}{}{Welcome!}
 {12001}{}{Welcome to the Hubology Holodisk! Within these electronic}
 {12002}{}{pages, you'll find a quick description of our beliefs, }
 {12003}{}{including the formerly-repressed teachings of the Hub. }
@@ -772,7 +772,7 @@
 {12217}{}{Books to be Written When I'm Dead.)}
 {12218}{}{**END-DISK**}
 
-{13000}{vcdsgn}{VAULT CITY DESIGNER NOTES}
+{13000}{}{VAULT CITY DESIGNER NOTES}
 {13001}{}{**END-PAR**}
 {13002}{}{Vault City went through many incarnations. It was}
 {13003}{}{designed by Leonard Boyarsky, Jason Anderson, Feargus}
@@ -828,7 +828,7 @@
 {13053}{}{for playing Fallout 2.}
 {13054}{}{**END-DISK**}
 
-{14000}{vctrav}{VAULT CITY NORTHERN CALIFORNIA TRAVEL LOG}
+{14000}{}{VAULT CITY NORTHERN CALIFORNIA TRAVEL LOG}
 {14001}{}{**END-PAR**}
 {14002}{}{WARNING: If Vault Citizens find it necessary to travel}
 {14003}{}{outside of Vault City, they should keep the following}
@@ -934,7 +934,7 @@
 {14103}{}{following strings: [-$Birthrate %-]}
 {14104}{}{**END-DISK**}
 
-{15000}{ncrspy}{NEW CALIFORNIA REPUBLIC INFORMATION DISK 5}
+{15000}{}{NEW CALIFORNIA REPUBLIC INFORMATION DISK 5}
 {15001}{}{**END-PAR**}
 {15002}{}{This disk seems to be filled with reports about NCR - }
 {15003}{}{monthly production totals, caravan schedules,         }
@@ -947,7 +947,7 @@
 {15010}{}{"F-".}
 {15011}{}{**END-DISK**}
 
-{16000}{ncrhist}{NEW CALIFORNIA REPUBLIC INFORMATION DISK 1}
+{16000}{}{NEW CALIFORNIA REPUBLIC INFORMATION DISK 1}
 {16001}{}{**END-PAR**}
 {16002}{}{We're Here! Why not join us?}
 {16003}{}{**END-PAR**}
@@ -1020,7 +1020,7 @@
 {16070}{}{This page was intentionally left blank.}
 {16071}{}{**END-DISK**}
 
-{17000}{westinhd}{First Citizen Lynette;}
+{17000}{}{First Citizen Lynette;}
 {17001}{}{**END-PAR**}
 {17002}{}{The courier has delivered the disk you sent. You were }
 {17003}{}{correct, of course. The information should prove most }
@@ -1040,7 +1040,7 @@
 {17017}{}{**END-DISK**}
 
 # State of the Nation
-{18000}{rchsotn}{Memo: State of the Nation}
+{18000}{}{Memo: State of the Nation}
 {18001}{}{From: President Dick Richardson}
 {18002}{}{To: The People of this Great Nation}
 {18003}{}{Subject: The State of the Union Address}
@@ -1077,7 +1077,7 @@
 {18034}{}{**END-DISK**}
 
 # Word List
-{19000}{birdwrds}{Memo: Word List}
+{19000}{}{Memo: Word List}
 {19001}{}{From: Vice-President Daniel Bird}
 {19002}{}{To: Me}
 {19003}{}{Subject: My Word List}
@@ -1106,7 +1106,7 @@
 {19026}{}{**END-DISK**}
 
 # The Project
-{20000}{curlproj}{Memo: The Projects, Quarterly Status Brief}
+{20000}{}{Memo: The Projects, Quarterly Status Brief}
 {20001}{}{From: Lt. Col., Dr Charles Curling, U.S. Chemical Corps.}
 {20002}{}{To: Cabinet}
 {20003}{}{Subject: Project near reaching full operational status.}
@@ -1160,7 +1160,7 @@
 {20051}{}{**END-DISK**}
 
 # Power Plant Operations
-{21000}{murraypp}{Memo: A.E.C., Status Brief}
+{21000}{}{Memo: A.E.C., Status Brief}
 {21001}{}{From: Tom Murray, Chairman, Atomic Energy Commission}
 {21002}{}{To: Cabinet}
 {21003}{}{Subject: Danger of overdependence upon central computer }
