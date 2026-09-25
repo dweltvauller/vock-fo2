@@ -1,19 +1,19 @@
 # Changelog
 
 ## WIP
-- Louise (Redding), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno), Rebecca Dyer (The Den)
-- Fixed Miss Kitty (New Reno) greeting showing "Error" for a returning prizefighter or porn star (THAT-RPU script bug)
-- Miss Kitty now plays 15 THAT recordings that the THAT-RPU script left silent (free services, companion sex, post-Enclave greeting, date, job offer)
+- Louise (Redding), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno)
+
+## v1.14
+- Added voices: Peterson (Abbey), Joseph (Vault 13), Krom (Umbra Tribe), Zaius (Broken Hills), Flick (The Den), Rebecca Dyer (The Den)
+- Fixed Francis audio track crossover bug
+- Removed AI voices: Morlis (Arroyo), Sally Dunton (Klamath), Bridgekeeper (Special Encounter), per community poll
+- Fixed Miss Kitty (New Reno) greeting showing "Error" for a returning prizefighter or porn star (THAT script bug)
+- Miss Kitty now plays 15 THAT recordings that the THAT script left silent (free services, companion sex, post-Enclave greeting, date, job offer)
 - Fixed frozen lip-sync on talking heads ardin, bgjes, bishp, kitty, merk, sch (full 9-frame phoneme art by Goat_Boy)
 - Fixed heads.lst fidget counts for franc, tray, arth, bosss that pointed at missing or unused art
 - Fixed see-through spots on Sajag's talking head
 - Fixed Gruthar's head freezing in a bad mood (new bad-mood fidget: a blink)
 - Fixed Sheriff Dumont (NCR) never praising the player for talking Officer Jack into surrendering (RPU script bug)
-
-## v1.14
-- Added voices: Peterson (Abbey), Joseph (Vault 13), Krom (Umbra Tribe), Zaius (Broken Hills), Flick (The Den)
-- Fixed a bug: Francis audio track crossover
-- Removed AI voices: Morlis (Arroyo), Sally Dunton (Klamath), Bridgekeeper (Special Encounter), per community poll
 
 ## v1.13
 - Added voices: Ann (Vault City), Tubby (The Den), Chuck & Buck Dunton (Klamath), Vortis (NCR)
