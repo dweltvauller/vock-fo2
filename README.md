@@ -18,6 +18,7 @@ The source is a sparse, RPU-shaped `data/` tree — only the files this mod adds
 | `data/text/english/game/pipboy.msg` | holodisk-narration audio tags |
 | `data/text/<lang>/dialog/*.msg` | the same tags injected into RPU's translations |
 | `data/sound/speech/<npc>/*.acm,.lip,.txt` | generated speech |
+| `data/sound/pipboy/*.acm` | generated holodisk narration |
 | `data/scripts/*.int` | compiled talking-head scripts (source in `scripts_src/`) |
 | `data/art/heads/*.frm` | talking-head art |
 | `data/art/heads/heads.lst` | Talking Heads' head list with fidget counts corrected to match the art |
