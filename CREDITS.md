@@ -37,6 +37,14 @@
 | [Peterson](https://f2rp.bgforge.net/abbey/) | Abbey | Darrell Haley | [Casting Call Club](https://www.castingcall.club/darrellhaleyvo) |
 | [Joseph](https://fallout.fandom.com/wiki/Joseph_(Fallout_2)) | Vault 13 | AnInsaneProfessional | [Bluesky](https://bsky.app/profile/insanepr0fessional.bsky.social) · [Youtube](https://www.youtube.com/@insaneprofessional2061) |
 | [Flick](https://fallout.fandom.com/wiki/Flick) | The Den | Lapo Riccardi | [YouTube](https://youtube.com/@f-guy-006) · [Casting Call Club](https://www.castingcall.club/m/f-guy) |
+| [Ardin Buckner](https://fallout.fandom.com/wiki/Ardin_Buckner) | Klamath | Juliet Blank | [AllMyLinks](https://allmylinks.com/julietblank) |
+| [Don](https://fallout.fandom.com/wiki/Don) | Slaver Camp | David Pastore-Theriaque | [Linktree](https://linktr.ee/dclpt0) |
+| [Happy Harry](https://fallout.fandom.com/wiki/Happy_Harry) | Vault City | Enrico Leone | [AllMyLinks](https://allmylinks.com/enrico-leone-va) · [Casting Call Club](https://www.castingcall.club/incinerico) |
+| [Mayor Ascorti](https://fallout.fandom.com/wiki/Ascorti) | Redding | Jeremy Lindsay | [Portfolio](https://jeremylindsayent.squarespace.com) |
+| [Private Dobbs](https://fallout.fandom.com/wiki/Dobbs) | Sierra Army Depot | Darrell Haley | [Casting Call Club](https://www.castingcall.club/darrellhaleyvo) |
+| [Sheriff Dumont](https://fallout.fandom.com/wiki/Dumont) | NCR | Richard Manzano - Sp3lunky | [YouTube](https://www.youtube.com/@Sp3lunky) · [Portfolio](https://richardmanzano.com/) |
+| [Merk](https://fallout.fandom.com/wiki/Merk) | NCR | Sn8kezz | [Casting Call Club](https://www.castingcall.club/m/sn8kezz) |
+| [Sergeant Granite](https://fallout.fandom.com/wiki/Granite) | Enclave Oil Rig | Joshua Luther | [Mandy](https://www.mandy.com/vo/joshua-luther-2) · [Casting Call Club](https://www.castingcall.club/joshluther) |
 
 ## Quality Assurance
 
