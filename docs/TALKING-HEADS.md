@@ -57,6 +57,7 @@ TH's `heads.lst` also lists 62 heads with no art in TH. Those heads use base-gam
 - `francbf1`, `francbf2`, `francbn` and `francgf1` are relit to match the rest of Francis's art. Talking Heads rendered his bad-mood art and his good fidget darker (average brightness 38-43 against 56-61), so the light jumped when his mood changed. Each mood change now meets an identical frame. A future `francbp` needs the same relight.
 - The 13 `ahs9h*.frm` files fill 15,627 see-through pixels, mostly on the shirt and collar, some on the face and neck. A 1-pixel notch in the hair outline stays as it is.
 - The 13 `jenny*.frm` files fill 3,631 see-through pixels on her top. Small gaps in her hair outline stay as they are.
+- `jennybp`, `jennygp` and `jennynp` (lip-sync) are relit to match her other files. Talking Heads rendered them darker (average brightness 114 against 123). Their first frame is now identical to her fidgets' first frame.
 - `vcvalbf2.frm` fills a see-through spot on Valerie's collar (38 pixels over 13 frames). A dot on her gas mask stays transparent. `vcvalnfp.frm` (like `dogmtbfp` and `lbshpbfp`) is never loaded by the game, so it is left alone.
 
 Script-side Talking Heads fixes live in `CHANGELOG.md`: Don and Kurisu heads not showing, Kaga's head menu, and Miss Kitty's "Error" greeting for prizefighters.

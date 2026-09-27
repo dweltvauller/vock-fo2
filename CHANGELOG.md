@@ -5,6 +5,7 @@
 - Francis's talking head now has the same lighting in every mood (Broken Hills)
 - Fixed see-through spots on AHS-9's talking head (San Francisco)
 - Fixed see-through spots on Jenny's talking head
+- Jenny's talking head no longer gets darker when she speaks
 - Fixed a see-through spot on Valerie's collar in her talking head (Vault City)
 
 ## v1.14
