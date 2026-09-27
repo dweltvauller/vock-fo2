@@ -51,7 +51,7 @@ TH's `heads.lst` also lists 62 heads with no art in TH. Those heads use base-gam
 
 - Goat_Boy redrew the short phoneme files with 9 frames each: `ardinbp`, `ardingp`, `ardinnp`, `bgjesnp`, `bishpbp`, `kittybp`, `kittygp`, `kittynp`, `merkbp` and `schbp`.
 - `heads.lst` changes four counts: `franc,1,2,2`, `tray,1,1,1`, `arth,2,2,2`, `bosss,1,2,2`. `bosss` has only `bosssgf1` in `master.dat`, but vanilla and RPU both declare 2 good fidgets.
-- `gruthbf1.frm` is a VOCK blink made from frame 0 of `gruthbp`, since Talking Heads has no bad-mood fidget for Gruthar. It has 6 frames (open, half, closed, closed, half, open), all 333x200 with x offset 0, so gruth stays `1,1,1`.
+- `gruthbf1.frm` is a VOCK blink made from frame 0 of `gruthbp`, since Talking Heads has no bad-mood fidget for Gruthar. It has 4 frames (open, closed, half, open), all 333x200 with x offset 0, so gruth stays `1,1,1`.
 - The 13 `sajag*.frm` files fix the see-through spots on Sajag's talking head.
 - `bgjesnf2.frm` fixes the see-through pixels on Mordino's fingers and hand.
 
