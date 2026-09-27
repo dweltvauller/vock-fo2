@@ -2,6 +2,7 @@
 
 ## WIP
 - Louise (Redding), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno)
+- Fixed see-through spots on Big Jesus Mordino's hand in his neutral fidget
 
 ## v1.14
 - Added voices: Peterson (Abbey), Joseph (Vault 13), Krom (Umbra Tribe), Zaius (Broken Hills), Flick (The Den), Rebecca Dyer (The Den)

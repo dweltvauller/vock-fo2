@@ -53,6 +53,7 @@ TH's `heads.lst` also lists 62 heads with no art in TH. Those heads use base-gam
 - `heads.lst` changes four counts: `franc,1,2,2`, `tray,1,1,1`, `arth,2,2,2`, `bosss,1,2,2`. `bosss` has only `bosssgf1` in `master.dat`, but vanilla and RPU both declare 2 good fidgets.
 - `gruthbf1.frm` is a VOCK blink made from frame 0 of `gruthbp`, since Talking Heads has no bad-mood fidget for Gruthar. It has 6 frames (open, half, closed, closed, half, open), all 333x200 with x offset 0, so gruth stays `1,1,1`.
 - The 13 `sajag*.frm` files fix the see-through spots on Sajag's talking head.
+- `bgjesnf2.frm` fills 955 see-through pixels on Mordino's fingers and hand (frames 3 to 11). Real gaps between his fingers, and between his finger and jacket, stay transparent in frames 3 and 11.
 
 Script-side Talking Heads fixes live in `CHANGELOG.md`: Don and Kurisu heads not showing, Kaga's head menu, and Miss Kitty's "Error" greeting for prizefighters.
 
@@ -61,7 +62,7 @@ Script-side Talking Heads fixes live in `CHANGELOG.md`: Don and Kurisu heads not
 - `francbp.frm` and `catgp.frm` don't exist. Ask Goat_Boy for them.
 - Lou drifts sideways while talking. `lounp`, `lougp` and `loubp` have x offsets of -1 and +1 on several frames. The same kind of offsets are in the lip-sync files of `bird`, `suze`, `merk` (TH `merkgp`), `plant`, `marge`, `fest`, `phl`, `fannc` and `vcval`. Zeroing the offsets stops the drift, with at most a 1-pixel wobble.
 - Francis changes lighting. His only good fidget `francgf1` is as dark as his bad-mood art (average brightness 40 against 58 for the rest of his good-mood files). `francnb` ends brighter than the bad-mood art it leads into, and `francbn` ends darker than the neutral art, so the light jumps when his mood changes.
-- Other heads have see-through specks like Sajag had. The worst are `bgjes` (fingers in the `bgjesnf2` fidget), `ahs9h` (face, most files), `jenny`, `vcval` and `henry`. Some specks are real gaps in hair or fur, so check each head before filling.
+- Other heads have see-through specks like Sajag had. The worst are `ahs9h` (face, most files), `jenny`, `vcval` and `henry`. Some specks are real gaps in hair or fur, so check each head before filling.
 
 ## License
 
