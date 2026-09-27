@@ -37,6 +37,7 @@
 | [Peterson](https://f2rp.bgforge.net/abbey/) | Abbey | Darrell Haley | [Casting Call Club](https://www.castingcall.club/darrellhaleyvo) |
 | [Joseph](https://fallout.fandom.com/wiki/Joseph_(Fallout_2)) | Vault 13 | AnInsaneProfessional | [Bluesky](https://bsky.app/profile/insanepr0fessional.bsky.social) · [Youtube](https://www.youtube.com/@insaneprofessional2061) |
 | [Flick](https://fallout.fandom.com/wiki/Flick) | The Den | Lapo Riccardi | [YouTube](https://youtube.com/@f-guy-006) · [Casting Call Club](https://www.castingcall.club/m/f-guy) |
+| [Rebecca Dyer](https://fallout.fandom.com/wiki/Rebecca_Dyer) | The Den | Piper Ruhmkorff | [Casting Call Club](https://www.castingcall.club/m/piperhoney) |
 | [Ardin Buckner](https://fallout.fandom.com/wiki/Ardin_Buckner) | Klamath | Juliet Blank | [AllMyLinks](https://allmylinks.com/julietblank) |
 | [Don](https://fallout.fandom.com/wiki/Don) | Slaver Camp | David Pastore-Theriaque | [Linktree](https://linktr.ee/dclpt0) |
 | [Happy Harry](https://fallout.fandom.com/wiki/Happy_Harry) | Vault City | Enrico Leone | [AllMyLinks](https://allmylinks.com/enrico-leone-va) · [Casting Call Club](https://www.castingcall.club/incinerico) |
