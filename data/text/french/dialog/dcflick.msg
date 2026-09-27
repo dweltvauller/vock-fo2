@@ -64,9 +64,9 @@
 {430}{flick19}{Ne te fais pas plus malin que tu n'es, trou du cul. Les enfants me ramènent des objets qu'ils *trouvent*. Je ne sais pas où ils les trouvent et franchement, j'en ai rien à foutre.}
 {431}{}{Très bien.}
 {432}{}{Ca suffit. J'en ai ma claque des enfoirés comme toi qui se servent des autres pour leur propre compte. C'est l'heure de crever !}
-{440}{flick20}{Pai-sa-no, tu sais, les enfants. Mes enfants.}
+{440}{flick6}{Pai-sa-no, tu sais, les enfants. Mes enfants.}
 {441}{}{Et tu as un arrangement avec eux ?}
-{450}{flick21}{Ils me ramènent les trucs qu'ils trouvent. De petites, petites choses. Des trucs que plus personne n'utilise aujourd'hui. En échange, je prends bien soin d'eux.}
+{450}{flick8}{Ils me ramènent les trucs qu'ils trouvent. De petites, petites choses. Des trucs que plus personne n'utilise aujourd'hui. En échange, je prends bien soin d'eux.}
 {451}{}{On dirait un bon arrangement.}
 {460}{flick22}{Ouais... le business était bon jusqu'à ce que tu t'amènes. Tu vois, tes petites galipettes vont me coûter cher. Mon établissement va souffrir à cause de toi. Et du coup, je ne t'aime plus beaucoup. A vrai dire je crois que je te hais. Mais je suis un business man, donc si t'es là pour affaire, grouille-toi, sinon dégage.}
 {461}{}{D'accord, voyons voir ce que tu as en stock.}

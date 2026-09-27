@@ -68,9 +68,9 @@
 {430}{flick19}{Don't you get smart with me asshole. The kids bring me items they *find.* I don't know where they get them and frankly, I don't give a fuck.}
 {431}{}{Folytatom.}
 {432}{}{You're full of it. I'm sick of skum like you who use people for their own benefit. Time to die!}
-{440}{flick20}{Pai-san-o, tudod, kölkök. Én kölkeim.}
+{440}{flick6}{Pai-san-o, tudod, kölkök. Én kölkeim.}
 {441}{}{And you have an arrangement with them?}
-{450}{flick21}{Ide hozzák cuccokat, amit talá'nak. Ici-pici dógokat. Ami má' senkinek se nem kõ. Cserébe gongyukat viselem nekijjük.}
+{450}{flick8}{Ide hozzák cuccokat, amit talá'nak. Ici-pici dógokat. Ami má' senkinek se nem kõ. Cserébe gongyukat viselem nekijjük.}
 {451}{}{Remek egyezségnek látszik.}
 {460}{}{Yeah... business was good 'til you came along. See, yer little stunt's gonna cost me. My business is gonna suffer thanks to you.
  Because of this, I don't really like you too much. In fact, I fuckin' hate you. But, I'm a business man, so if you need to barter,

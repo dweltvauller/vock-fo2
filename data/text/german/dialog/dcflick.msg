@@ -72,9 +72,9 @@ guter Samurai-ter. Hab mich um die Kinder und das alles gekümmert. Das ging gut,
 {430}{flick19}{Hör auf zu klugscheißen, du Arschloch. Die Kinder bringen mir Sachen die Sie finden. Ich weiß nicht wo Sie die finden, aber offen gesagt ist es mir scheißegal.}
 {431}{}{Okay.}
 {432}{}{Du bist voll davon. Ich werd krank von solchem Abschaum wie dir, die Menschen für ihren eigenen Vorteil missbrauchen. Zeit zu sterben!}
-{440}{flick20}{Pai-san-o, du weißt schon, die Kinder. Meine Kinder.}
+{440}{flick6}{Pai-san-o, du weißt schon, die Kinder. Meine Kinder.}
 {441}{}{Und du hast eine Abmachung mit ihnen?}
-{450}{flick21}{Sie bringen mir Zeug, das sie finden. Klitzekleine Sachen. Zeug, das keiner mehr braucht. Dafür kümmere ich mich um sie.}
+{450}{flick8}{Sie bringen mir Zeug, das sie finden. Klitzekleine Sachen. Zeug, das keiner mehr braucht. Dafür kümmere ich mich um sie.}
 {451}{}{Hört sich ja nach einer guten Abmachung an.}
 {460}{}{Ja...das Geschäft lief bis du gekommen bist. Sieh, deine Heldentat kostet mich Geld. Meine Geschäfte leiden wegen dir. Deshalb, mag ich dich nicht besonders.
  In der Tat, hasse ich dich mordsmäßig. Aber, ich bin Geschäftsmann, also wenn du Handeln willst, tu es, wenn nicht, verpiss dich.}

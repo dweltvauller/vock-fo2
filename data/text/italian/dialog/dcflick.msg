@@ -68,9 +68,9 @@
 {430}{flick19}{Don't you get smart with me asshole. The kids bring me items they *find.* I don't know where they get them and frankly, I don't give a fuck.}
 {431}{}{Right.}
 {432}{}{You're full of it. I'm sick of skum like you who use people for their own benefit. Time to die!}
-{440}{flick20}{Fi-o-i, ti sa, i bambini. I miei bambini.}
+{440}{flick6}{Fi-o-i, ti sa, i bambini. I miei bambini.}
 {441}{}{And you have an arrangement with them?}
-{450}{flick21}{They bring me stuff that they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
+{450}{flick8}{They bring me stuff that they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
 {451}{}{Sembra che vi siate sistemati bene.}
 {460}{}{Yeah... business was good 'til you came along. See, yer little stunt's gonna cost me. My business is gonna suffer thanks to you.
  Because of this, I don't really like you too much. In fact, I fuckin' hate you. But, I'm a business man, so if you need to barter,

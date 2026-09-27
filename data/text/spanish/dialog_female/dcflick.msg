@@ -64,9 +64,9 @@
 {430}{flick19}{No te hagas la lista conmigo gilipollas. Los niños me traen cosas que * encuentran *. No sé dónde los consiguen y, francamente, no me importa una mierda.}
 {431}{}{Eso es.}
 {432}{}{Eres un mentiroso. Estoy harta de escoria como tú que usa a la gente para su propio beneficio. ¡Hora de morir!}
-{440}{flick20}{Pai-sa-nos, sabes, los chicos. Mis chicos.}
+{440}{flick6}{Pai-sa-nos, sabes, los chicos. Mis chicos.}
 {441}{}{¿Y tienes un acuerdo con ellos?}
-{450}{flick21}{Me traen lo que encuentran. Pequeñas cosas. Lo que nadie quiere ya. A cambio, cuido de ellos.}
+{450}{flick8}{Me traen lo que encuentran. Pequeñas cosas. Lo que nadie quiere ya. A cambio, cuido de ellos.}
 {451}{}{Parece un buen acuerdo.}
 {460}{flick22}{Sí ... el negocio estuvo bien hasta que llegaste. Mira, tu pequeño truco me va a costar. Mi negocio va a sufrir gracias a ti. Debido a esto, realmente no me gustas demasiado. De hecho, te odio. Pero, soy un hombre de negocios, así que si necesitas hacer trueques, hazlo. Si no, vete a la mierda.}
 {461}{}{De acuerdo, déjame ver lo que tienes a la venta entonces.}

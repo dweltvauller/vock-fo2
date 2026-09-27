@@ -64,9 +64,9 @@
 {430}{flick19}{Nesnaž se mì pøechcat, cretino. Dìcka mi nosej vìci, kerý *našly.* Nevím, odkud je maj a upøímnì je mi to u prdele.}
 {431}{}{Dobøe.}
 {432}{}{Jseš pìknej sráè. Je mi zle z takových hajzlù, jako jsi ty, co zneužívají dìti ke svému vlastnímu prospìchu. Èas umøít!}
-{440}{flick20}{Pai-san-o, však víš, dìcka. Moje dìcka.}
+{440}{flick6}{Pai-san-o, však víš, dìcka. Moje dìcka.}
 {441}{}{A ty máš s nimi nìjakou dohodu?}
-{450}{flick21}{Nosej mi vìci, kerý najdou. Malý vìci. Vìci, kerý už nikdo nepoužívá. Na oplátku se starám já o nì.}
+{450}{flick8}{Nosej mi vìci, kerý najdou. Malý vìci. Vìci, kerý už nikdo nepoužívá. Na oplátku se starám já o nì.}
 {451}{}{To zní jako dobrá dohoda.}
 {460}{flick22}{Jo...obchody šly dobøe, než jsi pøišel. Víš, ten tvùj malej nápad mì bude nìco stát. Moje obchody budou díky tobì trpìt. Proto tì opravdu nemám moc rád. Vlastnì tì teï kurevsky nesnáším, ale jsem obchodník, takže jestli chceš obchodovat, tak se do toho dáme. Jestli ne, tak jdi do prdele.}
 {461}{}{Dobøe. Ukaž, co nabízíš.}

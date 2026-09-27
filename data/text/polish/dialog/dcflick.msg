@@ -64,9 +64,9 @@
 {430}{flick19}{Nie pszem¹dsaj siê tutaj. Dzieciaki pszynosi³y mi wszystkie swoje snalesiska. Nie wiem sk¹d je bra³y i szczese mówi¹c gówno mnie to obchodzi.}
 {431}{}{W porz¹dku.}
 {432}{}{Chrzanisz. Mam powy¿ej uszu ludzi takich jak ty, którzy wykorzystuj¹ innych dla w³asnego zysku. Czas ciê uœpiæ!}
-{440}{flick20}{Urwipo³cie! No, kumasz, dzieci. Moje dzieci!}
+{440}{flick6}{Urwipo³cie! No, kumasz, dzieci. Moje dzieci!}
 {441}{}{A ty masz z nimi uk³ad tak?}
-{450}{flick21}{Pszynosz¹ mi wszystkie swoje snalesiska. Takie tam malutkie pierdu³ki. Takie, co to ich nikt inny nie potszebuje. A ja siê nimi w samian opiekujê.}
+{450}{flick8}{Pszynosz¹ mi wszystkie swoje snalesiska. Takie tam malutkie pierdu³ki. Takie, co to ich nikt inny nie potszebuje. A ja siê nimi w samian opiekujê.}
 {451}{}{To chyba niez³y uk³ad.}
 {460}{flick22}{Taa...bisnes siê krêci³, do casu twojego pszybycia. Widzisz, twój ma³y wyczyn duso mnie bêdzie kosztowa³. Mój bisnes pszes ciebie ucierpia³. Pszes to nie za bardzo ciê lubiê. W³aœciwie to ciê kurdê nienawidsê. Ale, jestem bisnesmenem i jeseli chcesz pohandlowaæ to biesmy siê sa to, w przeciwnym wypadku sjesdzaj st¹d.}
 {461}{}{Dobra, wiêc zobaczmy co tam masz.}
