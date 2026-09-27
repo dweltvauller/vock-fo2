@@ -56,6 +56,7 @@ TH's `heads.lst` also lists 62 heads with no art in TH. Those heads use base-gam
 - `bgjesnf2.frm` fixes the see-through pixels on Mordino's fingers and hand.
 - `francbf1`, `francbf2`, `francbn` and `francgf1` are relit to match the rest of Francis's art. Talking Heads rendered his bad-mood art and his good fidget darker (average brightness 38-43 against 56-61), so the light jumped when his mood changed. Each mood change now meets an identical frame. A future `francbp` needs the same relight.
 - The 13 `ahs9h*.frm` files fill 15,627 see-through pixels, mostly on the shirt and collar, some on the face and neck. A 1-pixel notch in the hair outline stays as it is.
+- The 13 `jenny*.frm` files fill 3,631 see-through pixels on her top. Small gaps in her hair outline stay as they are.
 
 Script-side Talking Heads fixes live in `CHANGELOG.md`: Don and Kurisu heads not showing, Kaga's head menu, and Miss Kitty's "Error" greeting for prizefighters.
 
@@ -63,7 +64,7 @@ Script-side Talking Heads fixes live in `CHANGELOG.md`: Don and Kurisu heads not
 
 - `francbp.frm` and `catgp.frm` don't exist. Ask Goat_Boy for them.
 - Lou drifts sideways while talking. `lounp`, `lougp` and `loubp` have x offsets of -1 and +1 on several frames. The same kind of offsets are in the lip-sync files of `bird`, `suze`, `merk` (TH `merkgp`), `plant`, `marge`, `fest`, `phl`, `fannc` and `vcval`. Zeroing the offsets stops the drift, with at most a 1-pixel wobble.
-- Other heads have see-through specks like Sajag had. The worst are `jenny`, `vcval` and `henry`. Some specks are real gaps in hair or fur, so check each head before filling.
+- Other heads have see-through specks like Sajag had. The worst are `vcval` and `henry`. Some specks are real gaps in hair or fur, so check each head before filling.
 
 ## License
 

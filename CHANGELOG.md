@@ -4,6 +4,7 @@
 - Louise (Redding), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno)
 - Francis's talking head now has the same lighting in every mood (Broken Hills)
 - Fixed see-through spots on AHS-9's talking head (San Francisco)
+- Fixed see-through spots on Jenny's talking head
 
 ## v1.14
 - Added voices: Peterson (Abbey), Joseph (Vault 13), Krom (Umbra Tribe), Zaius (Broken Hills), Flick (The Den), Rebecca Dyer (The Den)
