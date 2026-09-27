@@ -58,10 +58,10 @@ item []:
             text = "to" 
         intervals [12]:
             xmin = 4.3 
-            xmax = 4.72 
+            xmax = 4.68 
             text = "say" 
         intervals [13]:
-            xmin = 4.72 
+            xmin = 4.68 
             xmax = 5.79 
             text = "" 
         intervals [14]:
@@ -112,10 +112,10 @@ item []:
             text = "W" 
         intervals [4]:
             xmin = 0.32 
-            xmax = 0.4 
+            xmax = 0.45 
             text = "AH1" 
         intervals [5]:
-            xmin = 0.4 
+            xmin = 0.45 
             xmax = 0.59 
             text = "T" 
         intervals [6]:
@@ -188,10 +188,10 @@ item []:
             text = "S" 
         intervals [23]:
             xmin = 4.4 
-            xmax = 4.72 
+            xmax = 4.68 
             text = "EY1" 
         intervals [24]:
-            xmin = 4.72 
+            xmin = 4.68 
             xmax = 5.79 
             text = "" 
         intervals [25]:

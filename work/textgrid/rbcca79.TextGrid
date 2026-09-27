@@ -58,10 +58,10 @@ item []:
             text = "i" 
         intervals [12]:
             xmin = 2.77 
-            xmax = 2.92 
+            xmax = 2.91 
             text = "know" 
         intervals [13]:
-            xmin = 2.92 
+            xmin = 2.91 
             xmax = 3.08 
             text = "this" 
         intervals [14]:
@@ -204,10 +204,10 @@ item []:
             text = "N" 
         intervals [23]:
             xmin = 2.84 
-            xmax = 2.92 
+            xmax = 2.91 
             text = "OW1" 
         intervals [24]:
-            xmin = 2.92 
+            xmin = 2.91 
             xmax = 2.96 
             text = "DH" 
         intervals [25]:

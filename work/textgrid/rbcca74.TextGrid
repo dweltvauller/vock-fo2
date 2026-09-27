@@ -18,14 +18,14 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.19 
-            xmax = 0.54 
+            xmax = 0.5 
             text = "oh" 
         intervals [3]:
-            xmin = 0.54 
-            xmax = 0.62 
+            xmin = 0.5 
+            xmax = 0.59 
             text = "" 
         intervals [4]:
-            xmin = 0.62 
+            xmin = 0.59 
             xmax = 0.74 
             text = "he" 
         intervals [5]:
@@ -78,10 +78,10 @@ item []:
             text = "hendee" 
         intervals [17]:
             xmin = 3.06 
-            xmax = 3.64 
+            xmax = 3.62 
             text = "family" 
         intervals [18]:
-            xmin = 3.64 
+            xmin = 3.62 
             xmax = 4.07 
             text = "" 
         intervals [19]:
@@ -124,14 +124,14 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.19 
-            xmax = 0.54 
+            xmax = 0.5 
             text = "OW1" 
         intervals [3]:
-            xmin = 0.54 
-            xmax = 0.62 
+            xmin = 0.5 
+            xmax = 0.59 
             text = "" 
         intervals [4]:
-            xmin = 0.62 
+            xmin = 0.59 
             xmax = 0.67 
             text = "HH" 
         intervals [5]:
@@ -300,10 +300,10 @@ item []:
             text = "L" 
         intervals [46]:
             xmin = 3.41 
-            xmax = 3.64 
+            xmax = 3.62 
             text = "IY0" 
         intervals [47]:
-            xmin = 3.64 
+            xmin = 3.62 
             xmax = 4.07 
             text = "" 
         intervals [48]:

@@ -50,10 +50,10 @@ item []:
             text = "derek" 
         intervals [10]:
             xmin = 2.1 
-            xmax = 2.31 
+            xmax = 2.3 
             text = "better" 
         intervals [11]:
-            xmin = 2.31 
+            xmin = 2.3 
             xmax = 2.48 
             text = "not" 
         intervals [12]:
@@ -184,10 +184,10 @@ item []:
             text = "T" 
         intervals [26]:
             xmin = 2.24 
-            xmax = 2.31 
+            xmax = 2.3 
             text = "ER0" 
         intervals [27]:
-            xmin = 2.31 
+            xmin = 2.3 
             xmax = 2.36 
             text = "N" 
         intervals [28]:

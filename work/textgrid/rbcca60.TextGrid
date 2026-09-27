@@ -14,10 +14,10 @@ item []:
         intervals: size = 55 
         intervals [1]:
             xmin = 0.0 
-            xmax = 0.17 
+            xmax = 0.18 
             text = "" 
         intervals [2]:
-            xmin = 0.17 
+            xmin = 0.18 
             xmax = 0.66 
             text = "catch" 
         intervals [3]:
@@ -170,10 +170,10 @@ item []:
             text = "it" 
         intervals [40]:
             xmin = 9.27 
-            xmax = 9.65 
+            xmax = 9.71 
             text = "back" 
         intervals [41]:
-            xmin = 9.65 
+            xmin = 9.71 
             xmax = 9.89 
             text = "" 
         intervals [42]:
@@ -240,10 +240,10 @@ item []:
         intervals: size = 141 
         intervals [1]:
             xmin = 0.0 
-            xmax = 0.17 
+            xmax = 0.18 
             text = "" 
         intervals [2]:
-            xmin = 0.17 
+            xmin = 0.18 
             xmax = 0.25 
             text = "K" 
         intervals [3]:
@@ -632,10 +632,10 @@ item []:
             text = "AE1" 
         intervals [99]:
             xmin = 9.49 
-            xmax = 9.65 
+            xmax = 9.71 
             text = "K" 
         intervals [100]:
-            xmin = 9.65 
+            xmin = 9.71 
             xmax = 9.89 
             text = "" 
         intervals [101]:

@@ -176,10 +176,10 @@ item []:
             text = "L" 
         intervals [21]:
             xmin = 1.37 
-            xmax = 1.55 
+            xmax = 1.54 
             text = "AW1" 
         intervals [22]:
-            xmin = 1.55 
+            xmin = 1.54 
             xmax = 1.78 
             text = "ER0" 
         intervals [23]:

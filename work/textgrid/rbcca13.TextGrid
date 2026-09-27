@@ -22,10 +22,10 @@ item []:
             text = "hello" 
         intervals [3]:
             xmin = 0.58 
-            xmax = 0.68 
+            xmax = 0.7 
             text = "" 
         intervals [4]:
-            xmin = 0.68 
+            xmin = 0.7 
             xmax = 0.83 
             text = "how" 
         intervals [5]:
@@ -76,10 +76,10 @@ item []:
             text = "OW1" 
         intervals [6]:
             xmin = 0.58 
-            xmax = 0.68 
+            xmax = 0.7 
             text = "" 
         intervals [7]:
-            xmin = 0.68 
+            xmin = 0.7 
             xmax = 0.75 
             text = "HH" 
         intervals [8]:

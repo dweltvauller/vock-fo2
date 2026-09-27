@@ -34,10 +34,10 @@ item []:
             text = "commando" 
         intervals [6]:
             xmin = 1.93 
-            xmax = 2.53 
+            xmax = 2.52 
             text = "" 
         intervals [7]:
-            xmin = 2.53 
+            xmin = 2.52 
             xmax = 2.65 
             text = "or" 
         intervals [8]:
@@ -98,10 +98,10 @@ item []:
             text = "like" 
         intervals [22]:
             xmin = 6.32 
-            xmax = 6.59 
+            xmax = 6.6 
             text = "that" 
         intervals [23]:
-            xmin = 6.59 
+            xmin = 6.6 
             xmax = 6.735011 
             text = "" 
     item [2]:
@@ -188,10 +188,10 @@ item []:
             text = "OW2" 
         intervals [20]:
             xmin = 1.93 
-            xmax = 2.53 
+            xmax = 2.52 
             text = "" 
         intervals [21]:
-            xmin = 2.53 
+            xmin = 2.52 
             xmax = 2.56 
             text = "AO1" 
         intervals [22]:
@@ -320,10 +320,10 @@ item []:
             text = "R" 
         intervals [53]:
             xmin = 4.97 
-            xmax = 5.02 
+            xmax = 5.03 
             text = "IH0" 
         intervals [54]:
-            xmin = 5.02 
+            xmin = 5.03 
             xmax = 5.08 
             text = "G" 
         intervals [55]:
@@ -400,9 +400,9 @@ item []:
             text = "AE1" 
         intervals [73]:
             xmin = 6.53 
-            xmax = 6.59 
+            xmax = 6.6 
             text = "T" 
         intervals [74]:
-            xmin = 6.59 
+            xmin = 6.6 
             xmax = 6.735011 
             text = "" 

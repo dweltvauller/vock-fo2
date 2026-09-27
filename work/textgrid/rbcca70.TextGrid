@@ -70,10 +70,10 @@ item []:
             text = "is" 
         intervals [15]:
             xmin = 2.69 
-            xmax = 3.39 
+            xmax = 3.37 
             text = "" 
         intervals [16]:
-            xmin = 3.39 
+            xmin = 3.37 
             xmax = 3.57 
             text = "he's" 
         intervals [17]:
@@ -134,10 +134,10 @@ item []:
             text = "to" 
         intervals [31]:
             xmin = 7.37 
-            xmax = 7.86 
+            xmax = 7.85 
             text = "miss" 
         intervals [32]:
-            xmin = 7.86 
+            xmin = 7.85 
             xmax = 8.02 
             text = "" 
     item [2]:
@@ -284,10 +284,10 @@ item []:
             text = "Z" 
         intervals [35]:
             xmin = 2.69 
-            xmax = 3.39 
+            xmax = 3.37 
             text = "" 
         intervals [36]:
-            xmin = 3.39 
+            xmin = 3.37 
             xmax = 3.43 
             text = "HH" 
         intervals [37]:
@@ -432,10 +432,10 @@ item []:
             text = "AA1" 
         intervals [72]:
             xmin = 7.12 
-            xmax = 7.21 
+            xmax = 7.22 
             text = "R" 
         intervals [73]:
-            xmin = 7.21 
+            xmin = 7.22 
             xmax = 7.27 
             text = "D" 
         intervals [74]:
@@ -456,9 +456,9 @@ item []:
             text = "IH1" 
         intervals [78]:
             xmin = 7.58 
-            xmax = 7.86 
+            xmax = 7.85 
             text = "S" 
         intervals [79]:
-            xmin = 7.86 
+            xmin = 7.85 
             xmax = 8.02 
             text = "" 

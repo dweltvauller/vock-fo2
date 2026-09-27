@@ -34,10 +34,10 @@ item []:
             text = "care" 
         intervals [6]:
             xmin = 0.92 
-            xmax = 1.06 
+            xmax = 1.05 
             text = "for" 
         intervals [7]:
-            xmin = 1.06 
+            xmin = 1.05 
             xmax = 1.13 
             text = "a" 
         intervals [8]:
@@ -46,10 +46,10 @@ item []:
             text = "drink" 
         intervals [9]:
             xmin = 1.5 
-            xmax = 2.06 
+            xmax = 2.07 
             text = "" 
         intervals [10]:
-            xmin = 2.06 
+            xmin = 2.07 
             xmax = 2.49 
             text = "finest" 
         intervals [11]:
@@ -124,10 +124,10 @@ item []:
             text = "R" 
         intervals [12]:
             xmin = 1.02 
-            xmax = 1.06 
+            xmax = 1.05 
             text = "ER0" 
         intervals [13]:
-            xmin = 1.06 
+            xmin = 1.05 
             xmax = 1.13 
             text = "AH0" 
         intervals [14]:
@@ -152,10 +152,10 @@ item []:
             text = "K" 
         intervals [19]:
             xmin = 1.5 
-            xmax = 2.06 
+            xmax = 2.07 
             text = "" 
         intervals [20]:
-            xmin = 2.06 
+            xmin = 2.07 
             xmax = 2.14 
             text = "F" 
         intervals [21]:

@@ -38,10 +38,10 @@ item []:
             text = "dollars" 
         intervals [7]:
             xmin = 1.62 
-            xmax = 1.78 
+            xmax = 1.79 
             text = "" 
         intervals [8]:
-            xmin = 1.78 
+            xmin = 1.79 
             xmax = 1.9 
             text = "and" 
         intervals [9]:
@@ -184,10 +184,10 @@ item []:
             text = "Z" 
         intervals [21]:
             xmin = 1.62 
-            xmax = 1.78 
+            xmax = 1.79 
             text = "" 
         intervals [22]:
-            xmin = 1.78 
+            xmin = 1.79 
             xmax = 1.82 
             text = "AE1" 
         intervals [23]:

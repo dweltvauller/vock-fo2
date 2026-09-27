@@ -34,10 +34,10 @@ item []:
             text = "it" 
         intervals [6]:
             xmin = 1.19 
-            xmax = 1.29 
+            xmax = 1.31 
             text = "" 
         intervals [7]:
-            xmin = 1.29 
+            xmin = 1.31 
             xmax = 1.48 
             text = "how" 
         intervals [8]:
@@ -106,10 +106,10 @@ item []:
             text = "all" 
         intervals [24]:
             xmin = 5.3 
-            xmax = 5.97 
+            xmax = 5.98 
             text = "" 
         intervals [25]:
-            xmin = 5.97 
+            xmin = 5.98 
             xmax = 6.07 
             text = "to" 
         intervals [26]:
@@ -276,10 +276,10 @@ item []:
             text = "T" 
         intervals [14]:
             xmin = 1.19 
-            xmax = 1.29 
+            xmax = 1.31 
             text = "" 
         intervals [15]:
-            xmin = 1.29 
+            xmin = 1.31 
             xmax = 1.38 
             text = "HH" 
         intervals [16]:
@@ -444,10 +444,10 @@ item []:
             text = "L" 
         intervals [56]:
             xmin = 5.3 
-            xmax = 5.97 
+            xmax = 5.98 
             text = "" 
         intervals [57]:
-            xmin = 5.97 
+            xmin = 5.98 
             xmax = 6.02 
             text = "T" 
         intervals [58]:

@@ -180,10 +180,10 @@ item []:
             text = "IY0" 
         intervals [28]:
             xmin = 2.2 
-            xmax = 2.26 
+            xmax = 2.27 
             text = "AH0" 
         intervals [29]:
-            xmin = 2.26 
+            xmin = 2.27 
             xmax = 2.33 
             text = "M" 
         intervals [30]:

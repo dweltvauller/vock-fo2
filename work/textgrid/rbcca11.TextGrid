@@ -70,10 +70,10 @@ item []:
             text = "famous" 
         intervals [15]:
             xmin = 3.36 
-            xmax = 3.83 
+            xmax = 3.84 
             text = "whiskey" 
         intervals [16]:
-            xmin = 3.83 
+            xmin = 3.84 
             xmax = 3.976009 
             text = "" 
     item [2]:
@@ -156,10 +156,10 @@ item []:
             text = "K" 
         intervals [19]:
             xmin = 1.23 
-            xmax = 1.32 
+            xmax = 1.31 
             text = "AH0" 
         intervals [20]:
-            xmin = 1.32 
+            xmin = 1.31 
             xmax = 1.38 
             text = "Z" 
         intervals [21]:
@@ -292,9 +292,9 @@ item []:
             text = "K" 
         intervals [53]:
             xmin = 3.62 
-            xmax = 3.83 
+            xmax = 3.84 
             text = "IY0" 
         intervals [54]:
-            xmin = 3.83 
+            xmin = 3.84 
             xmax = 3.976009 
             text = "" 

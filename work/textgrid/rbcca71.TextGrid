@@ -30,18 +30,18 @@ item []:
             text = "you" 
         intervals [5]:
             xmin = 1.26 
-            xmax = 1.58 
+            xmax = 1.61 
             text = "" 
         intervals [6]:
-            xmin = 1.58 
+            xmin = 1.61 
             xmax = 1.8 
             text = "how" 
         intervals [7]:
             xmin = 1.8 
-            xmax = 2.0 
+            xmax = 2.01 
             text = "are" 
         intervals [8]:
-            xmin = 2.0 
+            xmin = 2.01 
             xmax = 2.51 
             text = "you" 
         intervals [9]:
@@ -120,10 +120,10 @@ item []:
             text = "UW1" 
         intervals [11]:
             xmin = 1.26 
-            xmax = 1.58 
+            xmax = 1.61 
             text = "" 
         intervals [12]:
-            xmin = 1.58 
+            xmin = 1.61 
             xmax = 1.68 
             text = "HH" 
         intervals [13]:
@@ -136,10 +136,10 @@ item []:
             text = "AA1" 
         intervals [15]:
             xmin = 1.84 
-            xmax = 2.0 
+            xmax = 2.01 
             text = "R" 
         intervals [16]:
-            xmin = 2.0 
+            xmin = 2.01 
             xmax = 2.19 
             text = "Y" 
         intervals [17]:

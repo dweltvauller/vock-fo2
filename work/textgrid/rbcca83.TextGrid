@@ -58,10 +58,10 @@ item []:
             text = "to" 
         intervals [12]:
             xmin = 2.66 
-            xmax = 2.85 
+            xmax = 2.84 
             text = "it" 
         intervals [13]:
-            xmin = 2.85 
+            xmin = 2.84 
             xmax = 2.93 
             text = "" 
         intervals [14]:
@@ -110,10 +110,10 @@ item []:
             text = "you" 
         intervals [25]:
             xmin = 5.64 
-            xmax = 5.9 
+            xmax = 5.89 
             text = "know" 
         intervals [26]:
-            xmin = 5.9 
+            xmin = 5.89 
             xmax = 6.023991 
             text = "" 
     item [2]:
@@ -244,10 +244,10 @@ item []:
             text = "IH0" 
         intervals [31]:
             xmin = 2.75 
-            xmax = 2.85 
+            xmax = 2.84 
             text = "T" 
         intervals [32]:
-            xmin = 2.85 
+            xmin = 2.84 
             xmax = 2.93 
             text = "" 
         intervals [33]:
@@ -372,9 +372,9 @@ item []:
             text = "N" 
         intervals [63]:
             xmin = 5.69 
-            xmax = 5.9 
+            xmax = 5.89 
             text = "OW1" 
         intervals [64]:
-            xmin = 5.9 
+            xmin = 5.89 
             xmax = 6.023991 
             text = "" 

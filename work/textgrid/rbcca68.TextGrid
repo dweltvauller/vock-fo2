@@ -58,10 +58,10 @@ item []:
             text = "vic" 
         intervals [12]:
             xmin = 2.87 
-            xmax = 3.15 
+            xmax = 3.16 
             text = "" 
         intervals [13]:
-            xmin = 3.15 
+            xmin = 3.16 
             xmax = 3.28 
             text = "the" 
         intervals [14]:
@@ -184,10 +184,10 @@ item []:
             text = "K" 
         intervals [23]:
             xmin = 2.87 
-            xmax = 3.15 
+            xmax = 3.16 
             text = "" 
         intervals [24]:
-            xmin = 3.15 
+            xmin = 3.16 
             xmax = 3.23 
             text = "DH" 
         intervals [25]:

@@ -38,10 +38,10 @@ item []:
             text = "is" 
         intervals [7]:
             xmin = 1.44 
-            xmax = 1.61 
+            xmax = 1.62 
             text = "it" 
         intervals [8]:
-            xmin = 1.61 
+            xmin = 1.62 
             xmax = 1.757007 
             text = "" 
     item [2]:
@@ -112,9 +112,9 @@ item []:
             text = "IH0" 
         intervals [16]:
             xmin = 1.56 
-            xmax = 1.61 
+            xmax = 1.62 
             text = "T" 
         intervals [17]:
-            xmin = 1.61 
+            xmin = 1.62 
             xmax = 1.757007 
             text = "" 

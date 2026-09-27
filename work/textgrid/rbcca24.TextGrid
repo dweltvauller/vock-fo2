@@ -34,10 +34,10 @@ item []:
             text = "do" 
         intervals [6]:
             xmin = 0.6 
-            xmax = 0.71 
+            xmax = 0.7 
             text = "for" 
         intervals [7]:
-            xmin = 0.71 
+            xmin = 0.7 
             xmax = 0.96 
             text = "you" 
         intervals [8]:
@@ -54,10 +54,10 @@ item []:
             text = "really" 
         intervals [11]:
             xmin = 1.62 
-            xmax = 2.06 
+            xmax = 2.03 
             text = "busy" 
         intervals [12]:
-            xmin = 2.06 
+            xmin = 2.03 
             xmax = 2.159002 
             text = "" 
     item [2]:
@@ -116,10 +116,10 @@ item []:
             text = "F" 
         intervals [13]:
             xmin = 0.67 
-            xmax = 0.71 
+            xmax = 0.7 
             text = "ER0" 
         intervals [14]:
-            xmin = 0.71 
+            xmin = 0.7 
             xmax = 0.79 
             text = "Y" 
         intervals [15]:
@@ -168,9 +168,9 @@ item []:
             text = "Z" 
         intervals [26]:
             xmin = 1.83 
-            xmax = 2.06 
+            xmax = 2.03 
             text = "IY0" 
         intervals [27]:
-            xmin = 2.06 
+            xmin = 2.03 
             xmax = 2.159002 
             text = "" 

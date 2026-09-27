@@ -34,10 +34,10 @@ item []:
             text = "family" 
         intervals [6]:
             xmin = 1.11 
-            xmax = 1.55 
+            xmax = 1.56 
             text = "name" 
         intervals [7]:
-            xmin = 1.55 
+            xmin = 1.56 
             xmax = 1.93 
             text = "" 
         intervals [8]:
@@ -184,10 +184,10 @@ item []:
             text = "EY1" 
         intervals [16]:
             xmin = 1.32 
-            xmax = 1.55 
+            xmax = 1.56 
             text = "M" 
         intervals [17]:
-            xmin = 1.55 
+            xmin = 1.56 
             xmax = 1.93 
             text = "" 
         intervals [18]:

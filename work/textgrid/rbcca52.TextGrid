@@ -46,10 +46,10 @@ item []:
             text = "good" 
         intervals [9]:
             xmin = 1.41 
-            xmax = 1.9 
+            xmax = 1.94 
             text = "customer" 
         intervals [10]:
-            xmin = 1.9 
+            xmin = 1.94 
             xmax = 2.42 
             text = "" 
         intervals [11]:
@@ -194,10 +194,10 @@ item []:
             text = "like" 
         intervals [46]:
             xmin = 10.84 
-            xmax = 11.07 
+            xmax = 11.08 
             text = "another" 
         intervals [47]:
-            xmin = 11.07 
+            xmin = 11.08 
             xmax = 11.23 
             text = "one" 
         intervals [48]:
@@ -312,10 +312,10 @@ item []:
             text = "M" 
         intervals [26]:
             xmin = 1.76 
-            xmax = 1.9 
+            xmax = 1.94 
             text = "ER0" 
         intervals [27]:
-            xmin = 1.9 
+            xmin = 1.94 
             xmax = 2.42 
             text = "" 
         intervals [28]:
@@ -704,14 +704,14 @@ item []:
             text = "DH" 
         intervals [124]:
             xmin = 11.01 
-            xmax = 11.07 
+            xmax = 11.08 
             text = "ER0" 
         intervals [125]:
-            xmin = 11.07 
-            xmax = 11.1 
+            xmin = 11.08 
+            xmax = 11.11 
             text = "W" 
         intervals [126]:
-            xmin = 11.1 
+            xmin = 11.11 
             xmax = 11.17 
             text = "AH1" 
         intervals [127]:

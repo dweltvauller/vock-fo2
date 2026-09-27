@@ -42,10 +42,10 @@ item []:
             text = "mood" 
         intervals [8]:
             xmin = 1.21 
-            xmax = 1.75 
+            xmax = 1.76 
             text = "" 
         intervals [9]:
-            xmin = 1.75 
+            xmin = 1.76 
             xmax = 1.91 
             text = "what" 
         intervals [10]:
@@ -132,10 +132,10 @@ item []:
             text = "D" 
         intervals [18]:
             xmin = 1.21 
-            xmax = 1.75 
+            xmax = 1.76 
             text = "" 
         intervals [19]:
-            xmin = 1.75 
+            xmin = 1.76 
             xmax = 1.79 
             text = "HH" 
         intervals [20]:

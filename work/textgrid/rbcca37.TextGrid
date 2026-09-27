@@ -164,10 +164,10 @@ item []:
             text = "UW1" 
         intervals [20]:
             xmin = 1.23 
-            xmax = 1.38 
+            xmax = 1.39 
             text = "AW1" 
         intervals [21]:
-            xmin = 1.38 
+            xmin = 1.39 
             xmax = 1.52 
             text = "T" 
         intervals [22]:

@@ -62,10 +62,10 @@ item []:
             text = "you" 
         intervals [13]:
             xmin = 2.33 
-            xmax = 2.66 
+            xmax = 2.7 
             text = "today" 
         intervals [14]:
-            xmin = 2.66 
+            xmin = 2.7 
             xmax = 2.820998 
             text = "" 
     item [2]:
@@ -196,9 +196,9 @@ item []:
             text = "D" 
         intervals [31]:
             xmin = 2.47 
-            xmax = 2.66 
+            xmax = 2.7 
             text = "EY1" 
         intervals [32]:
-            xmin = 2.66 
+            xmin = 2.7 
             xmax = 2.820998 
             text = "" 
