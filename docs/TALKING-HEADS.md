@@ -53,7 +53,7 @@ TH's `heads.lst` also lists 62 heads with no art in TH. Those heads use base-gam
 - `heads.lst` changes four counts: `franc,1,2,2`, `tray,1,1,1`, `arth,2,2,2`, `bosss,1,2,2`. `bosss` has only `bosssgf1` in `master.dat`, but vanilla and RPU both declare 2 good fidgets.
 - `gruthbf1.frm` is a VOCK blink made from frame 0 of `gruthbp`, since Talking Heads has no bad-mood fidget for Gruthar. It has 6 frames (open, half, closed, closed, half, open), all 333x200 with x offset 0, so gruth stays `1,1,1`.
 - The 13 `sajag*.frm` files fix the see-through spots on Sajag's talking head.
-- `bgjesnf2.frm` fills 955 see-through pixels on Mordino's fingers and hand (frames 3 to 11). Real gaps between his fingers, and between his finger and jacket, stay transparent in frames 3 and 11.
+- `bgjesnf2.frm` fixes the see-through pixels on Mordino's fingers and hand.
 
 Script-side Talking Heads fixes live in `CHANGELOG.md`: Don and Kurisu heads not showing, Kaga's head menu, and Miss Kitty's "Error" greeting for prizefighters.
 

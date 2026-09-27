@@ -2,7 +2,6 @@
 
 ## WIP
 - Louise (Redding), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno)
-- Fixed see-through spots on Big Jesus Mordino's hand in his neutral fidget
 
 ## v1.14
 - Added voices: Peterson (Abbey), Joseph (Vault 13), Krom (Umbra Tribe), Zaius (Broken Hills), Flick (The Den), Rebecca Dyer (The Den)
@@ -15,6 +14,7 @@
 - Fixed see-through spots on Sajag's talking head
 - Fixed Gruthar's head freezing in a bad mood (new bad-mood fidget: a blink)
 - Fixed Sheriff Dumont (NCR) never praising the player for talking Officer Jack into surrendering (RPU script bug)
+- Fixed see-through spots on Big Jesus Mordino's hand in his neutral fidget
 
 ## v1.13
 - Added voices: Ann (Vault City), Tubby (The Den), Chuck & Buck Dunton (Klamath), Vortis (NCR)
