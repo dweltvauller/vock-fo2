@@ -1,6 +1,6 @@
-# Combat AI Taunts — Companion Scope
+# Combat AI Taunts — Scope
 
-VOCK records combat floats for seven companions: Vic, Lenny, Goris, Robodog, Dogmeat, Davin, Kitsune. This file tracks what each one actually needs, why, and what's still open.
+VOCK records combat floats for seven companions: Vic, Lenny, Goris, Robodog, Dogmeat, Davin, Kitsune. It also records them for one non-companion, Kaga. This file tracks what each one actually needs, why, and what's still open.
 
 ## Where the lines live
 
@@ -26,9 +26,23 @@ VOCK keeps a single merged file, `vock-fo2/data/text/english/game/combatai.msg`,
 
 **Dogmeat** — no text lines, by design. His proto's combat vocalizations come from `MADDOGxx.ACM`, an animation-linked bark SFX set present in both the FO1 and FO2 vanilla sound trees. Confirmed this against FO2's own asset tree rather than assuming the FO1 precedent carried over. His four floater slots (50100/50120/50140/50160) exist in `combatai.msg` but sit empty; the text system and the bark SFX aren't mutually exclusive, so we could add lines on top of the barks, but we're not — matches the FO1 approach and avoids recording something the character was never designed to speak.
 
+## Kaga
+
+Kaga is not a companion. He is the special random encounter from Arroyo who hunts the player across five fights (`eckaga1`–`eckaga5`), wearing better armor each time. `combatai.msg` gives him his own range, 36000-36599, split into six blocks:
+
+- **36000** — hit locations, shared by all five fights. 30 lines: head, arms, body, groin.
+- **36100-36500** — one block per fight (Area 1-5), with run, move, attack, and miss lines. The 36500 run slots (36500-36505) are empty on purpose: Kaga does not flee in the final fight, which matches `eckaga5`.
+
+That is 152 lines with text. Many repeat across fights, so they reduce to 86 unique tags:
+
+- **13 reused script tags** — `kaga6/10/11/15/27/30/34/35/36/37/39/43/49`. The line already exists in his encounter scripts and is already recorded, so the bark plays the same file.
+- **73 new tags** — `kaga50`–`kaga122`. These are listed in `combat_filter.cfg` and added to the "Combat Barks" section of `va-scripts/Kaga.md`.
+
+Like the other combat barks, the new tags are ACM only (no LIP) and are packed into the opt-out `vock-fo2-combat.dat`. None of `kaga50`–`kaga122` is recorded yet.
+
 ## Recording scope
 
-Record now: Goris (125 lines), Kitsune (36 lines), Robodog (5 lines), Lenny (180 lines).
+Record now: Goris (125 lines), Kitsune (36 lines), Robodog (5 lines), Lenny (180 lines), Kaga (73 new lines, `kaga50`–`kaga122`).
 
 On hold: Vic (173 lines), Davin (173 lines). Both sets are copies of the shared archetype pool, not writing unique to either character — recording the full set would spend two VA sessions voicing text that isn't distinctly theirs. The lines stay in `combatai.msg` so the engine has something to load; no recording session is scoped for them until we decide whether to record the copies as-is, trim to a representative subset, or wait for bespoke lines.
 

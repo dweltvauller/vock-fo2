@@ -4,7 +4,6 @@ A voice-acting mod for Fallout 2, adding spoken dialogue for NPCs using voluntee
 
 - [CREDITS.md](CREDITS.md): voice cast
 - [THAT.md](THAT.md): Talking Heads Actually Talk voice cast
-- [docs/TALKING-HEADS.md](docs/TALKING-HEADS.md): Talking Heads art findings and fixes
 - [docs/COMBAT-AI.md](docs/COMBAT-AI.md): companion combat taunts
 - [CHANGELOG.md](CHANGELOG.md): release history
 
