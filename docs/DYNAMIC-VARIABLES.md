@@ -61,25 +61,25 @@ Metzger's metzg68 and metzg71 also spliced `dude_name`. The name was replaced wi
 
 ## PC name (`dude_name`)
 
-| NPC | Script | RPU fragments | Resolution |
-|---|---|---|---|
-| Brother Matthew | `abmatt` | 800 + name + 801 | merged, 1800 |
-| Morlis | `acmorlis` | 212 + name + 213 | merged, 1212 |
-| Charles Curling | `qccurlng` | 127 + name + 128 | merged, 1128 |
-| Torr Buckner | `kctorr` | 229/249 + name + 230/231/250/251; 279 + name + 280 | merged, 1230, 1231, 1250, 1251, 1280 |
-| Aldo | `kcaldo` | 300 + name + 301; 350 + name + 351 | merged, 1300, 1350 |
-| Grisham | `mcgrisha` | 600/601 + name + 1600/1601 | merged, 650, 651 |
-| Jo | `mcjo` | floats: 629/630 + 605 + name + 606, both name orders | merged, 1600-1605 |
-| Christopher Wright | `ncchrwri` | 246/247 + name + 1246/248; floats `floater_rand_with_check(200-205, 220-222, dude_name)` | merged, 1306, 1307; floats 1300-1305 |
-| Ethyl Wright | `ncethwri` | float 530 + name + 1530 | merged, 1614 |
-| Keith Wright | `nckeiwri` | 253 + name + 1253 | merged, 1352 |
-| Jagged Jimmy J | `ncjimmyj` | floats `floater_rand_with_check(200, 206, dude_name)` | merged, 2200, 2201 |
-| Leslie Anne Bishop | `nclabish` | 315 + name + 1315 + name + 2315; floats 510/511 (one or two names); 591 + name + 1591 (+ 592/593 by gender); 665 + name + 1665 | merged, 2317, 2510, 2512, 2591-2593, 2665 |
-| Orville Wright | `ncorvill` | 310 + name + 5310; 580 + name + 5580 | merged, 1310, 1580 |
-| Vikki Goldman & Juan Cruz | `fcjuavki` | 193 + name + 228 | merged, 1193 |
-| Connar | `vcconnar` | 167 + name + 168; 740 + name + 741 | merged, 2200, 2201 |
-| Goris | `ocgoris` | 14 lines: 111/204/1000/1019-1022/1041/1060/1079/1098/1117/1136/1137 + name + 215/216/1156/1157/1158; name + 1158 | merged, 2111, 2204, 3000, 3019-3022, 3041, 3060, 3079, 3098, 3117, 3136, 3137, 3158 |
-| Metzger | `dcmetzge` | 540 + money + 15401 + name + 2540; 543 + name + 1543 + money + 2543 | name swapped for msg 1552 ("slaver"); money stays staged |
+| NPC | Script | RPU fragments | Resolution | Replaced with |
+|---|---|---|---|---|
+| Brother Matthew | `abmatt` | 800 + name + 801 | merged, 1800 | "friend" |
+| Morlis | `acmorlis` | 212 + name + 213 | merged, 1212 | "Chosen One" |
+| Charles Curling | `qccurlng` | 127 + name + 128 | merged, 1128 | "mutant" |
+| Torr Buckner | `kctorr` | 229/249 + name + 230/231/250/251; 279 + name + 280 | merged, 1230, 1231, 1250, 1251, 1280 | "friend" |
+| Aldo | `kcaldo` | 300 + name + 301; 350 + name + 351 | merged, 1300, 1350 | dropped ("Oh mighty one", "Well, friend") |
+| Grisham | `mcgrisha` | 600/601 + name + 1600/1601 | merged, 650, 651 | "in-law" ("my in-law" in 651) |
+| Jo | `mcjo` | floats: 629/630 + 605 + name + 606, both name orders | merged, 1600-1605 | "this person at your side" |
+| Christopher Wright | `ncchrwri` | 246/247 + name + 1246/248; floats `floater_rand_with_check(200-205, 220-222, dude_name)` | merged, 1306, 1307; floats 1300-1305 | dropped; floats rewritten without a name |
+| Ethyl Wright | `ncethwri` | float 530 + name + 1530 | merged, 1614 | "stranger" |
+| Keith Wright | `nckeiwri` | 253 + name + 1253 | merged, 1352 | dropped |
+| Jagged Jimmy J | `ncjimmyj` | floats `floater_rand_with_check(200, 206, dude_name)` | merged, 2200, 2201 | dropped; floats rewritten without a name |
+| Leslie Anne Bishop | `nclabish` | 315 + name + 1315 + name + 2315; floats 510/511 (one or two names); 591 + name + 1591 (+ 592/593 by gender); 665 + name + 1665 | merged, 2317, 2510, 2512, 2591-2593, 2665 | "darling" |
+| Orville Wright | `ncorvill` | 310 + name + 5310; 580 + name + 5580 | merged, 1310, 1580 | "tribal" |
+| Vikki Goldman & Juan Cruz | `fcjuavki` | 193 + name + 228 | merged, 1193 | "recruit" |
+| Connar | `vcconnar` | 167 + name + 168; 740 + name + 741 | merged, 2200, 2201 | "wanderer" |
+| Goris | `ocgoris` | 14 lines: 111/204/1000/1019-1022/1041/1060/1079/1098/1117/1136/1137 + name + 215/216/1156/1157/1158; name + 1158 | merged, 2111, 2204, 3000, 3019-3022, 3041, 3060, 3079, 3098, 3117, 3136, 3137, 3158 | "brother" |
+| Metzger | `dcmetzge` | 540 + money + 15401 + name + 2540; 543 + name + 1543 + money + 2543 | name swapped for msg 1552 ("slaver"); money stays staged | "slaver" (msg 1552) |
 
 ## PC family name (`dude_family_name`)
 
