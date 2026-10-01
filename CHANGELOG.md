@@ -6,7 +6,9 @@
 - Fixed see-through spots on AHS-9's talking head (San Francisco)
 - Fixed see-through spots on Jenny's talking head
 - Jenny's talking head no longer gets darker when she speaks
+- Big Jesus Mordino's talking head no longer gets darker when he speaks (New Reno)
 - Fixed a see-through spot on Valerie's collar in her talking head (Vault City)
+- Lao Chou's talking head no longer plays the wrong animation when his mood goes from bad to neutral (San Francisco)
 
 ## v1.14
 - Added voices: Peterson (Abbey), Joseph (Vault 13), Krom (Umbra Tribe), Zaius (Broken Hills), Flick (The Den), Rebecca Dyer (The Den)
