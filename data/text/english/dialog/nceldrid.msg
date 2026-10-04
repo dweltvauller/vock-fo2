@@ -6,36 +6,36 @@
 {151}{}{You see Eldridge. He is gazing at his weapon collection and smiling dreamily.}
 
 # 1. FALLOUT2 = ENCLAVE_DESTROYED (WTG)
-{200}{eld47}{Congratulations, hero! You done good!}
-{201}{eld48}{::Fires his gun into the air, starts hooting and hollering:: Th' Enclave's DEAD! DEAD! DEAD! Yeeee-haw!}
-{202}{eld49}{::Ding-dong, the Enclave's dead, the Enclave's dead... ::}
-{203}{eld50}{Enclave's a good reason for every citizen to have the right ta bear arms.}
-{204}{eld51}{Next time, don't you go to th' Enclave without stopping by here first... I'll make sure you have all the firepower
+{200}{eld43}{Congratulations, hero! You done good!}
+{201}{eld44}{::Fires his gun into the air, starts hooting and hollering:: Th' Enclave's DEAD! DEAD! DEAD! Yeeee-haw!}
+{202}{eld45}{::Ding-dong, the Enclave's dead, the Enclave's dead... ::}
+{203}{eld46}{Enclave's a good reason for every citizen to have the right ta bear arms.}
+{204}{eld47}{Next time, don't you go to th' Enclave without stopping by here first... I'll make sure you have all the firepower
  you NEED.}
 
 # 2. POWER ARMOR (WTG)
-{210}{eld52}{Holeeee Peter Paul n' Mary. Power armor!}
-{211}{eld53}{Shooooo-eeee. ::Rubs eyes:: That Power Armor?!}
-{212}{eld54}{Somebody pinch me. Is that POWER ARMOR?!}
-{213}{eld55}{Tapdance on my grave and pee on my firstborn! Power Armor! In Reno!}
-{214}{eld56}{You selling that Power Armor, friend?!! Hey! Anybody home?!!}
+{210}{eld48}{Holeeee Peter Paul n' Mary. Power armor!}
+{211}{eld49}{Shooooo-eeee. ::Rubs eyes:: That Power Armor?!}
+{212}{eld50}{Somebody pinch me. Is that POWER ARMOR?!}
+{213}{eld51}{Tapdance on my grave and pee on my firstborn! Power Armor! In Reno!}
+{214}{eld52}{You selling that Power Armor, friend?!! Hey! Anybody home?!!}
 
 # 3. NORMAL FLOATS (WTG)
-{220}{eld57}{A 9mm's FINE, but a .233's got stopping power...}
-{221}{eld58}{What I really want is a Red Ryder BB gun.}
-{222}{eld59}{Hope no one gets a hold of a turbo plasma rifle before I do.}
-{223}{eld60}{Wonder where the Salvatores get those laser weapons...}
-{224}{eld61}{Was dreaming of plasma weapons again last night...}
-{225}{eld62}{Better get that new shipment of shotgun shells in for the Wrights...}
-{226}{eld63}{Hope the Mordinos got the gold to pay for their order...}
-{227}{eld64}{That weapon? Punch a hole right through a metal wall, it can.}
-{228}{eld65}{That boy's a genius... would hardly know it to look at him...}
-{229}{eld66}{Better take those dogs for a walk soon before they start peeing everywhere.}
-{230}{eld67}{Them Unwashed Villagers are stockpiling more weapons... they're a tough bunch.}
-{231}{eld68}{I wish somebody would rob me so I could shoot 'em.}
-{232}{eld69}{Gonna need to clean the shelves soon...}
-{233}{eld70}{Can't wait to go huntin' gangs next week...}
-{234}{eld71}{I got SMGs, pistols, dynamite, grenades... and still people come in wanting swords n' crossbows.}
+{220}{eld53}{A 9mm's FINE, but a .233's got stopping power...}
+{221}{eld54}{What I really want is a Red Ryder BB gun.}
+{222}{eld55}{Hope no one gets a hold of a turbo plasma rifle before I do.}
+{223}{eld56}{Wonder where the Salvatores get those laser weapons...}
+{224}{eld57}{Was dreaming of plasma weapons again last night...}
+{225}{eld58}{Better get that new shipment of shotgun shells in for the Wrights...}
+{226}{eld59}{Hope the Mordinos got the gold to pay for their order...}
+{227}{eld60}{That weapon? Punch a hole right through a metal wall, it can.}
+{228}{eld61}{That boy's a genius... would hardly know it to look at him...}
+{229}{eld62}{Better take those dogs for a walk soon before they start peeing everywhere.}
+{230}{eld63}{Them Unwashed Villagers are stockpiling more weapons... they're a tough bunch.}
+{231}{eld64}{I wish somebody would rob me so I could shoot 'em.}
+{232}{eld65}{Gonna need to clean the shelves soon...}
+{233}{eld66}{Can't wait to go huntin' gangs next week...}
+{234}{eld67}{I got SMGs, pistols, dynamite, grenades... and still people come in wanting swords n' crossbows.}
 
 # 4. INTRO (WTG)
 {240}{eld1}{Welcome, hero! Damn nice work you made of the Enclave... saved all our hides, you did, and I thank you for it. Eldridge's
@@ -43,10 +43,10 @@
 {241}{eld2}{Welcome, mister... Eldridge's the name. You in the market for some iron to fill that holster of yours?}
 {242}{eld3}{Welcome, traveler... Eldridge's the name. You in the market for some iron to fill that holster of yours?}
 {243}{}{Ernnnnh? Hole-sterrr?}
-{244}{eld92}{Depends on what you're selling.}
+{244}{eld87}{Depends on what you're selling.}
 
 # 5. INTRO, FALLOUT 2 (WTG, 4)
-{250}{eld4}{Welcome back, hero! Damn nice work you made of the Enclave... saved all our hides, you did, and I thank you for it. }
+{250}{}{Welcome back, hero! Damn nice work you made of the Enclave... saved all our hides, you did, and I thank you for it. }
 {251}{eld5}{You see something you like, you let me know, and we'll work out a *special* discount, awright?}
 {252}{}{Awwww rite}
 {253}{}{Wander away}
@@ -80,18 +80,18 @@
 {304}{}{Nuh}
 
 # 8. JULES (5, 6)
-{310}{eld11}{Jules sent you my way, huh? }
-{311}{eld12}{'Bout time that lazy bastard did his job... so what can I do you for, mister?}
-{312}{eld13}{'Bout time that lazy bastard did his job... pardon my French. So what can I do you for, miss?}
+{310}{}{Jules sent you my way, huh? }
+{311}{}{'Bout time that lazy bastard did his job... so what can I do you for, mister?}
+{312}{}{'Bout time that lazy bastard did his job... pardon my French. So what can I do you for, miss?}
 
 # 9. CAN YOU UPGRADE WEAPONS, ALGERNON DEAD (5, 6, 8)
-{330}{eld14}{No, no... we used to be in the business of doing that, but...(Looks pained.)...well, there's been an
+{330}{eld13}{No, no... we used to be in the business of doing that, but...(Looks pained.)...well, there's been an
  accident... and we just don't do it no more. Anything else I can do for you?}
 {331}{}{All right then. I'm interested in something else...}
 
 # 10. CAN YOU MODIFY OR UPGRADE WEAPONS? (5, 6, 8, 11, 12, 13, 17)
-{340}{eld15}{Sure as hell can. Whatcha need suped up?}
-{1340}{eld45}{Sure as hell can. (Glances at your equipment.) But you don't look like you have anything I can tinker with.
+{340}{eld14}{Sure as hell can. Whatcha need suped up?}
+{1340}{eld42}{Sure as hell can. (Glances at your equipment.) But you don't look like you have anything I can tinker with.
  Bring by some virgin... eh, "normal" pistols and rifles, and I might be able to help you.}
 {341}{}{Can you do anything with any of these pistols I have?}
 {342}{}{One of my rifles could use some attachments.}
@@ -102,8 +102,8 @@
 {1346}{}{I'll do that. Goodbye.}
 
 # 11. PISTOLS MENU (10)
-{350}{eld16}{(Spots your magnum.) I can put a speed loader on that magnum there for $}
-{351}{eld17}{That Desert Eagle you got... if you want, I can give it an expanded magazine for $}
+{350}{eld15}{(Spots your magnum.) I can put a speed loader on that magnum there. (Scrawls a price on a greasy scrap of paper: $}
+{351}{eld16}{That Desert Eagle you got... if you want, I can give it an expanded magazine. (Scrawls a price on a greasy scrap of paper: $}
 {352}{}{Put the speed loader on the magnum.}
 {353}{}{Expand the magazine in this Desert Eagle here.}
 {354}{}{Actually, I had another weapon in mind...}
@@ -112,49 +112,49 @@
 {357}{}{Too rich for my blood. I'll be back when I have more cash.}
 
 # 12. RIFLES MENU (10)
-{365}{eld18}{(Studies your rifles, nods.) }
-{366}{eld19}{I can put a scope on that hunting rifle for $}
-{367}{eld20}{That assault rifle you got there... I can give it an expanded magazine for $}
-{368}{eld21}{I've got a low-light scope I can put on that FN FAL you got for $}
+{365}{eld17}{(Studies your rifles, nods.) }
+{366}{eld18}{I can put a scope on that hunting rifle. (Taps a number on his price list: $}
+{367}{eld19}{That assault rifle you got there... I can give it an expanded magazine. (Chalks a number on the counter: $}
+{368}{eld20}{I've got a low-light scope I can put on that FN FAL you got. (Taps a number on his price list: $}
 {369}{}{All right then... put a scope on the Colt hunting rifle.}
 {370}{}{Expand the magazine of the AK-112 assault rifle.}
 {371}{}{Attach that low-light scope on the FN FAL.}
 
 # 13. MELEE MENU (10)
-{385}{eld22}{You want that cattleprod juiced up? I can SUPERCHARGE it for $}
+{385}{eld21}{You want that cattleprod juiced up? I can SUPERCHARGE it. (Grins, and scrawls a price on the counter: $}
 {386}{}{Sure.}
 
 # 14. RETURN ITEMS MENU (11, 12, 13)
-{395}{eld23}{(Eldridge takes the item, examines it critically.) Awright... you just hold on for a bit, and I'll see what I can do.
+{395}{eld22}{(Eldridge takes the item, examines it critically.) Awright... you just hold on for a bit, and I'll see what I can do.
  (He disappears into the back.)}
 {396}{}{Okay.}
 
 # 15. RETURN ITEMS MENU (14)
-{400}{eld24}{(You wait...)}
+{400}{eld23}{(You wait...)}
 {401}{}{Wait...}
 
 # 16. RETURN ITEMS MENU (15)
-{405}{eld25}{(And wait some more...)}
+{405}{eld24}{(And wait some more...)}
 {406}{}{Dum de dum de dum...}
 
 # 17. RETURN ITEMS MENU (16)
-{410}{eld26}{(You are about to nod off, when suddenly Eldridge returns.) Sorry about the wait... here ya go. This might give you
+{410}{eld25}{(You are about to nod off, when suddenly Eldridge returns.) Sorry about the wait... here ya go. This might give you
  an edge against any son of bitches that try n' step on your shadow.}
 {411}{}{Thanks. Can you upgrade any of my other weapons?}
 {412}{}{Thanks. I wanted something else...}
 {413}{}{Thanks. I'll go try it out.}
 
 # 18. I'M LOOKING FOR SOMETHING SPECIAL (5, 6, 7, 8)
-{420}{eld27}{Oh... we got us a discrimnatin' customer, eh? Well, at times, some prize pieces do make their way through town... take
+{420}{eld26}{Oh... we got us a discrimnatin' customer, eh? Well, at times, some prize pieces do make their way through town... take
  this, for example. (Holds up something... odd.) Genuine pre-war tech. Innit something?}
 {423}{}{Uh... it's "something," all right. Can I take a look?}
 {424}{}{Sure is. I was interested in something else, though...}
 {425}{}{Not interested. Thanks anyway.}
 
 # 19. MODULE 2 (18)
-{430}{eld28}{(It's a pretty plastic square with holes in it and metal lines drawn all over it. Some funny word-symbol things are written on it. It reminds you of a mechanical pop-tart, and your mouth starts to water.)}
-{431}{eld29}{(It's what looks like a circuit board. It's a little dusty, but it looks to be in good condition. It looks like it's part of... something. Printed on the board is: 'Vault Tec voice recognition module.')}
-{432}{eld30}{(It's a complex circuit board. A memory chip is set into it, and a number of computer connections are on the side, including an input and output. Printed on the board is: 'Vault Tec voice recognition module.')}
+{430}{eld27}{(It's a pretty plastic square with holes in it and metal lines drawn all over it. Some funny word-symbol things are written on it. It reminds you of a mechanical pop-tart, and your mouth starts to water.)}
+{431}{eld28}{(It's what looks like a circuit board. It's a little dusty, but it looks to be in good condition. It looks like it's part of... something. Printed on the board is: 'Vault Tec voice recognition module.')}
+{432}{eld29}{(It's a complex circuit board. A memory chip is set into it, and a number of computer connections are on the side, including an input and output. Printed on the board is: 'Vault Tec voice recognition module.')}
 {433}{}{Me vant tasty board}
 {434}{}{Me vant sumfin else}
 {435}{}{Me vant to go}
@@ -164,8 +164,8 @@
 {439}{}{Not today, thanks.}
 
 # 20. BUY IT (19, 20)
-{450}{eld31}{Three thousand bucks. Take it or leave it.}
-{451}{eld32}{Last time: three thousand bucks. Take it or leave it.}
+{450}{eld30}{Three thousand bucks. Take it or leave it.}
+{451}{eld31}{Last time: three thousand bucks. Take it or leave it.}
 {452}{}{Okee-dokkeee}
 {454}{}{Go for his throat and take the mechanical pop-tart}
 {455}{}{Leaf it}
@@ -174,29 +174,29 @@
 {459}{}{I'll leave it.}
 
 # 21. BUY IT (20)
-{470}{eld33}{$2500. And that's my final offer.}
+{470}{eld32}{$2500. And that's my final offer.}
 {471}{}{All right, all right. Here you go.}
 {472}{}{Forget it, then. I wanted something else...}
 {473}{}{No thanks, then. See you around.}
 {474}{}{Too rich for my blood. Let's talk some other time when I have some more money.}
 
 # 22. BUY IT (20, 21)
-{480}{eld34}{(Smiles, rubs hands as you lay the money on the table.) Awright, here you go. }
-{481}{eld35}{(Thinks about it for a moment, studies you, then nods.) Awright then... I'm letting you have it for a steal, but
+{480}{}{(Smiles, rubs hands as you lay the money on the table.) Awright, here you go. }
+{481}{}{(Thinks about it for a moment, studies you, then nods.) Awright then... I'm letting you have it for a steal, but
  here you go. (Hands you the module, takes your money.) }
-{482}{eld36}{Anything else?}
+{482}{}{Anything else?}
 {485}{}{Yeah, I was interested in something else...}
 {486}{}{Nothing else today, thanks.}
 
 # 23. CAN I BUY LASER PISTOLS HERE? (5, 6, 8)
-{495}{eld37}{(Blinks in surprise, then laughs.) Haw! No, no... those weapons are something else, ain't they? Sure would LIKE
+{495}{eld35}{(Blinks in surprise, then laughs.) Haw! No, no... those weapons are something else, ain't they? Sure would LIKE
  to get my hands on one, though... check out the range, power, fire rate...(Stares into distance, sighs.)}
 {496}{}{What if I offered to get you one?}
 {497}{}{I'd be nice to have one, all right. Say, I wanted something else...}
 {498}{}{Oh, well. Had to ask. Thanks, Eldridge.}
 
 # 24. WHAT IF I GOT YOU ONE? (23)
-{505}{eld38}{(Squints at you, as if deciding whether he can trust you.) I wouldn't say no... if you did it, quiet-like. I'd
+{505}{eld36}{(Squints at you, as if deciding whether he can trust you.) I wouldn't say no... if you did it, quiet-like. I'd
  pay you for your trouble...(Frowns.)...assuming you didn't CAUSE any.}
 {506}{}{No trouble at all... I have one on me. Here you go.}
 {507}{}{I'll do it. Before I do, though, I wanted something else...}
@@ -205,53 +205,84 @@
 {510}{}{Can't promise that... me and trouble seem to travel together. See you later, Eldridge.}
 
 # 25. LASER PISTOL RETRIEVED? (5, 6, 8, 24)
-{520}{eld39}{Well, piss on my back and tell me it's raining! }
-{521}{eld40}{Well, hell then! True to my word, here's something for your trouble... }
-{522}{eld41}{(Gives you a bunch of chips, takes the pistol.) Damn... strange lookin' thing, innnit? (Examines barrel.) Hmmm...}
+{520}{}{Well, piss on my back and tell me it's raining! }
+{521}{}{Well, hell then! True to my word, here's something for your trouble... }
+{522}{}{(Gives you a bunch of chips, takes the pistol.) Damn... strange lookin' thing, innnit? (Examines barrel.) Hmmm...}
 {523}{}{I wanted something else...}
 {524}{}{Pleasure doing business with you, Eldridge. Enjoy.}
 
 # 26. REP: MADE MAN (5, 6, 8)
-{530}{eld42}{(Eldridge looks you up and down, and his tone becomes more respectful.) Sure, of course. Let me show you our
+{530}{eld39}{(Eldridge looks you up and down, and his tone becomes more respectful.) Sure, of course. Let me show you our
  special stock... at a discount, of course.}
 {532}{}{Actually, I was interested in something else...}
 {533}{}{Nevermind. I'll be back.}
 
 # 27. AFTER HOURS (Dogs Barking)
-{545}{eld72}{You dogs shut the hell up, y'hear?}
-{546}{eld73}{Shut up, you yapping mutts!}
-{547}{eld74}{Creatures of the night... shut up!}
-{548}{eld75}{Packard! Buck! Missy! You all better shut up, or I'm gonna come in there!}
-{549}{eld76}{One more WOOF outta you, and I'm coming in there!}
-{550}{eld77}{Damn dogs!}
+{545}{eld68}{You dogs shut the hell up, y'hear?}
+{546}{eld69}{Shut up, you yapping mutts!}
+{547}{eld70}{Creatures of the night... shut up!}
+{548}{eld71}{Packard! Buck! Missy! You all better shut up, or I'm gonna come in there!}
+{549}{eld72}{One more WOOF outta you, and I'm coming in there!}
+{550}{eld73}{Damn dogs!}
 
 # 28. DOOR
-{560}{eld78}{What, you think I'm wearing a blindfold?}
-{561}{eld79}{Get yer hands offa that door!}
-{562}{eld80}{Don't mess with that door again.}
-{563}{eld81}{Touch that door, and that's the last thing you'll ever touch.}
-{564}{eld82}{Funny, last person who touched that door's buried on Golgotha. Don't touch it again.}
+{560}{eld74}{What, you think I'm wearing a blindfold?}
+{561}{eld75}{Get yer hands offa that door!}
+{562}{eld76}{Don't mess with that door again.}
+{563}{eld77}{Touch that door, and that's the last thing you'll ever touch.}
+{564}{eld78}{Funny, last person who touched that door's buried on Golgotha. Don't touch it again.}
 
 # 29. ROOM:
-{575}{eld83}{You ain't supposed to be there! Get out! Get outta there!}
-{576}{eld84}{You ain't allowed in the back! Get out!}
-{577}{eld85}{Get outta the back before I fill you full of holes!}
-{578}{eld86}{Stay in the back, and you're gonna be target practice!}
+{575}{eld79}{You ain't supposed to be there! Get out! Get outta there!}
+{576}{eld80}{You ain't allowed in the back! Get out!}
+{577}{eld81}{Get outta the back before I fill you full of holes!}
+{578}{eld82}{Stay in the back, and you're gonna be target practice!}
 
-{600}{eld87}{Boy we're closed... }
-{601}{eld88}{Missy we're closed... }
-{610}{eld89}{So I suggest you get the hell outta here before I shoot you dead.}
+{600}{}{Boy we're closed... }
+{601}{}{Missy we're closed... }
+{610}{}{So I suggest you get the hell outta here before I shoot you dead.}
 
-{700}{eld93}{God damn dogs! I'm going back to bed.}
-{701}{eld90}{Stupid Dogs! I'm putting you all to sleep first thing tomorrow.}
-{702}{eld91}{Would you dogs shut up! Nobody's stupid enough to break into a gun store!}
+{700}{eld88}{God damn dogs! I'm going back to bed.}
+{701}{eld85}{Stupid Dogs! I'm putting you all to sleep first thing tomorrow.}
+{702}{eld86}{Would you dogs shut up! Nobody's stupid enough to break into a gun store!}
 
 {800}{}{You have delivered a laser pistol to Eldridge.}
 
 # END LINES
 {5256}{}{...told me to stop by, and that you would "set me up."}
-{5500}{eld46}{.}
+{5500}{}{.)}
 
 #added by killap
-{801}{eld43}{Hey, do I look like some magician to you? You are gonna need the gun if you wanna upgrade it. Now get out of here and go find one I can upgrade... Sheesh!}
-{802}{eld44}{Come back when you got the money.}
+{801}{eld40}{Hey, do I look like some magician to you? You are gonna need the gun if you wanna upgrade it. Now get out of here and go find one I can upgrade... Sheesh!}
+{802}{eld41}{Come back when you got the money.}
+
+# VOCK Add Ons -- concatenation fix: each of these glued a second line onto the first, and only the first ever voiced -- merged into standalone lines so every branch stays fully voiced.
+# Node005: replaces 250 + 251.
+{245}{eld4}{Welcome back, hero! Damn nice work you made of the Enclave... saved all our hides, you did, and I thank you for it. You see something you like, you let me know, and we'll work out a *special* discount, awright?}
+# Node008: replaces 310 + 311 (male).
+{313}{eld11}{Jules sent you my way, huh? 'Bout time that lazy bastard did his job... so what can I do you for, mister?}
+# Node008: replaces 310 + 312 (female).
+{314}{eld12}{Jules sent you my way, huh? 'Bout time that lazy bastard did his job... pardon my French. So what can I do you for, miss?}
+# Node022: replaces 480 + 482.
+{483}{eld33}{(Smiles, rubs hands as you lay the money on the table.) Awright, here you go. Anything else?}
+# Node022: replaces 481 + 482.
+{484}{eld34}{(Thinks about it for a moment, studies you, then nods.) Awright then... I'm letting you have it for a steal, but here you go. (Hands you the module, takes your money.) Anything else?}
+# Node025: replaces 520 + 522.
+{525}{eld37}{Well, piss on my back and tell me it's raining! (Gives you a bunch of chips, takes the pistol.) Damn... strange lookin' thing, innnit? (Examines barrel.) Hmmm...}
+# Node025: replaces 521 + 522.
+{526}{eld38}{Well, hell then! True to my word, here's something for your trouble... (Gives you a bunch of chips, takes the pistol.) Damn... strange lookin' thing, innnit? (Examines barrel.) Hmmm...}
+# Node030: replaces 600 + 610 (male).
+{602}{eld83}{Boy we're closed... So I suggest you get the hell outta here before I shoot you dead.}
+# Node030: replaces 601 + 610 (female).
+{603}{eld84}{Missy we're closed... So I suggest you get the hell outta here before I shoot you dead.}
+
+# VOCK Add Ons -- weapon picker fix: Node011 and Node012 offered every carried weapon in one concatenated reply, so only the first price line ever voiced. They now open with a picker and give each weapon its own reply.
+# Node011: handgun picker opener, reuses the rifle opener's tag (wordless nod).
+{360}{eld17}{(Studies your handguns, nods.)}
+# Node011: picker options.
+{361}{}{The magnum.}
+{362}{}{The Desert Eagle.}
+# Node012: picker options.
+{372}{}{The hunting rifle.}
+{373}{}{The assault rifle.}
+{374}{}{The FN FAL.}

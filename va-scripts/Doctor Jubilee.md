@@ -64,7 +64,7 @@ NCR 1, the hospital.
 
 **jub16:** The big one. Saltbeef's an old uranium prospector - more accurately, a drunk. Lives out on the Westin spread these days.
 
-**jub17:** Well, I was really hoping to get some money for it. I'll let it go for $
+**jub17:** Well, I was really hoping to get some money for it. I'll let it go for $10000.
 
 **jub18:** Saltbeef's an old uranium prospector. Lives out on the Westin spread these days.
 

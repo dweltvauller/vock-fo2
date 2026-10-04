@@ -17,6 +17,9 @@
              Node050's two lines were each one Reply() built from two fragments
              with the player's name spliced between; they now play single
              pre-written lines using "in-law". Affected node: Node050.
+             The wedding-confrontation floats glued Miria's or Davin's name and
+             an ending onto an opener, so only the opener voiced; each variant
+             is now one whole line (Grisham's and Uncle Biff's).
 */
 
 /* Include Files */
@@ -253,9 +256,9 @@ procedure critter_p_proc begin
             end
          end else if (get_sub_stage == wedding_stage_grisham_response) then begin
             if (sex_act_straight) then begin
-               floater_type_msg(mstr(403 + (1000*grisham_dead)) + mstr(412 + is_staging_davin_wedding + (1000*grisham_dead)) + mstr(453), FLOAT_COLOR_BAD); // Seraph's Fix: added (1000*grisham_dead)
+               floater_type_msg(mstr(472 + is_staging_davin_wedding + (2*grisham_dead)), FLOAT_COLOR_BAD);   //VOCK: was floater_type_msg(mstr(403 + (1000*grisham_dead)) + mstr(412 + is_staging_davin_wedding + (1000*grisham_dead)) + mstr(453), FLOAT_COLOR_BAD)
             end else begin
-               floater_type_msg(mstr(402) + mstr(412 + is_staging_davin_wedding) + mstr(452), FLOAT_COLOR_BAD);
+               floater_type_msg(mstr(470 + is_staging_davin_wedding), FLOAT_COLOR_BAD);   //VOCK: was floater_type_msg(mstr(402) + mstr(412 + is_staging_davin_wedding) + mstr(452), FLOAT_COLOR_BAD)
             end
             set_next_stage_time(wait_stage_time)
             set_sub_stage(wedding_stage_response_wait)
@@ -277,7 +280,7 @@ procedure critter_p_proc begin
             set_next_stage_time(quick_stage_time)
             set_sub_stage(wedding_stage_continue)
          end else if (get_sub_stage == wedding_stage_grisham_response_2) then begin
-            floater_type_msg(mstr(410) + mstr(412 + is_staging_davin_wedding) + mstr(460 + is_staging_davin_wedding), FLOAT_COLOR_BAD);
+            floater_type_msg(mstr(476 + is_staging_davin_wedding), FLOAT_COLOR_BAD);   //VOCK: was floater_type_msg(mstr(410) + mstr(412 + is_staging_davin_wedding) + mstr(460 + is_staging_davin_wedding), FLOAT_COLOR_BAD)
             set_next_stage_time(default_stage_time)
             set_sub_stage(wedding_stage_player_vow_response)
             set_local_var(LVAR_Home_Tile, 28710); //added by killap

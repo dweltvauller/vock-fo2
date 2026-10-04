@@ -51,7 +51,7 @@
 {150}{}{Another question...}
 {151}{}{Thanks for the story.}
 #CMH changing per Fergus.. Now you have to pay 1000 or steal the painting off of him.
-{152}{jub17}{Well, I was really hoping to get some money for it. I'll let it go for $}
+{152}{}{Well, I was really hoping to get some money for it. I'll let it go for $}
 {153}{}{Maybe later, another question...}
 {154}{}{Maybe later, I have to go.}
 {155}{jub18}{Saltbeef's an old uranium prospector. Lives out on the Westin spread these days.}
@@ -202,3 +202,5 @@
 # compiled TH layer -- pre-existing dead code, tagged per the dead-tag keep policy in case
 # it's ever wired up.
 {2013}{jub54}{No can do, I'm afraid. Those are for Councilman Westin, and I'm not going to have the time to mix up another batch before his people come collect them. I'm sure you can find a pharmacist with a lighter workload.}
+# Node014: replaces 152 + 10000 + 176. The price is fixed, not a live value, so it is spoken.
+{2014}{jub17}{Well, I was really hoping to get some money for it. I'll let it go for $10000.}

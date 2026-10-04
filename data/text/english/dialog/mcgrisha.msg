@@ -115,25 +115,25 @@
 
 #define wedding script dialog
 {400}{grish70}{What's going on in here?}
-{402}{grish71}{Holy shit! I knew }
-{452}{grish82}{ was different, but there's only one way to make this right!}
-{403}{grish72}{How dare you sully the honor of my }
-{453}{grish83}{. There's only one way to make this right!}
-{404}{grish73}{Uh, Jo, can we just skip to the vow tying parts?}
-{406}{grish74}{Boy...}
-{407}{grish75}{Missy...}
-{410}{grish76}{Don't make me make }
-{460}{grish84}{ a widow.}
-{461}{grish85}{ a widower.}
-{412}{grish77}{Miria}
-{413}{grish78}{Davin}
+{402}{}{Holy shit! I knew }
+{452}{}{ was different, but there's only one way to make this right!}
+{403}{}{How dare you sully the honor of my }
+{453}{}{. There's only one way to make this right!}
+{404}{grish75}{Uh, Jo, can we just skip to the vow tying parts?}
+{406}{grish76}{Boy...}
+{407}{grish77}{Missy...}
+{410}{}{Don't make me make }
+{460}{}{ a widow.}
+{461}{}{ a widower.}
+{412}{}{Miria}
+{413}{}{Davin}
 
 # Seraph's Code: Cousin Bo
-{414}{grish79}{Uh, Bo, can we just skip to the vow tying parts?}
+{414}{grish80}{Uh, Bo, can we just skip to the vow tying parts?}
 
 # Seraph's Fix: changed '220' to '420' and '221' to '421'. Thanks Wasteland Ghost!
-{420}{grish80}{You're not going anywhere, boy!}
-{421}{grish81}{You're not going anywhere, missy!}
+{420}{grish81}{You're not going anywhere, boy!}
+{421}{grish82}{You're not going anywhere, missy!}
 
 # Node 4
 {500}{grish44}{Why, that's a fine looking animal you have there. Should make some fine jerky. Tell you what, I'll just keep some of the jerky as payment. What do you say?}
@@ -170,14 +170,14 @@
 # Seraph's Code: Uncle Biff
 {1101}{}{You see Uncle Biff.}
 
-{1155}{grish86}{I knew my niece was odd.}
-{1156}{grish87}{Different people, different tastes, I suppose.}
-{1157}{grish88}{I'm glad Grisham ain't alive to see this.}
-{1158}{grish89}{I knew my nephew was odd.}
+{1155}{grish83}{I knew my niece was odd.}
+{1156}{grish84}{Different people, different tastes, I suppose.}
+{1157}{grish85}{I'm glad Grisham ain't alive to see this.}
+{1158}{grish86}{I knew my nephew was odd.}
 
-{1159}{grish90}{I guess you're family, now.}
-{1160}{grish91}{You take good care of my niece.}
-{1161}{grish92}{You take good care of my nephew.}
+{1159}{grish87}{I guess you're family, now.}
+{1160}{grish88}{You take good care of my niece.}
+{1161}{grish89}{You take good care of my nephew.}
 
 {1228}{grish49}{Boy, dont even try to explain this. I dont want to hear it. I'm gonna get the preacher, make this all lawful like, and you will leave and take my nephew with you when you go.}
 {1229}{grish50}{I can't say Im not just a little turned on by this, but I've got to do what Grisham would've wanted. You two are going to have to get hitched and leave.}
@@ -189,12 +189,30 @@
 {1238}{grish55}{Let me see. It looked to me that you and my niece were imitating the brahmin during mating season.}
 {1239}{grish56}{Let me see. It looked to me that you and my nephew were doing the horizontal tango between the sheets.}
  
-{1403}{grish93}{How dare you sully the honor of my brother's }
-{1412}{grish94}{daughter.}
-{1413}{grish95}{son.}
+{1403}{}{How dare you sully the honor of my brother's }
+{1412}{}{daughter.}
+{1413}{}{son.}
 
 # VOCK Add Ons -- PC-name splice fix: merged fragments now play as one pre-written line; "in-law" replaces the splice. Old 600/601/1600/1601 entries above left untagged for reference.
 # Node050: replaces 600 + PC + 1600.
-{650}{grish96}{Howdy, in-law. I hope you're taking good care of my daughter, Miria. She is the light of my life and it would break my heart if anything were to happen to her. Where is she by the way? I was sure hoping to see her again.}
+{650}{grish92}{Howdy, in-law. I hope you're taking good care of my daughter, Miria. She is the light of my life and it would break my heart if anything were to happen to her. Where is she by the way? I was sure hoping to see her again.}
 # Node050: replaces 601 + PC + 1601.
-{651}{grish97}{Well, if it isn't my in-law. How's the married life treating you? I see my son Davin isn't traveling with you. I sure do miss him. Maybe the next time you visit you can bring him along. It sure would make an old man happy if he could see his only son again.}
+{651}{grish93}{Well, if it isn't my in-law. How's the married life treating you? I see my son Davin isn't traveling with you. I sure do miss him. Maybe the next time you visit you can bring him along. It sure would make an old man happy if he could see his only son again.}
+
+# VOCK Add Ons -- concatenation fix: the wedding floats glued a name and an ending onto an opener, and only the opener ever voiced -- merged into whole lines, one per bride or groom.
+# Wedding, not straight: replaces 402 + 412 + 452.
+{470}{grish71}{Holy shit! I knew Miria was different, but there's only one way to make this right!}
+# Wedding, not straight: replaces 402 + 413 + 452.
+{471}{grish72}{Holy shit! I knew Davin was different, but there's only one way to make this right!}
+# Wedding, straight: replaces 403 + 412 + 453.
+{472}{grish73}{How dare you sully the honor of my Miria. There's only one way to make this right!}
+# Wedding, straight: replaces 403 + 413 + 453.
+{473}{grish74}{How dare you sully the honor of my Davin. There's only one way to make this right!}
+# Wedding, straight, Uncle Biff: replaces 1403 + 1412 + 453.
+{474}{grish90}{How dare you sully the honor of my brother's daughter. There's only one way to make this right!}
+# Wedding, straight, Uncle Biff: replaces 1403 + 1413 + 453.
+{475}{grish91}{How dare you sully the honor of my brother's son. There's only one way to make this right!}
+# Wedding vows: replaces 410 + 412 + 460.
+{476}{grish78}{Don't make me make Miria a widow.}
+# Wedding vows: replaces 410 + 413 + 461.
+{477}{grish79}{Don't make me make Davin a widower.}

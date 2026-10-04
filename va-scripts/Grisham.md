@@ -2,7 +2,7 @@
 
 Modoc — slaughterhouse owner, father of Miria and Davin
 
-**97 recordable lines. Tags grish1–grish97.**
+**93 recordable lines. Tags grish1–grish93.**
 
 > **Direction:** A weathered old slaughterhouse owner — gruff, transactional, and quick to turn nasty when he feels cheated or crossed. He haggles hard, holds a grudge, and isn't above a threat delivered with a smile. Underneath the crotchety business act he's fiercely protective of his two kids, Miria and Davin, and possessive of his brahmin herd. Comfortable with dark, deadpan humor, even when he's the one making the threat. Later in the game, if Grisham has died, his brother Uncle Biff steps into the same fatherly role using the same voice — play him with the same gruff old-man energy, just addressing a niece/nephew instead of a son/daughter.
 
@@ -89,24 +89,21 @@ Modoc — slaughterhouse owner, father of Miria and Davin
 
 ## The Wedding
 
-*Grisham interrupts the ceremony to make sure it happens properly. Several of these are recorded as short standalone fragments — the game splices in "Miria" or "Davin" between the pieces at runtime, so read each fragment as an incomplete sentence that trails off.*
+*Grisham interrupts the ceremony to make sure it happens properly. Where a line names Miria or Davin, record one take for each.*
 
 - **grish70:** What's going on in here?
-- **grish71:** Holy shit! I knew *(...trails off — a name gets inserted here)*
-- **grish82:** was different, but there's only one way to make this right! *(...continues from the fragment above)*
-- **grish72:** How dare you sully the honor of my *(...trails off — a name gets inserted here)*
-- **grish83:** . There's only one way to make this right! *(...continues from the fragment above)*
-- **grish77:** Miria *(name insert only — no surrounding sentence of its own)*
-- **grish78:** Davin *(name insert only — no surrounding sentence of its own)*
-- **grish73:** Uh, Jo, can we just skip to the vow tying parts?
-- **grish79:** Uh, Bo, can we just skip to the vow tying parts? *(Same line, addressed to Jo's cousin Bo if Jo has died.)*
-- **grish74:** Boy...
-- **grish75:** Missy...
-- **grish76:** Don't make me make *(...trails off — a name gets inserted here)*
-- **grish84:** a widow. *(...continues from the fragment above)*
-- **grish85:** a widower. *(...continues from the fragment above)*
-- **grish80:** You're not going anywhere, boy!
-- **grish81:** You're not going anywhere, missy!
+- **grish71:** Holy shit! I knew Miria was different, but there's only one way to make this right!
+- **grish72:** Holy shit! I knew Davin was different, but there's only one way to make this right!
+- **grish73:** How dare you sully the honor of my Miria. There's only one way to make this right!
+- **grish74:** How dare you sully the honor of my Davin. There's only one way to make this right!
+- **grish75:** Uh, Jo, can we just skip to the vow tying parts?
+- **grish80:** Uh, Bo, can we just skip to the vow tying parts? *(Same line, addressed to Jo's cousin Bo if Jo has died.)*
+- **grish76:** Boy...
+- **grish77:** Missy...
+- **grish78:** Don't make me make Miria a widow.
+- **grish79:** Don't make me make Davin a widower.
+- **grish81:** You're not going anywhere, boy!
+- **grish82:** You're not going anywhere, missy!
 
 ## Interrupting an Assault
 
@@ -141,8 +138,8 @@ Modoc — slaughterhouse owner, father of Miria and Davin
 
 *Grisham hasn't seen his son/daughter-in-law in a while.*
 
-- **grish96:** Howdy, in-law. I hope you're taking good care of my daughter, Miria. She is the light of my life and it would break my heart if anything were to happen to her. Where is she by the way? I was sure hoping to see her again.
-- **grish97:** Well, if it isn't my in-law. How's the married life treating you? I see my son Davin isn't traveling with you. I sure do miss him. Maybe the next time you visit you can bring him along. It sure would make an old man happy if he could see his only son again.
+- **grish92:** Howdy, in-law. I hope you're taking good care of my daughter, Miria. She is the light of my life and it would break my heart if anything were to happen to her. Where is she by the way? I was sure hoping to see her again.
+- **grish93:** Well, if it isn't my in-law. How's the married life treating you? I see my son Davin isn't traveling with you. I sure do miss him. Maybe the next time you visit you can bring him along. It sure would make an old man happy if he could see his only son again.
 
 ## Death
 
@@ -161,20 +158,19 @@ Modoc — slaughterhouse owner, father of Miria and Davin
 - **grish54:** That's just great. I'm going to have a smart-ass as an in-law. Well... come on niece, let's get this over with.
 - **grish55:** Let me see. It looked to me that you and my niece were imitating the brahmin during mating season.
 - **grish56:** Let me see. It looked to me that you and my nephew were doing the horizontal tango between the sheets.
-- **grish86:** I knew my niece was odd.
-- **grish87:** Different people, different tastes, I suppose.
-- **grish88:** I'm glad Grisham ain't alive to see this.
-- **grish89:** I knew my nephew was odd.
-- **grish90:** I guess you're family, now.
-- **grish91:** You take good care of my niece.
-- **grish92:** You take good care of my nephew.
+- **grish83:** I knew my niece was odd.
+- **grish84:** Different people, different tastes, I suppose.
+- **grish85:** I'm glad Grisham ain't alive to see this.
+- **grish86:** I knew my nephew was odd.
+- **grish87:** I guess you're family, now.
+- **grish88:** You take good care of my niece.
+- **grish89:** You take good care of my nephew.
 
-*The wedding-interruption fragment, Uncle Biff's version — same splicing as Grisham's own version above.*
+*The wedding interruption, Uncle Biff's version.*
 
-- **grish93:** How dare you sully the honor of my brother's *(...trails off — a name gets inserted here)*
-- **grish94:** daughter. *(...continues from the fragment above)*
-- **grish95:** son. *(...continues from the fragment above)*
+- **grish90:** How dare you sully the honor of my brother's daughter. There's only one way to make this right!
+- **grish91:** How dare you sully the honor of my brother's son. There's only one way to make this right!
 
 ---
 
-97 total lines. Tag numbers follow ascending message-ID order, not this document's topical grouping.
+93 total lines. Tag numbers follow ascending message-ID order, not this document's topical grouping.

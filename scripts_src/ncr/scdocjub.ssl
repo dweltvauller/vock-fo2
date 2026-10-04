@@ -24,6 +24,8 @@
              merged each into a standalone line so every branch is fully voiced. Node025,
              Node036, and Node028's day-count splices became a non-spoken parenthetical
              instead, since the day count can't be pre-recorded.
+             Node014's painting price is now one whole line, so the $10000 is part of
+             the recorded line instead of being glued on after it.
 */
 
 /* Include Files */
@@ -517,7 +519,7 @@ procedure NodeSell begin
 end
 
 procedure Node014 begin
-   Reply(mstr(152) + 10000 + mstr(176));
+   Reply(2014);   //VOCK: was Reply(mstr(152) + 10000 + mstr(176))
    NOption(153, Node008, 4);
    if (dude_caps >= 10000) then
       NOption(mstr(174) + 10000 + mstr(176), NodeSell, 4);
