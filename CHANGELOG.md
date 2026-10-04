@@ -12,6 +12,9 @@
 - Valerie's talking head no longer shifts sideways when she starts talking or while she talks (Vault City)
 - Lao Chou's talking head no longer plays the wrong animation when his mood goes from bad to neutral (San Francisco)
 
+## v1.15
+- Added voices: Don (Slaver Camp)
+
 ## v1.14
 - Added voices: Peterson (Abbey), Joseph (Vault 13), Krom (Umbra Tribe), Zaius (Broken Hills), Flick (The Den), Rebecca Dyer (The Den)
 - Fixed Francis audio track crossover bug
