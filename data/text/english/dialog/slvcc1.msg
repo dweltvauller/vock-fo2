@@ -10,8 +10,7 @@
 
 {200}{don2}{You first, asshole.}
 {201}{don3}{I don't have time for this, get 'em boys.}
-{202}{don4}{Join us? This aint a fuckin recruiting center. If you want to join the slavers go to the Den and speak with Metzger.
- Now do you need something or are you just here to piss me off?}
+{202}{don4}{Join us? This aint a fuckin recruiting center. If you want to join the slavers go to the Den and speak with Metzger. Now do you need something or are you just here to piss me off?}
 {203}{don5}{Metzger sent you? [He fidgets uncomfortably.] Don't tell me he wants more slaves already -- for fuck's sake, we just sent a shipment last week.}
 
 {300}{}{Actually yes, I do need something.}
@@ -39,7 +38,5 @@
 {800}{don16}{Umm... Give Metzger my regards.}
 
 #RP 1.3
-{900}{}{No, actually, he sent me to have a look at your stock. You see, I have very particular tastes, but I'm willing to
- pay a premium price.}
-{901}{don12}{Bullshit. Metzger's never sent a customer out here before. I don't know what you're trying to pull, but you've
- got three seconds to get the fuck outta my face before I have my boys pump you full of lead.}
+{900}{}{No, actually, he sent me to have a look at your stock. You see, I have very particular tastes, but I'm willing to pay a premium price.}
+{901}{don12}{Bullshit. Metzger's never sent a customer out here before. I don't know what you're trying to pull, but you've got three seconds to get the fuck outta my face before I have my boys pump you full of lead.}
