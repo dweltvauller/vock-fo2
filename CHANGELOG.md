@@ -6,8 +6,10 @@
 - Fixed see-through spots on AHS-9's talking head (San Francisco)
 - Fixed see-through spots on Jenny's talking head
 - Jenny's talking head no longer gets darker when she speaks
+- Jenny's talking head no longer jumps sideways when she starts or stops talking
 - Big Jesus Mordino's talking head no longer gets darker when he speaks (New Reno)
 - Fixed a see-through spot on Valerie's collar in her talking head (Vault City)
+- Valerie's talking head no longer shifts sideways when she starts talking or while she talks (Vault City)
 - Lao Chou's talking head no longer plays the wrong animation when his mood goes from bad to neutral (San Francisco)
 
 ## v1.14
