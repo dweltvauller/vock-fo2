@@ -21,6 +21,10 @@
              recorded VA take covers its full displayed text. Affected nodes:
              Node001, Node003, Node009, Node020, Node025, Node028, Node030,
              Node031, Node035.
+             The healing and party price quotes now play one whole spoken line,
+             with the price shown in a stage direction after it instead of
+             spoken (Node002, Node007, Node008). The high-impact cosmetic warning
+             plays as one line per gender (Node023).
 */
 
 /* Include Files */
@@ -455,9 +459,9 @@ procedure Node002 begin
    Heal_Barter := Heal_Rate - 100;
 
    if( map_var( MVAR_Auto_Doc_Fixed ) == 0 ) then
-      Reply( mstr(119) + Heal_Rate + mstr(120) + " " + mstr(121) );
+      Reply( mstr(1121) + mstr(1348) + Heal_Rate + mstr(1349) );   //VOCK: was Reply( mstr(119) + Heal_Rate + mstr(120) + " " + mstr(121) )
    else
-      Reply( mstr(119) + Heal_Rate + mstr(120) );
+      Reply( mstr(1119) + mstr(1348) + Heal_Rate + mstr(1349) );   //VOCK: was Reply( mstr(119) + Heal_Rate + mstr(120) )
 
    if( dude_caps >= Heal_Rate) then
       NLowOption(122, Node002a);
@@ -630,9 +634,9 @@ procedure Node007 begin
    Heal_Barter := Heal_Rate - 100;
 
    if( map_var( MVAR_Auto_Doc_Fixed ) == 0 ) then
-      Reply( mstr(158) + Heal_Rate + mstr(159) + " " + mstr(160) );
+      Reply( mstr(1121) + mstr(1348) + Heal_Rate + mstr(1349) );   //VOCK: was Reply( mstr(158) + Heal_Rate + mstr(159) + " " + mstr(160) )
    else
-      Reply( mstr(158) + Heal_Rate + mstr(159) );
+      Reply( mstr(1119) + mstr(1348) + Heal_Rate + mstr(1349) );   //VOCK: was Reply( mstr(158) + Heal_Rate + mstr(159) )
 
    if( dude_caps >= Heal_Rate) then
       NOption(161, Node007a, 004);
@@ -686,9 +690,9 @@ procedure Node008 begin
    multBarterRate := (Heal_Rate - 100)*3;
 
    if( Robobrain_Ptr != 0 ) then
-      Reply( mstr(169) + multRate + mstr(347) );
+      Reply( mstr(1347) + mstr(1348) + multRate + mstr(1349) );   //VOCK: was Reply( mstr(169) + multRate + mstr(347) )
    else
-      Reply( mstr(169) + multRate + mstr(170) );
+      Reply( mstr(1169) + mstr(1348) + multRate + mstr(1349) );   //VOCK: was Reply( mstr(169) + multRate + mstr(170) )
 
    if( dude_caps >= multRate) then
       NOption(171, Node008a, 004);
@@ -997,9 +1001,9 @@ end
 
 procedure Node023 begin
    if( dude_is_female ) then
-      Reply( mstr(256) + " " + mstr(258) );
+      Reply(1256);   //VOCK: was Reply( mstr(256) + " " + mstr(258) )
    else
-      Reply( mstr(257) + " " + mstr(258) );
+      Reply(1257);   //VOCK: was Reply( mstr(257) + " " + mstr(258) )
 
    if (dude_caps >= 40000) and dude_has_combat_armor then begin
       if( (dude_iq > 8) ) then

@@ -1,7 +1,7 @@
 # Doctor Andrew — VA Script
 **Character:** "Doctor" Andrew, unlicensed medic running the Auto-Doc, Vault City
 
-**Total recordable lines:** 59 (`andr1`–`andr59`)
+**Total recordable lines:** 60 (`andr1`–`andr60`)
 
 ---
 
@@ -23,14 +23,14 @@
 `andr5:` You here to get patched up?
 
 ## Healing Cost Quote — Auto-Doc Fixed
-*PC asks to be healed. Line trails off before the game inserts the price.*
+*PC asks to be healed. He writes the price down rather than saying it; the on-screen price follows the line.*
 
-`andr6:` All right... from the looks of it, it's gonna be pricey. (Scribbles $[PRICE] onto a blood-stained prescription pad.) You got the cash, then you're good to go.
+`andr6:` All right... from the looks of it, it's gonna be pricey. You got the cash, then you're good to go.
 
 ## Healing Cost Quote — Auto-Doc Broken
-*Merged recording — `andr6` is repeated.*
+*Same as `andr6`, with a warning added on the end.*
 
-`andr7:` All right... from the looks of it, it's gonna be pricey. (Scribbles $[PRICE] onto a blood-stained prescription pad.) You got the cash, then you're good to go. No guarantees with the ol' Doc in the back room, of course...
+`andr7:` All right... from the looks of it, it's gonna be pricey. You got the cash, then you're good to go. No guarantees with the ol' Doc in the back room, of course...
 
 ## Healing Accepted — Self
 *PC pays and agrees to be healed. `andr56` is a merged line that only plays if the PC haggled the price down (covers the same ground as `andr8` plus an opening "that sounds fair"); `andr8` plays alone if the PC paid full price without haggling.*
@@ -64,9 +64,11 @@
 `andr14:` Well, now I ain't a mechanic, so I can't help that brain whazzit you got with you. Sorry, friend.
 
 ## Healing Cost Quote — Larger Party
-*Three or more party members, at least one injured. Price is tripled. Line trails off before the game inserts the price; the tail changes slightly if Robobrain is present (untagged, no recording needed either way).*
+*Three or more party members, at least one injured. He writes the price down rather than saying it. `andr60` plays instead if Robobrain is in the party.*
 
-`andr15:` Well, now... tell you what.
+`andr15:` Well, now... tell you what. One price for the whole lot of you, and we'll call it even. What do you say?
+
+`andr60:` Well, now... tell you what. One price for the whole lot of you, and we'll call it even. The procedure won't work on your robot brain, buddy. What do you say?
 
 ## Healing Accepted — Party
 *PC pays to heal the whole party (also reused for the mutated-toe procedure — see Toe Removal Accepted). `andr57` is a merged line that only plays if the PC haggled; `andr16` plays alone if the PC paid full price without haggling.*
@@ -153,7 +155,7 @@
 `andr34:` It'll take a stretch, a few days at least, assuming the ol' Doctor don't mess it up. An' it's expensive. 40K, as I see it. Plus... well, it ain't gonna help your looks none.
 
 ## Dermal Impact — High Cosmetic Warning
-*Andrew describes the visible side effects. `andr35` for a male PC, `andr36` for a female PC — each is a merged recording that now includes the charisma-hit follow-up in the same take.*
+*Andrew describes the visible side effects. `andr35` for a female PC, `andr36` for a male PC — each is a merged recording that now includes the charisma-hit follow-up in the same take.*
 
 `andr35` *(merged recording)*: All the curves you got are gonna become right angles, near as I can tell. Shoving all those plates into your body means your charisma's gonna take a hit. You still game?
 `andr36` *(merged recording)*: You're gonna be all blocky-looking when I'm done. Shoving all those plates into your body means your charisma's gonna take a hit. You still game?

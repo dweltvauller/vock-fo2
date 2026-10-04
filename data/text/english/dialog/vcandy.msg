@@ -17,7 +17,7 @@
 {116}{}{I found some combat implant schematics in the Vault City medical database. Could you perform the operation?}
 {117}{}{Not right now. It looks worse than it is.}
 {118}{}{No, I'm fine. Just stopping by.}
-{119}{andr6}{All right... from the looks of it, it's gonna be pricey. (Scribbles $}
+{119}{}{All right... from the looks of it, it's gonna be pricey. (Scribbles $}
 {120}{}{ onto a blood-stained prescription pad.) You got the cash, then you're good to go.}
 {121}{}{No guarantees with the ol' Doc in the back room, of course...}
 {122}{}{Patshhh? Patshh! Take moneee, fixx leaks.}
@@ -56,7 +56,7 @@
 {155}{}{Can you heal me instead?}
 {156}{}{I see. Say, I had some questions I wanted to ask you...}
 {157}{}{Oh, well. Thanks anyway.}
-{158}{andr7}{All right... from the looks of it, it's gonna be pricey. (Scribbles $}
+{158}{}{All right... from the looks of it, it's gonna be pricey. (Scribbles $}
 {159}{}{ onto a blood-stained prescription pad.) You got the cash, then you're good to go.}
 {160}{}{No guarantees with the ol' Doc in the back room, of course...}
 {161}{}{All right.}
@@ -67,7 +67,7 @@
 {166}{}{I found some combat implant schematics in the Vault City medical database. Could you perform the operation?}
 {167}{}{I don't have enough. I'll be back when I have some more cash.}
 {168}{}{I've changed my mind. Maybe some other time.}
-{169}{andr15}{Well, now... tell you what. }
+{169}{}{Well, now... tell you what. }
 {170}{}{ bucks for the whole lot of you, and we'll call it even. What do you say?}
 {171}{}{All right.}
 {172}{}{I don't know. That's a little steep. How about }
@@ -154,8 +154,8 @@
 {253}{}{Tell me about the other implants.}
 {254}{}{Never mind. I had some other questions.}
 {255}{}{I see. Maybe some other time.}
-{256}{andr35}{All the curves you got are gonna become right angles, near as I can tell.}
-{257}{andr36}{You're gonna be all blocky-looking when I'm done.}
+{256}{}{All the curves you got are gonna become right angles, near as I can tell.}
+{257}{}{You're gonna be all blocky-looking when I'm done.}
 {258}{}{Shoving all those plates into your body means your charisma's gonna take a hit. You still game?}
 {259}{}{Oh, what the hell. Here's the cash and the combat armor.}
 {260}{}{I don't know. 40K's pretty steep. I do have $30,000 on me, though.}
@@ -275,3 +275,22 @@
 {1294}{andr59}{Well... that sounds fair. All right, let me just bolt you into the ol' Doctor here... hope the anesthesia reservoir ain't clogged again... maybe you better bite down on this piece of brahmin hide just in case.}
 # Node031: replaces 315 + 316.
 {1316}{andr58}{Well... all right. That sounds fair. Let's get to it, then. I'll just hook up the ol' Doctor here... Let me tighten the braces and secure the clamps...}
+
+# VOCK Add Ons -- staged-price fix: the price quotes spliced a live price into the middle of the line, so the tag only held the opener. Each is now one whole spoken line with the price in a stage direction after it.
+# Node002, Node007: replaces 119/158 + price + 120/159 (Auto-Doc fixed).
+{1119}{andr6}{All right... from the looks of it, it's gonna be pricey. You got the cash, then you're good to go.}
+# Node002, Node007: replaces 119/158 + price + 120/159 + 121/160 (Auto-Doc broken).
+{1121}{andr7}{All right... from the looks of it, it's gonna be pricey. You got the cash, then you're good to go. No guarantees with the ol' Doc in the back room, of course...}
+# Node008: replaces 169 + price + 170.
+{1169}{andr15}{Well, now... tell you what. One price for the whole lot of you, and we'll call it even. What do you say?}
+# Node008: replaces 169 + price + 347 (Robobrain in the party).
+{1347}{andr60}{Well, now... tell you what. One price for the whole lot of you, and we'll call it even. The procedure won't work on your robot brain, buddy. What do you say?}
+# Node002, Node007, Node008: stage direction after the price quote.
+{1348}{}{ (Scribbles $}
+{1349}{}{ onto a blood-stained prescription pad.)}
+
+# VOCK Add Ons -- concatenation fix: the cosmetic warning glued the charisma follow-up onto the opener, which never voiced. Merged into one line per gender.
+# Node023: replaces 256 + 258 (female).
+{1256}{andr35}{All the curves you got are gonna become right angles, near as I can tell. Shoving all those plates into your body means your charisma's gonna take a hit. You still game?}
+# Node023: replaces 257 + 258 (male).
+{1257}{andr36}{You're gonna be all blocky-looking when I'm done. Shoving all those plates into your body means your charisma's gonna take a hit. You still game?}
