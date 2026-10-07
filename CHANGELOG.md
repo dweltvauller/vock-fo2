@@ -1,7 +1,7 @@
 # Changelog
 
 ## WIP
-- Louise (Redding), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno)
+- Louise (Redding), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno), Private Dobbs (Sierra Army Depot)
 - Francis's talking head now has the same lighting in every mood (Broken Hills)
 - Fixed see-through spots on AHS-9's talking head (San Francisco)
 - Fixed see-through spots on Jenny's talking head
