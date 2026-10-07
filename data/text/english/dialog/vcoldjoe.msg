@@ -43,7 +43,7 @@
 {141}{}{Perhaps I'll go speak with him then. However, I was curious about the mole rats that are guarding the village.}
 {142}{ianoj15}{Yeah, what about them?}
 {143}{}{Any idea where they're from or who's controlling them?}
-{144}{ianoj16}{That, I'm not sure about. A bunch of ghouls came by with them. They were carrying strange amulets and talking about some "Renewal". That's pretty much all I know. You might wanna check out Gecko though. That place is still bustling with ghouls. Speaking of big rats, did I ever tell you about the time the Vault Dweller and I went to Vault 15?}
+{144}{ianoj16}{That, I'm not sure about. A bunch of ghouls came by with them. They were carrying strange amulets and talking about some "Renewal". That's pretty much all I know. You might wanna check out Gecko though. That place is still bustling with ghouls. Speaking of big rats, I never did tell you about the time the Vault Dweller and I went to Vault 15.}
 {145}{}{No, but I'm well versed in the tale, as it's become a sacred legend in my tribe. Anyway, maybe I'll go see what I can find in Gecko. Take care, Ian.}
 {146}{}{Uh, thanks for the tip. I think you are the man I need to see though. Connar sent me to ask you for some things.}
 {147}{}{Wait a minute! Connar told me you have some information.}
