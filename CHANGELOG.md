@@ -1,7 +1,7 @@
 # Changelog
 
 ## WIP
-- Louise (Redding), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno), Private Dobbs (Sierra Army Depot)
+- Louise (Redding), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno)
 - Francis's talking head now has the same lighting in every mood (Broken Hills)
 - Fixed see-through spots on AHS-9's talking head (San Francisco)
 - Fixed see-through spots on Jenny's talking head
@@ -13,7 +13,7 @@
 - Lao Chou's talking head no longer plays the wrong animation when his mood goes from bad to neutral (San Francisco)
 
 ## v1.15
-- Added voices: Don (Slaver Camp)
+- Added voices: Don (Slaver Camp), Private Dobbs (Sierra Army Depot)
 
 ## v1.14
 - Added voices: Peterson (Abbey), Joseph (Vault 13), Krom (Umbra Tribe), Zaius (Broken Hills), Flick (The Den), Rebecca Dyer (The Den)
