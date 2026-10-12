@@ -60,6 +60,12 @@
 |------|--------------|
 | Goat_Boy | Talking-head images and art asset bugfixes |
 
+## Art
+
+| Name | Contribution |
+|------|--------------|
+| Cobraxys | Avatar and logo |
+
 ## Font Design
 
 | Name | Links |
