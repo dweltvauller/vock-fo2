@@ -37,14 +37,14 @@
 {136}{}{No.}
 {137}{}{I got some questions.}
 {138}{merk5}{Hmm... Strong. Dumb... If you want a job, talk to Mira. Understand? Mi-ra. Over there.}
-{139}{merk6}{Like making noises? Will somebody get this brahmin turd out of here?}
+{139}{merk6}{Like making noises? Uh, will somebody get this brahmin turd out of here?}
 {140}{merk7}{Are you that stupid? You think I'm just gonna hire anybody? You work for me, you got to prove you're good for something.}
 {141}{}{How about I just shoot Lenny, there? He deserves it.}
 {142}{}{Prove like how?}
 {143}{}{You know anybody who'd like some Jet, maybe?}
 {144}{}{Listen, I'm} #258
 {145}{}{Right. Like I got to prove myself to you. Forget you, slugwort.}
-{146}{merk8}{It was that goddamn Doofus, wasn't it? That little junkie talks too much for his own good. Tell you what - you cap him for me -- call it a favor -- and then we'll talk.}
+{146}{merk8}{It was that goddamn Doofus, wasn't it? That little junkie talks too much for his own good. Uh, tell you what - you cap him for me -- call it a favor -- and then we'll talk.}
 {147}{}{Deal.}
 {148}{}{Whoa - I'm not that cold-blooded!}
 {149}{merk9}{And they're gonna say you were a dumb ass. Boys-}
@@ -124,13 +124,13 @@
 {223}{}{Yeah, that's it for now.}
 {224}{merk37}{Hey, a man's got to try. Vault 13's practically a religion around here. They've even built a statue to some chump who supposedly came from there. That's all I know.}
 {225}{merk38}{I sold you a map for it. Try using it.}
-{226}{merk39}{That map didn't pan out? Sorry. The guy swore it was genuine. How was I to know? I don't know where Vault 13 is.}
+{226}{merk39}{Oh, that map didn't pan out? Sorry. The guy swore it was genuine. How was I to know? I don't know where Vault 13 is.}
 {227}{}{I've got some more questions.}
 {228}{}{That's all I need to know.}
 {229}{merk40}{Tell you what. I like your work and Carlson could use another guard. Give a little time and there'll be a job waiting for you down there.}
 {230}{}{I'm on it, Merk.}
 {231}{}{I don't need a job. Thanks anyway.}
-{232}{merk41}{Excellent. Come back when you're done.}
+{232}{merk41}{Hmm. Excellent. Come back when you're done.}
 {233}{merk42}{That is very troubling. Boys, kill him and recover this evidence.}
 {234}{merk43}{Your feeble attempts to intimidate me are almost amusing, but now I suggest you leave before I tire of this game.}
 {235}{merk44}{Ah, I've heard the news. You still interested in a job?}

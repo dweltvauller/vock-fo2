@@ -13,7 +13,7 @@
 - Lao Chou's talking head no longer plays the wrong animation when his mood goes from bad to neutral (San Francisco)
 
 ## v1.15
-- Added voices: Don (Slaver Camp), Private Dobbs (Sierra Army Depot)
+- Added voices: Don (Slaver Camp), Private Dobbs (Sierra Army Depot), Merk (NCR)
 
 ## v1.14
 - Added voices: Peterson (Abbey), Joseph (Vault 13), Krom (Umbra Tribe), Zaius (Broken Hills), Flick (The Den), Rebecca Dyer (The Den)
