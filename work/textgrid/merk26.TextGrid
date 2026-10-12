@@ -228,10 +228,10 @@ item []:
             text = "K" 
         intervals [28]:
             xmin = 4.92 
-            xmax = 5.16 
+            xmax = 5.17 
             text = "AO1" 
         intervals [29]:
-            xmin = 5.16 
+            xmin = 5.17 
             xmax = 5.26 
             text = "R" 
         intervals [30]:
@@ -252,10 +252,10 @@ item []:
             text = "S" 
         intervals [34]:
             xmin = 5.92 
-            xmax = 6.0 
+            xmax = 6.01 
             text = "UW1" 
         intervals [35]:
-            xmin = 6.0 
+            xmin = 6.01 
             xmax = 6.24 
             text = "M" 
         intervals [36]:

@@ -26,10 +26,10 @@ item []:
             text = "" 
         intervals [4]:
             xmin = 1.55 
-            xmax = 2.02 
+            xmax = 2.03 
             text = "been" 
         intervals [5]:
-            xmin = 2.02 
+            xmin = 2.03 
             xmax = 2.07 
             text = "" 
         intervals [6]:
@@ -50,10 +50,10 @@ item []:
             text = "here" 
         intervals [10]:
             xmin = 3.74 
-            xmax = 4.35 
+            xmax = 4.34 
             text = "" 
         intervals [11]:
-            xmin = 4.35 
+            xmin = 4.34 
             xmax = 4.63 
             text = "time" 
         intervals [12]:
@@ -74,10 +74,10 @@ item []:
             text = "one" 
         intervals [16]:
             xmin = 5.63 
-            xmax = 5.87 
+            xmax = 5.85 
             text = "on" 
         intervals [17]:
-            xmin = 5.87 
+            xmin = 5.85 
             xmax = 6.12 
             text = "one" 
         intervals [18]:
@@ -168,10 +168,10 @@ item []:
             text = "T" 
         intervals [3]:
             xmin = 0.39 
-            xmax = 0.46 
+            xmax = 0.45 
             text = "R" 
         intervals [4]:
-            xmin = 0.46 
+            xmin = 0.45 
             xmax = 0.88 
             text = "UW1" 
         intervals [5]:
@@ -188,10 +188,10 @@ item []:
             text = "IH1" 
         intervals [8]:
             xmin = 1.89 
-            xmax = 2.02 
+            xmax = 2.03 
             text = "N" 
         intervals [9]:
-            xmin = 2.02 
+            xmin = 2.03 
             xmax = 2.07 
             text = "" 
         intervals [10]:
@@ -244,10 +244,10 @@ item []:
             text = "R" 
         intervals [22]:
             xmin = 3.74 
-            xmax = 4.35 
+            xmax = 4.34 
             text = "" 
         intervals [23]:
-            xmin = 4.35 
+            xmin = 4.34 
             xmax = 4.44 
             text = "T" 
         intervals [24]:
@@ -312,10 +312,10 @@ item []:
             text = "AA1" 
         intervals [39]:
             xmin = 5.69 
-            xmax = 5.87 
+            xmax = 5.85 
             text = "N" 
         intervals [40]:
-            xmin = 5.87 
+            xmin = 5.85 
             xmax = 5.99 
             text = "W" 
         intervals [41]:

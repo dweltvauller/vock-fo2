@@ -448,10 +448,10 @@ item []:
             text = "K" 
         intervals [75]:
             xmin = 10.39 
-            xmax = 10.5 
+            xmax = 10.49 
             text = "W" 
         intervals [76]:
-            xmin = 10.5 
+            xmin = 10.49 
             xmax = 10.6 
             text = "EH1" 
         intervals [77]:

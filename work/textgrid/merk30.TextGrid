@@ -50,10 +50,10 @@ item []:
             text = "another" 
         intervals [10]:
             xmin = 4.57 
-            xmax = 5.21 
+            xmax = 5.22 
             text = "costs" 
         intervals [11]:
-            xmin = 5.21 
+            xmin = 5.22 
             xmax = 6.05 
             text = "you" 
         intervals [12]:
@@ -212,10 +212,10 @@ item []:
             text = "K" 
         intervals [34]:
             xmin = 4.72 
-            xmax = 4.91 
+            xmax = 4.92 
             text = "AA1" 
         intervals [35]:
-            xmin = 4.91 
+            xmin = 4.92 
             xmax = 4.99 
             text = "S" 
         intervals [36]:
@@ -224,10 +224,10 @@ item []:
             text = "T" 
         intervals [37]:
             xmin = 5.08 
-            xmax = 5.21 
+            xmax = 5.22 
             text = "S" 
         intervals [38]:
-            xmin = 5.21 
+            xmin = 5.22 
             xmax = 5.4 
             text = "Y" 
         intervals [39]:
@@ -248,10 +248,10 @@ item []:
             text = "N" 
         intervals [43]:
             xmin = 6.55 
-            xmax = 6.64 
+            xmax = 6.65 
             text = "AH1" 
         intervals [44]:
-            xmin = 6.64 
+            xmin = 6.65 
             xmax = 6.72 
             text = "DH" 
         intervals [45]:

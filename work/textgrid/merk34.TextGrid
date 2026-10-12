@@ -90,10 +90,10 @@ item []:
             text = "rush" 
         intervals [20]:
             xmin = 6.28 
-            xmax = 6.56 
+            xmax = 6.55 
             text = "over" 
         intervals [21]:
-            xmin = 6.56 
+            xmin = 6.55 
             xmax = 6.73 
             text = "with" 
         intervals [22]:
@@ -118,10 +118,10 @@ item []:
             text = "westin's" 
         intervals [27]:
             xmin = 9.26 
-            xmax = 9.45 
+            xmax = 9.44 
             text = "got" 
         intervals [28]:
-            xmin = 9.45 
+            xmin = 9.44 
             xmax = 9.48 
             text = "a" 
         intervals [29]:
@@ -166,10 +166,10 @@ item []:
             text = "the" 
         intervals [39]:
             xmin = 13.12 
-            xmax = 13.57 
+            xmax = 13.61 
             text = "night" 
         intervals [40]:
-            xmin = 13.57 
+            xmin = 13.61 
             xmax = 13.830023 
             text = "" 
     item [2]:
@@ -384,10 +384,10 @@ item []:
             text = "V" 
         intervals [52]:
             xmin = 6.49 
-            xmax = 6.56 
+            xmax = 6.55 
             text = "ER0" 
         intervals [53]:
-            xmin = 6.56 
+            xmin = 6.55 
             xmax = 6.65 
             text = "W" 
         intervals [54]:
@@ -484,10 +484,10 @@ item []:
             text = "AA1" 
         intervals [77]:
             xmin = 9.41 
-            xmax = 9.45 
+            xmax = 9.44 
             text = "T" 
         intervals [78]:
-            xmin = 9.45 
+            xmin = 9.44 
             xmax = 9.48 
             text = "AH0" 
         intervals [79]:
@@ -648,9 +648,9 @@ item []:
             text = "AY1" 
         intervals [118]:
             xmin = 13.53 
-            xmax = 13.57 
+            xmax = 13.61 
             text = "T" 
         intervals [119]:
-            xmin = 13.57 
+            xmin = 13.61 
             xmax = 13.830023 
             text = "" 

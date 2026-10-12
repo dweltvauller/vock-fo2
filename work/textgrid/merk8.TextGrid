@@ -46,10 +46,10 @@ item []:
             text = "wasn't" 
         intervals [9]:
             xmin = 3.16 
-            xmax = 3.39 
+            xmax = 3.4 
             text = "it" 
         intervals [10]:
-            xmin = 3.39 
+            xmin = 3.4 
             xmax = 3.89 
             text = "" 
         intervals [11]:
@@ -138,10 +138,10 @@ item []:
             text = "for" 
         intervals [32]:
             xmin = 11.67 
-            xmax = 11.99 
+            xmax = 11.98 
             text = "me" 
         intervals [33]:
-            xmin = 11.99 
+            xmin = 11.98 
             xmax = 12.49 
             text = "" 
         intervals [34]:
@@ -308,10 +308,10 @@ item []:
             text = "IH0" 
         intervals [29]:
             xmin = 3.29 
-            xmax = 3.39 
+            xmax = 3.4 
             text = "T" 
         intervals [30]:
-            xmin = 3.39 
+            xmin = 3.4 
             xmax = 3.89 
             text = "" 
         intervals [31]:
@@ -540,10 +540,10 @@ item []:
             text = "M" 
         intervals [87]:
             xmin = 11.77 
-            xmax = 11.99 
+            xmax = 11.98 
             text = "IY1" 
         intervals [88]:
-            xmin = 11.99 
+            xmin = 11.98 
             xmax = 12.49 
             text = "" 
         intervals [89]:

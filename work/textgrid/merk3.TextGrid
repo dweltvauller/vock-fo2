@@ -34,10 +34,10 @@ item []:
             text = "polite" 
         intervals [6]:
             xmin = 2.07 
-            xmax = 2.69 
+            xmax = 2.68 
             text = "punk" 
         intervals [7]:
-            xmin = 2.69 
+            xmin = 2.68 
             xmax = 3.17 
             text = "" 
         intervals [8]:
@@ -136,10 +136,10 @@ item []:
             text = "NG" 
         intervals [17]:
             xmin = 2.52 
-            xmax = 2.69 
+            xmax = 2.68 
             text = "K" 
         intervals [18]:
-            xmin = 2.69 
+            xmin = 2.68 
             xmax = 3.17 
             text = "" 
         intervals [19]:

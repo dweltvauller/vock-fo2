@@ -58,10 +58,10 @@ item []:
             text = "disappoint" 
         intervals [12]:
             xmin = 5.89 
-            xmax = 6.26 
+            xmax = 6.24 
             text = "me" 
         intervals [13]:
-            xmin = 6.26 
+            xmin = 6.24 
             xmax = 6.51 
             text = "" 
         intervals [14]:
@@ -356,10 +356,10 @@ item []:
             text = "M" 
         intervals [46]:
             xmin = 6.03 
-            xmax = 6.26 
+            xmax = 6.24 
             text = "IY1" 
         intervals [47]:
-            xmin = 6.26 
+            xmin = 6.24 
             xmax = 6.51 
             text = "" 
         intervals [48]:

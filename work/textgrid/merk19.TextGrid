@@ -132,10 +132,10 @@ item []:
             text = "B" 
         intervals [20]:
             xmin = 2.32 
-            xmax = 2.56 
+            xmax = 2.55 
             text = "AH1" 
         intervals [21]:
-            xmin = 2.56 
+            xmin = 2.55 
             xmax = 2.62 
             text = "V" 
         intervals [22]:

@@ -30,14 +30,14 @@ item []:
             text = "attempts" 
         intervals [5]:
             xmin = 2.0 
-            xmax = 2.19 
+            xmax = 2.18 
             text = "to" 
         intervals [6]:
-            xmin = 2.19 
-            xmax = 3.18 
+            xmin = 2.18 
+            xmax = 3.17 
             text = "intimidate" 
         intervals [7]:
-            xmin = 3.18 
+            xmin = 3.17 
             xmax = 3.36 
             text = "me" 
         intervals [8]:
@@ -184,10 +184,10 @@ item []:
             text = "T" 
         intervals [17]:
             xmin = 2.09 
-            xmax = 2.19 
+            xmax = 2.18 
             text = "UW1" 
         intervals [18]:
-            xmin = 2.19 
+            xmin = 2.18 
             xmax = 2.24 
             text = "IH0" 
         intervals [19]:
@@ -220,10 +220,10 @@ item []:
             text = "EY2" 
         intervals [26]:
             xmin = 2.95 
-            xmax = 3.18 
+            xmax = 3.17 
             text = "T" 
         intervals [27]:
-            xmin = 3.18 
+            xmin = 3.17 
             xmax = 3.21 
             text = "M" 
         intervals [28]:

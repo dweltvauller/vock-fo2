@@ -80,10 +80,10 @@ item []:
             text = "R" 
         intervals [8]:
             xmin = 2.14 
-            xmax = 2.31 
+            xmax = 2.3 
             text = "Y" 
         intervals [9]:
-            xmin = 2.31 
+            xmin = 2.3 
             xmax = 2.39 
             text = "UW1" 
         intervals [10]:

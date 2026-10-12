@@ -272,10 +272,10 @@ item []:
             text = "AH0" 
         intervals [48]:
             xmin = 6.23 
-            xmax = 6.27 
+            xmax = 6.28 
             text = "N" 
         intervals [49]:
-            xmin = 6.27 
+            xmin = 6.28 
             xmax = 6.47 
             text = "S" 
         intervals [50]:

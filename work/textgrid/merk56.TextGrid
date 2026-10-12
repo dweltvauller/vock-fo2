@@ -58,10 +58,10 @@ item []:
             text = "it" 
         intervals [12]:
             xmin = 4.37 
-            xmax = 4.54 
+            xmax = 4.55 
             text = "can" 
         intervals [13]:
-            xmin = 4.54 
+            xmin = 4.55 
             xmax = 4.65 
             text = "be" 
         intervals [14]:
@@ -260,10 +260,10 @@ item []:
             text = "AH0" 
         intervals [41]:
             xmin = 4.51 
-            xmax = 4.54 
+            xmax = 4.55 
             text = "N" 
         intervals [42]:
-            xmin = 4.54 
+            xmin = 4.55 
             xmax = 4.59 
             text = "B" 
         intervals [43]:

@@ -42,10 +42,10 @@ item []:
             text = "so" 
         intervals [8]:
             xmin = 2.95 
-            xmax = 3.67 
+            xmax = 3.68 
             text = "happy" 
         intervals [9]:
-            xmin = 3.67 
+            xmin = 3.68 
             xmax = 4.37 
             text = "" 
         intervals [10]:
@@ -164,10 +164,10 @@ item []:
             text = "P" 
         intervals [21]:
             xmin = 3.36 
-            xmax = 3.67 
+            xmax = 3.68 
             text = "IY0" 
         intervals [22]:
-            xmin = 3.67 
+            xmin = 3.68 
             xmax = 4.37 
             text = "" 
         intervals [23]:

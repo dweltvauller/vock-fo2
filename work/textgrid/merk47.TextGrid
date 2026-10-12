@@ -34,10 +34,10 @@ item []:
             text = "doing" 
         intervals [6]:
             xmin = 1.5 
-            xmax = 1.73 
+            xmax = 1.74 
             text = "here" 
         intervals [7]:
-            xmin = 1.73 
+            xmin = 1.74 
             xmax = 1.95 
             text = "you" 
         intervals [8]:
@@ -160,14 +160,14 @@ item []:
             text = "HH" 
         intervals [16]:
             xmin = 1.6 
-            xmax = 1.69 
+            xmax = 1.71 
             text = "IY1" 
         intervals [17]:
-            xmin = 1.69 
-            xmax = 1.73 
+            xmin = 1.71 
+            xmax = 1.74 
             text = "R" 
         intervals [18]:
-            xmin = 1.73 
+            xmin = 1.74 
             xmax = 1.89 
             text = "Y" 
         intervals [19]:

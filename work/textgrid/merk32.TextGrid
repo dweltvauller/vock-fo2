@@ -14,10 +14,10 @@ item []:
         intervals: size = 18 
         intervals [1]:
             xmin = 0.0 
-            xmax = 0.19 
+            xmax = 0.18 
             text = "" 
         intervals [2]:
-            xmin = 0.19 
+            xmin = 0.18 
             xmax = 0.47 
             text = "is" 
         intervals [3]:
@@ -54,10 +54,10 @@ item []:
             text = "new" 
         intervals [11]:
             xmin = 2.48 
-            xmax = 3.15 
+            xmax = 3.16 
             text = "reno" 
         intervals [12]:
-            xmin = 3.15 
+            xmin = 3.16 
             xmax = 3.63 
             text = "" 
         intervals [13]:
@@ -92,10 +92,10 @@ item []:
         intervals: size = 43 
         intervals [1]:
             xmin = 0.0 
-            xmax = 0.19 
+            xmax = 0.18 
             text = "" 
         intervals [2]:
-            xmin = 0.19 
+            xmin = 0.18 
             xmax = 0.4 
             text = "IH1" 
         intervals [3]:
@@ -200,10 +200,10 @@ item []:
             text = "N" 
         intervals [28]:
             xmin = 2.81 
-            xmax = 3.15 
+            xmax = 3.16 
             text = "OW0" 
         intervals [29]:
-            xmin = 3.15 
+            xmin = 3.16 
             xmax = 3.63 
             text = "" 
         intervals [30]:

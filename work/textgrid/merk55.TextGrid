@@ -156,10 +156,10 @@ item []:
             text = "TH" 
         intervals [4]:
             xmin = 0.64 
-            xmax = 0.79 
+            xmax = 0.8 
             text = "IH1" 
         intervals [5]:
-            xmin = 0.79 
+            xmin = 0.8 
             xmax = 0.83 
             text = "NG" 
         intervals [6]:

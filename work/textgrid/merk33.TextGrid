@@ -34,10 +34,10 @@ item []:
             text = "best" 
         intervals [6]:
             xmin = 2.43 
-            xmax = 2.71 
+            xmax = 2.7 
             text = "stay" 
         intervals [7]:
-            xmin = 2.71 
+            xmin = 2.7 
             xmax = 2.89 
             text = "out" 
         intervals [8]:
@@ -164,10 +164,10 @@ item []:
             text = "T" 
         intervals [19]:
             xmin = 2.58 
-            xmax = 2.71 
+            xmax = 2.7 
             text = "EY1" 
         intervals [20]:
-            xmin = 2.71 
+            xmin = 2.7 
             xmax = 2.86 
             text = "AW1" 
         intervals [21]:

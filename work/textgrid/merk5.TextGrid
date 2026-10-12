@@ -110,10 +110,10 @@ item []:
             text = "" 
         intervals [25]:
             xmin = 11.83 
-            xmax = 12.87 
+            xmax = 12.88 
             text = "there" 
         intervals [26]:
-            xmin = 12.87 
+            xmin = 12.88 
             xmax = 13.0 
             text = "" 
     item [2]:
@@ -272,10 +272,10 @@ item []:
             text = "" 
         intervals [38]:
             xmin = 7.85 
-            xmax = 7.97 
+            xmax = 7.98 
             text = "AH2" 
         intervals [39]:
-            xmin = 7.97 
+            xmin = 7.98 
             xmax = 8.01 
             text = "N" 
         intervals [40]:
@@ -356,9 +356,9 @@ item []:
             text = "EH1" 
         intervals [59]:
             xmin = 12.51 
-            xmax = 12.87 
+            xmax = 12.88 
             text = "R" 
         intervals [60]:
-            xmin = 12.87 
+            xmin = 12.88 
             xmax = 13.0 
             text = "" 

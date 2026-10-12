@@ -98,10 +98,10 @@ item []:
             text = "i" 
         intervals [22]:
             xmin = 8.33 
-            xmax = 8.4 
+            xmax = 8.41 
             text = "to" 
         intervals [23]:
-            xmin = 8.4 
+            xmin = 8.41 
             xmax = 8.85 
             text = "know" 
         intervals [24]:
@@ -138,10 +138,10 @@ item []:
             text = "thirteen" 
         intervals [32]:
             xmin = 11.05 
-            xmax = 11.61 
+            xmax = 11.62 
             text = "is" 
         intervals [33]:
-            xmin = 11.61 
+            xmin = 11.62 
             xmax = 11.8 
             text = "" 
     item [2]:
@@ -268,10 +268,10 @@ item []:
             text = "S" 
         intervals [30]:
             xmin = 5.68 
-            xmax = 5.79 
+            xmax = 5.8 
             text = "W" 
         intervals [31]:
-            xmin = 5.79 
+            xmin = 5.8 
             xmax = 5.91 
             text = "AO1" 
         intervals [32]:
@@ -360,10 +360,10 @@ item []:
             text = "T" 
         intervals [53]:
             xmin = 8.36 
-            xmax = 8.4 
+            xmax = 8.41 
             text = "AH0" 
         intervals [54]:
-            xmin = 8.4 
+            xmin = 8.41 
             xmax = 8.56 
             text = "N" 
         intervals [55]:
@@ -456,9 +456,9 @@ item []:
             text = "IH1" 
         intervals [77]:
             xmin = 11.41 
-            xmax = 11.61 
+            xmax = 11.62 
             text = "Z" 
         intervals [78]:
-            xmin = 11.61 
+            xmin = 11.62 
             xmax = 11.8 
             text = "" 

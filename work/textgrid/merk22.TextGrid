@@ -100,10 +100,10 @@ item []:
             text = "Y" 
         intervals [12]:
             xmin = 1.74 
-            xmax = 1.82 
+            xmax = 1.83 
             text = "ER0" 
         intervals [13]:
-            xmin = 1.82 
+            xmin = 1.83 
             xmax = 1.89 
             text = "D" 
         intervals [14]:

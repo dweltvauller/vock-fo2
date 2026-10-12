@@ -22,10 +22,10 @@ item []:
             text = "i'm" 
         intervals [3]:
             xmin = 0.51 
-            xmax = 1.22 
+            xmax = 1.21 
             text = "merk" 
         intervals [4]:
-            xmin = 1.22 
+            xmin = 1.21 
             xmax = 1.53 
             text = "" 
         intervals [5]:
@@ -68,10 +68,10 @@ item []:
             text = "ER1" 
         intervals [6]:
             xmin = 0.92 
-            xmax = 1.22 
+            xmax = 1.21 
             text = "K" 
         intervals [7]:
-            xmin = 1.22 
+            xmin = 1.21 
             xmax = 1.53 
             text = "" 
         intervals [8]:

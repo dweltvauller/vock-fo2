@@ -18,10 +18,10 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.19 
-            xmax = 0.98 
+            xmax = 0.97 
             text = "well" 
         intervals [3]:
-            xmin = 0.98 
+            xmin = 0.97 
             xmax = 1.29 
             text = "" 
         intervals [4]:
@@ -46,10 +46,10 @@ item []:
             text = "man" 
         intervals [9]:
             xmin = 3.01 
-            xmax = 3.65 
+            xmax = 3.67 
             text = "" 
         intervals [10]:
-            xmin = 3.65 
+            xmin = 3.67 
             xmax = 3.98 
             text = "what's" 
         intervals [11]:
@@ -84,10 +84,10 @@ item []:
             text = "EH1" 
         intervals [4]:
             xmin = 0.72 
-            xmax = 0.98 
+            xmax = 0.97 
             text = "L" 
         intervals [5]:
-            xmin = 0.98 
+            xmin = 0.97 
             xmax = 1.29 
             text = "" 
         intervals [6]:
@@ -140,10 +140,10 @@ item []:
             text = "N" 
         intervals [18]:
             xmin = 3.01 
-            xmax = 3.65 
+            xmax = 3.67 
             text = "" 
         intervals [19]:
-            xmin = 3.65 
+            xmin = 3.67 
             xmax = 3.7 
             text = "HH" 
         intervals [20]:

@@ -128,10 +128,10 @@ item []:
             text = "D" 
         intervals [17]:
             xmin = 2.37 
-            xmax = 2.43 
+            xmax = 2.44 
             text = "G" 
         intervals [18]:
-            xmin = 2.43 
+            xmin = 2.44 
             xmax = 2.63 
             text = "OW1" 
         intervals [19]:

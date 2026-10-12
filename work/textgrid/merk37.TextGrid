@@ -380,10 +380,10 @@ item []:
             text = "" 
         intervals [54]:
             xmin = 6.57 
-            xmax = 6.62 
+            xmax = 6.61 
             text = "DH" 
         intervals [55]:
-            xmin = 6.62 
+            xmin = 6.61 
             xmax = 6.83 
             text = "EY1" 
         intervals [56]:
@@ -592,10 +592,10 @@ item []:
             text = "S" 
         intervals [107]:
             xmin = 12.32 
-            xmax = 12.51 
+            xmax = 12.49 
             text = "AO1" 
         intervals [108]:
-            xmin = 12.51 
+            xmin = 12.49 
             xmax = 12.58 
             text = "L" 
         intervals [109]:

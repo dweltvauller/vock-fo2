@@ -84,10 +84,10 @@ item []:
             text = "S" 
         intervals [4]:
             xmin = 0.56 
-            xmax = 0.63 
+            xmax = 0.62 
             text = "OW1" 
         intervals [5]:
-            xmin = 0.63 
+            xmin = 0.62 
             xmax = 0.74 
             text = "L" 
         intervals [6]:

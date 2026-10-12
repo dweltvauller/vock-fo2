@@ -392,10 +392,10 @@ item []:
             text = "Y" 
         intervals [66]:
             xmin = 8.95 
-            xmax = 8.98 
+            xmax = 8.99 
             text = "UH1" 
         intervals [67]:
-            xmin = 8.98 
+            xmin = 8.99 
             xmax = 9.04 
             text = "R" 
         intervals [68]:
