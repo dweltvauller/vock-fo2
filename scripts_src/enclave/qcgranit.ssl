@@ -15,6 +15,13 @@
            Created:
 
            Updated:
+           VOCK changes:
+             Added Node850: once Horrigan is dead, talking to Granite after he has
+             joined plays one of three bonus lines (grani35-37, msgs 800-802)
+             instead of the pre-fight rally floats (msgs 103-111). These lines are
+             VOCK additions, not vanilla content. With PostEndgame=0 under [Floats]
+             in mods\vock-fo2.ini (VOCK_POST_ENDGAME_FLOATS), the vanilla rally
+             floats play as before.
 */
 
 /* Include Files */
@@ -31,6 +38,7 @@
 
 #define NAME                    SCRIPT_QCGRANIT
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_ENCLAVE)
+#define VOCK_POST_ENDGAME_FLOATS (get_ini_setting("mods\\vock-fo2.ini|Floats|PostEndgame") != 0)  //VOCK: mods\vock-fo2.ini toggle; a missing file or key reads -1, so the floats stay on
 
 #include "../headers/command.h"
 #include "../headers/modreact.h"
@@ -79,6 +87,7 @@ procedure Node017;
 
 procedure Node011a;
 procedure Node013a;
+procedure Node850;                                      //VOCK: post-Horrigan bonus float
 
 //~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
 // The Following lines are for anything that is not needed to be
@@ -189,7 +198,12 @@ procedure talk_p_proc begin
 
    GetReaction;
 
-   if (global_var(GVAR_ENCLAVE_GRANITE_JOINED) == 1) then begin
+   //VOCK: once Horrigan is dead, the rally floats give way to the bonus lines
+   if ((global_var(GVAR_ENCLAVE_GRANITE_JOINED) == 1) and (global_var(GVAR_ENCLAVE_FRANK_DEAD) != 0) and VOCK_POST_ENDGAME_FLOATS) then begin
+       call Node850;
+   end
+
+   else if (global_var(GVAR_ENCLAVE_GRANITE_JOINED) == 1) then begin
        call Node001;
    end
 
@@ -265,6 +279,11 @@ end
 
 procedure Node002 begin
    floater(random(112,121));
+end
+
+//VOCK: post-Horrigan bonus float. grani35-37 (msg 800-802), called from talk_p_proc.
+procedure Node850 begin
+   floater(random(800,802));
 end
 
 procedure Node003 begin
