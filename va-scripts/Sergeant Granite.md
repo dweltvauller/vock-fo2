@@ -1,7 +1,7 @@
 # Sergeant Granite — VA Script
 **Character:** Sergeant Granite, EC Company checkpoint guard (Enclave oil rig)
 
-**Total recordable lines:** 37 (`grani1`–`grani34`, plus bonus `grani35`–`grani37`)
+**Total recordable lines:** 34 (`grani1`–`grani34`)
 
 ---
 
@@ -100,15 +100,6 @@
 `grani33:` Watch yourself out there, mutie.
 
 `grani34:` Good luck, mutant. You're gonna need it.
-
-## Bonus Lines (VOCK Easter Eggs)
-*Ad-libbed by the VA (delivered as `Grain_Bonus_1`–`3`). One plays at random when talking to Granite after he has joined and Horrigan is dead, in place of the rally lines, unless `PostEndgame=0` in `mods\vock-fo2.ini`.*
-
-`grani35:` I almost feel sorry for that freak. I bet it isn't easy being green.
-
-`grani36:` I had that nightmare again where I forgot my power armor. (shudder)
-
-`grani37:` I was listening to the President's speech earlier. The radio was kind of busted. Made him sound like a robot.
 
 ---
 
