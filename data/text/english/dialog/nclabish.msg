@@ -253,7 +253,7 @@
 {511}{}{Mmmzrrmnmn....again, }
 {1511}{}{... oooh... }
 {2511}{}{... mmm}
-{512}{lbshp122}{Combinnnazion t'safe... }
+{512}{}{Combinnnazion t'safe... }
 {1512}{}{... mmm...}
 
 # 103. FLOAT/CLICK DID NOT HAVE SEX (MRS. BISHOP CALLS FOR GUARDS) (WTG)
@@ -388,7 +388,7 @@
 {657}{}{Let's talk about something else...}
 
 # 140. COMBO SAFE (134, 135, 159)
-{660}{lbshp83}{, I think... something like that...}
+{660}{}{, I think... something like that...}
 {663}{}{Excellent... time to go crack a safe... sleep well, Mrs. Bishop.}
 
 # 141. END (140)
@@ -466,7 +466,7 @@
 {752}{}{Hmmmnn. I had some other questions...}
 
 # 157. SORT OF (156)
-{760}{lbshp105}{(Shrugs.) Sure, if you want them. Combination is }
+{760}{}{(Shrugs.) Sure, if you want them. Combination is }
 {1760}{}{. The enhancer is in a compartment in the bottom of the safe... a thief isn't going to find it unless they know what to look for.}
 {761}{}{How do I use it?}
 {762}{}{Thanks. Say, I had some other questions...}
@@ -519,8 +519,8 @@
 # Node014: replaces temp-accumulated 296/297+298 (in-laws absent, daughter comment) variants.
 {2299}{lbshp23}{No... my late husband was in the business of accumulating power. That seldom leaves room for... anything else. In addition, my precious daughter has quickly learned what being a woman means in New Reno.}
 {2300}{lbshp24}{No... my husband is in the business of accumulating power. That seldom leaves room for... anything else. In addition, my precious daughter has quickly learned what being a woman means in New Reno.}
-# Node016: replaces 315 + PC name (as "Darling") + 1315 + PC name (as "darling") + 2315.
-{2317}{lbshp29}{'Darling...' So...'darling'...what, pray tell, do you think I can do for you?}
+# Node016: replaces 315 + PC name + 1315 + PC name + 2315 -- she echoes the PC's name, so the name is described in a stage direction instead of spoken.
+{2317}{lbshp29}{(She repeats your name slowly, as if tasting it.) So... what, pray tell, do you think I can do for you?}
 # Node023: replaces 370/371 (boy/girl) + 372.
 {2370}{lbshp38}{Dear boy... the people of Reno have enough difficulty remembering which whore they left their cocks in when they wake in the morning, much less know where to find anything such as what you describe.}
 {2371}{lbshp39}{Dear girl... the people of Reno have enough difficulty remembering which whore they left their cocks in when they wake in the morning, much less know where to find anything such as what you describe.}
@@ -529,18 +529,23 @@
 {2401}{lbshp44}{(She laughs.) You flatter yourself. It's merely a drink. And IF anything were to happen, I assure you, my husband is NOT the jealous type. }
 # Node038: replaces 470/471 (repeat-visit variant) + 472.
 {2470}{lbshp55}{(Frowns.) No. Should I? (Studies you carefully, then smirks.) You certainly do ask a lot of dangerous questions about my husband's business. I'd be *very* careful if I were you.}
-{2471}{lbshp56}{(Frowns.) No. Should I? (Studies you carefully, then smirks again.) You certainly do ask a lot of dangerous questions about my husband's business. I'd be *very* careful if I were you.}
+# VOCK Note: lbshp56 = lbshp55 - same spoken words, only the stage direction differs
+{2471}{lbshp55}{(Frowns.) No. Should I? (Studies you carefully, then smirks again.) You certainly do ask a lot of dangerous questions about my husband's business. I'd be *very* careful if I were you.}
 # Node102 (float): replaces 510 + PC name (as "darling") + 1510.
 {2510}{lbshp120}{Mmmmm... oh, darling, mmm-mmmm... mmmzmzrrm}
 # Node102 (float): replaces 511 + PC name (as "darling") x2 + 1511 + 2511.
 {2512}{lbshp121}{Mmmzrrmnmn....again, darling... oooh... darling... mmm}
-# Node102 (float): replaces 1512 -- reworded as a stage direction so the live safe-combination value (kept in the float as-is) doesn't need a second voiced fragment.
-{2514}{}{(She trails off into more contented sighs.)}
+# Node102 (float) + Node157: closes the stage direction after the live safe combination (2516/2762 + combination + 2514). Untagged; all spoken text is in 2516/2762.
+{2514}{}{.)}
+# Node102 (float): replaces 512 + combination + 1512 -- all spoken text in one tagged lead; the live combination follows inside the stage direction, closed by 2514.
+{2516}{lbshp122}{Combinnnazion t'safe... mmm... (She mumbles }
 # Node131 (great sex tier): replaces 591 + PC name (as "darling") + 1591 + 592/593 (male/female variant).
 {2591}{lbshp71}{(Passionate lovemaking commences. At the end of your sexual marathon, Mrs. Bishop curls up against you, smiling contentedly.) Mmmmm, darling. You are the *man.* (Shivers.) That thing with your tongue was --}
 {2592}{lbshp72}{(Passionate lovemaking commences. At the end of your sexual marathon, Mrs. Bishop curls up against you, smiling contentedly.) Mmmmm, darling. You are the *woman.* (Shivers.) That thing with your tongue was --}
 # Node131 (good sex tier): replaces 591 + PC name (as "darling") + 1591.
 {2593}{lbshp73}{(Passionate lovemaking commences. At the end of your sexual marathon, Mrs. Bishop curls up against you, smiling contentedly.) Mmmmm, darling. }
+# Node140: replaces random number + 660 -- the number was never stored or checked, so it is described in a stage direction instead.
+{2660}{lbshp83}{(She mumbles a string of numbers.) ...I think... something like that...}
 # Node141: replaces 665 + PC name (as "darling") + 1665.
 {2665}{lbshp84}{Oh, darling... (Mrs. Bishop... Leslie... turns over and raises herself on her elbows.) His safe is trapped. So be careful, all right? You are no good to me with no fingers. (Smiles, rolls back over.)}
 # Node142: replaces 670 + 671 + 672 (Angela-banged variant).
@@ -550,5 +555,5 @@
 # Node144: replaces temp-accumulated 680 + 681/682 (in-laws present, dead/alive variant).
 {2680}{lbshp88}{And yours is? Hmmmph. No, my 'marriage' was not a healthy one. My late husband was in the business of accumulating power, and that seldom leaves any room for... anything else.}
 {2681}{lbshp89}{And yours is? Hmmmph. No, my 'marriage' is not a healthy one. My husband is in the business of power, and that seldom leaves any room for... anything else.}
-# Node157: replaces 1760 -- reworded as a stage direction so the live safe-combination value (kept in the line as-is, after 760) doesn't need a second voiced fragment.
-{2761}{}{(She adds, almost as an afterthought, that the enhancer is hidden in a compartment in the bottom of the safe -- a thief won't find it unless they know exactly what to look for.)}
+# Node157: replaces 760 + combination + 1760 -- all spoken text in one tagged lead; the live combination follows inside the stage direction, closed by 2514.
+{2762}{lbshp105}{(Shrugs.) Sure, if you want them. The enhancer is in a compartment in the bottom of the safe... a thief isn't going to find it unless they know what to look for. (She tells you the combination: }

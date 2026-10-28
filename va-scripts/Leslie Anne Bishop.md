@@ -1,7 +1,7 @@
 # Leslie Anne Bishop — VA Script
 **Character:** Leslie Anne Bishop ("Mrs. Bishop"), wife of New Reno Bishop-family don John Bishop
 
-**Total recordable lines:** 125 (`lbshp1`–`lbshp125`)
+**Total recordable lines:** 124 (`lbshp1`–`lbshp125`; `lbshp56` shares `lbshp55`'s recording)
 
 ---
 
@@ -76,7 +76,7 @@
 
 ## The Creation Kit / Vault City
 
-`lbshp29:` 'Darling...' So...'darling'...what, pray tell, do you think I can do for you?
+`lbshp29:` (She repeats your name slowly, as if tasting it.) So... what, pray tell, do you think I can do for you?
 
 `lbshp30:` (Frowns.) A simple traveler. How remarkably open and trusting of you. And what, pray  tell, do you think I can do for you, "simple traveler?"
 
@@ -136,8 +136,6 @@
 
 `lbshp55:` (Frowns.) No. Should I? (Studies you carefully, then smirks.) You certainly do ask a lot of dangerous questions about my husband's business.  I'd be *very* careful if I were you.
 
-`lbshp56:` (Frowns.) No. Should I? (Studies you carefully, then smirks again.) You certainly do ask a lot of dangerous questions about my husband's business.  I'd be *very* careful if I were you.
-
 ## Upstairs
 
 `lbshp57:` (She takes you upstairs to a strange, nice-smelling room. Once there, she starts  giving you strange directions that make you feel both happy and uncomfortable.) Don't you  want to touch me?
@@ -196,7 +194,7 @@
 
 `lbshp82:` No... John probably has a map of their location somewhere around here...  (Sniffs slightly, rubs nose.) Mmmmm....
 
-`lbshp83:` , I think... something like that...
+`lbshp83:` (She mumbles a string of numbers.) ...I think... something like that...
 
 `lbshp84:` Oh, darling... (Mrs. Bishop... Leslie... turns over and raises herself on her elbows.)  His safe is trapped. So be careful, all right? You are no good to me with no  fingers. (Smiles, rolls back over.)
 
@@ -248,7 +246,7 @@
 
 ## The Safe
 
-`lbshp105:` (Shrugs.) Sure, if you want them. Combination is
+`lbshp105:` (Shrugs.) Sure, if you want them. The enhancer is in a compartment in the bottom of the safe... a thief isn't going to find it unless they know what to look for.
 
 `lbshp106:` (Mrs. Bishop rolls over and closes her eyes. In a few seconds, she's asleep.)
 
@@ -294,7 +292,7 @@
 
 `lbshp121:` Mmmzrrmnmn....again, darling... oooh... darling... mmm
 
-`lbshp122:` Combinnnazion t'safe...
+`lbshp122:` Combinnnazion t'safe... mmm...
 
 ## Floats — Calling for Help
 *Plays if she's attacked or an intruder is discovered.*

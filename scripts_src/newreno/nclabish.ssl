@@ -15,16 +15,19 @@
            VOCK changes:
              Ten Reply()/float_msg() calls concatenated two or three mstr()
              fragments together (Node009, Node014, Node016, Node023, Node026,
-             Node038, Node102, Node131, Node141, Node142, Node144, Node157) --
-             only the first tagged fragment would ever voice, leaving the rest
-             silent text. Merged each into a single new msg entry per branch so
-             the whole line takes one continuous VO recording. Where the
-             player's name was spliced in (Node016, Node102, Node131, Node141),
-             the merge bakes in a fixed address word ("darling") in its place.
-             Where a live, per-playthrough safe-combination number was spliced
-             in (Node102's third float, Node157), the trailing fragment was
-             reworded as an unvoiced stage direction instead, so the live value
-             stays visible in the text without needing a second voiced take.
+             Node038, Node102, Node131, Node141, Node142, Node144) -- only the
+             first tagged fragment would ever voice, leaving the rest silent
+             text. Merged each into a single new msg entry per branch so the
+             whole line takes one continuous VO recording. Where the player's
+             name was spliced in as an address (Node102, Node131, Node141), the
+             merge bakes in a fixed address word ("darling") in its place;
+             Node016, where she echoes the name back, describes it in a stage
+             direction instead. Node102's third float and Node157 splice in the
+             live safe combination: all spoken text now sits in the tagged lead
+             fragment (2516/2762), the number follows inside a stage direction,
+             and untagged msg 2514 closes it, so each line is one fully voiced
+             take. Node140's throwaway random number (never used) was dropped
+             and described in msg 2660 instead.
              Node014/Node144 also had their temp-string accumulation logic
              rewritten as explicit branches to make each merge addressable.
 */
@@ -831,7 +834,7 @@ variable temp;
       check_mrs_bishop_combination
       if (know_mrs_bishop_combination) then begin
          ndebug("combination var == "+global_var(GVAR_NEW_RENO_MRS_BISHOP_COMBINATION));
-         float_msg(self_obj, mstr(512) + mrs_bishop_combination + mstr(2514), FLOAT_COLOR_NORMAL);   //VOCK: was float_msg(self_obj, mstr(512) + mrs_bishop_combination + mstr(1512), FLOAT_COLOR_NORMAL)
+         float_msg(self_obj, mstr(2516) + mrs_bishop_combination + mstr(2514), FLOAT_COLOR_NORMAL);   //VOCK: was float_msg(self_obj, mstr(512) + mrs_bishop_combination + mstr(1512), FLOAT_COLOR_NORMAL)
       end
    end
 end
@@ -1050,7 +1053,7 @@ procedure Node139 begin
 end
 procedure Node140 begin
    set_mr_bishop_safe(mr_bishop_safe_know);
-   Reply(random_combination + mstr(660));
+   Reply(2660);   //VOCK: was Reply(random_combination + mstr(660)) -- number is never used, only the flag above
    NOption(637, Node986, 004);
    BOption(638, Node133, 004);
    BOption(663, Node985, 004);
@@ -1193,7 +1196,7 @@ procedure Node157 begin
    set_compartment;
    ndebug("set_mrs_bishop_combination");
    set_mrs_bishop_combination
-   Reply(mstr(760) + mrs_bishop_combination + mstr(2761));   //VOCK: was Reply(mstr(760) + mrs_bishop_combination + mstr(1760))
+   Reply(mstr(2762) + mrs_bishop_combination + mstr(2514));   //VOCK: was Reply(mstr(760) + mrs_bishop_combination + mstr(1760))
    NOption(761, Node162, 004);
    NOption(762, Node986, 004);
    NOption(606, Node158, 004);
