@@ -43,33 +43,33 @@
 
 `ssa16:` Take his body. The doctor wanted a specimen.
 
-## Executing Matt (San Francisco)
+## Executing Matthew (San Francisco)
 
-*A cutscene. Horrigan and two Enclave guards have a captured dissident, Matt, who believes the Chosen One will stop them. Horrigan toys with him, lets him grab a plasma rifle, laughs when the shots don't even hurt him, then punches a hole through him. Matt's and the guards' lines are shown as cues.*
+*A cutscene (the ACE computer vignette). Two days after the player finishes the Brotherhood of Steel quest, Horrigan and two Enclave guards corner Matthew, the Brotherhood's man in San Francisco, who believes the Chosen One will stop them. Horrigan toys with him, lets him grab a plasma rifle, laughs when the shots don't even hurt him, then punches a hole through him. Matthew's and the guards' lines are shown as cues.*
 
-*Matt: "You and your so-called President will not succeed."*
+*Matthew: "You and your so-called President will not succeed."*
 
 `ssa17:` Is that so?
 
-*Matt: "The Chosen One has come, and he will rid the world of your evil."*
+*Matthew: "The Chosen One has come, and he will rid the world of your evil."*
 
 `ssa18:` I care nothing for your pathetic prophecies. Worse, you have become a nuisance through your meddling. That ends today!
 
-*Matt: "Killing me will stop nothing."*
+*Matthew: "Killing me will stop nothing."*
 
 `ssa19:` That may be, but seeing your body rotting on the ground will bring a smile to my face.
 
-*Matt grabs a plasma rifle.*
+*Matthew grabs a plasma rifle.*
 
 `ssa20:` What do you think you're doing now?
 
-*Matt shoots him twice. It barely registers.*
+*Matthew shoots him twice. It barely registers.*
 
 `ssa21:` HA HA HA! You pathetic fool! HA HA HA!
 
 `ssa22:` Wow, I haven't laughed like that for a while. Anyway, get ready to die.
 
-*Matt: "...peep..."*
+*Matthew: "...peep..."*
 
 *Horrigan walks up and punches a hole through him. Then he turns to the guards, casual, as if nothing happened:*
 

@@ -129,17 +129,17 @@
 {225}{}{Replay it now.}
 {226}{}{Replay it later.}
 
-{227}{}{You and your so-called President will not succeed.}
+{227}{mat32}{You and your so-called President will not succeed.}
 {228}{ssa17}{Is that so?}
-{229}{}{The Chosen One has come, and he will rid the world of your evil.}
+{229}{mat33}{The Chosen One has come, and he will rid the world of your evil.}
 {230}{ssa18}{I care nothing for your pathetic prophecies. Worse, you have become a nuisance through your meddling. That ends today!}
-{231}{}{Killing me will stop nothing.}
+{231}{mat34}{Killing me will stop nothing.}
 {232}{ssa19}{That may be, but seeing your body rotting on the ground will bring a smile to my face.}
 
 {233}{ssa20}{What do you think you're doing now?}
 {234}{ssa21}{HA HA HA! You pathetic fool! HA HA HA!}
 {235}{ssa22}{Wow, I haven't laughed like that for a while. Anyway, get ready to die.}
-{236}{}{...peep...}
+{236}{mat35}{...peep...}
 {237}{ssa23}{Well, it's a little past 12. Anyone up for lunch?}
 {238}{}{Score, I'm there.}
 {239}{}{Yeah, count me in on that.}
