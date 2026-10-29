@@ -1,7 +1,7 @@
 # Laddie — VA Script
 **Character:** Laddie, Jonny's Dog (Modoc)
 
-**Total recordable lines:** 5 (`lad1`–`lad5`)
+**Total recordable lines:** 6 (`lad1`–`lad6`)
 
 ---
 
@@ -10,14 +10,14 @@
 ---
 
 ## Greeting Bark
-*Laddie's default bark when the PC first approaches him — whether he's just met them, is already following them, or is waiting at the well.*
+*Laddie's default bark when the PC first approaches him, whether he's just met them, is already following them, or is waiting at the well. The game describes him as "highly agitated": excited and worked up, not friendly yet (the happy version is `lad6` below).*
 
 `lad3:` Woof! Woof! Woof!
 
 ## Petting Response — He Likes You
-*PC pets him and he responds warmly. Laddie jumps up and licks the PC's face while barking.*
+*PC pets him and he responds warmly. Laddie jumps up and licks the PC's face while barking: happy, playful barks, a different take from the agitated greeting (`lad3`).*
 
-`lad3:` Woof! Woof! Woof! [Laddie jumps on you and starts to lick your face.]
+`lad6:` Woof! Woof! Woof! [Laddie jumps on you and starts to lick your face.]
 
 ## Petting Response — He Doesn't Like You
 *PC pets him but has a bad reputation with him — he turns aggressive instead.*

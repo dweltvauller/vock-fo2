@@ -30,7 +30,8 @@
 {122}{cmdr9}{Wrong answer, maggot. You're to carry your papers with you at all times. You should know that!}
 {123}{}{Fuck you.}
 
-{124}{cmdr10}{Leave my locker alone or I will dish out some serious pain.}
+# VOCK Note: cmdr10 = cmdr7 - same words and delivery, shares its recording
+{124}{cmdr7}{Leave my locker alone or I will dish out some serious pain.}
 {125}{cmdr11}{Time to die.}
 
 #added by killap - RP
@@ -61,7 +62,8 @@
 {253}{}{Yeah, he thought he'd sweeten the trade by sending me along. What a deal, huh?}
 {254}{}{Before I answer any questions, I've got a few of my own.}
 
-{260}{cmdr18}{I don't have time for this bullshit. Guards! Kill this mutie!}
+# VOCK Note: cmdr18 = cmdr13 - same words and delivery, shares its recording
+{260}{cmdr13}{I don't have time for this bullshit. Guards! Kill this mutie!}
 
 {270}{cmdr19}{That supposed to be funny, mutant? I think you'll be a lot funnier to me when you're a bleeding corpse. Guards! Kill this mutie!}
 
@@ -80,4 +82,5 @@
 
 # VOCK Add Ons -- own-ID fix: pickup_p_proc's floater reused the PC-only BOption(105) text, so the NPC bark could not be voiced separately.
 # pickup_p_proc: replaces the floater(105) reuse.
-{2100}{cmdr26}{Time to die.}
+# VOCK Note: cmdr26 = cmdr11 - same words and delivery, shares its recording
+{2100}{cmdr11}{Time to die.}

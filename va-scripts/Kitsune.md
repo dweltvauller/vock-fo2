@@ -1,7 +1,7 @@
 # Kitsune — VA Script
 **Character:** Kitsune, EPA specimen / companion (epac12)
 
-**Total recordable lines:** 207 (`kit1`–`kit207`)
+**Total recordable lines:** 205 (`kit1`–`kit207`; 2 tags share another tag's recording)
 
 ---
 
@@ -290,7 +290,7 @@
 
 `kit111:` Just what kind of mining town do you call this?
 
-`kit112:` Not my kind of place to be born in, no offense.
+*Same take as `kit101` — no separate recording (was `kit112`).*
 
 `kit113:` Good place to hide out if the law's on your tail.
 
@@ -314,7 +314,7 @@
 
 `kit123:` Feels nice to walk into a town that looks like it has it together.
 
-`kit124:` I've heard about these places...
+*Same take as `kit122` — no separate recording (was `kit124`).*
 
 `kit125:` The only holy place in these unholy wastes.
 

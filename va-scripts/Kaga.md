@@ -1,7 +1,7 @@
 # Kaga — VA Script
 **Character:** Kaga, disgraced tribal warrior, ec`kaga1`–ec`kaga5` (five recurring encounters)
 
-**Total recordable lines:** 122 (`kaga1`–`kaga122`)
+**Total recordable lines:** 118 (`kaga1`–`kaga122`; 4 tags share another tag's recording)
 
 ---
 
@@ -220,7 +220,7 @@
 
 `kaga82:` You'll pay for this -- later!
 
-`kaga101:` You cannot kill the Great Kaga!
+*Same take as `kaga21` — no separate recording (was `kaga101`).*
 
 `kaga102:` You are in luck! Kaga has business elsewhere.
 
@@ -235,9 +235,9 @@
 
 `kaga83:` Arroyo will regret casting me out!
 
-`kaga84:` I will have my revenge on YOU!
+*Same take as `kaga8` — no separate recording (was `kaga84`).*
 
-`kaga85:` Kaga will send you to the next life!
+*Same take as `kaga9` — no separate recording (was `kaga85`).*
 
 `kaga86:` Another Chosen One to kill!
 
@@ -245,7 +245,7 @@
 
 `kaga105:` I am to be feared by all!
 
-`kaga106:` Kaga will have your head for a trophy!
+*Same take as `kaga18` — no separate recording (was `kaga106`).*
 
 `kaga107:` Surrender and I'll make your death quick!
 

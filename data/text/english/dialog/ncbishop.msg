@@ -462,13 +462,17 @@
 # Node036: replaces 550 + 551 + 553 + 554.
 {2013}{bishp48}{(Checks you out for a moment, then nods.) Yeah... I got a job for you. I have a..."problem" down south in NCR. The dead man's name is Carlson. He don't know he's dead yet. Make it happen, and it's worth 500 to you.}
 # Node036: replaces 551 + 552 (arriving via Node034/Node980, Westin just settled).
-{2014}{bishp49}{Yeah... I got a job for you. I have another..."problem" down in NCR. Nail one, another pops up. This dead man's name is Carlson. He don't know he's dead yet. }
+# VOCK Note: bishp49 = bishp45 - same words and delivery, shares its recording
+{2014}{bishp45}{Yeah... I got a job for you. I have another..."problem" down in NCR. Nail one, another pops up. This dead man's name is Carlson. He don't know he's dead yet. }
 # Node036: replaces 551 + 552 + 554.
-{2015}{bishp50}{Yeah... I got a job for you. I have another..."problem" down in NCR. Nail one, another pops up. This dead man's name is Carlson. He don't know he's dead yet. Make it happen, and it's worth 500 to you.}
+# VOCK Note: bishp50 = bishp46 - same words and delivery, shares its recording
+{2015}{bishp46}{Yeah... I got a job for you. I have another..."problem" down in NCR. Nail one, another pops up. This dead man's name is Carlson. He don't know he's dead yet. Make it happen, and it's worth 500 to you.}
 # Node036: replaces 551 + 553.
-{2016}{bishp51}{Yeah... I got a job for you. I have a..."problem" down south in NCR. The dead man's name is Carlson. He don't know he's dead yet. }
+# VOCK Note: bishp51 = bishp47 - same words and delivery, shares its recording
+{2016}{bishp47}{Yeah... I got a job for you. I have a..."problem" down south in NCR. The dead man's name is Carlson. He don't know he's dead yet. }
 # Node036: replaces 551 + 553 + 554.
-{2017}{bishp52}{Yeah... I got a job for you. I have a..."problem" down south in NCR. The dead man's name is Carlson. He don't know he's dead yet. Make it happen, and it's worth 500 to you.}
+# VOCK Note: bishp52 = bishp48 - same words and delivery, shares its recording
+{2017}{bishp48}{Yeah... I got a job for you. I have a..."problem" down south in NCR. The dead man's name is Carlson. He don't know he's dead yet. Make it happen, and it's worth 500 to you.}
 # Node036: replaces 552 + 554 (arriving via Node035, no lead-in line).
 {2018}{bishp55}{I have another..."problem" down in NCR. Nail one, another pops up. This dead man's name is Carlson. He don't know he's dead yet. Make it happen, and it's worth 500 to you.}
 # Node036: replaces 553 + 554.

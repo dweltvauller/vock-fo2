@@ -1,7 +1,7 @@
 # Lenny — VA Script
 **Character:** Lenny, Harold's assistant and town doctor in Gecko (later a party member)
 
-**Total recordable lines:** 83 (`lenny1`–`lenny83`)
+**Total recordable lines:** 81 (`lenny1`–`lenny83`; 2 tags share another tag's recording)
 
 ---
 
@@ -139,7 +139,7 @@ p'people in p'pain.
 ## Leaving the Party
 *The generic disgrace/disappointment line -- used for several different leave-reasons (bad karma, childkiller, causing trouble in town, being a slaver, destroying Gecko's power plant).*
 
-`lenny68:` I never th'thought I'd live to see the d'day when I'd be ashamed to b'be p'part of what you're
+*Same take as `lenny46` — no separate recording (was `lenny68`).*
 doing. You're a d'disgrace to the Vault Dweller's m'memory. B'dee-ya, b'dee-ya, goodbye.
 
 *Same line, spoken as a direct farewell when the PC ends the conversation right after Lenny's had enough.*
@@ -198,7 +198,7 @@ j'joints.
 
 *Rejoining after being left behind, but the party's full.*
 
-`lenny45:` There are s'so many p'people here. You d'don't need my h'help anymore. G'good-luck to you.
+*Same take as `lenny33` — no separate recording (was `lenny45`).*
 
 *Reacting to being asked to leave the party again, right after that.*
 

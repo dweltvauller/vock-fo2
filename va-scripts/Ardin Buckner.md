@@ -1,7 +1,7 @@
 # Ardin Buckner — VA Script
 **Character:** Ardin Buckner, owner of Buckner House (the inn), Klamath
 
-**Total recordable lines:** 56 (`ardin1`–`ardin56`)
+**Total recordable lines:** 55 (`ardin1`–`ardin56`; 1 tag share another tag's recording)
 
 ---
 
@@ -182,7 +182,7 @@
 
 `ardin55:` We're pretty full right now. Sorry.
 
-`ardin56:` Have you found my Smiley yet?
+*Same take as `ardin38` — no separate recording (was `ardin56`).*
 
 ---
 

@@ -1,7 +1,7 @@
 # Navarro Base Commander — VA Script
 **Character:** Navarro Base Commander (CMDR), Enclave
 
-**Total recordable lines:** 26 (`cmdr1`–`cmdr26`)
+**Total recordable lines:** 23 (`cmdr1`–`cmdr26`; 3 tags share another tag's recording)
 
 ---
 
@@ -53,7 +53,7 @@
 ## Timed Floats & Combat Audio
 *Overhead floating warning bark if the PC tries to lockpick or steal from his locker.*
 
-`cmdr10:` Leave my locker alone or I will dish out some serious pain.
+*Same take as `cmdr7` — no separate recording (was `cmdr10`).*
 
 *Overhead combat shout when he or his guards open fire.*
 
@@ -62,7 +62,7 @@
 ## Pickpocket Detection
 *Overhead bark if the PC is caught trying to steal from him directly (not his locker).*
 
-`cmdr26:` Time to die.
+*Same take as `cmdr11` — no separate recording (was `cmdr26`).*
 
 ## Restoration Project — Captured / Brought to Office
 *Extended scene: PC sneaks onto the Enclave Vertibird in New Reno and gets caught arriving at Navarro.*
@@ -91,7 +91,7 @@
 
 *PC hesitates or gives a confused answer.*
 
-`cmdr18:` I don't have time for this bullshit. Guards! Kill this mutie!
+*Same take as `cmdr13` — no separate recording (was `cmdr18`).*
 
 *PC brags or gets snarky about working for Salvatore.*
 

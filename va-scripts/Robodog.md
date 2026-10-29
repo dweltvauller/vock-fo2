@@ -1,7 +1,7 @@
 # Robodog — VA Script
 **Character:** Robodog, Dr. Henry's cybernetic dog, NCR
 
-**Total recordable lines:** 34 (`dogr1`–`dogr34`)
+**Total recordable lines:** 26 (`dogr1`–`dogr34`; 8 tags share another tag's recording)
 
 ---
 
@@ -35,11 +35,11 @@
 
 *Healed to good condition — the same curious bark-whir as dogr2.*
 
-`dogr6:` Rowf? <boing> Raggy?
+*Same take as `dogr2` — no separate recording (was `dogr6`).*
 
 *Healed but still hurting — small sad whimper-click.*
 
-`dogr7:` <click> whimper.
+*Same take as `dogr3` — no separate recording (was `dogr7`).*
 
 *Healing had no real effect — a confused, questioning howl.*
 
@@ -75,16 +75,16 @@
 
 *Party has room — happy to be back in the group.*
 
-`dogr15:` Woof! Wo-wo-wo-<click>woof?
+*Same take as `dogr4` — no separate recording (was `dogr15`).*
 
 ## Idle Barks — Before Recruitment
 *Random idle barks/growls/glitches, one plays at random when addressed while not yet a party member.*
 
-`dogr16:` Arf! <click> Woof!
+*Same take as `dogr5` — no separate recording (was `dogr16`).*
 
 `dogr17:` ...bzzzzzz...
 
-`dogr18:` .whirrrrr... I am not a Daggit.
+*Same take as `dogr14` — no separate recording (was `dogr18`).*
 
 `dogr19:` Grrrrrrrrrrrrrrrr--
 
@@ -101,7 +101,7 @@
 
 `dogr23:` Grrr...
 
-`dogr24:` How-woooo! <click-click> How-wooo!
+*Same take as `dogr8` — no separate recording (was `dogr24`).*
 
 *Two variants of a startled bark.*
 
@@ -119,7 +119,7 @@
 
 *Three more variants of a chirpy, garbled bark.*
 
-`dogr30:` Ee-bee-dee-bee-ee-bee-dee-bee!
+*Same take as `dogr9` — no separate recording (was `dogr30`).*
 
 `dogr31:` Woof!
 
@@ -128,7 +128,7 @@
 ## Bonus Bark
 *One more growl-bark in the same family as dogr32, worth capturing alongside it.*
 
-`dogr33:` GRRR-ROWF!
+*Same take as `dogr32` — no separate recording (was `dogr33`).*
 
 ## Cat's Paw (New Reno)
 

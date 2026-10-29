@@ -150,7 +150,8 @@
 
 {360}{lenny33}{There are s'so many p'people here. You d'don't need my h'help, anymore. G'good-luck to you.}
 
-{370}{lenny68}{I never th'thought I'd live to see the d'day when I'd be ashamed to b'be p'part of what you're
+# VOCK Note: lenny68 = lenny46 - same words and delivery, shares its recording
+{370}{lenny46}{I never th'thought I'd live to see the d'day when I'd be ashamed to b'be p'part of what you're
  doing. You're a d'disgrace to the Vault Dweller's m'memory. B'dee-ya, b'dee-ya, goodbye.}
 {371}{lenny34}{Y'know, I th'thought it w'would be nice to t'travel around with y'you. But you're j'jist an
  ornery and c'cantankerous as a bull b'brahmin with a c'cactus up its ass. And you don't s'smell much
@@ -269,7 +270,8 @@
 {1800}{lenny43}{I g'guess we d'don't want to m'make too easy a t'target huh?}
 {1900}{lenny44}{Okay, I'll s'stay a b'bit farther off. S'seems like people mostly want to k'kill you, anyways.}
 
-{2000}{lenny45}{There are s'so many p'people here. You d'don't need my h'help anymore. G'good-luck to you.}
+# VOCK Note: lenny45 = lenny33 - same words and delivery, shares its recording
+{2000}{lenny33}{There are s'so many p'people here. You d'don't need my h'help anymore. G'good-luck to you.}
 {2100}{lenny46}{I never th'thought I'd live to see the d'day when I'd be ashamed to b'be p'part of what you're
  doing. You're a d'disgrace to the Vault Dweller's m'memory. B'dee-ya, b'dee-ya, goodbye.}
 {2200}{lenny47}{I w'wasn't sure you'd come back.}

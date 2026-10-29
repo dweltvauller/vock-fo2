@@ -1,7 +1,7 @@
 # Vic — VA Script
 **Character:** Vic, the Den's Radio Repairman (recruitable companion)
 
-**Total recordable lines:** 230 (`vic1`–`vic230`)
+**Total recordable lines:** 227 (`vic1`–`vic230`; 3 tags share another tag's recording)
 
 ---
 
@@ -217,14 +217,14 @@
 
 `vic60:` I'll just stay back a little then, Boss.
 
-`vic61:` Sure, Boss.
+*Same take as `vic51` — no separate recording (was `vic61`).*
 
 ## Party Menu — Spread Out
 *One plays at random.*
 
 `vic62:` Right Boss. I'll hang way back.
 
-`vic63:` What ever you say, Boss.
+*Same take as `vic39` — no separate recording (was `vic63`).*
 
 `vic64:` There you go, Boss.
 
@@ -277,7 +277,7 @@
 ## Party Menu — Questions Greeting
 *One plays at random.*
 
-`vic86:` Sure, Boss.
+*Same take as `vic51` — no separate recording (was `vic86`).*
 
 `vic87:` Ask anything, Boss.
 

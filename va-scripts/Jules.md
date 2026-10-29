@@ -1,7 +1,7 @@
 # Jules -- VA Script
 **Character:** Jules, freelance New Reno tour guide, pimp, and Jet dealer working the town's entrance
 
-**Total recordable lines:** 198 (`jules1`-`jules198`)
+**Total recordable lines:** 196 (`jules1`-`jules198`; 2 tags share another tag's recording)
 
 ---
 
@@ -116,7 +116,7 @@
 
 `jules147:` Lady Luck's shining on you, man. You got the MAGIC.
 
-`jules148:` I always knew you'd have your name in lights. I knew it first time I saw you.
+*Same take as `jules139` — no separate recording (was `jules148`).*
 
 ## Ambient Float -- Female Porn Star
 *One plays at random once you're a known female porn star.*
@@ -133,7 +133,7 @@
 
 `jules154:` How about you let me star in a few scenes with you, sweetness?
 
-`jules155:` Yo, now you ain't forgotten your friend Jules on your rise to the top, have you?
+*Same take as `jules146` — no separate recording (was `jules155`).*
 
 `jules156:` Lady Luck's shining on you, sweetness. You got the MAGIC.
 

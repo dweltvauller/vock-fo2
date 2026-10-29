@@ -1,7 +1,7 @@
 # Chris — VA Script
 **Character:** Chris, Gas Station Attendant at Navarro
 
-**Total recordable lines:** 39 (`chris1`–`chris39`)
+**Total recordable lines:** 38 (`chris1`–`chris39`; 1 tag share another tag's recording)
 
 ---
 
@@ -121,7 +121,7 @@
 
 `chris31:` What the...?!
 
-`chris32:` Fuck you! You want to see sorry? I got some boys who'll show you a whole new meaning for the word! (starts to turn the radio on)
+*Same take as `chris6` — no separate recording (was `chris32`).*
 
 ## General Hostility Floats
 *One plays at random when he spots the player after the base has already been put on alert.*

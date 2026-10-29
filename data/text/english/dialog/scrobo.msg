@@ -1,21 +1,25 @@
 {100}{}{You see a strange half-dog, half-metal thing. It appears to be activated.}
 {101}{}{It's Robodog! Everybody's favorite pet!}
 {102}{}{Either this thing is some horrible stitched together combination of dog and machine or it's all machine, cunningly done to look like a dog. It's hard to tell.}
-{103}{dogr16}{Arf! <click> Woof!}
+# VOCK Note: dogr16 = dogr5 - same words and delivery, shares its recording
+{103}{dogr5}{Arf! <click> Woof!}
 {104}{dogr17}{...bzzzzzz...}
-{105}{dogr18}{.whirrrrr... I am not a Daggit.}
+# VOCK Note: dogr18 = dogr14 - same words and delivery, shares its recording
+{105}{dogr14}{.whirrrrr... I am not a Daggit.}
 {106}{dogr19}{Grrrrrrrrrrrrrrrr--}
 {107}{dogr20}{Woof! Wo-wo-wo-<click>woof.}
 {108}{dogr21}{<sprzzzt> Meow... error.}
 {109}{dogr22}{Barkbarkbarkbarkbarkbarkbark!}
 {110}{dogr23}{Grrr...}
-{111}{dogr24}{How-woooo! <click-click> How-wooo!}
+# VOCK Note: dogr24 = dogr8 - same words and delivery, shares its recording
+{111}{dogr8}{How-woooo! <click-click> How-wooo!}
 {112}{dogr25}{Yipe! Yipe! Yipe!}
 {113}{dogr26}{Danger! Danger!}
 {114}{dogr27}{Rowf! <tick-tick-tick> Rowf!}
 {115}{dogr28}{<whirrr> Not bird, nor plane, nor even frog, just lil' old me - Robodog!<click>}
 {116}{dogr29}{Rooby-Doo!}
-{117}{dogr30}{Ee-bee-dee-bee-ee-bee-dee-bee!}
+# VOCK Note: dogr30 = dogr9 - same words and delivery, shares its recording
+{117}{dogr9}{Ee-bee-dee-bee-ee-bee-dee-bee!}
 {118}{dogr31}{Woof!}
 {119}{dogr32}{GRRR-ROWF!}
 {120}{dogr1}{Arf-arf-arf-arf-arf-arf-arf!}
@@ -36,8 +40,10 @@
 #specific party messages
 {1000}{dogr4}{Woof! Wo-wo-wo-<click>woof?}
 {1100}{dogr5}{Arf! <click> Woof!}
-{1200}{dogr6}{Rowf? <boing> Raggy?}
-{1300}{dogr7}{<click> whimper.}
+# VOCK Note: dogr6 = dogr2 - same words and delivery, shares its recording
+{1200}{dogr2}{Rowf? <boing> Raggy?}
+# VOCK Note: dogr7 = dogr3 - same words and delivery, shares its recording
+{1300}{dogr3}{<click> whimper.}
 {1400}{dogr8}{How-woooo! <click-click> How-wooo!}
 {1500}{dogr9}{Ee-bee-dee-bee-ee-bee-dee-bee!} #Wait here resoponse
 {1600}{dogr10}{Sure thing, I'll put it away.}  #Put weapons away
@@ -45,7 +51,9 @@
 {1800}{dogr12}{Arf-arf proximity set to medium.} #Medium
 {1900}{dogr13}{Arf-arf proximity set to far.} #Far
 {2000}{dogr14}{.whirrrrr... I am not a Daggit.}
-{2100}{dogr33}{GRRR-ROWF!}
-{2200}{dogr15}{Woof! Wo-wo-wo-<click>woof?}
+# VOCK Note: dogr33 = dogr32 - same words and delivery, shares its recording
+{2100}{dogr32}{GRRR-ROWF!}
+# VOCK Note: dogr15 = dogr4 - same words and delivery, shares its recording
+{2200}{dogr4}{Woof! Wo-wo-wo-<click>woof?}
 
 {2204}{}{Ok, you're at a good distance for now.}

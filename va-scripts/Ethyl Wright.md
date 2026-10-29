@@ -1,7 +1,7 @@
 # Ethyl Wright — VA Script
 **Character:** Mrs. Ethyl Wright, head of the Temperance Union, New Reno (ncethwri)
 
-**Total recordable lines:** 67 (`ew1`–`ew67`)
+**Total recordable lines:** 66 (`ew1`–`ew67`; 1 tag share another tag's recording)
 
 ---
 
@@ -93,7 +93,7 @@
 
 **ew26:** So what are these questions you have?
 
-**ew27:** (Jumps.) Oh, my! You gave me such a fright! (Squints.) Well, hello again!
+*Same take as `ew2` — no separate recording (was `ew27`).*
 
 ## Accused of Knowing About the Alcohol Trade
 *Confused at first, then defensive of her husband. Two gender-branched reactions to the accusation.*

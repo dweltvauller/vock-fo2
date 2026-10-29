@@ -1,7 +1,7 @@
 # Sheila — VA Script
 **Character:** Sheila, a prostitute working the Hole, Den
 
-**Total recordable lines:** 26 (`shela1`–`shela26`)
+**Total recordable lines:** 25 (`shela1`–`shela26`; 1 tag share another tag's recording)
 
 ---
 
@@ -92,7 +92,7 @@ for leading a customer off and hurrying them along.*
 
 `shela23:` Come on, come on.
 
-`shela24:` Follow me.
+*Same take as `shela17` — no separate recording (was `shela24`).*
 
 `shela25:` Hey, pal, keep your hands off of the merchandise.
 

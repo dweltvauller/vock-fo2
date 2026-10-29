@@ -225,11 +225,13 @@
 {1800}{vic58}{OK, I'll keep my distance, but not too far, Boss.}
 {1801}{vic59}{Okay, I won't, Boss.}
 {1802}{vic60}{I'll just stay back a little then, Boss.}
-{1803}{vic61}{Sure, Boss.}
+# VOCK Note: vic61 = vic51 - same words and delivery, shares its recording
+{1803}{vic51}{Sure, Boss.}
 
 # 1006 We should spread out a bit
 {1900}{vic62}{Right Boss. I'll hang way back.}
-{1901}{vic63}{What ever you say, Boss.}
+# VOCK Note: vic63 = vic39 - same words and delivery, shares its recording
+{1901}{vic39}{What ever you say, Boss.}
 {1902}{vic64}{There you go, Boss.}
 {1903}{vic65}{Standing back, Boss.}
 {1904}{vic66}{Backing away, Boss.}
@@ -274,7 +276,8 @@
 {2404}{}{Never mind.}
 
 # 1011 Other questions greeting (From 1000)
-{2500}{vic86}{Sure, Boss.}
+# VOCK Note: vic86 = vic51 - same words and delivery, shares its recording
+{2500}{vic51}{Sure, Boss.}
 {2501}{vic87}{Ask anything, Boss.}
 {2502}{vic88}{I'll help you if I can, Boss.}
 {2503}{vic89}{I'm not in trouble am I, Boss?}

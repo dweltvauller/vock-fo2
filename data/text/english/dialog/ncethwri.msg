@@ -160,7 +160,8 @@
 # 24. NO, I DON'T KNOW YOUR HUSBAND/2nd INTRO (WTG, 12, 13, 14, 24, 29, 30, 31, 32, 34)
 {360}{ew25}{Oh. (Blinks.) So what is it I can do for you?}
 {361}{ew26}{So what are these questions you have?}
-{362}{ew27}{(Jumps.) Oh, my! You gave me such a fright! (Squints.) Well, hello again!}
+# VOCK Note: ew27 = ew2 - same words and delivery, shares its recording
+{362}{ew2}{(Jumps.) Oh, my! You gave me such a fright! (Squints.) Well, hello again!}
 {363}{}{What were you saying about the Temperance Union before?}
 {364}{}{I'm looking for a Garden of Eden Creation Kit.}
 {365}{}{I'm looking for a place called Vault 13.}

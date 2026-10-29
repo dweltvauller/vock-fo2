@@ -73,7 +73,8 @@
 {220}{shela22}{Fine; I'm not waiting around any longer.}
 {221}{shela23}{Come on, come on.}
 {222}{shela16}{Getting excited or something?}
-{223}{shela24}{Follow me.}
+# VOCK Note: shela24 = shela17 - same words and delivery, shares its recording
+{223}{shela17}{Follow me.}
 {224}{shela25}{Hey, pal, keep your hands off of the merchandise.}
 {225}{shela26}{Knock it off! I'm not just some toy to use.}
 

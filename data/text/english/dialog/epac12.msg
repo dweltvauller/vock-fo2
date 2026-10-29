@@ -289,7 +289,8 @@
 {1110}{kit111}{Just what kind of mining town do you call this?}
 
 #PRIMITIVE TRIBE
-{1120}{kit112}{Not my kind of place to be born in, no offense.}
+# VOCK Note: kit112 = kit101 - same words and delivery, shares its recording
+{1120}{kit101}{Not my kind of place to be born in, no offense.}
 
 #RAIDERS
 {1130}{kit113}{Good place to hide out if the law's on your tail.}
@@ -323,7 +324,8 @@
 {1220}{kit123}{Feels nice to walk into a town that looks like it has it together.}
 
 #VAULT 15
-{1230}{kit124}{I've heard about these places...}
+# VOCK Note: kit124 = kit122 - same words and delivery, shares its recording
+{1230}{kit122}{I've heard about these places...}
 
 #ABBEY
 {1240}{kit125}{The only holy place in these unholy wastes.}

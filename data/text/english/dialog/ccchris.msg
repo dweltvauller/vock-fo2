@@ -167,7 +167,8 @@
 {221}{chris31}{What the...?!}
 {222}{}{You use radio and me make you sorry!}
 {223}{}{You use that radio and I'll make you sorry!}
-{224}{chris32}{Fuck you! You want to see sorry? I got some boys who'll show you a
+# VOCK Note: chris32 = chris6 - same words and delivery, shares its recording
+{224}{chris6}{Fuck you! You want to see sorry? I got some boys who'll show you a
  whole new meaning for the word! (starts to turn the radio on)}
 {225}{}{Me kill you dead!}
 {226}{}{What you do now?}

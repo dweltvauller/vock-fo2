@@ -2,7 +2,7 @@
 
 Modoc — slaughterhouse owner, father of Miria and Davin
 
-**93 recordable lines. Tags grish1–grish93.**
+**91 recordable lines. Tags grish1–grish93; 2 tags share another tag's recording.**
 
 > **Direction:** A weathered old slaughterhouse owner — gruff, transactional, and quick to turn nasty when he feels cheated or crossed. He haggles hard, holds a grudge, and isn't above a threat delivered with a smile. Underneath the crotchety business act he's fiercely protective of his two kids, Miria and Davin, and possessive of his brahmin herd. Comfortable with dark, deadpan humor, even when he's the one making the threat. Later in the game, if Grisham has died, his brother Uncle Biff steps into the same fatherly role using the same voice — play him with the same gruff old-man energy, just addressing a niece/nephew instead of a son/daughter.
 
@@ -159,10 +159,10 @@ Modoc — slaughterhouse owner, father of Miria and Davin
 - **grish55:** Let me see. It looked to me that you and my niece were imitating the brahmin during mating season.
 - **grish56:** Let me see. It looked to me that you and my nephew were doing the horizontal tango between the sheets.
 - **grish83:** I knew my niece was odd.
-- **grish84:** Different people, different tastes, I suppose.
+- *Same take as `grish62` — no separate recording (was `grish84`).*
 - **grish85:** I'm glad Grisham ain't alive to see this.
 - **grish86:** I knew my nephew was odd.
-- **grish87:** I guess you're family, now.
+- *Same take as `grish66` — no separate recording (was `grish87`).*
 - **grish88:** You take good care of my niece.
 - **grish89:** You take good care of my nephew.
 

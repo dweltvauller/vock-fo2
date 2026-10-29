@@ -3323,8 +3323,10 @@
 #
 {36120}{kaga6}{I should have been the Chosen One!}
 {36121}{kaga83}{Arroyo will regret casting me out!}
-{36122}{kaga84}{I will have my revenge on YOU!}
-{36123}{kaga85}{Kaga will send you to the next life!}
+# VOCK Note: kaga84 = kaga8 - same words and delivery, shares its recording
+{36122}{kaga8}{I will have my revenge on YOU!}
+# VOCK Note: kaga85 = kaga9 - same words and delivery, shares its recording
+{36123}{kaga9}{Kaga will send you to the next life!}
 {36124}{kaga86}{Another Chosen One to kill!}
 #
 # attacking
@@ -3357,7 +3359,8 @@
 #
 {36200}{kaga10}{We will meet again!}
 {36201}{kaga79}{I'll be back...}
-{36202}{kaga101}{You cannot kill the Great Kaga!}
+# VOCK Note: kaga101 = kaga21 - same words and delivery, shares its recording
+{36202}{kaga21}{You cannot kill the Great Kaga!}
 {36203}{kaga102}{You are in luck! Kaga has business elsewhere.}
 {36204}{kaga103}{You and Kaga will meet again.}
 {36205}{kaga82}{You'll pay for this -- later!}
@@ -3366,7 +3369,8 @@
 #
 {36220}{kaga104}{After I kill you, I will burn Arroyo to the ground!}
 {36221}{kaga105}{I am to be feared by all!}
-{36222}{kaga106}{Kaga will have your head for a trophy!}
+# VOCK Note: kaga106 = kaga18 - same words and delivery, shares its recording
+{36222}{kaga18}{Kaga will have your head for a trophy!}
 {36223}{kaga107}{Surrender and I'll make your death quick!}
 #
 # attacking

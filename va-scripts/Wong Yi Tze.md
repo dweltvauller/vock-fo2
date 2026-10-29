@@ -1,7 +1,7 @@
 # Wong Yi Tze — VA Script
 **Character:** Dr. Wong Yi Tze, head scientist of the Shi, San Francisco
 
-**Total recordable lines:** 53 (`wong1`–`wong53`)
+**Total recordable lines:** 51 (`wong1`–`wong53`; 2 tags share another tag's recording)
 
 ---
 
@@ -171,9 +171,9 @@
 
 `wong43:` Here you go. [He hands you various high powered weapons]
 
-`wong44:` Here you go. [He hands you various supplies]
+*Same take as `wong43` — no separate recording (was `wong44`).*
 
-`wong45:` Here you go. [He hands you $5,000]
+*Same take as `wong43` — no separate recording (was `wong45`).*
 
 ## Reward Declined
 

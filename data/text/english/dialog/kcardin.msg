@@ -149,7 +149,8 @@
 {352}{}{I'll do my best, Mrs. Buckner. Goodbye.}
 {353}{}{You know, I just don't think I can help you right now. Goodbye.}
 
-{360}{ardin56}{Have you found my Smiley yet?}
+# VOCK Note: ardin56 = ardin38 - same words and delivery, shares its recording
+{360}{ardin38}{Have you found my Smiley yet?}
 {361}{}{Sorry, Mrs. Buckner. I'm still looking for him. Let me ask you something else first, though.}
 {362}{}{No, I'm just about to go look for him though. Goodbye.}
 

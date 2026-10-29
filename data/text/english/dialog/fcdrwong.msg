@@ -166,10 +166,12 @@
 {460}{wong43}{Here you go. [He hands you various high powered weapons]}
 {461}{}{[DONE]}
 
-{470}{wong44}{Here you go. [He hands you various supplies]}
+# VOCK Note: wong44 = wong43 - same words and delivery, shares its recording
+{470}{wong43}{Here you go. [He hands you various supplies]}
 {471}{}{[DONE]}
 
-{480}{wong45}{Here you go. [He hands you $5,000]}
+# VOCK Note: wong45 = wong43 - same words and delivery, shares its recording
+{480}{wong43}{Here you go. [He hands you $5,000]}
 {481}{}{[DONE]}
 
 {490}{wong46}{The Shi appreciates your assistance. Now, I have much work to do. Good day.}

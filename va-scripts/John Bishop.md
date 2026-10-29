@@ -1,7 +1,7 @@
 # John Bishop — VA Script
 **Character:** John Bishop, patriarch of the Bishop crime family, New Reno
 
-**Total recordable lines:** 109 (`bishp1`–`bishp109`)
+**Total recordable lines:** 105 (`bishp1`–`bishp109`; 4 tags share another tag's recording)
 
 ---
 
@@ -163,13 +163,13 @@
 
 `bishp48:` (Checks you out for a moment, then nods.) Yeah... I got a job for you. I have a..."problem" down south in NCR. The dead man's name is Carlson. He don't know he's dead yet. Make it happen, and it's worth 500 to you.
 
-`bishp49:` Yeah... I got a job for you. I have another..."problem" down in NCR. Nail one, another pops up. This dead man's name is Carlson. He don't know he's dead yet. 
+*Same take as `bishp45` — no separate recording (was `bishp49`).*
 
-`bishp50:` Yeah... I got a job for you. I have another..."problem" down in NCR. Nail one, another pops up. This dead man's name is Carlson. He don't know he's dead yet. Make it happen, and it's worth 500 to you.
+*Same take as `bishp46` — no separate recording (was `bishp50`).*
 
-`bishp51:` Yeah... I got a job for you. I have a..."problem" down south in NCR. The dead man's name is Carlson. He don't know he's dead yet. 
+*Same take as `bishp47` — no separate recording (was `bishp51`).*
 
-`bishp52:` Yeah... I got a job for you. I have a..."problem" down south in NCR. The dead man's name is Carlson. He don't know he's dead yet. Make it happen, and it's worth 500 to you.
+*Same take as `bishp48` — no separate recording (was `bishp52`).*
 
 `bishp53:` I have another..."problem" down in NCR. Nail one, another pops up. This dead man's name is Carlson. He don't know he's dead yet. 
 

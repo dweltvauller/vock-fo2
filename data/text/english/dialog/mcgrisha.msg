@@ -171,11 +171,13 @@
 {1101}{}{You see Uncle Biff.}
 
 {1155}{grish83}{I knew my niece was odd.}
-{1156}{grish84}{Different people, different tastes, I suppose.}
+# VOCK Note: grish84 = grish62 - same words and delivery, shares its recording
+{1156}{grish62}{Different people, different tastes, I suppose.}
 {1157}{grish85}{I'm glad Grisham ain't alive to see this.}
 {1158}{grish86}{I knew my nephew was odd.}
 
-{1159}{grish87}{I guess you're family, now.}
+# VOCK Note: grish87 = grish66 - same words and delivery, shares its recording
+{1159}{grish66}{I guess you're family, now.}
 {1160}{grish88}{You take good care of my niece.}
 {1161}{grish89}{You take good care of my nephew.}
 

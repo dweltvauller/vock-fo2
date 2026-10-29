@@ -15,7 +15,7 @@
 {159}{}{What's the matter boy, are you trying to tell me something?}
 {160}{lad4}{Grrrr! [Laddie takes a vicious bite at you.]}
 {161}{}{[Hmm... For some reason he doesn't like you.]}
-{162}{lad3}{Woof! Woof! Woof! [Laddie jumps on you and starts to lick your face.]}
+{162}{lad6}{Woof! Woof! Woof! [Laddie jumps on you and starts to lick your face.]}
 {163}{}{[What a nice doggy.]}
 {164}{lad5}{Woof? [You can almost hear the dog laughing at you.]}
 {165}{}{[Nobody likes a smart ass.]}

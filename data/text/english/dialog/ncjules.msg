@@ -61,7 +61,8 @@
 {322}{jules145}{How about you introduce me to some of those actresses you work on, brother?}
 {323}{jules146}{Yo, now you ain't forgotten your friend Jules on your rise to the top, have you?}
 {324}{jules147}{Lady Luck's shining on you, man. You got the MAGIC.}
-{325}{jules148}{I always knew you'd have your name in lights. I knew it first time I saw you.}
+# VOCK Note: jules148 = jules139 - same words and delivery, shares its recording
+{325}{jules139}{I always knew you'd have your name in lights. I knew it first time I saw you.}
 
 # 10. FLOAT [FEMALE PORN STAR] (WTG)
 {340}{jules149}{Look at THIS sweet soul sister.}
@@ -70,7 +71,8 @@
 {343}{jules152}{Damn, look at THIS shining star... so bright I can barely see you, sister!}
 {344}{jules153}{Yo! Looks to me like New Reno's been GOOD to you!}
 {345}{jules154}{How about you let me star in a few scenes with you, sweetness?}
-{346}{jules155}{Yo, now you ain't forgotten your friend Jules on your rise to the top, have you?}
+# VOCK Note: jules155 = jules146 - same words and delivery, shares its recording
+{346}{jules146}{Yo, now you ain't forgotten your friend Jules on your rise to the top, have you?}
 {347}{jules156}{Lady Luck's shining on you, sweetness. You got the MAGIC.}
 {348}{jules157}{I always knew you'd have your name in lights, sister. I knew it first time I saw you.}
 {349}{jules158}{You're one classy lady when you're bucking and moaning on the screen.}
