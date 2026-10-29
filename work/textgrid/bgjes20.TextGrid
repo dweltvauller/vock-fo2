@@ -13,15 +13,15 @@ item []:
         xmax = 5.061451 
         intervals: size = 9 
         intervals [1]:
-            xmin = 0.0 
-            xmax = 0.96 
+            xmin = 0 
+            xmax = 0.205295 
             text = "" 
         intervals [2]:
-            xmin = 0.96 
-            xmax = 1.42 
+            xmin = 0.205295 
+            xmax = 1.082497 
             text = "(wheeze)" 
         intervals [3]:
-            xmin = 1.42 
+            xmin = 1.082497 
             xmax = 1.59 
             text = "you" 
         intervals [4]:
@@ -55,27 +55,27 @@ item []:
         xmax = 5.061451 
         intervals: size = 21 
         intervals [1]:
-            xmin = 0.0 
-            xmax = 0.96 
+            xmin = 0 
+            xmax = 0.205295 
             text = "" 
         intervals [2]:
-            xmin = 0.96 
-            xmax = 0.99 
+            xmin = 0.205295 
+            xmax = 0.338435 
             text = "HH" 
         intervals [3]:
-            xmin = 0.99 
-            xmax = 1.22 
+            xmin = 0.338435 
+            xmax = 0.67604 
             text = "IY1" 
         intervals [4]:
-            xmin = 1.22 
-            xmax = 1.42 
+            xmin = 0.67604 
+            xmax = 1.082497 
             text = "Z" 
         intervals [5]:
-            xmin = 1.42 
-            xmax = 1.48 
+            xmin = 1.082497 
+            xmax = 1.47 
             text = "Y" 
         intervals [6]:
-            xmin = 1.48 
+            xmin = 1.47 
             xmax = 1.59 
             text = "UW1" 
         intervals [7]:
@@ -128,10 +128,10 @@ item []:
             text = "S" 
         intervals [19]:
             xmin = 4.33 
-            xmax = 4.6 
+            xmax = 4.57 
             text = "EH1" 
         intervals [20]:
-            xmin = 4.6 
+            xmin = 4.57 
             xmax = 4.69 
             text = "L" 
         intervals [21]:

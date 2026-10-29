@@ -2,6 +2,7 @@
 
 ## WIP
 - Louise (Redding), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno)
+- Fixed voice audio being slightly out of phase in all voiced lines (re-encoded every ACM)
 - Francis's talking head now has the same lighting in every mood (Broken Hills)
 - Fixed see-through spots on AHS-9's talking head (San Francisco)
 - Fixed see-through spots on Jenny's talking head
@@ -12,6 +13,9 @@
 - Valerie's talking head no longer shifts sideways when she starts talking or while she talks (Vault City)
 - Lao Chou's talking head no longer plays the wrong animation when his mood goes from bad to neutral (San Francisco)
 - Louis Salvatore and Stuart Little (New Reno) now play 5 THAT recordings the THAT-RPU script left silent (Salvatore's made-man offer; Stuart after a lost fight, after a won fight, and when he signs you up)
+- Merk's talking head no longer shakes sideways while he talks (NCR)
+- Post-endgame floats from Arthur, Skeeter and Vegeir now play whenever you are close to them, even while sneaking or standing behind them
+- New `vock-fo2.ini` (goes in the `mods` folder): set `PostEndgame=0` to turn off the non-vanilla post-endgame easter-egg floats from Arthur, Skeeter and Vegeir, or change how often they play with `PostEndgameSeconds`
 
 ## v1.15
 - Added voices: Don (Slaver Camp), Private Dobbs (Sierra Army Depot), Merk (NCR)

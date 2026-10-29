@@ -82,5 +82,5 @@
 
 # VOCK Easter Eggs -- Node850 post-Horrigan floats (talking to Granite after he joined and Frank is dead).
 {800}{grani35}{I almost feel sorry for that freak. I bet it isn't easy being green.}
-{801}{grani36}{I had that nightmare again where I forgot my power armor. (shudder)}
+{801}{grani36}{I had that nightmare again where I forgot my power armor. Ugh!}
 {802}{grani37}{I was listening to the President's speech earlier. The radio was kind of busted. Made him sound like a robot.}

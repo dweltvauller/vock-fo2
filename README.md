@@ -21,6 +21,7 @@ The source is a sparse, RPU-shaped `data/` tree — only the files this mod adds
 | `data/art/heads/*.frm` | talking-head art |
 | `data/art/heads/heads.lst` | Talking Heads' head list with fidget counts corrected to match the art |
 | `wav/`, `textgrid/` | rebuild metadata (kept out of `data/`) |
+| `vock-fo2.ini` | player settings, shipped to the game's `mods\` folder (`[Floats]` toggles the post-endgame easter-egg floats and sets their interval) |
 
 Build with `vock.py` (`layout = data` in `vock.cfg`): it packs `data/**` verbatim into `dat/vock-fo2.dat`, plus `dat/vock-fo2-floats.dat` (ambient floats) and `dat/vock-fo2-combat.dat` (per-NPC combat barks) as opt-out overlays defined by `float_filter.cfg` / `combat_filter.cfg`, and `dat/vock-fo2-pipboy.dat` (holodisk narration).
 

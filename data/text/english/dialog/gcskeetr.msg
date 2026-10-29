@@ -223,10 +223,10 @@
 {5500}{}{).}
 
 # VOCK Easter Eggs -- Node850 post-endgame ambient floats (fire once the Enclave is destroyed).
-{800}{skeet65}{You wanna know how I got this scars?}
+{800}{skeet65}{You wanna know how I got these scars?}
 {801}{skeet66}{Uranium fever is done and got me down, Uranium fever is spreading all around.}
 {802}{skeet67}{I used to be a smoothskin like you, then I took a bomb to my country.}
-{803}{skeet68}{I ask you: Is there an engine that can resist the love that's in this hands?}
+{803}{skeet68}{I ask you: Is there an engine that can resist the love that's in these hands?}
 
 # VOCK Add Ons -- unvoiced PC menu lines for the Node111/Node112 weapon pickers.
 # Node111: which handgun to ask about.
