@@ -11,6 +11,7 @@
 - Fixed a see-through spot on Valerie's collar in her talking head (Vault City)
 - Valerie's talking head no longer shifts sideways when she starts talking or while she talks (Vault City)
 - Lao Chou's talking head no longer plays the wrong animation when his mood goes from bad to neutral (San Francisco)
+- Louis Salvatore and Stuart Little (New Reno) now play 5 THAT recordings the THAT-RPU script left silent (Salvatore's made-man offer; Stuart after a lost fight, after a won fight, and when he signs you up)
 
 ## v1.15
 - Added voices: Don (Slaver Camp), Private Dobbs (Sierra Army Depot), Merk (NCR)
