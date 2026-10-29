@@ -189,6 +189,12 @@
 
 **goris55:** What can I do for you, brother?
 
+## After Gruthar's Death (Vault 13)
+
+*If Goris is in the party: he has just watched Frank Horrigan kill Gruthar, the last of his pack, and haul the body off as a specimen. Cold, quiet fury, a vow of revenge.*
+
+`goris57:` Their blood will run like the Nile!
+
 ## Cat's Paw (New Reno)
 
 *A party member (or the player) comes back from a room at the Cat's Paw. Floats over the head.*
@@ -197,4 +203,4 @@
 
 ---
 
-56 lines total. Tag numbers follow ascending message-ID order, not this document's topical grouping.
+57 lines total. Tag numbers follow ascending message-ID order, not this document's topical grouping.

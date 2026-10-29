@@ -1,7 +1,7 @@
 # Gruthar — VA Script
 **Character:** Gruthar, leader of the intelligent deathclaw pack living in Vault 13
 
-**Total recordable lines:** 43 (`gruth1`–`gruth43`) — `gruth1`–`gruth2` are from a separate scene (see note at the end); `gruth3`–`gruth43` are his main dialogue.
+**Total recordable lines:** 43 (`gruth1`–`gruth43`) — `gruth1`–`gruth2` are the Frank Horrigan death scene (tags live in `oscomptr.msg`); `gruth3`–`gruth43` are his main dialogue.
 
 ---
 
@@ -161,10 +161,16 @@
 
 ---
 
-## Note: `gruth1`–`gruth2` (Separate Scene)
+## Death Scene — Frank Horrigan (Vault 13)
 
-Two additional Gruthar lines exist outside this dialogue tree, in the scene where Frank Horrigan kills Gruthar. They use the same voice/tag prefix but belong to a different script and a very different moment — Gruthar defiant in the face of his own death, not the diplomat of the lines above. See that scene's own material for context; they're listed here only so the actor knows the full range of the `gruth` tag numbers.
+*A cutscene, floated over the action: Frank Horrigan, the Enclave's super-soldier, has come to Vault 13 to kill the deathclaws, and Gruthar is the last one standing. Gruthar defiant in the face of his own death, not the diplomat of the lines above. Horrigan's lines are shown as cues.*
+
+*Horrigan: "You are the last, Gruthar. The stain of your kind will soon be wiped clean."*
 
 `gruth1:` You tell your so-called President that he will burn for this.
 
+*Horrigan: "Whatever. You were never anything more than a talking animal."*
+
 `gruth2:` That may be, but we were created through your experimentation. You gave us life!
+
+*Horrigan: "And now I give you death."*
