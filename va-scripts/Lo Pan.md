@@ -1,7 +1,7 @@
 # Lo Pan — VA Script
 **Character:** Lo Pan, Shi gang boss, arch-enemy of the Dragon (San Francisco)
 
-**Total recordable lines:** 45 (`lopan1`–`lopan45`)
+**Total recordable lines:** 46 (`lopan1`–`lopan46`)
 
 ---
 
@@ -124,6 +124,10 @@
 `lopan43:` You LOSE!
 
 `lopan44:` Next Opponent!
+
+*After losing a sparring bout to the Dragon (he taunts "Your kung fu is no good here."), sore but defiant.*
+
+`lopan46:` I'll beat you someday, Dragon.
 
 ---
 
