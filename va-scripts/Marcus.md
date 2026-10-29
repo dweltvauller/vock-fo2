@@ -1,9 +1,9 @@
 # Marcus -- VA Script
 **Character:** Marcus, the super mutant sheriff of Broken Hills (recruitable companion)
 
-**Total recordable lines:** 8 (`mrcus1`-`mrcus8`)
+**Total recordable lines:** 9 (`mrcus1`-`mrcus9`)
 
-> **Casting note:** Marcus's dialogue was recorded for the original Fallout 2 (vanilla `MCS*` files). These 8 lines are floats the original game never voiced. Ideally they're recorded by the original actor so Marcus has one voice throughout; if that isn't possible, match the original recordings as closely as you can.
+> **Casting note:** Marcus's dialogue was recorded for the original Fallout 2 (vanilla `MCS*` files). These 9 lines (8 floats and one dialogue line) were never voiced in the original game. Ideally they're recorded by the original actor so Marcus has one voice throughout; if that isn't possible, match the original recordings as closely as you can.
 
 ---
 
@@ -41,6 +41,14 @@
 
 `mrcus8:` *hrrrgnnnr*
 
+## Leaving Broken Hills to Steve
+
+*Steve asks Marcus, the town's sheriff, whether he's sure he doesn't want to stay and lead them for a while. Marcus answers, easygoing and sure of himself. This plays in Steve's dialogue window.*
+
+*Steve: "Marcus, are you sure you don't want to stick around and lead us for a while?"*
+
+`mrcus9:` Ain't no future in it. You'll do fine without me.
+
 ---
 
-*8 lines total. Tag numbers follow ascending message-ID order, not this document's topical grouping.*
+*9 lines total. Tag numbers follow ascending message-ID order, not this document's topical grouping.*
