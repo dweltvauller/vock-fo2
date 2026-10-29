@@ -448,6 +448,14 @@
 # Skynet:
 # Node988: replaces 703 (Skynet as partner).
 {3090}{sky32}{Wow.}
+# party_claps: replaces 720. Untagged (no Skynet clap recordings); stops Robobrain_Human_Ptr reading a missing ID.
+{3091}{}{*whistles*}
+# party_claps: replaces 721.
+{3092}{}{*clap clap clap*}
+# party_claps: replaces 722.
+{3093}{}{Way to go!}
+# party_claps: replaces 723.
+{3094}{}{Wahoo.}
 # Dex:
 # party_claps: replaces 720.
 {3101}{dex160}{*whistles*}

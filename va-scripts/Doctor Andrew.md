@@ -85,9 +85,9 @@
 ## About the Auto-Doc
 *`andr19` if the machine is still unreliable; `andr20` if the player has fixed it.*
 
-`andr19:` It can be a little ornery sometimes, but mostly it does its job. Mostly.
+`andr19:` Yeah, the "Auto-Doctor" in the back room there. It's a loaner from the city. It can be a little ornery sometimes, but mostly it does its job. Mostly.
 
-`andr20:` Been running a lot smoother lately, which is good. Cuts down on repeat visitors.
+`andr20:` Yeah, the "Auto-Doctor" in the back room there. It's a loaner from the city. Been running a lot smoother lately, which is good. Cuts down on repeat visitors.
 
 ## Thanks for the Repair
 *The player fixed the Auto-Doc for free.*

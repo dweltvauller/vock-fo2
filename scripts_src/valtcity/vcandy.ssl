@@ -19,8 +19,8 @@
              Reply()/NMessage() lines that the engine built at runtime from two
              concatenated fragments now play as a single pre-written line, so each
              recorded VA take covers its full displayed text. Affected nodes:
-             Node001, Node003, Node009, Node020, Node025, Node028, Node030,
-             Node031, Node035.
+             Node001, Node003, Node009, Node011, Node020, Node025, Node028,
+             Node030, Node031, Node035.
              The healing and party price quotes now play one whole spoken line,
              with the price shown in a stage direction after it instead of
              spoken (Node002, Node007, Node008). The high-impact cosmetic warning
@@ -788,9 +788,9 @@ end
 
 procedure Node011 begin
    if( map_var( MVAR_Auto_Doc_Fixed ) == 0 ) then
-      Reply( mstr(189) + " " + mstr(190) );
+      Reply(1190);   //VOCK: was Reply( mstr(189) + " " + mstr(190) )
    else
-      Reply( mstr(189) + " " + mstr(191) );
+      Reply(1191);   //VOCK: was Reply( mstr(189) + " " + mstr(191) )
 
    if(( map_var( MVAR_Auto_Doc_Fixed ) == 1 ) and ( local_var(LVAR_Gave_Karma_Bonus) == 0 )) then
       NOption(192, Node012, 004);

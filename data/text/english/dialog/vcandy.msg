@@ -88,8 +88,8 @@
 {187}{}{I see. Say, I had some other questions for you...}
 {188}{}{Hmmm. Maybe I'll be back when I need your services.}
 {189}{}{Yeah, the "Auto-Doctor" in the back room there. It's a loaner from the city.}
-{190}{andr19}{It can be a little ornery sometimes, but mostly it does its job. Mostly.}
-{191}{andr20}{Been running a lot smoother lately, which is good. Cuts down on repeat visitors.}
+{190}{}{It can be a little ornery sometimes, but mostly it does its job. Mostly.}
+{191}{}{Been running a lot smoother lately, which is good. Cuts down on repeat visitors.}
 {192}{}{Yeah, I replaced some of the cables and cleaned out the interior. It shouldn't give you any more trouble.}
 {193}{}{I see. Say, I had some other questions for you...}
 {194}{}{Ornery, huh? Maybe I'll go take a look at it...}
@@ -275,6 +275,10 @@
 {1294}{andr59}{Well... that sounds fair. All right, let me just bolt you into the ol' Doctor here... hope the anesthesia reservoir ain't clogged again... maybe you better bite down on this piece of brahmin hide just in case.}
 # Node031: replaces 315 + 316.
 {1316}{andr58}{Well... all right. That sounds fair. Let's get to it, then. I'll just hook up the ol' Doctor here... Let me tighten the braces and secure the clamps...}
+# Node011: replaces 189 + 190 (Auto-Doc broken).
+{1190}{andr19}{Yeah, the "Auto-Doctor" in the back room there. It's a loaner from the city. It can be a little ornery sometimes, but mostly it does its job. Mostly.}
+# Node011: replaces 189 + 191 (Auto-Doc fixed).
+{1191}{andr20}{Yeah, the "Auto-Doctor" in the back room there. It's a loaner from the city. Been running a lot smoother lately, which is good. Cuts down on repeat visitors.}
 
 # VOCK Add Ons -- staged-price fix: the price quotes spliced a live price into the middle of the line, so the tag only held the opener. Each is now one whole spoken line with the price in a stage direction after it.
 # Node002, Node007: replaces 119/158 + price + 120/159 (Auto-Doc fixed).
