@@ -1,9 +1,9 @@
 # Matthew — VA Script
 **Character:** Matthew, the Brotherhood of Steel's contact in San Francisco
 
-**Total recordable lines:** 4 (`mat32`–`mat35`)
+**Total recordable lines:** 6 (`mat32`–`mat37`)
 
-> **Casting note:** Matthew's dialogue (`MAT1`–`MAT31`) was recorded for the Talking Heads (THAT) mod. These 4 lines are from a cutscene THAT never voiced. Ideally they're recorded by the same actor so Matthew has one voice throughout; if that isn't possible, match the existing THAT recordings as closely as you can.
+> **Casting note:** Matthew's dialogue (`MAT1`–`MAT31`) was recorded for the Talking Heads (THAT) mod. These 6 lines are floats and a cutscene THAT never voiced. Ideally they're recorded by the same actor so Matthew has one voice throughout; if that isn't possible, match the existing THAT recordings as closely as you can.
 
 ---
 
@@ -41,6 +41,18 @@
 
 `mat35:` ...peep...
 
+## After the Brotherhood Job (San Francisco)
+
+*The player talks to him after finishing the Brotherhood's mission. Grateful, relaxed. He floats one of these instead of opening a conversation.*
+
+*Normally:*
+
+`mat36:` Thanks again for all your help. You have full access to our facilities now.
+
+*If the player has very low intelligence (simpler directions):*
+
+`mat37:` Just head on in through the door there, if you like, or go on up to the tanker. It's ready to go. Good luck!
+
 ---
 
-*End of script — 4 lines. Tag numbers continue after THAT's `MAT31`.*
+*End of script — 6 lines. Tag numbers continue after THAT's `MAT31`.*
