@@ -37,12 +37,12 @@
 
 {128}{}{Accessing security footage, loading holographic playback...}
 
-{129}{}{You are the last, Gruthar. The stain of your kind will soon be wiped clean.}
+{129}{ssa13}{You are the last, Gruthar. The stain of your kind will soon be wiped clean.}
 {130}{gruth1}{You tell your so-called President that he will burn for this.}
-{131}{}{Whatever. You were never anything more than a talking animal.}
+{131}{ssa14}{Whatever. You were never anything more than a talking animal.}
 {132}{gruth2}{That may be, but we were created through your experimentation. You gave us life!}
-{133}{}{And now I give you death.}
-{134}{}{Take his body. The doctor wanted a specimen.}
+{133}{ssa15}{And now I give you death.}
+{134}{ssa16}{Take his body. The doctor wanted a specimen.}
 {135}{goris57}{Their blood will run like the Nile!}
 
 #added by killap - RP
