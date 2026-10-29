@@ -2,14 +2,14 @@
 {101}{}{You see a brown-haired woman dressed in brown fatigues and metal armor. She looks like a mechanic.}
 {102}{}{You see Val. Or Valerie. Or whatever.}
 {103}{}{You see a brown-haired woman dressed in brown fatigues and metal armor. She looks like a mechanic.}
-{104}{}{Oh, hello, "Dad."}
+{104}{vcval47}{Oh, hello, "Dad."}
 {105}{}{1 Second}
 {106}{vic212}{Valerie. Good to see you again.}
-{107}{}{Oh, uh, hi, Dad. It's good to see you. Really.}
+{107}{vcval48}{Oh, uh, hi, Dad. It's good to see you. Really.}
 {108}{}{1 Second}
 {109}{vic213}{Hello, Valerie. It's good to see you, too.}
-{110}{}{You better get that mutant out of here before the guards see it.}
-{111}{}{You better get that ghoul out of here before the guards see it.}
+{110}{vcval49}{You better get that mutant out of here before the guards see it.}
+{111}{vcval50}{You better get that ghoul out of here before the guards see it.}
 {112}{}{Stupid metal bore's acting up again...}
 {113}{}{That metal lathe needs to be oiled again...}
 {114}{}{Need to make a list of those surplus parts for the First Citizen.}
@@ -162,77 +162,77 @@
 {259}{VCVAL43}{What do you... uh... Dad?}
 {260}{}{I'm sorry?}
 {261}{}{Uh, no, I'm not. I mean, I don't think so.}
-{262}{}{Dad?!}
+{262}{vcval51}{Dad?!}
 {263}{}{2 Seconds}
 {264}{vic214}{Valerie?! Honey, is that you?}
 {265}{}{2 Seconds}
-{266}{}{Where the hell have you been?! Still running around the wastes, selling shiny junk to tribals?}
+{266}{vcval52}{Where the hell have you been?! Still running around the wastes, selling shiny junk to tribals?}
 {267}{}{4 Seconds}
 {268}{vic215}{Uh, heh-heh... ignore her, Boss, she doesn't know what she's saying... Val, honey... you see, there were slavers and...}
 {269}{}{4 Seconds}
-{270}{}{Cut the crap, Dad. Are you STILL calling everybody you meet "Boss?" I always hated that about you.}
+{270}{vcval53}{Cut the crap, Dad. Are you STILL calling everybody you meet "Boss?" I always hated that about you.}
 {271}{}{4 Seconds}
 {272}{vic216}{Valerie, honey, please... let me explain... you see...}
 {273}{}{2 Seconds, then Fade Out}
 {274}{vic217}{... and that's how we got out of the Den.}
 {275}{}{2 Seconds}
-{276}{}{What a load of brahmin crap.}
+{276}{vcval54}{What a load of brahmin crap.}
 {277}{}{2 Seconds}
 {278}{vic218}{It's the truth!}
 {279}{}{2 Seconds}
-{280}{}{Don't you start. I'm glad Mom isn't here to hear this.}
+{280}{vcval55}{Don't you start. I'm glad Mom isn't here to hear this.}
 {281}{}{2 Seconds}
 {282}{vic219}{What? What happened to your mother?}
 {283}{}{2 Seconds}
-{284}{}{Brain fever. Caught it out on the wastes. Probably looking for YOU.}
+{284}{vcval56}{Brain fever. Caught it out on the wastes. Probably looking for YOU.}
 {285}{}{2 Seconds}
 {286}{vic220}{Oh. I... uh... I'm sorry, Val.}
 {287}{}{2 Seconds}
-{288}{}{I'm just kidding.}
+{288}{vcval57}{I'm just kidding.}
 {289}{}{2 Seconds}
 {290}{vic221}{Wh -?!}
 {291}{}{2 Seconds}
-{292}{}{She actually died of radiation poisoning. She drank some of the unfiltered water from the courtyard well.}
+{292}{vcval58}{She actually died of radiation poisoning. She drank some of the unfiltered water from the courtyard well.}
 {293}{}{4 Seconds}
 {294}{vic222}{Wha... what?!}
 {295}{}{2 Seconds}
-{296}{}{Wasn't your fault. She had too many rads running through her system for Dr. Troy to save her. She was glowing like a lamp.}
+{296}{vcval59}{Wasn't your fault. She had too many rads running through her system for Dr. Troy to save her. She was glowing like a lamp.}
 {297}{}{2 Seconds}
 {298}{vic223}{Oh. I... well, I...}
 {299}{}{2 Seconds}
-{300}{}{Don't worry. She was pretty batty before that, anyway. It was only a matter of time.}
+{300}{vcval60}{Don't worry. She was pretty batty before that, anyway. It was only a matter of time.}
 {301}{}{3 Seconds}
 {302}{vic224}{I'm still sorry I didn't get a chance to see her again.}
 {303}{}{2 Seconds}
-{304}{}{No, you aren't. You used to call her the 'desert viper,' didn't you?}
+{304}{vcval61}{No, you aren't. You used to call her the 'desert viper,' didn't you?}
 {305}{}{2 Seconds}
 {306}{vic225}{Well... yes. But you shouldn't call your mother th--}
 {307}{}{2 Seconds}
-{308}{}{Why not? It was true. She could be an awful bitch when she wanted to be.}
+{308}{vcval62}{Why not? It was true. She could be an awful bitch when she wanted to be.}
 {309}{}{3 Seconds}
 {310}{vic226}{Uh... you look like you've done well for yourself. Inherited your father's knack for repairing stuff, it seems.}
 {311}{}{4 Seconds}
-{312}{}{Dad... you can barely tie your shoelaces, much less repair anything with moving parts.}
+{312}{vcval63}{Dad... you can barely tie your shoelaces, much less repair anything with moving parts.}
 {313}{}{3 Seconds}
 {314}{vic227}{Wh-?! The devil you say!}
 {315}{}{2 Seconds}
-{316}{}{Let's ask your "boss."}
+{316}{vcval64}{Let's ask your "boss."}
 {317}{}{2 Seconds}
 {318}{}{Well... he can fix radios. And stuff.}
 {319}{}{Ub nuwb ub}
 {320}{}{2 Seconds}
-{321}{}{If you give him ALL the parts, right?}
-{322}{}{I see you're traveling with people slightly smarter than you are.}
+{321}{vcval65}{If you give him ALL the parts, right?}
+{322}{vcval66}{I see you're traveling with people slightly smarter than you are.}
 {323}{}{2 Seconds}
 {324}{}{Well, yes.}
 {325}{}{Ub nuwm ub?}
 {326}{}{2 Seconds}
-{327}{}{Ha! I knew it. Sloppy, sloppy.}
-{328}{}{Your "boss" is probably better at fixing things than you are.}
+{327}{vcval67}{Ha! I knew it. Sloppy, sloppy.}
+{328}{vcval68}{Your "boss" is probably better at fixing things than you are.}
 {329}{}{2 Seconds}
 {330}{vic228}{Well, Val, last I saw you, you could barely tell a lug nut from a wrench.}
 {331}{}{2 Seconds}
-{332}{}{Keep it up, Dad, and you'll NEED a wrench to get my boot out of your ass.}
+{332}{vcval69}{Keep it up, Dad, and you'll NEED a wrench to get my boot out of your ass.}
 {333}{}{2 Seconds}
 {334}{vic229}{Oh, yeah?! Well, "honey," you better watch it or -}
 {335}{}{2 Seconds}
@@ -241,7 +241,7 @@
 {338}{}{3 Seconds}
 {339}{vic230}{We'll talk later, Val.}
 {340}{}{2 Seconds}
-{341}{}{Yeah, sure, Dad.}
+{341}{vcval70}{Yeah, sure, Dad.}
 {342}{}{2 Seconds}
 {343}{}{Fade out for 3 Seconds}
 {344}{}{Hey! Glad you made it back. Last I heard, you were traveling down south, gunning up old tankers and blowing up oil derricks.}
