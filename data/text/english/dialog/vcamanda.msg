@@ -49,7 +49,7 @@
 {148}{}{Don't you worry, I'll free your husband. After I receive my payment.}
 {149}{}{Forget it. Maybe I can talk to someone at the Allocation Center.}
 {150}{}{Never mind. Forget we met.}
-{151}{}{Hey, what about me?!}
+{151}{myron6}{Hey, what about me?!}
 {152}{ama18}{Please rescue Joshua. He's inside the City in the Servant Allocation Center.}
 {153}{ama19}{Thank you for rescuing my husband! Please... accept this as a reward. It's not much, but...}
 {154}{ama20}{Thank you again for rescuing my husband. We'll be moving on soon.}

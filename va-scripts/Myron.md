@@ -1,7 +1,7 @@
 # Myron -- VA Script
 **Character:** Myron, the teenage Jet inventor from the Stables, New Reno (recruitable companion)
 
-**Total recordable lines:** 5 (`myron1`-`myron5`)
+**Total recordable lines:** 6 (`myron1`-`myron6`)
 
 ---
 
@@ -25,6 +25,12 @@
 
 **myron5:** Wahoo.
 
+## After Amanda (Vault City)
+
+*The player has just slept with Amanda in Vault City while Myron waited around. Indignant, feeling left out.*
+
+`myron6:` Hey, what about me?!
+
 ---
 
-*5 lines total. Tag numbers follow ascending message-ID order, not this document's topical grouping.*
+*6 lines total. Tag numbers follow ascending message-ID order, not this document's topical grouping.*

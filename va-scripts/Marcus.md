@@ -1,7 +1,7 @@
 # Marcus -- VA Script
 **Character:** Marcus, the super mutant sheriff of Broken Hills (recruitable companion)
 
-**Total recordable lines:** 5 (`mrcus1`-`mrcus5`)
+**Total recordable lines:** 8 (`mrcus1`-`mrcus8`)
 
 ---
 
@@ -25,6 +25,20 @@
 
 **mrcus5:** Wahoo.
 
+## New Armor (Abbey)
+
+*Brother Bill at the Abbey fits Marcus with a suit of mutant-sized armor. Pleased, admiring how it fits.*
+
+`mrcus6:` Hey, this fits nicely!
+
+## Opening the Sub Hatch (San Francisco)
+
+*The player asks Marcus to pry open a stuck hatch. He sizes it up, then strains hard to lift it.*
+
+`mrcus7:` Sure, just give me some room.
+
+`mrcus8:` *hrrrgnnnr*
+
 ---
 
-*5 lines total. Tag numbers follow ascending message-ID order, not this document's topical grouping.*
+*8 lines total. Tag numbers follow ascending message-ID order, not this document's topical grouping.*
