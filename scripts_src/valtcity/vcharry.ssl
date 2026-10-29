@@ -262,7 +262,7 @@ end
 procedure Node970 begin
    gdialog_mod_barter(0);
 
-   NMessage(g_mstr(203));
+   NMessage(2203);   //VOCK: was NMessage(g_mstr(203)), the shared generic.msg "Thanks!"; adopted into vcharry.msg so Harry voices it
 end
 
 /* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,

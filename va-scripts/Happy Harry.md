@@ -1,7 +1,7 @@
 # Happy Harry — VA Script
 **Character:** Happy Harry, store owner in Vault City
 
-**Total recordable lines:** 22 (`hhary1`–`hhary22`)
+**Total recordable lines:** 23 (`hhary1`–`hhary23`)
 
 ---
 
@@ -18,6 +18,12 @@
 ## Storefront Greeting
 
 `hhary1:` Well, hello there... what can I do for you?
+
+## After Trading
+
+*The player has just finished bartering with him. Cheerful salesman's thanks.*
+
+`hhary23:` Thanks!
 
 ## Cold Shoulder
 *Plays instead of the normal greeting if the player's reputation with Harry has soured.*
@@ -79,5 +85,5 @@
 
 ---
 
-**Total: 22 lines.** Tag numbers follow ascending message-ID order, not this document's topical
+**Total: 23 lines.** Tag numbers follow ascending message-ID order, not this document's topical
 grouping.

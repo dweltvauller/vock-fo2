@@ -58,3 +58,7 @@
 {202}{}{Fine. Here's the money.}
 {203}{}{Forget it, I'm outta here.}
 {204}{}{$500!? Forget this, I'm outta here.}
+
+# VOCK Add Ons -- generic.msg adoption (workflow section 7).
+# Node970: replaces g_mstr(203) "Thanks!" after bartering (203 is already used in this file, hence 2203).
+{2203}{hhary23}{Thanks!}
