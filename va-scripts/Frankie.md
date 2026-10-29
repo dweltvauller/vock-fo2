@@ -1,7 +1,7 @@
 # Frankie — VA Script
 **Character:** Frankie, owner of The Hole (bar), the Den
 
-**Total recordable lines:** 36 (`frank1`–`frank36`)
+**Total recordable lines:** 41 (`frank1`–`frank41`)
 
 ---
 
@@ -110,6 +110,20 @@
 `frank31:` You were, uhhh... Never mind, get out.
 
 `frank32:` Well, I've never had worse than that.
+
+## Ribbing Billy
+
+*Billy, a one-toothed regular at the Hole, comes back to his spot at the bar. If Frankie can see him, he ribs him across the room (one of these, picked at random). Loud, teasing, a bartender who's seen it all.*
+
+`frank37:` Billy, you better not have made a mess on that mattress again!
+
+`frank38:` Hey Billy, you need a mop?
+
+`frank39:` Billy, your fly's down. AGAIN!
+
+`frank40:` Yo Billy, don't forget to change your pants later.
+
+`frank41:` Billy, you been eating doughnuts?
 
 ## Unused / Cut Scene Material
 *This block of lines exists in the source but isn't currently reachable in play — kept tagged in case it's ever wired back in.*

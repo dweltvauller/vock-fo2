@@ -1,7 +1,7 @@
 # Tubby — VA Script
 **Character:** Tubby, shop owner, the Den
 
-**Total recordable lines:** 20 (`tubby1`–`tubby20`)
+**Total recordable lines:** 22 (`tubby1`–`tubby22`)
 
 ---
 
@@ -99,6 +99,14 @@
 *When the PC offers an amount lower than his minimum bribe requirement.*
 
 `tubby13:` I don't think that's going to be enough.
+
+## Selling to Petey
+
+*Petey, a Den junkie, comes up to buy drugs off Tubby. Tubby hands them over and shoos him away (one of these, picked at random). Gruff and impatient: just another customer.*
+
+`tubby21:` Here. Now beat, you druggie.
+
+`tubby22:` Take it and get the hell out.
 
 ---
 

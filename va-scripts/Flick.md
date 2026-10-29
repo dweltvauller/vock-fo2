@@ -1,7 +1,7 @@
 # Flick — VA Script
 **Character:** Flick, fence in the Den
 
-**Total recordable lines:** 29 (`flick1`–`flick29`)
+**Total recordable lines:** 31 (`flick1`–`flick31`)
 
 ---
 
@@ -94,6 +94,14 @@
 `flick23:` You again? You better be here to make some good trades, 'cause I'm getting real fuckin' sick of looking at you. In fact, I vomit in my mouth a little every time I see yer face. That's how much you disgust me. And if yer not here to trade, then I suggest you turn around and walk the fuck outta here.
 
 `flick24:` You done wastin' my time?
+
+## Selling to Petey
+
+*Petey, a Den junkie, comes up to buy drugs off Flick. Flick hands them over and shoos him away (one of these, picked at random). Gruff and impatient: just another customer.*
+
+`flick30:` Here. Now beat, you druggie.
+
+`flick31:` Take it and get the hell out.
 
 ---
 
