@@ -1,7 +1,7 @@
 # Vic — VA Script
 **Character:** Vic, the Den's Radio Repairman (recruitable companion)
 
-**Total recordable lines:** 210 (`vic1`–`vic210`)
+**Total recordable lines:** 230 (`vic1`–`vic230`)
 
 ---
 
@@ -576,6 +576,94 @@
 `vic209:` Way to go!
 
 `vic210:` Wahoo.
+
+## Ed's Brahmin Place (Vault City)
+
+*Walking past Ed's place while traveling with the PC. Remembering, to himself.*
+
+`vic211:` This looks like Ed's place. He's the one I bought that water flask from.
+
+## Running Into Valerie
+
+*Vic's daughter Valerie runs the Vault City workshop. Short exchange when he walks by her.*
+
+*If things are tense between them — Valerie: "Oh, hello, "Dad.""*
+
+`vic212:` Valerie. Good to see you again.
+
+*If they've made up — Valerie: "Oh, uh, hi, Dad. It's good to see you. Really."*
+
+`vic213:` Hello, Valerie. It's good to see you, too.
+
+## Reunion with Valerie
+
+*The first time Vic sees his daughter in years. A full back-and-forth floated over the action: she's furious he walked out, he's flustered, guilty and trying to charm his way through it. Valerie's lines are shown as cues.*
+
+*Valerie: "Dad?!"*
+
+`vic214:` Valerie?! Honey, is that you?
+
+*Valerie: "Where the hell have you been?! Still running around the wastes, selling shiny junk to tribals?"*
+
+`vic215:` Uh, heh-heh... ignore her, Boss, she doesn't know what she's saying... Val, honey... you see, there were slavers and...
+
+*Valerie: "Cut the crap, Dad. Are you STILL calling everybody you meet "Boss?" I always hated that about you."*
+
+`vic216:` Valerie, honey, please... let me explain... you see...
+
+`vic217:` ... and that's how we got out of the Den.
+
+*Valerie: "What a load of brahmin crap."*
+
+`vic218:` It's the truth!
+
+*Valerie: "Don't you start. I'm glad Mom isn't here to hear this."*
+
+`vic219:` What? What happened to your mother?
+
+*Valerie: "Brain fever. Caught it out on the wastes. Probably looking for YOU."*
+
+`vic220:` Oh. I... uh... I'm sorry, Val.
+
+*Valerie: "I'm just kidding."*
+
+`vic221:` Wh -?!
+
+*Valerie: "She actually died of radiation poisoning. She drank some of the unfiltered water from the courtyard well."*
+
+`vic222:` Wha... what?!
+
+*Valerie: "Wasn't your fault. She had too many rads running through her system for Dr. Troy to save her. She was glowing like a lamp."*
+
+`vic223:` Oh. I... well, I...
+
+*Valerie: "Don't worry. She was pretty batty before that, anyway. It was only a matter of time."*
+
+`vic224:` I'm still sorry I didn't get a chance to see her again.
+
+*Valerie: "No, you aren't. You used to call her the 'desert viper,' didn't you?"*
+
+`vic225:` Well... yes. But you shouldn't call your mother th--
+
+*Valerie: "Why not? It was true. She could be an awful bitch when she wanted to be."*
+
+`vic226:` Uh... you look like you've done well for yourself. Inherited your father's knack for repairing stuff, it seems.
+
+*Valerie: "Dad... you can barely tie your shoelaces, much less repair anything with moving parts."*
+
+`vic227:` Wh-?! The devil you say!
+
+*Valerie: "Let's ask your "boss.""*
+
+`vic228:` Well, Val, last I saw you, you could barely tell a lug nut from a wrench.
+
+*Valerie: "Keep it up, Dad, and you'll NEED a wrench to get my boot out of your ass."*
+
+`vic229:` Oh, yeah?! Well, "honey," you better watch it or -
+
+`vic230:` We'll talk later, Val.
+
+*Valerie: "Yeah, sure, Dad."*
 
 ---
 
