@@ -8,12 +8,12 @@
  to have difficulty breathing.}
 
 # 1. FLOAT (WTG)
-{200}{}{*Cough*}
-{201}{}{::Wheeze::}
-{202}{}{*Cough* *Cough*}
+{200}{salva40}{*Cough*}
+{201}{salva41}{::Wheeze::}
+{202}{salva42}{*Cough* *Cough*}
 
 # 2. FLOAT: INTRUDER (WTG)
-{210}{}{Guards! Gu...*cough* *cough*...Guards!}
+{210}{salva43}{Guards! Gu...*cough* *cough*...Guards!}
 
 # 3. PERMISSION = FALSE (WTG, 5)
 {215}{SALVA2}{(Salvatore turns to you with a stone-faced expression. He studies you for a fraction
@@ -105,7 +105,7 @@
 {373}{}{Look: If you aren't going to arm me properly, then I can't continue working for you.}
 
 # 15. MISSION IS ASSIGNED (WTG)
-{380}{}{Talk to Mason. He will have the... details of your assignment.}
+{380}{salva44}{Talk to Mason. He will have the... details of your assignment.}
 
 # 16. LLOYD MISSION ACCOMPLISHED (WTG)
 {385}{SALVA15}{(Salvatore looks up at you, takes a breath from the mask.) Have... you disposed of the thief?}
@@ -260,14 +260,15 @@ something for you.}
 
 # 42. SALVATORE CHOKING TO DEATH (WTG)
 {650}{}{...}
-{651}{}{...hurkkk...}
-{652}{}{...*gasp*...I...*cough*...*wheeze*...}
-{653}{}{...no... I...*hurrkkk*}
-{654}{}{...help...*gasp*...please...}
-{655}{}{...have... mercy...}
-{656}{}{*wheeze*}
-{657}{}{...I...}
-{658}{}{...I...}
+{651}{salva45}{...hurkkk...}
+{652}{salva46}{...*gasp*...I...*cough*...*wheeze*...}
+{653}{salva47}{...no... I...*hurrkkk*}
+{654}{salva48}{...help...*gasp*...please...}
+{655}{salva49}{...have... mercy...}
+{656}{salva50}{*wheeze*}
+{657}{salva51}{...I...}
+# VOCK Note: 658 = 657 - same "...I..." while dying, shares its recording
+{658}{salva51}{...I...}
 {659}{}{::Stops breathing.::}
 {660}{}{Heh-heh. I love killing old people.}
 
@@ -303,3 +304,9 @@ something for you.}
 {7701}{SALVA7}{(Looks at you silently for a minute. He might be either amused at your question or irritated... it's hard to tell.) Again, Traveller: What... do you WANT of me?}
 {7702}{SALVA36}{Sit, Traveller. You have done... all I have asked. I would like you to join the Salvatore Family and become... one of my made men.}
 {7703}{SALVA37}{That is... unfortunate. I cannot take the risk that you will remain... silent about what you have seen in the desert. Goodbye, Traveller.}
+
+# VOCK Add Ons -- name-splice floats merged so one take covers the line (player named "Traveller", as in THAT's 7702).
+# Node040: replaces 640 + made_man_name + 5640.
+{2640}{salva52}{Greetings, Traveller.}
+# Node041: replaces 645 + dude_name + 5645.
+{2645}{salva53}{I have no further need of your services, Traveller.}

@@ -8,29 +8,29 @@
 {152}{}{You see Stuart Little, the midget boxing agent. He looks so cute. Like a smelly, red-haired teddy bear.}
 
 # 1. FLOAT DIALOGUES (ENCLAVE_DESTROYED = TRUE + PRIZEFIGHTER) (WTG)
-{200}{}{Kid, I knew you'd do good, but I didn't know you were gonna save the world, too. Good job.}
-{201}{}{You done me proud, kid.}
-{202}{}{You went the distance, kid. You done Stuart proud.}
+{200}{stul66}{Kid, I knew you'd do good, but I didn't know you were gonna save the world, too. Good job.}
+{201}{stul67}{You done me proud, kid.}
+{202}{stul68}{You went the distance, kid. You done Stuart proud.}
 
 # 2. FLOAT DIALOGUES (ENCLAVE_DESTROYED = TRUE) (WTG)
-{210}{}{I wish I coulda seen you put your fist through the Enclave.}
-{211}{}{That battle 'gainst the Enclave musta been something else. Damn.}
-{212}{}{Ha! Ever thought of using that energy o' yours in the RING rather than savin' the world?}
+{210}{stul69}{I wish I coulda seen you put your fist through the Enclave.}
+{211}{stul70}{That battle 'gainst the Enclave musta been something else. Damn.}
+{212}{stul71}{Ha! Ever thought of using that energy o' yours in the RING rather than savin' the world?}
 
 # 3. FLOAT [MALE, PRIZEFIGHTER] (WTG)
-{220}{}{How's it hanging, champ?}
-{221}{}{Looking good, fella.}
-{222}{}{Fists like gold is what you have.}
-{223}{}{Ya eat lightning and crap thunder, kid.}
-{224}{}{You dropped that sonuvabitch like a bad habit. Good job.}
-{225}{}{Glad I took the chance on you, sweetheart.}
-{226}{}{Looking good, darling.}
+{220}{stul72}{How's it hanging, champ?}
+{221}{stul73}{Looking good, fella.}
+{222}{stul74}{Fists like gold is what you have.}
+{223}{stul75}{Ya eat lightning and crap thunder, kid.}
+{224}{stul76}{You dropped that sonuvabitch like a bad habit. Good job.}
+{225}{stul77}{Glad I took the chance on you, sweetheart.}
+{226}{stul78}{Looking good, darling.}
 
 # 5. FLOAT DIALOGUES NORMAL (WTG)
-{230}{}{Need some new talent...}
-{231}{}{Sorry lead asses...}
-{232}{}{If I was just a little taller...}
-{233}{}{These guys all fight like bums...}
+{230}{stul79}{Need some new talent...}
+{231}{stul80}{Sorry lead asses...}
+{232}{stul81}{If I was just a little taller...}
+{233}{stul82}{These guys all fight like bums...}
 
 # 6. INTRO (WTG)
 {240}{}{(The midget studies you as you walk up and takes the toothpick out of his mouth.) }

@@ -853,11 +853,11 @@ procedure Node039 begin
    prev_node := 39;
 end
 procedure Node040 begin
-   float_msg(self_obj, mstr(640) + made_man_name + mstr(5640), FLOAT_COLOR_NORMAL); //added by killap
+   float_msg(self_obj, mstr(2640), FLOAT_COLOR_NORMAL); //added by killap   //VOCK: was mstr(640) + made_man_name + mstr(5640)
 // floater_good(mstr(640) + made_man_name + mstr(5640));
 end
 procedure Node041 begin
-   float_msg(self_obj, mstr(645) + dude_name + mstr(5645), FLOAT_COLOR_BAD);  //added by killap
+   float_msg(self_obj, mstr(2645), FLOAT_COLOR_BAD);  //added by killap   //VOCK: was mstr(645) + dude_name + mstr(5645)
 // floater_sick(mstr(645) + dude_name + mstr(5645));
    prev_node := 41;
 end

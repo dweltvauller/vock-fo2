@@ -2,19 +2,19 @@
 {101}{}{You see a huge black man in heavy armor. He's watching you carefully.}
 {102}{}{You see Citizen Sergeant Stark.}
 {103}{}{You see a huge black man in heavy armor. He's watching you carefully.}
-{104}{}{Good job down south. Saw the fireworks all the way up here.}
-{105}{}{Good day... sir.}
-{106}{}{Vault City prevails... sir.}
-{107}{}{Good day, Citizen.}
-{108}{}{Vault City prevails, Citizen.}
-{109}{}{You'll wish you stayed out of the city... Guards!}
-{110}{}{A mutant! Guards!}
-{111}{}{A ghoul! Guards!}
-{112}{}{Need to compile those ammunition lists...}
-{113}{}{Need to check the weapon lockers down in the Vault tomorrow...}
-{114}{}{Maybe being in these cells will teach you to behave yourselves.}
-{115}{}{And you'll STAY in these cells until the First Citizen pardons you.}
-{116}{}{I'm sorry, Citizen, but no one's permitted in the Corrections Center after dark. Come back in the morning.}
+{104}{stark111}{Good job down south. Saw the fireworks all the way up here.}
+{105}{stark112}{Good day... sir.}
+{106}{stark113}{Vault City prevails... sir.}
+{107}{stark114}{Good day, Citizen.}
+{108}{stark115}{Vault City prevails, Citizen.}
+{109}{stark116}{You'll wish you stayed out of the city... Guards!}
+{110}{stark117}{A mutant! Guards!}
+{111}{stark118}{A ghoul! Guards!}
+{112}{stark119}{Need to compile those ammunition lists...}
+{113}{stark120}{Need to check the weapon lockers down in the Vault tomorrow...}
+{114}{stark121}{Maybe being in these cells will teach you to behave yourselves.}
+{115}{stark122}{And you'll STAY in these cells until the First Citizen pardons you.}
+{116}{stark123}{I'm sorry, Citizen, but no one's permitted in the Corrections Center after dark. Come back in the morning.}
 {117}{STARK1}{It's past curfew. What are you still doing in the city?}
 {118}{}{Yah!}
 {119}{}{Uh, as a Citizen, I am allowed to be in the city after dark.}
@@ -275,8 +275,8 @@
 {370}{}{I plotted that route to NCR for you.}
 {371}{}{About those Raiders...}
 {372}{}{Never mind. Goodbye.}
-{373}{}{Good day... ma'am.}
-{374}{}{Vault City prevails... ma'am.}
+{373}{stark124}{Good day... ma'am.}
+{374}{stark125}{Vault City prevails... ma'am.}
 {375}{STARK6}{Captain. Can I help you... ma'am?}
 {376}{STARK13}{Sergeant Stark... ma'am. Did you need something?}
 {377}{STARK17}{I do YOUR job, ma'am.}
