@@ -130,49 +130,49 @@
 
 # Typhon/Seymour Floats.
 {300}{plant28}{But Hegel's dialectic doesn't account for...}
-{301}{}{Hegel, Hegel, Hegel! You're always on about Hegel!}
-{302}{}{So then the woman says, "That's not a rabbit, vicar!"}
+{301}{typhn29}{Hegel, Hegel, Hegel! You're always on about Hegel!}
+{302}{typhn30}{So then the woman says, "That's not a rabbit, vicar!"}
 {303}{plant29}{Ha ha ha ha!}
-{304}{}{And the first proton says, "Yeah, I'm positive!"}
+{304}{typhn31}{And the first proton says, "Yeah, I'm positive!"}
 {305}{plant30}{[groan] That's SO bad, I'm wilting.}
 {306}{plant31}{It's not easy being green.}
-{307}{}{Tell me about it.}
+{307}{typhn32}{Tell me about it.}
 {308}{plant32}{But it's completely apparent that this is a philosophical dead end!}
-{309}{}{That's only because you haven't examined all the ramifications of it. Now, if you...}
+{309}{typhn33}{That's only because you haven't examined all the ramifications of it. Now, if you...}
 {310}{plant33}{You want some fruit?}
-{311}{}{Feed me, Seymour.}
-{312}{}{Brains... braaaaaains... sorry, old habit.}
+{311}{typhn34}{Feed me, Seymour.}
+{312}{typhn35}{Brains... braaaaaains... sorry, old habit.}
 {313}{plant34}{That's okay. I don't have one, remember?}
 {314}{plant35}{Well, certainly manure works well, but there's nothing like a rotting corpse for compost.}
-{315}{}{So that's why you wanted to move over here! Easy pickings.}
-{316}{}{Let me tell you, there's nothing like a good fast run.}
+{315}{typhn36}{So that's why you wanted to move over here! Easy pickings.}
+{316}{typhn37}{Let me tell you, there's nothing like a good fast run.}
 {317}{plant36}{You really feel the wind through the wisps of your hair, yes?}
 {318}{plant37}{I haven't pollinated in years!}
-{319}{}{Imagine being trapped in THIS body! No action! No action at all!}
+{319}{typhn38}{Imagine being trapped in THIS body! No action! No action at all!}
 {320}{plant38}{Maybe if you gave photosynthesis at chance...}
-{321}{}{I'm not responsible for my evolutionary roots, you green bastard!}
-{322}{}{Whoo-ee! I sure hope you can process methane!}
+{321}{typhn39}{I'm not responsible for my evolutionary roots, you green bastard!}
+{322}{typhn40}{Whoo-ee! I sure hope you can process methane!}
 {323}{plant39}{My leaves! My poor leaves! Aaaaagh!}
 {324}{plant40}{I like this place. I'm thinking of putting down roots here.}
-{325}{}{Okay, enough with the endless plant jokes, pal.}
+{325}{typhn41}{Okay, enough with the endless plant jokes, pal.}
 {326}{plant41}{I wonder how my cousins in Arroyo are doing? I hope they're flourishing.}
-{327}{}{Of course they are! Unless some rat-bastard slaughters them all.}
-{328}{}{Well, I think I'll go open a door or something...}
+{327}{typhn42}{Of course they are! Unless some rat-bastard slaughters them all.}
+{328}{typhn43}{Well, I think I'll go open a door or something...}
 {329}{plant42}{I think I have opposable thumb envy.}
 {330}{plant43}{Not to go out on a limb here...}
-{331}{}{Aaaaaaaaaaaaaagh! No more plant jokes!}
+{331}{typhn44}{Aaaaaaaaaaaaaagh! No more plant jokes!}
 {332}{plant44}{Check out the grains on that wheat stalk! Woo woo!}
-{333}{}{Down boy! I don't think your vacuoles can take it.}
-{334}{}{Want me to read you a story?}
+{333}{typhn45}{Down boy! I don't think your vacuoles can take it.}
+{334}{typhn46}{Want me to read you a story?}
 {335}{plant45}{How about The Giving Tree? Jack and the Beanstalk? Catcher in the Rye?}
 {336}{plant46}{A GECK? Yeah, there was a guy who...}
-{337}{}{Shhh! Shh! Someone's listening!}
+{337}{typhn47}{Shhh! Shh! Someone's listening!}
 {338}{plant47}{It's the great cycle of life, you see... life feeds on life feeds on life...}
-{339}{}{Uh huh. But YOU still eat manure. Sheesh... plant philosophy...}
+{339}{typhn48}{Uh huh. But YOU still eat manure. Sheesh... plant philosophy...}
 {340}{plant48}{Can I play with your power armor someday?}
-{341}{}{You mean that old suit I keep in the closet? Tee hee...}
+{341}{typhn49}{You mean that old suit I keep in the closet? Tee hee...}
 {342}{plant49}{Yeah, I've dabbled in cross-pollination.}
-{343}{}{Not that there's anything WRONG with that.}
+{343}{typhn50}{Not that there's anything WRONG with that.}
 
 ##############################################
 #BONUS LINES NEEDED FOR THE TALKING HEADS MOD#
