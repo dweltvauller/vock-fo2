@@ -1,7 +1,7 @@
 # Seymour — VA Script
 **Character:** Seymour, the talking spore plant, Broken Hills
 
-**Total recordable lines:** 27 (`plant1`–`plant27`)
+**Total recordable lines:** 49 (`plant1`–`plant49`)
 
 ---
 
@@ -106,8 +106,143 @@
 
 `plant14:` Well, it was about how to beat the professor's scorpion at chess. My friend, it is simplicity itself. The Flying Liver Attack is like a flytrap to that bug - it walks right into it and then can't extricate itself. I guarantee your success.
 
+## Bantering with Typhon
+
+*Seymour and Typhon, the ghoul who tends him, trade lines back and forth while the player is nearby. Each exchange is picked at random. Sometimes Seymour starts, sometimes he answers Typhon. Typhon's lines are shown as cues.*
+
+`plant28:` But Hegel's dialectic doesn't account for...
+
+*Typhon: "Hegel, Hegel, Hegel! You're always on about Hegel!"*
+
 ---
 
-*Total: 27 lines. Tag numbers follow ascending message-ID order in the `.msg` file, not this document's topical grouping.*
+*Typhon: "So then the woman says, "That's not a rabbit, vicar!""*
+
+`plant29:` Ha ha ha ha!
+
+---
+
+*Typhon: "And the first proton says, "Yeah, I'm positive!""*
+
+`plant30:` [groan] That's SO bad, I'm wilting.
+
+---
+
+`plant31:` It's not easy being green.
+
+*Typhon: "Tell me about it."*
+
+---
+
+`plant32:` But it's completely apparent that this is a philosophical dead end!
+
+*Typhon: "That's only because you haven't examined all the ramifications of it. Now, if you..."*
+
+---
+
+`plant33:` You want some fruit?
+
+*Typhon: "Feed me, Seymour."*
+
+---
+
+*Typhon: "Brains... braaaaaains... sorry, old habit."*
+
+`plant34:` That's okay. I don't have one, remember?
+
+---
+
+`plant35:` Well, certainly manure works well, but there's nothing like a rotting corpse for compost.
+
+*Typhon: "So that's why you wanted to move over here! Easy pickings."*
+
+---
+
+*Typhon: "Let me tell you, there's nothing like a good fast run."*
+
+`plant36:` You really feel the wind through the wisps of your hair, yes?
+
+---
+
+`plant37:` I haven't pollinated in years!
+
+*Typhon: "Imagine being trapped in THIS body! No action! No action at all!"*
+
+---
+
+`plant38:` Maybe if you gave photosynthesis at chance...
+
+*Typhon: "I'm not responsible for my evolutionary roots, you green bastard!"*
+
+---
+
+*Typhon: "Whoo-ee! I sure hope you can process methane!"*
+
+`plant39:` My leaves! My poor leaves! Aaaaagh!
+
+---
+
+`plant40:` I like this place. I'm thinking of putting down roots here.
+
+*Typhon: "Okay, enough with the endless plant jokes, pal."*
+
+---
+
+`plant41:` I wonder how my cousins in Arroyo are doing? I hope they're flourishing.
+
+*Typhon: "Of course they are! Unless some rat-bastard slaughters them all."*
+
+---
+
+*Typhon: "Well, I think I'll go open a door or something..."*
+
+`plant42:` I think I have opposable thumb envy.
+
+---
+
+`plant43:` Not to go out on a limb here...
+
+*Typhon: "Aaaaaaaaaaaaaagh! No more plant jokes!"*
+
+---
+
+`plant44:` Check out the grains on that wheat stalk! Woo woo!
+
+*Typhon: "Down boy! I don't think your vacuoles can take it."*
+
+---
+
+*Typhon: "Want me to read you a story?"*
+
+`plant45:` How about The Giving Tree? Jack and the Beanstalk? Catcher in the Rye?
+
+---
+
+`plant46:` A GECK? Yeah, there was a guy who...
+
+*Typhon: "Shhh! Shh! Someone's listening!"*
+
+---
+
+`plant47:` It's the great cycle of life, you see... life feeds on life feeds on life...
+
+*Typhon: "Uh huh. But YOU still eat manure. Sheesh... plant philosophy..."*
+
+---
+
+`plant48:` Can I play with your power armor someday?
+
+*Typhon: "You mean that old suit I keep in the closet? Tee hee..."*
+
+---
+
+`plant49:` Yeah, I've dabbled in cross-pollination.
+
+*Typhon: "Not that there's anything WRONG with that."*
+
+
+---
+
+*Total: 49 lines. Tag numbers follow ascending message-ID order in the `.msg` file, not this document's topical grouping.*
 
 *End of script*
