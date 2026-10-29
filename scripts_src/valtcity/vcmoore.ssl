@@ -374,7 +374,7 @@ end
 procedure Node003 begin
    if (From_Node_20_23 == 1) then begin
       From_Node_20_23 := 0;
-      Reply( mstr(116) + mstr(117) );
+      Reply(2116);   //VOCK: was Reply( mstr(116) + mstr(117) )
    end
    else
        Reply(117);

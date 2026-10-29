@@ -39,7 +39,7 @@
 
 `moore2:` The word, my friend... the word is SELFISHNESS. Mix in a slew of arrogance, and what do you have? Vault City... in all its self-righteous, slave-trading glory.
 
-`moore3:` Yes!
+`moore3:` Yes! It is TIME to hear the wailing of our kin outside these walls and let them in! We have more than enough to feed and shelter our brothers... we need not be rich when so MANY are poor.
 
 `moore4:` It is TIME to hear the wailing of our kin outside these walls and let them in! We have more than enough to feed and shelter our brothers... we need not be rich when so MANY are poor.
 

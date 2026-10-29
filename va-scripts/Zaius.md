@@ -26,9 +26,9 @@
 `zaius4:` Right. Well, I'm Zaius. Now that we're introduced... You any good with your hands? We've got a problem with our air purifier on the lower level of the mine, but we haven't got the parts to fix it or the protective gear to avoid being overwhelmed by the radon gas that's been building up.
 
 ## Polite Transition
-*A brief, friendly opener that can precede `zaius4` when the PC greeted him politely. Record standalone.*
+*Played when the PC greeted him politely: the friendly opener followed by `zaius4`. Already recorded: this take is the original `zaius5` and `zaius4` takes spliced together (2026-10-28), so no new recording is needed.*
 
-`zaius5:` Well, I'll hope that you enjoy your stay here in Broken Hills.
+`zaius5:` Well, I'll hope that you enjoy your stay here in Broken Hills. Right. Well, I'm Zaius. Now that we're introduced... You any good with your hands? We've got a problem with our air purifier on the lower level of the mine, but we haven't got the parts to fix it or the protective gear to avoid being overwhelmed by the radon gas that's been building up.
 
 ## Snarky Greeting Branch
 *Responding to a wiseass greeting. Dry, slightly irritated, but he rolls with it — he's dealt with worse.*

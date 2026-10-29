@@ -26,7 +26,7 @@
 {117}{}{Not too shabby. What'll it take?}
 
 # Node 005 polite transition string
-{118}{zaius5}{Well, I'll hope that you enjoy your stay here in Broken Hills.}
+{118}{}{Well, I'll hope that you enjoy your stay here in Broken Hills.}
 {119}{}{(more)}
 
 # Node 006 Snarky Greeting Branch
@@ -196,3 +196,7 @@
 {406}{zaius45}{I knew Francis couldn't handle exposure. He knew the risks of what he did, but I guess he didn't figure on ever being caught. He'll be all right eventually. I hope the same will be true of Broken Hills.}
 {407}{}{I hope so too. I have some questions.}
 {408}{}{Me too. Bye.}
+
+# VOCK Add Ons -- concatenation fix: merged fragment pair now plays as one line. Audio spliced from the existing zaius5 + zaius4 takes (no re-record).
+# Node004: replaces 118 + 115 (From_5, polite greeting). 115 keeps zaius4 for its standalone Reply(115).
+{2118}{zaius5}{Well, I'll hope that you enjoy your stay here in Broken Hills. Right. Well, I'm Zaius. Now that we're introduced... You any good with your hands? We've got a problem with our air purifier on the lower level of the mine, but we haven't got the parts to fix it or the protective gear to avoid being overwhelmed by the radon gas that's been building up.}

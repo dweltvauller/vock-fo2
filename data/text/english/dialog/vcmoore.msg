@@ -14,7 +14,7 @@
 {113}{}{Amen, brother!}
 {114}{}{I think I've heard enough. Goodbye.}
 {115}{}{Go sell crazy somewhere else, pal... we're all stocked up here.}
-{116}{moore3}{Yes! }
+{116}{}{Yes! }
 {117}{moore4}{It is TIME to hear the wailing of our kin outside these walls and let them in! We have more than enough to feed and shelter our brothers... we need not be rich when so MANY are poor.}
 {118}{}{I hear you!}
 {119}{}{At last, someone who speaks sense! Why must others suffer when aid lies within these walls?}
@@ -143,3 +143,7 @@
 {242}{moore38}{We must open the gates of Vault City and embrace the outside world!}
 {243}{moore39}{Why can we not share our wealth?! }
 {244}{moore40}{Can you not hear the cries of those that suffer outside our walls?!}
+
+# VOCK Add Ons -- concatenation fix: merged fragment pair now plays as one pre-written line so the VA take covers the full text.
+# Node003: replaces 116 + 117 (From_Node_20_23). 117 keeps moore4 for its standalone Reply(117).
+{2116}{moore3}{Yes! It is TIME to hear the wailing of our kin outside these walls and let them in! We have more than enough to feed and shelter our brothers... we need not be rich when so MANY are poor.}

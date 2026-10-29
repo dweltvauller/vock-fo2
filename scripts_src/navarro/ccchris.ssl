@@ -473,7 +473,7 @@ end
 procedure Node007 begin
    if( Add_Insult == 1 ) then begin
       Add_Insult := 0;
-      Reply( mstr(231) + " " + mstr(143) );
+      Reply(2231);   //VOCK: was Reply( mstr(231) + " " + mstr(143) )
    end
    else
       Reply(143);

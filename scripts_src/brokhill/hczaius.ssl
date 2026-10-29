@@ -368,7 +368,7 @@ procedure Node004 begin
       set_global_var( GVAR_BH_MINE, MINE_KNOWN );
    if( From_5 == 1 ) then begin
       From_5 := 0;
-      Reply( mstr(118) + " " + mstr(115) );
+      Reply(2118);   //VOCK: was Reply( mstr(118) + " " + mstr(115) )
    end
    else
       Reply(115);

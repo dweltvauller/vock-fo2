@@ -175,9 +175,13 @@
 {228}{}{That's a bad move, partner.}
 {229}{}{What do you think you're doing?}
 {230}{}{Hey, I'm outta here.}
-{231}{chris33}{Yeah, right.}
+{231}{}{Yeah, right.}
 {232}{}{He's pulling out a radio. He's going to alert the whole base! I've got to deal with him quickly.}
 {233}{}{Oh, no. Man pull out talkie box. He tell on me. Must stop him.}
 
 {800}{}{You conned Chris to give you the password.}
 {810}{}{You killed Chris before he could warn the base.}
+
+# VOCK Add Ons -- concatenation fix: merged fragment pair now plays as one pre-written line so the VA take covers the full text.
+# Node007: replaces 231 + 143 (Add_Insult). 143 keeps chris8 for its standalone Reply(143).
+{2231}{chris33}{Yeah, right. Well, nice talking with you. Here's some advice though - ain't nothing in these parts except wasteland and radiation. Civilization's south of here. I'd be heading that way if I was you.}

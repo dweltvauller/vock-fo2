@@ -39,9 +39,9 @@
 `chris7:` (speaking into radio) Alert! We got an intruder at the station! Alert!
 
 ## Ending the Conversation
-*`chris33` sometimes plays immediately before `chris8` as one continuous line -- when he's irritated after catching the player in a failed bluff about needing into the base. It also needs to work as a standalone bark on its own.*
+*`chris33` plays when he's irritated after catching the player in a failed bluff about needing into the base; `chris8` is the plain goodbye.*
 
-`chris33:` Yeah, right.
+`chris33:` Yeah, right. Well, nice talking with you. Here's some advice though - ain't nothing in these parts except wasteland and radiation. Civilization's south of here. I'd be heading that way if I was you.
 
 `chris8:` Well, nice talking with you. Here's some advice though - ain't nothing in these parts except wasteland and radiation. Civilization's south of here. I'd be heading that way if I was you.
 
