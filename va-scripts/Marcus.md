@@ -3,6 +3,8 @@
 
 **Total recordable lines:** 8 (`mrcus1`-`mrcus8`)
 
+> **Casting note:** Marcus's dialogue was recorded for the original Fallout 2 (vanilla `MCS*` files). These 8 lines are floats the original game never voiced. Ideally they're recorded by the original actor so Marcus has one voice throughout; if that isn't possible, match the original recordings as closely as you can.
+
 ---
 
 > **Direction:** Marcus is a big, easygoing super mutant with a deep, rumbling voice. Friendly, laid-back and good-humored, he enjoys life's simple pleasures and teases his friends like an old buddy. Big and loud, but warm rather than menacing.
