@@ -1,7 +1,7 @@
 # Chad — VA Script
 **Character:** Chad, Caravan Master of Broken Hills
 
-**Total recordable lines:** 35 (`chad1`–`chad35`)
+**Total recordable lines:** 36 (`chad1`–`chad36`)
 
 ---
 
@@ -124,6 +124,10 @@
 ## Arrested
 
 `chad34:` Leave me alone.
+
+*Marcus has caught him skimming the caravan money and says "Alright Chad, time to pay for your crimes." Chad gives up: a resigned sigh, no fight left.*
+
+`chad36:` *sigh* I'm coming.
 
 ---
 
