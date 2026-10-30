@@ -146,6 +146,10 @@
 
 `badge40:` What the hell do you want?
 
+*Shi guard: "Badger of the punks, I presume?"*
+
+*Shi guard: "You have disgraced our Emperor for the last time!"*
+
 `badge42:` Dude, lighten up. I just wanted some candy.
 
 ---

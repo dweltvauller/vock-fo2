@@ -106,8 +106,8 @@
 {202}{}{Can you?}
 
 {203}{badge40}{What the hell do you want?}
-{204}{}{Badger of the punks, I presume?}
-{205}{}{You have disgraced our Emperor for the last time!}
+{204}{shig1}{Badger of the punks, I presume?}
+{205}{shig2}{You have disgraced our Emperor for the last time!}
 {206}{badge41}{I think I will go get some candy from Lao Chou in town.}
 {207}{}{So much for a fair trial. Hmmm...}
 {208}{badge42}{Dude, lighten up. I just wanted some candy.}

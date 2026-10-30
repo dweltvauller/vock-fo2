@@ -141,5 +141,5 @@
 {235}{ssa22}{Wow, I haven't laughed like that for a while. Anyway, get ready to die.}
 {236}{mat35}{...peep...}
 {237}{ssa23}{Well, it's a little past 12. Anyone up for lunch?}
-{238}{}{Score, I'm there.}
-{239}{}{Yeah, count me in on that.}
+{238}{encpt1}{Score, I'm there.}
+{239}{encpt2}{Yeah, count me in on that.}
