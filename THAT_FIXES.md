@@ -30,4 +30,4 @@ You'll hear the same takes as before. The subtitles now follow what the actors s
 - **Roger Westin** (NCR): "Well then, that's all." plays half speed in a deep "monster" voice. It's a copy of the end of another Westin line, and THAT never shipped a real take of this one. It needs a new recording.
 - **Steve** (Broken Hills): THAT gave Marcus's reply "Ain't no future in it..." to Steve's actor, who never recorded it. We moved the line to Marcus, and it stays silent until his actor records it.
 
-We still have Valerie, Typhon and Matthew to listen through, plus the THAT characters we haven't reviewed yet.
+We still have Typhon and Matthew to listen through, plus the THAT characters we haven't reviewed yet.
