@@ -329,7 +329,7 @@
 {7716}{STUL28}{Wha... you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of Reno? Someone's done you a disservice not telling you about me, darling. (Sticks toothpick back in mouth, chews on it.) Got a name?}
 {7717}{STUL29}{Wha... you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of Reno? Someone's done you a disservice not telling you about me, darling. (Looks you up and down.) Got a name to go with those legs?}
 {7718}{STUL31}{(Stuart nods.) Champ... Champ... I like that. Pretty name. Well, it's a pleasure to meet you, Champ. What can I do for you?}
-{7719}{STUL32}{(Stuart nods.) Awright, Champ. Nice ta meet ya. What can I do for you?}
+{7719}{STUL32}{(Stuart nods.) Awright, nice ta meet ya. What can I do for you?}
 {7720}{STUL34}{(Stuart sneers as you approach.) Well, if it ain't "Jungle Gym's next prize fighter." What brings you back around?}
 {7721}{STUL35}{(Stuart nods as you approach.) Heeeey, Champ! What's up? Ready to get back in the ring?}
 {7722}{STUL51}{(The midget nods.) Hmm... Yes... not bad, not bad. It fits. (Nods at the ring.) Shall we get to it, then? You ready?}

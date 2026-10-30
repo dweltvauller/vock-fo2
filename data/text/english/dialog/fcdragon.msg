@@ -16,7 +16,7 @@
 {115}{}{Tank yu.}
 {116}{DRAGO4}{Then we will begin.}
 {117}{}{[DONE]}
-{118}{DRAGO8}{::he looks at you closely:: I do not believe you would use the knowledge for good. Good day.}
+{118}{DRAGO8}{::he looks at you closely:: I do not believe that you would use the knowledge for good. Good day.}
 {119}{}{Grrr!}
 {120}{DRAGO9}{Please excuse my rudeness. I cannot speak with you right now.}
 {121}{}{Duhhh... okay!}
@@ -108,8 +108,8 @@
 {212}{drago39}{Training is still in your future.}
 {213}{drago40}{And away we go!}
 {214}{}{You have beaten the Dragon in mortal combat. Although a fair fight, his loss will be felt by many.}
-{215}{DRAGO20}{You have already defeated my men, and you have passed my test. You are ready fight Lo Pan.}
-{216}{DRAGO6}{Your skills will only be advanced though their use. I can no longer help you in your study.}
+{215}{DRAGO20}{You have already defeated my men, and you have passed my test. You are ready to fight Lo Pan.}
+{216}{DRAGO6}{Your skills will only be advanced through their use. I can no longer help you in your study.}
 
 #training messages
 {217}{drago41}{Let us begin. Follow my lead.}

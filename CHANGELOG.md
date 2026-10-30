@@ -84,3 +84,5 @@
 ---
 
 *For full cast and contributor links, see [CREDITS.md](CREDITS.md).*
+
+*For the fixes vock-fo2 makes to the Talking Heads mod (THAT), see [THAT_FIXES.md](THAT_FIXES.md).*

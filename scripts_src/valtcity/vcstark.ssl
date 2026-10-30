@@ -15,6 +15,9 @@
            Created:
 
            Updated:
+           VOCK changes:
+             Stark's Outsider greeting (Node015) plays 1145, which matches
+             THAT's STARK15 recording; 145 keeps the original text.
 */
 
 /* Include Files */
@@ -582,7 +585,7 @@ procedure Node015 begin
    else if( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_REAL_CITIZEN ) then
       Reply(144);
    else
-      Reply(145);
+      Reply(1145);   //VOCK: was Reply(145)
 
    NOption(146, Node016, 004);
    NOption(147, Node027, 004);

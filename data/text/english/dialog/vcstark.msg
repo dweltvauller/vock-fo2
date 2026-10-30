@@ -43,7 +43,7 @@
 {142}{}{ME NO GO LEFT.}
 {143}{STARK12}{Sergeant Stark... sir. Did you need something?}
 {144}{STARK14}{I am Citizen SERGEANT Stark, Citizen. Was there something I could help you with?}
-{145}{STARK15}{I am Citizen SERGEANT Stark, Outsider. What do you want?}
+{145}{}{I am Citizen SERGEANT Stark, Outsider. What do you want?}
 {146}{}{What do you do here?}
 {147}{}{Can you tell me where the Vault is?}
 {148}{}{Nothing, sorry to disturb you.}
@@ -343,3 +343,7 @@
 {7702}{STARK77}{We may be forced to take military action against them in the future, especially if they start poisoning the groundwater again. Now do you want the job or not?}
 {7703}{STARK78}{That so? Heh. Well... all right then. Good job. Download the information into my Pip-Boy, and I'll log it into the patrol computers.}
 {7704}{STARK83}{That so? Heh. All right then. Download the information into my Pip-Boy, and I'll log it into the patrol computers.}
+
+# VOCK Add Ons -- VA-match fix: THAT's STARK15 take ends "Is there something I can help you with?", not "What do you want?". 145 keeps the original text, untagged.
+# Node015: replaces 145.
+{1145}{STARK15}{I am Citizen SERGEANT Stark, Outsider. Is there something I can help you with?}
