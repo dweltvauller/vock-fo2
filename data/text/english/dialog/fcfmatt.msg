@@ -94,7 +94,8 @@
 {193}{MAT24}{Excellent work! Let me have the plans, and I'll make a copy of them. As promised, I'll give you full access to our facilities. Thank you.}
 {194}{}{You welcome.}
 {195}{}{You're welcome.}
-{196}{MAT25}{Navarro is relatively new and not fully staffed as yet. My sources tell me that they receive new recruits from time to time. Perhaps you could pose as a new arrival. I would suggest that.}
+# VOCK Note: THAT's MAT25 is the uncut session reel (MAT25-31, 193 s). mat38 is its first take, cut out to just this line.
+{196}{mat38}{Navarro is relatively new and not fully staffed as yet. My sources tell me that they receive new recruits from time to time. Perhaps you could pose as a new arrival. I would suggest that.}
 {197}{MAT26}{Navarro is relatively new and not fully staffed as yet. My sources tell me that they receive new recruits from time to time. Perhaps, if you went in alone, you could pose as a new arrival. I would suggest that. You could have your friends wait here.}
 {198}{}{Okay.}
 {199}{}{You say you 'sources.' What they be?}

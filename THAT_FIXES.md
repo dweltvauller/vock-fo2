@@ -14,6 +14,10 @@ The actors recorded these, but the THAT-RPU scripts played an older, unvoiced ve
 
 - **Miss Kitty** (New Reno) greeted a returning prizefighter or porn star with "Error". She says her real greeting now.
 
+## Recordings we fixed
+
+- **Matthew** (San Francisco): his advice on getting into Navarro used to play a three-minute recording session, with takes of seven different lines. You now hear the one take that belongs there.
+
 ## Subtitles that didn't match the voice
 
 You'll hear the same takes as before. The subtitles now follow what the actors said.
@@ -30,7 +34,6 @@ You'll hear the same takes as before. The subtitles now follow what the actors s
 
 - **Roger Westin** (NCR): "Well then, that's all." plays half speed in a deep "monster" voice. It's a copy of the end of another Westin line, and THAT never shipped a real take of this one. It needs a new recording.
 - **Typhon** (Broken Hills): three of his recordings stop before the actor finishes. "Find me one" ends at "Find m...", "made it a little easier on me" loses "on me", and "If I'd'a known..." loses its last sound. THAT shipped them cut, so these need new takes too.
-- **Matthew** (San Francisco): his advice on getting into Navarro plays a three-minute recording session, with several takes of that line and of other lines. The first 11 seconds are the right take, and we are cutting them out.
 - **Steve** (Broken Hills): THAT gave Marcus's reply "Ain't no future in it..." to Steve's actor, who never recorded it. We moved the line to Marcus, and it stays silent until his actor records it.
 
 Next up: the THAT characters we haven't reviewed yet.
