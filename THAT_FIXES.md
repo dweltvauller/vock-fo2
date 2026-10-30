@@ -28,6 +28,7 @@ You'll hear the same takes as before. The subtitles now follow what the actors s
 ## Still broken
 
 - **Roger Westin** (NCR): "Well then, that's all." plays half speed in a deep "monster" voice. It's a copy of the end of another Westin line, and THAT never shipped a real take of this one. It needs a new recording.
+- **Typhon** (Broken Hills): three of his recordings stop before the actor finishes. "Find me one" ends at "Find m...", "made it a little easier on me" loses "on me", and "If I'd'a known..." loses its last sound. THAT shipped them cut, so these need new takes too.
 - **Steve** (Broken Hills): THAT gave Marcus's reply "Ain't no future in it..." to Steve's actor, who never recorded it. We moved the line to Marcus, and it stays silent until his actor records it.
 
-We still have Typhon and Matthew to listen through, plus the THAT characters we haven't reviewed yet.
+We still have one Typhon line and Matthew to listen through, plus the THAT characters we haven't reviewed yet.
