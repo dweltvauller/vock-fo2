@@ -8,7 +8,7 @@
 {107}{}{You can start by answering some questions.}
 {108}{}{Nothing for now. I'll come back later.}
 {109}{MAT2}{I think you deserve to have answers to your questions.}
-{110}{MAT3}{What can I do for you?}
+{110}{}{What can I help you with?}
 {111}{}{Who you guys?}
 {112}{}{Why nobody mention you?}
 {113}{}{Why only one person here?}
@@ -131,3 +131,7 @@
 {7702}{MAT16}{Upon successful completion of your mission I will grant you access to our facility here. In the meantime it would be best if you got started immediately. Thank you, Wanderer.}
 {7703}{MAT27}{I had an operative go and scout the base. Her reports recently stopped; I can only assume the worst. Please be careful Wanderer. I don't enjoy sending people to their deaths.}
 {7704}{MAT29}{Upon successful completion of your mission I'll get the tanker ready for you, and grant you access to our facility here. In the meantime it would be best if you got started immediately. Thank you, Wanderer.}
+
+# VOCK Add Ons -- VA-match fix: THAT's MAT3 take says "What can I do for you?", not "What can I help you with?". 110 keeps the original text, untagged.
+# Node002: replaces 110.
+{1110}{MAT3}{What can I do for you?}

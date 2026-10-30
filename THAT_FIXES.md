@@ -23,7 +23,7 @@ You'll hear the same takes as before. The subtitles now follow what the actors s
   - "You are ready fight Lo Pan" now reads "You are ready to fight Lo Pan".
   - "I do not believe you would use the knowledge for good" gets the "that" he says: "I do not believe that you would use...".
 - **Stuart Little** (New Reno) greets you with "Awright, nice ta meet ya." The subtitle used to add a "Champ" he never says.
-- **Matthew** (San Francisco) opens with "What can I do for you?". The subtitle said "What can I help you with?".
+- **Matthew** (San Francisco) opens with "What can I do for you?". The subtitle said "What can I help you with?". Modders: 110 keeps the original line in `fcfmatt.msg`, and the game shows the new 1110.
 - **Stark** (Vault City) asks an outsider "Is there something I can help you with?" His subtitle said "What do you want?". Modders: the original line stays in `vcstark.msg` as 145, and the game shows the new 1145.
 
 ## Still broken

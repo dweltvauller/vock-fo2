@@ -15,6 +15,9 @@
            Created:
 
            Updated:
+           VOCK changes:
+             Matthew's greeting plays 1110, which matches THAT's MAT3
+             recording; 110 keeps the original text.
 */
 
 /* Include Files */
@@ -327,7 +330,7 @@ procedure Node002 begin
       inc_local_var(LVAR_N2_Count);
       Reply(109);
    end else begin
-      Reply(110);
+      Reply(1110);   //VOCK: was Reply(110)
    end
 
    if ( global_var(GVAR_SAN_FRAN_BOS_QUEST) < BOS_KNOW ) then //added check by killap
