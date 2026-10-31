@@ -98,7 +98,8 @@
 {362}{}{Leave quietly.}
 
 # 14. CAN I HAVE ONE OF THOSE LASER WEAPONS? (11, 34)
-{370}{SALVA14}{(Narrows his eyes. His next words are delivered in a rasping hiss.)
+# VOCK Note: THAT's SALVA14 stops abruptly at the end. salva54 is the same take with a 60 ms fade-out and 0.2 s of silence added.
+{370}{salva54}{(Narrows his eyes. His next words are delivered in a rasping hiss.)
  ::You have not yet PROVEN yourself.:: Now go see Mason. He will have the... details of your assignment.}
 {371}{}{All right, then. Forget the pistols for now.}
 {372}{}{I understand, Mr. Salvatore. Forgive my question. I will go see Mason.}

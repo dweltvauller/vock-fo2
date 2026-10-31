@@ -17,6 +17,7 @@ The actors recorded these, but the THAT-RPU scripts played an older, unvoiced ve
 ## Recordings we fixed
 
 - **Matthew** (San Francisco): his advice on getting into Navarro used to play a three-minute recording session, with takes of seven different lines. You now hear the one take that belongs there.
+- **Louis Salvatore** (New Reno): his hissed "You have not yet PROVEN yourself... details of your assignment" stopped dead on the last sound. It now fades out.
 
 ## Subtitles that didn't match the voice
 
