@@ -180,7 +180,7 @@
 {276}{STARK71}{What do you mean?}
 {277}{}{I had some other questions...}
 {278}{}{I have to be going.}
-{279}{STARK64}{They've got heavy firepower. Expensive firepower. They know military tactics. They stay in formation. They never cross their lines of fire. And they always stop short of breaking through our defenses.}
+{279}{STARK64}{They've got heavy firepower. Expensive firepower. They know military tactics. They stay in formation. They never cross their lines of fire. And they always stop just short of breaking our defenses.}
 {280}{}{Uh... they stop short of breaking through the defenses?}
 {281}{}{I had some other questions...}
 {282}{}{I have to be going.}
