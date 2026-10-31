@@ -325,8 +325,8 @@
 {7712}{STUL22}{(The midget smiles uneasily.) Well, I can get you some cream, pal... mostly of the whore or drug variety... but that's about it. Now you wanna fight or what?}
 {7713}{STUL23}{(The midget smiles uneasily.) Well, I can get you some cream, honey... mostly of the male prostitute or drug variety... but that's about it. Now you wanna fight or what?}
 {7714}{STUL26}{Wha... you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of Reno? Someone's done you a disservice not telling you about me, pal. (Sticks toothpick back in mouth, chews on it.) Got a name?}
-{7715}{STUL27}{Wha... you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of Reno? Someone's done you a disservice not telling you about me, pal. (Looks you up and down.) Got a name to go with those legs?}
-{7716}{STUL28}{Wha... you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of Reno? Someone's done you a disservice not telling you about me, darling. (Sticks toothpick back in mouth, chews on it.) Got a name?}
+{7715}{STUL27}{Wha... you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of New Reno? Someone's done you a disservice not telling you about me, pal. (Looks you up and down.) Got a name to go with those legs?}
+{7716}{STUL28}{Wha... you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of New Reno? Someone's done you a disservice not telling you about me, darling. (Sticks toothpick back in mouth, chews on it.) Got a name?}
 {7717}{STUL29}{Wha... you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of Reno? Someone's done you a disservice not telling you about me, darling. (Looks you up and down.) Got a name to go with those legs?}
 {7718}{STUL31}{(Stuart nods.) Champ... Champ... I like that. Pretty name. Well, it's a pleasure to meet you, Champ. What can I do for you?}
 {7719}{STUL32}{(Stuart nods.) Awright, nice ta meet ya. What can I do for you?}
