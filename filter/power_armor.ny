@@ -38,8 +38,8 @@ $control echo "Echo" choice "Yes,No" 0
   (let ((e (exp (* 2.0 x))))
     (/ (- e 1.0) (+ e 1.0))))
 
-;; Steps 3 to 5 (before the high-pass). Nyquist has no compressor or
-;; clipper that matches the Python one, so this walks the samples.
+;; Steps 3 to 5 (before the high-pass). Nyquist has no built-in compressor
+;; or asymmetric clipper like this, so this walks the samples.
 (defun dynamics (s n)
   (let* ((sr (snd-srate s))
          (arr (snd-fetch-array s n n))
