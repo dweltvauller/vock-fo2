@@ -46,6 +46,7 @@
 | [Sheriff Dumont](https://fallout.fandom.com/wiki/Dumont) | NCR | Richard Manzano - Sp3lunky | [YouTube](https://www.youtube.com/@Sp3lunky) · [Portfolio](https://richardmanzano.com/) |
 | [Merk](https://fallout.fandom.com/wiki/Merk) | NCR | Sn8kezz | [Casting Call Club](https://www.castingcall.club/m/sn8kezz) |
 | [Sergeant Granite](https://fallout.fandom.com/wiki/Granite) | Enclave Oil Rig | Joshua Luther | [Mandy](https://www.mandy.com/vo/joshua-luther-2) · [Casting Call Club](https://www.castingcall.club/joshluther) |
+| [Badger](https://fallout.fandom.com/wiki/Badger_(Fallout_2)) | San Francisco | Victor Sandlin | [X](https://x.com/VictorSandlin) · [Instagram](https://www.instagram.com/itsvicsandlin/) · [YouTube](https://www.youtube.com/@VictorSandlin) |
 
 ## Quality Assurance
 
