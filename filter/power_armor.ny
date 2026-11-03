@@ -4,17 +4,9 @@ $type process
 $preview linear
 $name "VOCK Power Armor"
 $debugbutton true
-$author "VOCK"
+$author "dweltvauller"
 $release 1.0
 
-;; Audacity version of power_armor.py, for auditions. It runs the same
-;; chain with Audacity's own filters, so it sounds very close to the
-;; Python script but is not sample-for-sample identical.
-;;
-;; Install: Tools > Nyquist Plugin Installer, pick this file, then
-;; enable it in Effect > Plugin Manager if it doesn't show up.
-;; It appears as Effect > VOCK Power Armor.
-;;
 ;; The chain, in order:
 ;;  1. Mono. Stereo gets mixed down; both channels get the result.
 ;;  2. Bandpass. Steep low cut at 400 Hz, gentle top cut at 2500 Hz.
