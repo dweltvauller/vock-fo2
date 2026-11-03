@@ -17,7 +17,7 @@
 {114}{grani27}{I didn't see nuthin'.}
 {115}{grani28}{These are not the droids we are looking for.}
 {116}{grani29}{Move along.}
-{117}{grani30}{I'm tired of the killing.}
+{117}{grani30}{*sigh* I'm tired of the killing.}
 {118}{grani31}{Go on, get!}
 {119}{grani32}{Stand easy, lads.}
 {120}{grani33}{Watch yourself out there, mutie.}
@@ -39,7 +39,7 @@
 {132}{}{Why? What do you mean?}
 {133}{}{I don't make time. I make corpses and you're next.}
 
-{134}{grani5}{Have it your way, but don't say we didn't try to warn ya.}
+{134}{grani5}{Have it your way. Don't say we didn't try n' warn ya.}
 {135}{}{Warn me? About what?}
 {136}{}{Yeah, I'm warned all right. Time to die, Enclave scum.}
 
@@ -51,7 +51,7 @@
 {141}{grani7}{Oh, that he is, and worse. He's going to mop the floor with you. He's tough, fast, and just plain mean. I've seen what he likes to do to mutants and it ain't pretty.}
 {142}{}{I'm not a mutant and... uh, what did he do?}
 
-{143}{grani8}{I don't like to talk about it. It gives me nightmares. Let's just say that those walls aren't covered with *rust* exactly.}
+{143}{grani8}{I don't like to talk about it. It gives me nightmares. Let's just say those walls aren't covered with *rust* exactly.}
 {144}{}{Sounds like I'm going to have a hard time getting past him.}
 
 {145}{grani9}{That's the understatement of the year. I pity ya, pal, really do.}
