@@ -1,25 +1,22 @@
 # THAT fixes
 
-The Talking Heads mod (THAT) gives about 60 Fallout 2 characters real voices. Play it on top of the Restoration Project and some of those voices go quiet, or say something the subtitle doesn't. vock-fo2 carries THAT's recordings and fixes what we find as we review each character.
+Talking Heads Actually Talk (THAT) gives about 60 Fallout 2 characters real voices. Play it on top of the Restoration Project and some of those voices go quiet, or say something the subtitle doesn't. vock-fo2 carries THAT's recordings and fixes what we find as we review each character. Versions match [CHANGELOG.md](CHANGELOG.md). For the talking-head art, see [TALKING_HEADS_FIXES.md](TALKING_HEADS_FIXES.md).
 
-## Lines you never got to hear
+## WIP
+
+### Lines you never got to hear
 
 The actors recorded these, but the THAT-RPU scripts played an older, unvoiced version of the line instead.
 
-- **Miss Kitty** (New Reno): 15 lines, including her free services, companion sex, the greeting after the Enclave falls, the date and the job offer.
 - **Louis Salvatore** (New Reno): his offer to make you a made man.
 - **Stuart Little** (New Reno): what he says after you lose a fight, after you win one, and when he signs you up.
 
-## Broken text
-
-- **Miss Kitty** (New Reno) greeted a returning prizefighter or porn star with "Error". She says her real greeting now.
-
-## Recordings we fixed
+### Recordings we fixed
 
 - **Matthew** (San Francisco): his advice on getting into Navarro used to play a three-minute recording session, with takes of seven different lines. You now hear the one take that belongs there.
 - **Louis Salvatore** (New Reno): his hissed "You have not yet PROVEN yourself... details of your assignment" stopped dead on the last sound. It now fades out.
 
-## Subtitles that didn't match the voice
+### Subtitles that didn't match the voice
 
 You'll hear the same takes as before. The subtitles now follow what the actors said.
 
@@ -31,6 +28,18 @@ You'll hear the same takes as before. The subtitles now follow what the actors s
 - **Matthew** (San Francisco) opens with "What can I do for you?". The subtitle said "What can I help you with?". Modders: 110 keeps the original line in `fcfmatt.msg`, and the game shows the new 1110.
 - **Stark** (Vault City) says the raiders "always stop just short of breaking our defenses". The subtitle said "stop short of breaking through our defenses".
 - **Stark** (Vault City) asks an outsider "Is there something I can help you with?" His subtitle said "What do you want?". Modders: the original line stays in `vcstark.msg` as 145, and the game shows the new 1145.
+
+## v1.14
+
+### Lines you never got to hear
+
+The actors recorded these, but the THAT-RPU scripts played an older, unvoiced version of the line instead.
+
+- **Miss Kitty** (New Reno): 15 lines, including her free services, companion sex, the greeting after the Enclave falls, the date and the job offer.
+
+### Broken text
+
+- **Miss Kitty** (New Reno) greeted a returning prizefighter or porn star with "Error". She says her real greeting now.
 
 ## Still broken
 

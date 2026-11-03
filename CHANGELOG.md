@@ -3,17 +3,8 @@
 ## WIP
 - Louise (Redding), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno)
 - Fixed voice audio being slightly out of phase in all voiced lines (re-encoded every ACM)
-- Francis's talking head now has the same lighting in every mood (Broken Hills)
-- Fixed see-through spots on AHS-9's talking head (San Francisco)
-- Fixed see-through spots on Jenny's talking head
-- Jenny's talking head no longer gets darker when she speaks
-- Jenny's talking head no longer jumps sideways when she starts or stops talking
-- Big Jesus Mordino's talking head no longer gets darker when he speaks (New Reno)
-- Fixed a see-through spot on Valerie's collar in her talking head (Vault City)
-- Valerie's talking head no longer shifts sideways when she starts talking or while she talks (Vault City)
-- Lao Chou's talking head no longer plays the wrong animation when his mood goes from bad to neutral (San Francisco)
-- Louis Salvatore and Stuart Little (New Reno) now play 5 THAT recordings the THAT-RPU script left silent (Salvatore's made-man offer; Stuart after a lost fight, after a won fight, and when he signs you up)
-- Merk's talking head no longer shakes sideways while he talks (NCR)
+- Talking-head fixes: Francis, AHS-9, Jenny, Big Jesus Mordino, Valerie, Lao Chou, Tyler, Merk (see [TALKING_HEADS_FIXES.md](TALKING_HEADS_FIXES.md))
+- THAT fixes: Louis Salvatore, Stuart Little, Matthew, Dragon, Stark (see [THAT_FIXES.md](THAT_FIXES.md))
 - Post-endgame floats from Arthur, Skeeter and Vegeir now play whenever you are close to them, even while sneaking or standing behind them
 - New `vock-fo2.ini` (goes in the `mods` folder): set `PostEndgame=0` to turn off the non-vanilla post-endgame easter-egg floats from Arthur, Skeeter and Vegeir, or change how often they play with `PostEndgameSeconds`
 
@@ -24,14 +15,9 @@
 - Added voices: Peterson (Abbey), Joseph (Vault 13), Krom (Umbra Tribe), Zaius (Broken Hills), Flick (The Den), Rebecca Dyer (The Den)
 - Fixed Francis audio track crossover bug
 - Removed AI voices: Morlis (Arroyo), Sally Dunton (Klamath), Bridgekeeper (Special Encounter), per community poll
-- Fixed Miss Kitty (New Reno) greeting showing "Error" for a returning prizefighter or porn star (THAT script bug)
-- Miss Kitty now plays 15 THAT recordings that the THAT script left silent (free services, companion sex, post-Enclave greeting, date, job offer)
-- Fixed frozen lip-sync on talking heads ardin, bgjes, bishp, kitty, merk, sch (full 9-frame phoneme art by Goat_Boy)
-- Fixed heads.lst fidget counts for franc, tray, arth, bosss that pointed at missing or unused art
-- Fixed see-through spots on Sajag's talking head
-- Fixed Gruthar's head freezing in a bad mood (new bad-mood fidget: a blink)
+- THAT fixes: Miss Kitty (see [THAT_FIXES.md](THAT_FIXES.md))
+- Talking-head fixes: Ardin Buckner, Big Jesus Mordino, John Bishop, Miss Kitty, Merk, Doctor Schreber, Gruthar, Francis, T-Ray, Arthur Pendragon, Frank Horrigan, Sajag (see [TALKING_HEADS_FIXES.md](TALKING_HEADS_FIXES.md))
 - Fixed Sheriff Dumont (NCR) never praising the player for talking Officer Jack into surrendering (RPU script bug)
-- Fixed see-through spots on Big Jesus Mordino's hand in his neutral fidget
 
 ## v1.13
 - Added voices: Ann (Vault City), Tubby (The Den), Chuck & Buck Dunton (Klamath), Vortis (NCR)
@@ -85,4 +71,6 @@
 
 *For full cast and contributor links, see [CREDITS.md](CREDITS.md).*
 
-*For the fixes vock-fo2 makes to the Talking Heads mod (THAT), see [THAT_FIXES.md](THAT_FIXES.md).*
+*For the fixes vock-fo2 makes to the THAT voices, see [THAT_FIXES.md](THAT_FIXES.md).*
+
+*For the fixes vock-fo2 makes to the Talking Heads portraits, see [TALKING_HEADS_FIXES.md](TALKING_HEADS_FIXES.md).*
