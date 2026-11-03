@@ -83,7 +83,9 @@ $control echo "Echo" choice "Yes,No" 0
        (s (hp s 30))
        (s (eq-band s 1800 3 0.44))   ; 1530-2070 Hz
        (s (eq-band s 1200 2 0.89))   ; 840-1560 Hz
+       ;; at-abs takes real seconds; plain "at" would count in
+       ;; selection lengths, since Audacity scales the selection to 1.
        (s (if (= echo 0)
-              (sim s (at 0.1277 (cue (scale (db-to-linear -27) s))))
+              (sim s (at-abs 0.1277 (cue (scale (db-to-linear -27) s))))
               s)))
   (scale (/ (db-to-linear -1) (peak s ny:all)) s))
