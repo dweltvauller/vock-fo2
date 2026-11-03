@@ -7,9 +7,9 @@ $debugbutton true
 $author "dweltvauller"
 $release 1.0
 
-;; Audacity version of pipboy_valve_effect.py. Same chain, same numbers.
+;; Chain:
 ;;  1. Mono. Stereo gets mixed down; both channels get the result.
-;;  2. Bandpass 500-2500 Hz (4th-order Butterworth, as scipy builds it).
+;;  2. Bandpass 500-2500 Hz (4th-order Butterworth).
 ;;  3. Tube saturation: tanh with drive 1.8 and warmth 0.2.
 ;;  4. Mechanical delay: resonant comb, 22 ms, feedback 0.3, mix 0.3.
 ;;  5. Compressor, 4:1 above -18 dB, 5 ms attack, 80 ms release.
@@ -17,8 +17,8 @@ $release 1.0
 ;;     added on top of the dry signal.
 ;;  7. Static: white noise, band-limited to 500-2500 Hz, at -44 dB peak.
 ;;  8. Normalize the peak to -1 dBFS.
-;; Like the Python script, steps 3 and 5 work on the take's real level,
-;; so a quiet take gets less saturation and compression than a loud one.
+;; Steps 3 and 5 work on the take's real level, so a quiet take gets
+;; less saturation and compression than a loud one.
 
 
 (defun mono (s)
@@ -43,8 +43,7 @@ $release 1.0
          (im (sqrt (max 0.0 (* 0.5 (- r x))))))
     (cons re (if (< y 0.0) (- im) im))))
 
-;; Butterworth bandpass, the same filter as scipy's
-;; butter(order, [lo, hi], btype="bandpass", fs=sr). order must be even.
+;; Butterworth bandpass from lo to hi Hz. order must be even.
 ;; Each lowpass prototype pole maps to two bandpass poles; each pole and
 ;; its conjugate make one biquad with zeros at DC and Nyquist. The
 ;; sections are scaled so the gain at the band centre is exactly 1.
@@ -90,7 +89,7 @@ $release 1.0
          (drive 1.8)
          (warmth 0.2)
          (tdrive (tanh drive))
-         ;; mechanical delay; same rounding as int(sr * 22 / 1000)
+         ;; mechanical delay, 22 ms rounded down to whole samples
          (dn (max 1 (truncate (/ (* sr 22.0) 1000.0))))
          (ring (make-array dn))
          (fb 0.3)
