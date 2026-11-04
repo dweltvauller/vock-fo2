@@ -48,6 +48,7 @@
 | [Sergeant Granite](https://fallout.fandom.com/wiki/Granite) | Enclave Oil Rig | Joshua Luther | [Mandy](https://www.mandy.com/vo/joshua-luther-2) · [Casting Call Club](https://www.castingcall.club/joshluther) |
 | [Badger](https://fallout.fandom.com/wiki/Badger_(Fallout_2)) | San Francisco | Victor Sandlin | [X](https://x.com/VictorSandlin) · [Instagram](https://www.instagram.com/itsvicsandlin/) · [YouTube](https://www.youtube.com/@VictorSandlin) |
 | [Marjorie Reed](https://fallout.fandom.com/wiki/Marjorie_Reed) | New Reno | Tracy Marie | [Website](https://www.tracymarieofficial.com) |
+| [Chip](https://fallout.fandom.com/wiki/Chip) | San Francisco | Max Troia | [Instagram](https://www.instagram.com/maxatroia/) · [Website](https://www.maxtroia.com) |
 
 ## Quality Assurance
 
