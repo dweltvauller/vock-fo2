@@ -49,6 +49,7 @@
 | [Badger](https://fallout.fandom.com/wiki/Badger_(Fallout_2)) | San Francisco | Victor Sandlin | [X](https://x.com/VictorSandlin) · [Instagram](https://www.instagram.com/itsvicsandlin/) · [YouTube](https://www.youtube.com/@VictorSandlin) |
 | [Marjorie Reed](https://fallout.fandom.com/wiki/Marjorie_Reed) | New Reno | Tracy Marie | [Website](https://www.tracymarieofficial.com) |
 | [Chip](https://fallout.fandom.com/wiki/Chip) | San Francisco | Max Troia | [Instagram](https://www.instagram.com/maxatroia/) · [Website](https://www.maxtroia.com) |
+| [Orville Wright](https://fallout.fandom.com/wiki/Orville_Wright) | New Reno | AnInsaneProfessional | [Bluesky](https://bsky.app/profile/insanepr0fessional.bsky.social) · [Youtube](https://www.youtube.com/@insaneprofessional2061) |
 
 ## Quality Assurance
 
