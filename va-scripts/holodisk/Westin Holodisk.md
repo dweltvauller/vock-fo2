@@ -22,7 +22,7 @@ The courier has delivered the disk you sent. You were correct, of course. The in
 
 I can only assure you that if given my way as I expect, there will be no more interference or provocation by the NCR in any of Vault City's affairs. I, for one, respect your sovereignty, and do not agree with the troublemakers who wish to deprive our innocent neighbors of their freedoms.
 
-Your friend and ally,
+Your friend and ally,<br>
 Roger Westin
 
 ---

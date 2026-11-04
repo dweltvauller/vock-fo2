@@ -16,12 +16,7 @@
 
 ## Full Text
 
-This is Captain Pickard reporting at checkpoint 1.
-Contact with checkpoints 2 & 3 has been cut off. We
-can only assume the worst. The monsters are swarming
-up the mineshafts. All efforts to delay them have
-failed. We'll try to hold them at this position as long
-as we can.
+This is Captain Pickard reporting at checkpoint 1. Contact with checkpoints 2 & 3 has been cut off. We can only assume the worst. The monsters are swarming up the mineshafts. All efforts to delay them have failed. We'll try to hold them at this position as long as we can.
 
 ---
 

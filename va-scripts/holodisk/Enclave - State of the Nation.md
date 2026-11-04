@@ -16,40 +16,26 @@
 
 ## Full Text
 
-Memo: State of the Nation
-From: President Dick Richardson
-To: The People of this Great Nation
+Memo: State of the Nation<br>
+From: President Dick Richardson<br>
+To: The People of this Great Nation<br>
 Subject: The State of the Union Address
 
-Fellow Americans, I have been honored to be the steward
-that will take the American people back to the mainland
-to reclaim the United States for its own citizens. We 
-will be the first generation free of the mutant threat 
-in over one hundred years.
+Fellow Americans, I have been honored to be the steward that will take the American people back to the mainland to reclaim the United States for its own citizens. We will be the first generation free of the mutant threat in over one hundred years.
 
-It's been a long wait, and the work that has made this 
-possible has been difficult. At times it seemed 
-impossible; however, through the brave and tireless 
-efforts of our own head of the Chemical Corps, Dr. 
-Charles Curling, the hour of our salvation is now at 
-hand.
+It's been a long wait, and the work that has made this possible has been difficult. At times it seemed impossible; however, through the brave and tireless efforts of our own head of the Chemical Corps, Dr. Charles Curling, the hour of our salvation is now at hand.
 
-Brave, steadfast, blah, blah, blah. Jeez, does anyone 
-really listen to this stuff?
+Brave, steadfast, blah, blah, blah. Jeez, does anyone really listen to this stuff?
 
---Notes to self-
-1)  Go on like this for a bit to cover Curling's project.
-2)  Tell everyone how steadfast, etc., they are.
-     Yadda, yadda, yadda.
+--Notes to self-<br>
+1)  Go on like this for a bit to cover Curling's project.<br>
+2)  Tell everyone how steadfast, etc., they are. Yadda, yadda, yadda.
 
 Be sure to make a plug for re-election.
 
-Remember NOT to hug my intern on the way down from the
-podium.
+Remember NOT to hug my intern on the way down from the podium.
 
-Important: Finish writing this soon. We'll be able to 
-gas those damn mutants any week now if Curling's report
-is correct.
+Important: Finish writing this soon. We'll be able to gas those damn mutants any week now if Curling's report is correct.
 
 ---
 

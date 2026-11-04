@@ -18,15 +18,7 @@
 
 NEW CALIFORNIA REPUBLIC INFORMATION DISK 5
 
-This disk seems to be filled with reports about NCR - 
-monthly production totals, caravan schedules,         
-security rosters, minutes of Congressional hearings,  
-secret council reports, diplomatic correspondence     
-from New Reno, Redding, and Vault City, even several  
-weeks worth of President Tandi's appointment schedule.
-There's nothing here about Vault 13 or a GECK, though.
-All the reports are addressed to Darion and are signed
-"F-".
+This disk seems to be filled with reports about NCR - monthly production totals, caravan schedules, security rosters, minutes of Congressional hearings, secret council reports, diplomatic correspondence from New Reno, Redding, and Vault City, even several weeks worth of President Tandi's appointment schedule. There's nothing here about Vault 13 or a GECK, though. All the reports are addressed to Darion and are signed "F-".
 
 ---
 

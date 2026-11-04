@@ -16,18 +16,11 @@
 
 ## Full Text
 
-July 9, 2077
-Priority Release
+July 9, 2077<br>
+Priority Release<br>
 General Posting
 
-Notice to all personnel. Evacuation of Sierra
-Army Depot has been advanced 1 week.
-Installation of security and defense measures
-must be completed by then. All personnel must
-check in with section chiefs for revised
-orders. During this time, security will be
-strictly enforced; ID badges must be worn
-at all times.
+Notice to all personnel. Evacuation of Sierra Army Depot has been advanced 1 week. Installation of security and defense measures must be completed by then. All personnel must check in with section chiefs for revised orders. During this time, security will be strictly enforced; ID badges must be worn at all times.
 
 By order of General Clifton
 

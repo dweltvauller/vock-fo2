@@ -16,19 +16,7 @@
 
 ## Full Text
 
-Sergeant Bracks reporting at checkpoint 3. Everything
-is normal, just like yesterday and the day before that.
-I don't know why the brass has us guarding these
-wretched miners. They are so scrawny and weak, they
-can barely lift a pickaxe. Anyway, the pencil necks
-passed by a while ago with some kind of sample. They
-seemed pretty excited by it. Do you know if they found
-what they were looking for? Maybe we can finally get
-out of this forsaken place. It gives me the creeps.
-Hold on a second, another load is coming up the
-mineshaft. My god! What are they? They're swarming
-our position! Send help! Repeat, this is; check point 3
-send he_
+Sergeant Bracks reporting at checkpoint 3. Everything is normal, just like yesterday and the day before that. I don't know why the brass has us guarding these wretched miners. They are so scrawny and weak, they can barely lift a pickaxe. Anyway, the pencil necks passed by a while ago with some kind of sample. They seemed pretty excited by it. Do you know if they found what they were looking for? Maybe we can finally get out of this forsaken place. It gives me the creeps. Hold on a second, another load is coming up the mineshaft. My god! What are they? They're swarming our position! Send help! Repeat, this is; check point 3 send he_
 
 ---
 

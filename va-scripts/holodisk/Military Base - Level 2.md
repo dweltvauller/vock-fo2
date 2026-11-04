@@ -16,14 +16,7 @@
 
 ## Full Text
 
-Checkpoint 3 is under attack. We have shut down the
-mine elevators as a precaution, but I can hear them
-coming up the mineshaft. Holy shit! Huge, ugly,
-green, creatures are climbing out of the lower levels!
-This must be what the brass is after. Some kind of
-super soldier. As fast as we shoot them two more climb
-out of the mineshaft and the ones we shoot get up and
-keep coming at us! We need reinforc_
+Checkpoint 3 is under attack. We have shut down the mine elevators as a precaution, but I can hear them coming up the mineshaft. Holy shit! Huge, ugly, green, creatures are climbing out of the lower levels! This must be what the brass is after. Some kind of super soldier. As fast as we shoot them two more climb out of the mineshaft and the ones we shoot get up and keep coming at us! We need reinforc_
 
 ---
 
