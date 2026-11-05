@@ -15,6 +15,7 @@ The Talking Heads mod (TH) gives Fallout 2 characters animated, lifelike portrai
 - **AHS-9** (San Francisco): spots on his shirt, collar, face and neck are filled.
 - **Jenny** (Klamath): spots on her top are filled.
 - **Valerie** (Vault City): a spot on her collar is filled.
+- **Badger** (San Francisco): spots in his teeth and on his shoulder pad are filled.
 
 ### Heads that jumped or shook
 
