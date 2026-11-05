@@ -57,7 +57,7 @@
 {156}{badge15}{Yeah, you would have. Anyway, I have to get back to this.}
 {157}{}{Wait. I have more questions.}
 {158}{}{Thanks. See ya.}
-{159}{badge16}{I think I like you enough that I can do it for you now. Who do you want me to visit?}
+{159}{badge16}{I think that I like you enough that I can do it for you now. Who do you want me to visit?}
 {160}{}{The Hubologists.}
 {161}{}{The Shi.}
 {162}{}{Neither. Just checking.}
@@ -74,7 +74,7 @@
 {173}{badge20}{I can get them. They're pretty protective of their info, and they've got some serious ice protecting their machines. Are you sure you want me to go after them?}
 {174}{}{Well, good luck. I have more questions.}
 {175}{}{Good luck. I'll be back later.}
-{176}{badge21}{Hey, find my girlfriend and then we'll talk.}
+{176}{badge21}{Hey, find my girlfriend and we'll talk.}
 {177}{}{All right, all right.}
 {178}{badge22}{She's dead? She's DEAD? How did she die? No, wait... don't tell me. Give me a few hours to get myself together.}
 {179}{}{Sure, sure.}
@@ -97,7 +97,7 @@
 {195}{badge28}{Give me a few hours to get myself together.}
 {196}{badge29}{You want me to hack a formatted computer? The information's gone. It ain't gonna happen.}
 
-{197}{badge38}{I am going to have to vacate this place.}
+{197}{badge38}{I'm going to vacate this place.}
 {198}{badge39}{Good to see ya.}
 
 {199}{}{I'm looking for some fuel.}
@@ -108,7 +108,7 @@
 {203}{badge40}{What the hell do you want?}
 {204}{shig1}{Badger of the punks, I presume?}
 {205}{shig2}{You have disgraced our Emperor for the last time!}
-{206}{badge41}{I think I will go get some candy from Lao Chou in town.}
+{206}{badge41}{I think I'll get some candy from Lao Chou in town.}
 {207}{}{So much for a fair trial. Hmmm...}
 {208}{badge42}{Dude, lighten up. I just wanted some candy.}
 
