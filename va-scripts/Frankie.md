@@ -22,7 +22,7 @@
 ## Buying Whiskey
 *He doesn't quote the price out loud — he just points. Only "Standard price." is spoken; the sign and the price that follows are shown as on-screen text, not read aloud.*
 
-`frank4:` Standard price. (He jerks a thumb at a sign behind the bar: Whiskey shot... $
+`frank4:` Standard price. (He jerks a thumb at a sign behind the bar: Whiskey shot... $[cost])
 
 ## Whiskey Follow-Up
 
