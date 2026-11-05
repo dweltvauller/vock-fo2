@@ -9,7 +9,7 @@
 - New `vock-fo2.ini` (goes in the `mods` folder): set `PostEndgame=0` to turn off the non-vanilla post-endgame easter-egg floats from Arthur, Skeeter and Vegeir, or change how often they play with `PostEndgameSeconds`
 
 ## v1.15
-- Added voices: Don (Slaver Camp), Private Dobbs (Sierra Army Depot), Merk (NCR), Sergeant Granite (Enclave Oil Rig), Badger (San Francisco), Marjorie Reed (New Reno), Chip (San Francisco)
+- Added voices: Don (Slaver Camp), Private Dobbs (Sierra Army Depot), Merk (NCR), Sergeant Granite (Enclave Oil Rig), Badger (San Francisco), Marjorie Reed (New Reno), Chip (San Francisco), Happy Harry (Vault City)
 
 ## v1.14
 - Added voices: Peterson (Abbey), Joseph (Vault 13), Krom (Umbra Tribe), Zaius (Broken Hills), Flick (The Den), Rebecca Dyer (The Den)
