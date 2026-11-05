@@ -153,7 +153,11 @@ procedure timed_event_p_proc begin
          set_local_var(LVAR_Herebefore,1);
       set_local_var(LVAR_Home_Tile,self_tile);
       //VOCK: was start_dialog_at_node(Node017)
-      th_start_dialog_at_node(Node017,HEAD_KUR,BACKGROUND_WASTELAND);
+      if night then begin
+         th_start_dialog_at_node(Node017,HEAD_KUR,BACKGROUND_WASTELAND_NIGHT);
+      end else begin
+         th_start_dialog_at_node(Node017,HEAD_KUR,BACKGROUND_WASTELAND);
+      end
    end else if (fixed_param == 3) then begin
       if (not(combat_is_initialized)) then begin
          if (tile_distance(self_tile,local_var(LVAR_Home_Tile)) < MAX_TRAVEL) then begin
@@ -316,13 +320,19 @@ procedure talk_p_proc begin
    end else if (global_var(GVAR_SULIK_SISTER) >= 4) then begin
       if (global_var(GVAR_FIND_SULIK) == 1) then begin
          if (Sulik_In_Party) then begin
-            start_gdialog(NAME,self_obj,4,HEAD_KUR,BACKGROUND_WASTELAND);
+            if night then
+               start_gdialog(NAME,self_obj,4,HEAD_KUR,BACKGROUND_WASTELAND_NIGHT);
+            else
+               start_gdialog(NAME,self_obj,4,HEAD_KUR,BACKGROUND_WASTELAND);
             gSay_Start;
                call Node023;
             gSay_End;
             end_dialogue;
          end else begin
-            start_gdialog(NAME,self_obj,4,HEAD_KUR,BACKGROUND_WASTELAND);
+            if night then
+               start_gdialog(NAME,self_obj,4,HEAD_KUR,BACKGROUND_WASTELAND_NIGHT);
+            else
+               start_gdialog(NAME,self_obj,4,HEAD_KUR,BACKGROUND_WASTELAND);
             gSay_Start;
                call Node025;
             gSay_End;
@@ -332,13 +342,19 @@ procedure talk_p_proc begin
          if (Fallout2_enclave_destroyed) then
             floater(random(2000,2001+Sulik_In_Party));
          else if (global_var(GVAR_SULIK_DEAD) == 2) then begin
-            start_gdialog(NAME,self_obj,4,HEAD_KUR,BACKGROUND_WASTELAND);
+            if night then
+               start_gdialog(NAME,self_obj,4,HEAD_KUR,BACKGROUND_WASTELAND_NIGHT);
+            else
+               start_gdialog(NAME,self_obj,4,HEAD_KUR,BACKGROUND_WASTELAND);
             gSay_Start;
                call Node029;
             gSay_End;
             end_dialogue;
         end else begin
-            start_gdialog(NAME,self_obj,4,HEAD_KUR,BACKGROUND_WASTELAND);
+            if night then
+               start_gdialog(NAME,self_obj,4,HEAD_KUR,BACKGROUND_WASTELAND_NIGHT);
+            else
+               start_gdialog(NAME,self_obj,4,HEAD_KUR,BACKGROUND_WASTELAND);
             gSay_Start;
                call Node029;
             gSay_End;

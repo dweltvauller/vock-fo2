@@ -190,7 +190,10 @@ procedure talk_p_proc begin
 
    if (local_var(LVAR_Herebefore) == 0) then begin
        set_local_var(LVAR_Herebefore,1);
-       start_gdialog(NAME,self_obj,4,HEAD_IANOJ,BACKGROUND_WASTELAND);
+       if night then
+          start_gdialog(NAME,self_obj,4,HEAD_IANOJ,BACKGROUND_WASTELAND_NIGHT);
+       else
+          start_gdialog(NAME,self_obj,4,HEAD_IANOJ,BACKGROUND_WASTELAND);
        gSay_Start;
            call Node001;
        gSay_End;

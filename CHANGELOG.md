@@ -7,6 +7,7 @@
 - THAT fixes: Louis Salvatore, Stuart Little, Matthew, Dragon, Stark (see [THAT_FIXES.md](THAT_FIXES.md))
 - Post-endgame floats from Arthur, Skeeter and Vegeir now play whenever you are close to them, even while sneaking or standing behind them
 - New `vock-fo2.ini` (goes in the `mods` folder): set `PostEndgame=0` to turn off the non-vanilla post-endgame easter-egg floats from Arthur, Skeeter, Vegeir and Sergeant Granite, or change how often they play with `PostEndgameSeconds`
+- Kurisu, King Arthur, Amanda and Old Joe now show the night wasteland background when talked to at night (19:00-05:59), like the other outdoor talking heads
 
 ## v1.15
 - Added voices: Don (Slaver Camp), Private Dobbs (Sierra Army Depot), Merk (NCR), Sergeant Granite (Enclave Oil Rig), Badger (San Francisco), Marjorie Reed (New Reno), Chip (San Francisco), Happy Harry (Vault City)

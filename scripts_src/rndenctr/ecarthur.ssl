@@ -309,7 +309,10 @@ procedure talk_p_proc begin
 
    if (ARTHUR_ENCOUNTER_ONE) then begin
       if (local_var(LVAR_Herebefore) == 0) then begin
-          start_gdialog(NAME,self_obj,4,HEAD_ARTH,BACKGROUND_WASTELAND);
+          if night then
+             start_gdialog(NAME,self_obj,4,HEAD_ARTH,BACKGROUND_WASTELAND_NIGHT);
+          else
+             start_gdialog(NAME,self_obj,4,HEAD_ARTH,BACKGROUND_WASTELAND);
           gSay_Start;
             call Node001;
           gSay_End;

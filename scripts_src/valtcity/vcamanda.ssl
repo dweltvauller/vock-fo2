@@ -204,7 +204,10 @@ procedure talk_p_proc begin
       (perceived_rep_negative or has_rep_slaver or has_rep_childkiller or (local_var(LVAR_Amanda_Pissed) == 1) )) then
       call Node006;
    else if( global_var(GVAR_QUEST_JOSHUA) == JOSHUA_UNKNOWN ) then begin
-       start_gdialog(NAME,self_obj,4,HEAD_AMA,BACKGROUND_WASTELAND);
+       if night then
+          start_gdialog(NAME,self_obj,4,HEAD_AMA,BACKGROUND_WASTELAND_NIGHT);
+       else
+          start_gdialog(NAME,self_obj,4,HEAD_AMA,BACKGROUND_WASTELAND);
        gSay_Start;
            call Node007;
        gSay_End;
