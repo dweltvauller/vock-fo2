@@ -20,7 +20,7 @@
 {122}{hhary17}{Thought you'd just help yourself, huh? Damn thief... guards! Guards!}
 
 {123}{}{Dave sent me. We're trying to fix a broken water pump, and he said you'd have a replacement motor.}
-{124}{hhary7}{Working with Dave, eh? Yeah, I know the fella. I see he's still got a knack for getting others to do his leg work--lazy bastard. [He chuckles.] Anyway, I think I got what you're lookin for, but lemme just go back an' check. [Harry goes into his back room where you hear boxes being shuffled and moved around. He returns a minute later.] Yep, got it right here. $500 and she's all yours.}
+{124}{hhary7}{Working with Dave, eh? Yeah, I know the fella. I see he's still got a knack for getting others to do his leg work--lazy bastard. [He chuckles.] Anyway, I think I got what you're lookin for, but just lemme go back an' check. [Harry goes into his back room where you hear boxes being shuffled and moved around. He returns a minute later.] Yep, got it right here. $500 and she's all yours.}
 {125}{}{Sure. Here's the money.}
 {126}{}{500? Damn. I hope I get reimbursed for this. Fine, here is the money.}
 {127}{hhary8}{Thanks for the business. Take care.}
