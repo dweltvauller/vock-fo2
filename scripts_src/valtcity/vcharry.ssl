@@ -15,6 +15,21 @@
            Created:
 
            Updated:
+           VOCK changes:
+             Node970 says Harry's own "Thanks!" (msg 2203, hhary23) after bartering
+             instead of generic.msg's g_mstr(203).
+
+             Added Node850: once the Enclave is destroyed, Harry throws out an
+             ambient easter-egg float (hhary24-27, msgs 800-803) on a
+             self-rescheduling timer, the same pattern as Skeeter, Arthur and
+             Vegeir. Dialogue is untouched. The float is skipped while Harry is
+             jailed (servant quest), hostile, or the player is vilified in
+             Vault City, since he is not running his shop then.
+             The post-endgame float can be switched off with PostEndgame=0 under
+             [Floats] in mods\vock-fo2.ini (VOCK_POST_ENDGAME_FLOATS), and its
+             interval set with PostEndgameSeconds. It plays when the player is within
+             10 hexes on the same elevation, not on line of sight, so facing and
+             sneaking do not block it.
 */
 
 /* Include Files */
@@ -36,6 +51,29 @@
 #include "../headers/modreact.h"
 #include "../headers/talking_heads.h"
 
+#define TIMER_VOCK_ENDGAME_FLOAT (850)  //VOCK: post-endgame ambient bonus-float timer (Node850)
+#define VOCK_POST_ENDGAME_FLOATS (get_ini_setting("mods\\vock-fo2.ini|Floats|PostEndgame") != 0)  //VOCK: mods\vock-fo2.ini toggle; a missing file or key reads -1, so the floats stay on
+
+//VOCK: post-endgame float range. A fixed distance check instead of self_can_see_dude, which
+// depends on facing, line of sight and sneak, and made the float start and stop at random.
+#define VOCK_ENDGAME_FLOAT_RANGE (10)
+#define VOCK_DUDE_IN_FLOAT_RANGE ((elevation(self_obj) == elevation(dude_obj)) and (tile_distance_objs(self_obj, dude_obj) <= VOCK_ENDGAME_FLOAT_RANGE))
+
+//VOCK: Harry is only hawking his wares while his shop is open to the player: not jailed after
+// the servant quest, not hostile, and the player not vilified in Vault City.
+#define VOCK_HARRY_SHOP_OPEN ((global_var(GVAR_QUEST_VAULT_SERVANT) != SERVANT_TURNED_IN_HARRY) and (local_var(LVAR_Hostile) == 0) and (global_var(GVAR_ENEMY_VAULT_COURTYARD) != 1) and (not town_rep_is_vilified))
+
+//VOCK: re-arm delay for the post-endgame float timer, in game ticks. Reads PostEndgameSeconds from
+// mods\vock-fo2.ini; a missing or invalid value falls back to 10 seconds, and anything under 5 is
+// raised to 5 so floats do not cut each other off.
+procedure vock_endgame_float_delay begin
+   variable secs;
+   secs := get_ini_setting("mods\\vock-fo2.ini|Floats|PostEndgameSeconds");
+   if (secs < 1) then secs := 10;
+   if (secs < 5) then secs := 5;
+   return game_ticks(secs);
+end
+
 
 /* Standard Script Procedures */
 procedure start;
@@ -49,9 +87,11 @@ procedure use_skill_on_p_proc;
 procedure damage_p_proc;
 procedure map_enter_p_proc;
 procedure map_update_p_proc;
+procedure timed_event_p_proc;          //VOCK: added for the post-endgame ambient float timer
 
 /* Script Specific Procedure Calls */
 procedure Node970;
+procedure Node850;                                      //VOCK: post-endgame bonus float
 procedure Node998;                                      // This Node is Always Combat
 procedure Node999;                                      // This Node is Always Ending
 
@@ -138,10 +178,27 @@ procedure map_enter_p_proc begin
     move_obj_inven_to_obj(vault_city_harry_box, tile_contains_pid_obj(12112,dude_elevation,152));
    end
    //end
+
+   //VOCK: arm the post-endgame ambient float timer. Always armed regardless of endgame state --
+   // timed_event_p_proc itself checks Fallout2_enclave_destroyed before doing anything, and just
+   // keeps re-arming either way, same as vanilla's own ambient-float timers (e.g. vcdwnbar.ssl).
+   add_timer_event(self_obj, vock_endgame_float_delay, TIMER_VOCK_ENDGAME_FLOAT);
 end
 
 procedure map_update_p_proc begin
    Harry_Ptr := self_obj;
+end
+
+//VOCK: post-endgame ambient bonus-float timer, same as gcskeetr.ssl: a self-rescheduling timer,
+// gated on VOCK_DUDE_IN_FLOAT_RANGE, VOCK_HARRY_SHOP_OPEN and not being in combat, that calls
+// Node850 once Fallout2_enclave_destroyed is true. The re-arm interval does the pacing.
+procedure timed_event_p_proc begin
+   if (fixed_param == TIMER_VOCK_ENDGAME_FLOAT) then begin
+      if ( (not combat_is_initialized) and VOCK_DUDE_IN_FLOAT_RANGE and VOCK_HARRY_SHOP_OPEN and (Fallout2_enclave_destroyed) and VOCK_POST_ENDGAME_FLOATS ) then begin
+         call Node850;
+      end
+      add_timer_event(self_obj, vock_endgame_float_delay, TIMER_VOCK_ENDGAME_FLOAT);
+   end
 end
 
 /* Every heartbeat that the critter gets, this procedure will be called. Anything from
@@ -263,6 +320,13 @@ procedure Node970 begin
    gdialog_mod_barter(0);
 
    NMessage(2203);   //VOCK: was NMessage(g_mstr(203)), the shared generic.msg "Thanks!"; adopted into vcharry.msg so Harry voices it
+end
+
+//VOCK: post-endgame bonus float. hhary24-27 (msg 800-803) called from the
+// TIMER_VOCK_ENDGAME_FLOAT loop in timed_event_p_proc (armed from map_enter_p_proc) as ambient
+// ONLY, never from talk_p_proc -- see timed_event_p_proc for the gating.
+procedure Node850 begin
+   floater(random(800,803));
 end
 
 /* Should the Player ever cause the NPC too much discomfort that he desires to attack the player,

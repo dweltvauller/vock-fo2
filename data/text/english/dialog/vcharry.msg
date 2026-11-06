@@ -62,3 +62,9 @@
 # VOCK Add Ons -- generic.msg adoption (workflow section 7).
 # Node970: replaces g_mstr(203) "Thanks!" after bartering (203 is already used in this file, hence 2203).
 {2203}{hhary23}{Thanks!}
+
+# VOCK Easter Eggs -- Node850 post-endgame ambient floats (fire once the Enclave is destroyed).
+{800}{hhary24}{Got some good things on sale, friend!}
+{801}{hhary25}{Is that all, friend?}
+{802}{hhary26}{What are ya buyin'?}
+{803}{hhary27}{Thank you!}
