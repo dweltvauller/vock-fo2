@@ -11,8 +11,7 @@
 {110}{}{It's a deal. I'll take it.}
 {111}{}{Eh, eight hundred? I'll be back... with the money.}
 {112}{}{Forget it. The Smiths can starve.}
-{113}{hhary3}{It's yours. [Pockets the money.] You just going to take it, or do you need it
- delivered somewhere?}
+{113}{hhary3}{It's yours. [Pockets the money.] You just going to take it, or do you need it delivered somewhere?}
 {114}{}{Drop it off with the Smiths.}
 {115}{hhary4}{Sorry, friend. It's going to cost you eight hundred.}
 {119}{hhary5}{You need the money to pay me, friend.}
@@ -21,9 +20,7 @@
 {122}{hhary17}{Thought you'd just help yourself, huh? Damn thief... guards! Guards!}
 
 {123}{}{Dave sent me. We're trying to fix a broken water pump, and he said you'd have a replacement motor.}
-{124}{hhary7}{Working with Dave, eh? Yeah, I know the fella. I see he's still got a knack for getting others to do his leg work--lazy bastard.
- [He chuckles.] Anyway, I think I got what you're lookin for, but lemme just go back an' check. [Harry goes into his back room where you
- hear boxes being shuffled and moved around. He returns a minute later.] Yep, got it right here. $500 and she's all yours.}
+{124}{hhary7}{Working with Dave, eh? Yeah, I know the fella. I see he's still got a knack for getting others to do his leg work--lazy bastard. [He chuckles.] Anyway, I think I got what you're lookin for, but lemme just go back an' check. [Harry goes into his back room where you hear boxes being shuffled and moved around. He returns a minute later.] Yep, got it right here. $500 and she's all yours.}
 {125}{}{Sure. Here's the money.}
 {126}{}{500? Damn. I hope I get reimbursed for this. Fine, here is the money.}
 {127}{hhary8}{Thanks for the business. Take care.}
@@ -37,7 +34,7 @@
 {133}{}{But Connar only gave me five grand.}
 {134}{}{But Connar only gave me two grand.}
 {135}{hhary11}{Not my problem. Look, my business struggles enough as it is. If anyone finds out I'm providing Connar with weapons, then things will turn real ugly, real fast. Besides, I'm giving him a discount already.}
-{136}{hhary12}{Look, I'm putting my neck on the line . . . Oh, to hell with it, I don't have time to argue. Just take em. [He quickly pockets your money.] Now get outta here. And remember, you didn't buy those from me.}
+{136}{hhary12}{Look, I'm putting my neck on the line... Oh, to hell with it, I don't have time to argue. Just take em. [He quickly pockets your money.] Now get outta here. And remember, you didn't buy those from me.}
 {137}{hhary13}{Excellent. But remember, you didn't buy these weapons here.}
 {138}{}{It's a deal. Bye.}
 {139}{}{[MORE]}
@@ -65,6 +62,6 @@
 
 # VOCK Easter Eggs -- Node850 post-endgame ambient floats (fire once the Enclave is destroyed).
 {800}{hhary24}{Got some good things on sale, friend!}
-{801}{hhary25}{Is that all, friend?}
-{802}{hhary26}{What are ya buyin'?}
-{803}{hhary27}{Thank you!}
+{801}{hhary25}{(Laughs) Is that all, friend?}
+{802}{hhary26}{(Laughs) What are ya buyin'?}
+{803}{hhary27}{(Laughs) Thank you!}
