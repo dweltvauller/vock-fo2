@@ -104,9 +104,9 @@
 
 *Petey, a Den junkie, comes up to buy drugs off Tubby. Tubby hands them over and shoos him away (one of these, picked at random). Gruff and impatient: just another customer.*
 
-`tubby21:` Here. Now beat, you druggie.
+`tubby21:` Here. Now beat it, you druggie.
 
-`tubby22:` Take it and get the hell out.
+`tubby22:` Take it. Get the hell out.
 
 ---
 
