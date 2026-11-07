@@ -59,6 +59,12 @@
 | C. Jared Castor | [Facebook](https://www.facebook.com/CJaredCastor/) |
 | LebronJane | - |
 
+## Additional Writing
+
+| Name | Contribution |
+|------|--------------|
+| C. Jared Castor | Additional dialogue for Darion |
+
 ## Talking Heads Art
 
 | Name | Contribution |
