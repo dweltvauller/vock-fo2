@@ -124,8 +124,8 @@
 {334}{}{Uhhh... Thanks again, Flick.}
 {335}{}{You're a pal, Flick.}
 #response from Tubby/Flick
-{340}{tubby21}{Here. Now beat, you druggie.}
-{341}{tubby22}{Take it and get the hell out.}
+{340}{tubby21}{Here. Now beat it, you druggie.}
+{341}{tubby22}{Take it. Get the hell out.}
 
 # VOCK Add Ons -- one voice per line: Tubby and Flick both floated 340/341, but a tag can only point to one voice.
 # Petey buying from Flick: copy of 340 (340/341 stay Tubby's).
