@@ -23,8 +23,8 @@
              expansion, floater(random(300,301))) now plays new in-character
              flavor lines arth28/arth29 on fresh ids 2300/2301; killap's original
              300/301 are kept in the msg for reference.
-             The post-endgame float can be switched off with PostEndgame=0 under
-             [Floats] in mods\vock-fo2.ini (VOCK_POST_ENDGAME_FLOATS), and its
+             The post-endgame float can be switched off with PostEndgameFloats=0 under
+             [Additions] in mods\vock-fo2.ini (VOCK_POST_ENDGAME_FLOATS), and its
              interval set with PostEndgameSeconds. It plays when the player is within
              10 hexes on the same elevation, not on line of sight, so facing and
              sneaking do not block it.
@@ -53,7 +53,7 @@
 #include "../headers/rndholy1.h"
 
 #define TIMER_VOCK_ENDGAME_FLOAT (850)  //VOCK: post-endgame ambient bonus-float timer (Node850)
-#define VOCK_POST_ENDGAME_FLOATS (get_ini_setting("mods\\vock-fo2.ini|Floats|PostEndgame") != 0)  //VOCK: mods\vock-fo2.ini toggle; a missing file or key reads -1, so the floats stay on
+#define VOCK_POST_ENDGAME_FLOATS (get_ini_setting("mods\\vock-fo2.ini|Additions|PostEndgameFloats") != 0)  //VOCK: mods\vock-fo2.ini toggle; a missing file or key reads -1, so the floats stay on
 
 //VOCK: post-endgame float range. A fixed distance check instead of self_can_see_dude, which
 // depends on facing, line of sight and sneak, and made the float start and stop at random.
@@ -65,7 +65,7 @@
 // raised to 5 so floats do not cut each other off.
 procedure vock_endgame_float_delay begin
    variable secs;
-   secs := get_ini_setting("mods\\vock-fo2.ini|Floats|PostEndgameSeconds");
+   secs := get_ini_setting("mods\\vock-fo2.ini|Additions|PostEndgameSeconds");
    if (secs < 1) then secs := 10;
    if (secs < 5) then secs := 5;
    return game_ticks(secs);

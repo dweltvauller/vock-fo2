@@ -15,6 +15,16 @@
            Created:
 
            Updated:
+           VOCK changes:
+             Node001 picks Darion's taunt by the PC's karma tier, read from the
+             has_rep_* flags that CheckKarma sets at the top of talk_p_proc (so the
+             Karma Beacon doubling matches the Pip-Boy title):
+               Defender and above  -> dario1 (103, vanilla line)
+               Betrayer and below  -> dario2 (105, VOCK add-on)
+               Wanderer (neutral)  -> dario3 (106, VOCK add-on)
+             Lines by C. Jared Castor. DarionKarmaLines=0 under [Additions] in
+             mods\vock-fo2.ini (VOCK_DARION_KARMA_LINES) restores the vanilla
+             behaviour: dario1 for every PC. The fight always follows (ENDHOSTILE).
 */
 
 /* Include Files */
@@ -40,6 +50,8 @@
 #include "../headers/v15.h"
 #include "../headers/ncr.h"
 #include "../headers/talking_heads.h"
+
+#define VOCK_DARION_KARMA_LINES (get_ini_setting("mods\\vock-fo2.ini|Additions|DarionKarmaLines") != 0)  //VOCK: mods\vock-fo2.ini toggle; a missing file or key reads -1, so the karma lines stay on
 
 
 /* Standard Script Procedures */
@@ -246,7 +258,15 @@ end
 //~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
 
 procedure Node001 begin
-   Reply(103);
+   //VOCK: karma-tier taunt, was a flat Reply(103) (see file header log)
+   if (not(VOCK_DARION_KARMA_LINES)) then
+      Reply(103);
+   else if (has_rep_defender or has_rep_shield or has_rep_guardian or has_rep_holy_warrior) then
+      Reply(103);
+   else if (has_rep_betrayer or has_rep_sword or has_rep_scourge or has_rep_demon_spawn) then
+      Reply(105);
+   else
+      Reply(106);
    ENDHOSTILE;
 end
 

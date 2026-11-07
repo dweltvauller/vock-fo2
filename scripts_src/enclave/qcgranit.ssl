@@ -19,7 +19,7 @@
              Added Node850: once Horrigan is dead, talking to Granite after he has
              joined plays one of three bonus lines (grani35-37, msgs 800-802)
              instead of the pre-fight rally floats (msgs 103-111). These lines are
-             VOCK additions, not vanilla content. With PostEndgame=0 under [Floats]
+             VOCK additions, not vanilla content. With PostEndgameFloats=0 under [Additions]
              in mods\vock-fo2.ini (VOCK_POST_ENDGAME_FLOATS), the vanilla rally
              floats play as before.
 */
@@ -38,7 +38,7 @@
 
 #define NAME                    SCRIPT_QCGRANIT
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_ENCLAVE)
-#define VOCK_POST_ENDGAME_FLOATS (get_ini_setting("mods\\vock-fo2.ini|Floats|PostEndgame") != 0)  //VOCK: mods\vock-fo2.ini toggle; a missing file or key reads -1, so the floats stay on
+#define VOCK_POST_ENDGAME_FLOATS (get_ini_setting("mods\\vock-fo2.ini|Additions|PostEndgameFloats") != 0)  //VOCK: mods\vock-fo2.ini toggle; a missing file or key reads -1, so the floats stay on
 
 #include "../headers/command.h"
 #include "../headers/modreact.h"
