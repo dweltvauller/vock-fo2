@@ -50,6 +50,7 @@
 | [Marjorie Reed](https://fallout.fandom.com/wiki/Marjorie_Reed) | New Reno | Tracy Marie | [Website](https://www.tracymarieofficial.com) |
 | [Chip](https://fallout.fandom.com/wiki/Chip) | San Francisco | Max Troia | [Instagram](https://www.instagram.com/maxatroia/) · [Website](https://www.maxtroia.com) |
 | [Orville Wright](https://fallout.fandom.com/wiki/Orville_Wright) | New Reno | AnInsaneProfessional | [Bluesky](https://bsky.app/profile/insanepr0fessional.bsky.social) · [Youtube](https://www.youtube.com/@insaneprofessional2061) |
+| [Frankie](https://fallout.fandom.com/wiki/Frankie_(Fallout_2)) | The Den | Jake 'The Voice' Parr | [Website](https://jakeparrthevoice.co.uk) · [YouTube](https://www.youtube.com/@JakeTheVoice) |
 
 ## Quality Assurance
 
