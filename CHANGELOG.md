@@ -1,19 +1,19 @@
 # Changelog
 
 ## WIP
-- Louise (Redding), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno), Darion (Vault 15)
-- Darion now greets you with a different taunt for neutral and bad karma (new lines by C. Jared Castor); set `DarionKarmaLines=0` under `[Additions]` in `vock-fo2.ini` to keep the original line for every karma
+- Louise (Redding), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno)
 - Fixed voice audio being slightly out of phase in all voiced lines (re-encoded every ACM)
 - Talking-head fixes: Francis, AHS-9, Jenny, Big Jesus Mordino, Valerie, Lao Chou, Tyler, Merk, Badger (see [TALKING_HEADS_FIXES.md](TALKING_HEADS_FIXES.md))
 - THAT fixes: Louis Salvatore, Stuart Little, Matthew, Dragon, Stark (see [THAT_FIXES.md](THAT_FIXES.md))
 - Post-endgame floats from Arthur, Skeeter and Vegeir now play whenever you are close to them, even while sneaking or standing behind them
-- New `vock-fo2.ini` (goes in the `mods` folder): set `PostEndgameFloats=0` under `[Additions]` to turn off the non-vanilla post-endgame easter-egg floats from Arthur, Skeeter, Vegeir, Happy Harry and Sergeant Granite, or change how often they play with `PostEndgameSeconds`
 - Kurisu, King Arthur, Amanda and Old Joe now show the night wasteland background when talked to at night (19:00-05:59), like the other outdoor talking heads
 - The Sacred Head (special encounter) now talks in the dialogue window with its own talking head, rendered from medicaledical's 3D model, instead of floating text; set `SacredHead=0` under `[Additions]` in `vock-fo2.ini` to keep the RPU floats
 - Fixed the Sacred Head never saying "DIE!" when you try to steal from it (RPU script bug)
 
 ## v1.15
-- Added voices: Don (Slaver Camp), Private Dobbs (Sierra Army Depot), Merk (NCR), Sergeant Granite (Enclave Oil Rig), Badger (San Francisco), Marjorie Reed (New Reno), Chip (San Francisco), Happy Harry (Vault City)
+- Added voices: Don (Slaver Camp), Private Dobbs (Sierra Army Depot), Merk (NCR), Sergeant Granite (Enclave Oil Rig), Badger (San Francisco), Marjorie Reed (New Reno), Chip (San Francisco), Happy Harry (Vault City), Darion (Vault 15)
+- New `vock-fo2.ini` (goes in the `mods` folder): set `PostEndgameFloats=0` under `[Additions]` to turn off the non-vanilla post-endgame easter-egg floats from Arthur, Skeeter, Vegeir, Happy Harry and Sergeant Granite, or change how often they play with `PostEndgameSeconds`
+- Darion now greets you with a different taunt for neutral and bad karma (new lines by C. Jared Castor); set `DarionKarmaLines=0` under `[Additions]` in `vock-fo2.ini` to keep the original line for every karma
 
 ## v1.14
 - Added voices: Peterson (Abbey), Joseph (Vault 13), Krom (Umbra Tribe), Zaius (Broken Hills), Flick (The Den), Rebecca Dyer (The Den)
