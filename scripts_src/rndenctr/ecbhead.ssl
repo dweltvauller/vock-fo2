@@ -1,0 +1,654 @@
+/*
+	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+*/
+
+/******************************************************************************************
+        Item: Sweet Jesus it is a big head
+        Description: Big Head
+
+        Log:
+           Please note any changes that have been made to the file in Updated. Then comment
+           the code which you have changed/altered/commented out. Please, do not delete any
+           code which was written.
+
+           Created: September 26, 1997
+
+           Updated:
+           VOCK changes (Sacred Head talking head, art rendered from medicaledical's 3D model):
+             The "Sacred Head" exchange runs in the dialogue window with the bhead talking head
+             (HEAD_BHEAD, talking_heads.h). Using the head opens the dialogue at once: the wake-up
+             lines (121-125, floats in RPU) are its first replies, and "[Step back.]" replaces the
+             step back that never moved the player. The 12-hour skip happens between two dialogues,
+             the head turns good at "VERY WELL!" (144), and repeat visits get a short dialogue that
+             turns bad. Where the player has nothing to say, the option is an unspoken action (msg
+             300-315). Wasteland background, night version while the head sleeps, and it sleeps
+             while the map is dark (season lighting, map_daylight; RPU used day, 7-18). Low-IQ
+             characters get the 1000+ lines at every player line, not only the first.
+             SacredHead=0 under [Additions] in mods\vock-fo2.ini (VOCK_SACRED_HEAD) restores RPU's
+             behaviour: no dialogue window, the exchange plays as floats (Node004-Node007), and the
+             head sleeps by day (7-18). The ambient floats and the steal-and-die floats are the same
+             either way.
+             Fix, always on: Node008 counted with n7count, so "WHAT?! STEAL FROM ME, WILL YOU?!"
+             (154) showed twice and "DIE!" (155) never showed. Now n8count.
+******************************************************************************************/
+
+
+/* Include Files */
+#define SCRIPT_REALNAME "ecbhead"
+#include "../headers/define.h"
+
+#define NAME                    SCRIPT_ECBHEAD
+#define CUR_COMP_SCRIPT         SCRIPT_ECBHEAD
+
+#include "../headers/command.h"
+#include "../headers/specenc.h"
+#include "../headers/updatmap.h"   // VOCK: season sunrise/sunset, as the map lighting
+#include "../headers/talking_heads.h"   // VOCK: HEAD_BHEAD
+
+#define VOCK_SACRED_HEAD (get_ini_setting("mods\\vock-fo2.ini|Additions|SacredHead") != 0)  //VOCK: mods\vock-fo2.ini toggle; a missing file or key reads -1, so the talking head stays on
+
+// VOCK: dialogue helpers
+// Player line x, or its low-IQ variant x+1000 (both exist for every player line in ecbhead.msg).
+// dude_is_stupid_talk counts Smooth Talker, as the engine's option IQ check does.
+#define PlayerLine(x, node)     if (dude_is_stupid_talk) then NLowOption(x + 1000, node); else NOption(x, node, 004)
+// Unspoken player action (msg 300+), shown at any IQ
+#define Action(x, node)         NOption(x, node, 0)
+#define GAction(x, node)        GOption(x, node, 0)
+#define BAction(x, node)        BOption(x, node, 0)
+// Daylight as the map lighting has it (updatmap.h Lighting, which rndbhead.ssl runs): from the season's
+// morning hour to the end of its evening hour, dawn and dusk included. Winter 7-18, spring and fall 6-19,
+// summer 5-20. The head sleeps and the dialogue uses the night background outside it.
+#define in_light(m, e)          ((game_time_hour >= (m)) and (game_time_hour < ((e) + 100)))
+#define night_bkg               (not(map_daylight))   // map_daylight is the procedure below
+
+/* Standard Script Procedures */
+procedure start;
+procedure use_p_proc;
+procedure look_at_p_proc;
+procedure description_p_proc;
+procedure use_skill_on_p_proc;
+procedure use_obj_on_p_proc;
+procedure damage_p_proc;
+procedure map_enter_p_proc;
+procedure map_update_p_proc;
+procedure talk_p_proc;
+
+/*****************************************************************
+   Local Variables which are saved. All Local Variables need to be
+   prepended by LVAR_
+*****************************************************************/
+#define LVAR_Herebefore                              (0)
+#define LVAR_Gave_Gift                               (1)
+
+/*******************************************************************
+   Imported variables from the Map scripts. These should only be
+   pointers and variables that need not be saved. If a variable
+   Needs to be saved, make it a map variable (MVAR_)
+*******************************************************************/
+
+/*******************************************************************
+   Local variables which do not need to be saved between map changes.
+*******************************************************************/
+
+
+/*******************************************************************
+*******                         PROCEDURES                   *******
+*******************************************************************/
+procedure Node001;
+procedure Node002;
+procedure Node003;
+procedure Node004;
+procedure Node005;
+procedure Node006;
+procedure Node007;
+procedure Node008;
+procedure Node009;
+
+// VOCK: dialogue nodes
+procedure Node010;
+procedure Node010a;
+procedure Node011;
+procedure Node011a;
+procedure Node011b;
+procedure Node011c;
+procedure Node012;
+procedure Node013;
+procedure Node014;
+procedure Node014a;
+procedure Node015;
+procedure Node015a;
+procedure Node016;
+procedure Node016a;
+procedure Node016b;
+procedure Node016c;
+procedure Node016d;
+procedure Node017;
+procedure Node017a;
+procedure Node020;
+procedure Node020a;
+procedure Node020b;
+procedure Node030;
+procedure Node031;
+procedure Node032;
+procedure Node033;
+procedure Node034;
+procedure Node999;
+
+procedure playerStepBack;
+procedure map_daylight;   // VOCK
+procedure head_awake;     // VOCK
+
+variable begin
+   n1count;
+   n2count;
+   n3count;
+   n4count;
+   n5count;
+   n6count;
+   n7count;
+   n8count;
+   talking;
+   skip_pending;      // VOCK: the dialogue just ended for the 12-hour skip
+   after_skip;        // VOCK: the dialogue reopens at "(12 Hours Later)"
+end
+
+#define TIMER_NODE4 1
+#define TIMER_NODE5 2
+#define TIMER_NODE6 3
+#define TIMER_NODE7 4
+#define TIMER_NODE8 5
+#define TIMER_DUDE_STEP_BACK 6
+#define TIMER_FLOAT 7
+#define TIMER_DIALOGUE 8   // VOCK
+
+/*******************************************************************
+   The start procedure is the first procedure called when the map is
+   first entered. Any initial information that needs to be set up
+   should be placed in here.
+*******************************************************************/
+
+procedure start begin
+end
+
+procedure timed_event_p_proc begin
+   if (fixed_param == TIMER_NODE4) then
+      call Node004;
+   else if (fixed_param == TIMER_NODE5) then
+      call Node005;
+   else if (fixed_param == TIMER_NODE6) then
+      call Node006;
+   else if (fixed_param == TIMER_NODE7) then
+      call Node007;
+   else if (fixed_param == TIMER_NODE8) then
+      call Node008;
+   else if (fixed_param == TIMER_DUDE_STEP_BACK) then
+      call playerStepBack;
+   else if (fixed_param == TIMER_DIALOGUE) then   // VOCK
+      dialogue_system_enter;
+   else if (fixed_param == TIMER_FLOAT) then begin
+      if (talking == 0) then begin
+         //if (day) then begin
+         if (head_awake) then begin   // VOCK: map_daylight, or day (7-18) with SacredHead=0
+            if (local_var(LVAR_Gave_Gift) == 1) then
+               call Node001;
+            else
+               call Node003;
+         end else
+            call Node002;
+      end
+      add_timer_event(self_obj, game_ticks(Random(7, 10)), TIMER_FLOAT);
+   end
+end
+
+/********************************************************************
+********************************************************************/
+
+procedure use_p_proc begin
+   script_overrides;
+   if (not talking) then begin
+      // VOCK: every use opens the dialogue at once. The wake-up lines (121-125) are its first
+      // replies now (talk_p_proc picks them), instead of floats before it. SacredHead=0 keeps RPU's floats.
+      if (VOCK_SACRED_HEAD) then
+         dialogue_system_enter;
+      else begin
+         if (local_var(LVAR_Gave_Gift) == 1) then
+            call Node007;
+         else if (day) then begin
+            call Node005;
+         end else begin
+            call Node004;
+         end
+      end
+   end
+end
+
+/***************************************************************************
+   This is cursory glance description that the player will receive should
+   he just pass the Action Cursor over. Examines which give more information
+   need to be in the description_p_proc procedure.
+***************************************************************************/
+
+procedure look_at_p_proc begin
+   script_overrides;
+   if (local_var(LVAR_Herebefore) == 0) then
+      display_msg(mstr(100));
+   else
+      display_msg(mstr(102));
+end
+
+
+/**********************************************************************************
+**********************************************************************************/
+
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(103));
+end
+
+
+/**********************************************************************************
+   Make sure the door is working.
+**********************************************************************************/
+
+procedure use_skill_on_p_proc begin
+   if (talking == 0) then begin
+      if (action_being_used == SKILL_STEAL) then begin
+         if not (is_skill_tagged(SKILL_STEAL)) then begin
+            if (has_skill(dude_obj, SKILL_STEAL) < 95) then begin
+               call Node008;
+            end
+         end
+      end
+   end else begin
+      script_overrides;
+   end
+end
+
+
+/**********************************************************************************
+   This is called when the player is using an object on the door. When the check is
+   made to find out what is being used, obj_pid(obj_being_used_with) will need to
+   be checked against a prototype.
+**********************************************************************************/
+
+procedure use_obj_on_p_proc begin
+   call use_p_proc;
+end
+
+
+/******************************************************************************************
+   IF it gets damaged it breaks
+******************************************************************************************/
+
+procedure damage_p_proc begin
+end
+
+/***************************************************************************************
+   Whenever the map is first entered, this procedure will be called.
+***************************************************************************************/
+
+procedure map_enter_p_proc begin
+   add_timer_event(self_obj, game_ticks(Random(3, 5)), TIMER_FLOAT);
+end
+
+
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time.
+**************************************************************************************/
+
+procedure map_update_p_proc begin
+end
+
+/**************************************************************************************
+   This is used for any dialogue that may need to occur with the player.
+**************************************************************************************/
+
+procedure talk_p_proc begin
+   // VOCK: the exchange, or the repeat visit, in the dialogue window
+   if (not(VOCK_SACRED_HEAD)) then begin
+      // RPU had no dialogue here. Only the skip timer can get here with SacredHead=0 (the setting
+      // changed during the skip): drop it so the floats can play again.
+      after_skip := 0;
+      talking := 0;
+      return;
+   end
+   talking := 1;
+   if (night_bkg) then
+      start_gdialog(NAME, self_obj, 4, HEAD_BHEAD, BACKGROUND_WASTELAND_NIGHT);
+   else
+      start_gdialog(NAME, self_obj, 4, HEAD_BHEAD, BACKGROUND_WASTELAND);
+   gSay_Start;
+      if (after_skip) then begin
+         after_skip := 0;
+         call Node015;             // resumes after the 12-hour skip
+      end else if (local_var(LVAR_Gave_Gift) == 1) then
+         call Node020;
+      else if (map_daylight) then
+         call Node033;             // awake: "Wha--?"
+      else
+         call Node030;             // asleep: talks in its sleep first
+   gSay_End;
+   end_dialogue;
+   if (skip_pending) then begin
+      // 12-hour skip outside the dialogue, as RPU did it (fades as acfist.ssl), so it reopens with the
+      // background for the new time (the engine picks it only in start_gdialog)
+      skip_pending := 0;
+      gfade_out(600);
+      game_time_advance(ONE_GAME_HOUR * 12);
+      gfade_in(600);
+      after_skip := 1;
+      add_timer_event(self_obj, 1, TIMER_DIALOGUE);   // talking stays 1 until it reopens
+   end else
+      talking := 0;
+end
+
+procedure Node001 begin
+   float_msg(self_obj, mstr(104 + n1count), FLOAT_MSG_GREEN);
+   n1count += 1;
+   if (n1count > 3) then n1count := 0;
+end
+
+procedure Node002 begin
+   float_msg(self_obj, mstr(107 + n2count), FLOAT_MSG_GREEN);
+   n2count += 1;
+   if (n2count > 5) then n2count := 0;
+end
+
+procedure Node003 begin
+   float_msg(self_obj, mstr(112 + n3count), FLOAT_MSG_GREEN);
+   n3count += 1;
+   if (n3count > 9) then n3count := 0;
+end
+
+procedure Node004 begin
+   talking := 1;
+//   if not (game_ui_is_disabled) then
+//      game_ui_disable;
+
+   float_msg(self_obj, mstr(121 + n4count), FLOAT_MSG_GREEN);
+   n4Count += 1;
+
+   if (n4Count > 2) then begin
+      n4count := 0;
+      call Node005;
+   end else
+      add_timer_event(self_obj, game_ticks(3), TIMER_NODE4);
+end
+
+procedure Node005 begin
+   talking := 1;
+//   if not (game_ui_is_disabled) then
+//         game_ui_disable;
+
+   if (n5count != 2) then
+      float_msg(self_obj, mstr(124 + n5count), FLOAT_MSG_GREEN);
+   else
+      add_timer_event(self_obj, 0, TIMER_DUDE_STEP_BACK);
+
+   n5Count += 1;
+   // VOCK: Node004-Node007 run only with SacredHead=0, as in RPU
+   if (n5Count > 4) then begin
+      n5Count := 0;
+      add_timer_event(self_obj, game_ticks(5), TIMER_NODE6);
+   end else begin
+      add_timer_event(self_obj, game_ticks(3), TIMER_NODE5);
+   end
+end
+
+procedure Node006 begin
+   talking := 1;
+//   if not (game_ui_is_disabled) then
+//         game_ui_disable;
+
+   if (n6count == 0) then
+      float_msg(dude_obj, mstr((129 + n6count)+(1000*dude_is_stupid)), FLOAT_MSG_NORMAL); //edit by killap - added (1000*dude_is_stupid)
+   else if (n6count > 0 and n6count < 5) then
+      float_msg(self_obj, mstr(129 + n6count), FLOAT_MSG_GREEN);
+   else if (n6count == 5) then
+      float_msg(dude_obj, mstr(129 + n6count), FLOAT_MSG_NORMAL);
+   else if (n6count == 6) then
+      float_msg(self_obj, mstr(129 + n6count), FLOAT_MSG_GREEN);
+   else if (n6count == 7) then
+      float_msg(dude_obj, mstr(129 + n6count), FLOAT_MSG_NORMAL);
+   else if (n6count == 8) then
+      float_msg(self_obj, mstr(129 + n6count), FLOAT_MSG_GREEN);
+   else if (n6count == 9) then
+      float_msg(dude_obj, mstr(129 + n6count), FLOAT_MSG_NORMAL);
+   else if (n6count == 10) then
+      float_msg(self_obj, mstr(129 + n6count), FLOAT_MSG_GREEN);
+   else if (n6count == 11) then begin
+      float_msg(dude_obj, mstr(129 + n6count), FLOAT_MSG_NORMAL);
+      fadeout(1);
+      game_time_advance(ONE_GAME_HOUR * 12);
+      fadein(10);
+      display_msg(mstr(200));
+   end else if (n6count == 12) then
+      float_msg(self_obj, mstr(129 + n6count), FLOAT_MSG_GREEN);
+   else if (n6count == 13) then
+      float_msg(dude_obj, mstr(129 + n6count), FLOAT_MSG_NORMAL);
+   else if (n6count > 13) and (n6count < 19) then
+      float_msg(self_obj, mstr(129 + n6count), FLOAT_MSG_GREEN);
+   else if (n6count == 19) then begin
+      float_msg(dude_obj, mstr(129 + n6count), FLOAT_MSG_NORMAL);
+      set_local_var(LVAR_Gave_Gift, 1);
+      add_obj_to_inven(dude_obj, create_object(PID_MONUMENT_CHUNCK, self_tile, 0));
+   end else if (n6count > 19 and n6count < 22) then
+      float_msg(self_obj, mstr(129 + n6count), FLOAT_MSG_GREEN);
+
+   n6count += 1;
+   if (n6count > 21) then begin
+      n6count := 0;
+      talking := 0;
+//      if (game_ui_is_disabled) then
+//         game_ui_enable;
+   end else begin
+      add_timer_event(self_obj, game_ticks(3), TIMER_NODE6);
+   end
+end
+
+procedure Node007 begin
+   talking := 1;
+   float_msg(self_obj, mstr(151 + n7count), FLOAT_MSG_GREEN);
+   n7count += 1;
+   if (n7count > 2) then begin
+      n7count := 0;
+      talking := 0;
+   end else begin
+      add_timer_event(self_obj, game_ticks(3), TIMER_NODE7);
+   end
+end
+
+procedure Node008 begin
+   talking := 1;
+   //float_msg(self_obj, mstr(154 + n7count), FLOAT_MSG_RED);
+   float_msg(self_obj, mstr(154 + n8count), FLOAT_MSG_RED);   // VOCK: n7count was always 0 here, so 155 never showed
+   n8count += 1;
+   if (n8count > 1) then begin
+      n8count := 0;
+      talking := 0;
+      critter_dmg(dude_obj, 40000, DMG_plasma); //added by killap - prevent rare occurence of sliding off map and not getting killed
+      //critter_damage(dude_obj, 40000); //commented out (see above)
+   end else begin
+      add_timer_event(self_obj, game_ticks(3), TIMER_NODE8);
+   end
+end
+
+procedure Node009 begin
+end
+
+/******************************************************************************************
+   VOCK: the exchange as a dialogue. Every head line is a Reply. Where the player has
+   nothing to say, the option is an unspoken action (msg 300-315) instead of a blank [Done].
+   Mood changes ride on the option that leads out of the line (GAction/BAction).
+   Node004-Node007 (RPU's float versions) run only with SacredHead=0.
+******************************************************************************************/
+
+// Wake-up, once floats from Node004/Node005. The head is asleep at night (map_daylight, the same test as
+// the ambient snoring), so the dialogue starts at 121; by day it starts at 124.
+procedure Node030 begin
+   Reply(121);                   // Hrnnfff...uh-uh, Mom...therez no school today...Zsnzzzzz
+   Action(313, Node031);         // [Knock on it again.]
+end
+
+procedure Node031 begin
+   Reply(122);                   // Zzzsnnnzzzz...I don wanna get up yet....Zzznnsss
+   Action(314, Node032);         // [Knock harder.]
+end
+
+procedure Node032 begin
+   Reply(123);                   // Zzsssccs...eh?
+   Action(305, Node033);         // [Wait.]
+end
+
+procedure Node033 begin
+   Reply(124);                   // Wha--?
+   Action(313, Node034);         // [Knock on it again.]
+end
+
+procedure Node034 begin
+   Reply(125);                   // GET YOUR DAMN HANDS OFFA ME!
+   Action(315, Node010);         // [Step back.]  (msg 126's stage direction, which playerStepBack never did:
+                                 //  its self_walk_to_tile moves self_obj, the head, not the player)
+end
+
+procedure Node010 begin
+   Reply(127);                   // *Ahem*
+   Action(300, Node010a);        // [Look up at the head.]
+end
+
+procedure Node010a begin
+   Reply(128);                   // WHO DARES APPROACH THE SACRED HEAD OF THE VAULT DWELLER?!
+   PlayerLine(129, Node011);     // It is I, the Chosen One.
+end
+
+procedure Node011 begin
+   Reply(130);                   // HA HA HA HA HA HA!
+   Action(301, Node011a);        // [Wait for it to stop laughing.]
+end
+
+procedure Node011a begin
+   Reply(131);                   // *YOU*?! THE CHOSEN ONE?!
+   Action(302, Node011b);        // ...
+end
+
+procedure Node011b begin
+   Reply(132);                   // YOU ARE NO BIGGER THAN MY FINGER!
+   Action(303, Node011c);        // [Look at your finger.]
+end
+
+procedure Node011c begin
+   Reply(133);                   // YOU ARE *NOT* THE CHOSEN ONE.
+   PlayerLine(134, Node012);     // Yes, I am.
+end
+
+procedure Node012 begin
+   Reply(135);                   // NO, YOU'RE NOT.
+   PlayerLine(136, Node013);     // Yes, I am.
+end
+
+procedure Node013 begin
+   Reply(137);                   // UH-UH.
+   PlayerLine(138, Node014);     // Uh-huh.
+end
+
+procedure Node014 begin
+   Reply(139);                   // UH-UH.
+   PlayerLine(140, Node014a);    // Uh-huh.
+end
+
+procedure Node014a begin
+   skip_pending := 1;            // no reply or option: the dialogue closes, talk_p_proc does the skip
+end
+
+procedure Node015 begin
+   Reply(200);                   // (12 Hours Later)
+   Action(304, Node015a);        // [Yawn.]
+end
+
+procedure Node015a begin
+   Reply(141);                   // UH...UH...
+   PlayerLine(142, Node016);     // Uh...huh...
+end
+
+procedure Node016 begin
+   Reply(143);                   // UH...ENOUGH OF THIS!
+   GAction(305, Node016a);       // [Wait.]  (the head turns good)
+end
+
+procedure Node016a begin
+   Reply(144);                   // VERY WELL! YOU HAVE PROVEN YOURSELF!
+   Action(306, Node016b);        // [Puff out your chest.]
+end
+
+procedure Node016b begin
+   Reply(145);                   // YOU *ARE* THE CHOSEN ONE!
+   Action(307, Node016c);        // [Nod.]
+end
+
+procedure Node016c begin
+   Reply(146);                   // TAKE THIS!
+   Action(308, Node016d);        // [Hold out your hands.]
+end
+
+procedure Node016d begin
+   Reply(147);                   // NOW LEAVE ME!
+   PlayerLine(148, Node017);     // Hey, thanks!
+end
+
+procedure Node017 begin
+   set_local_var(LVAR_Gave_Gift, 1);
+   add_obj_to_inven(dude_obj, create_object(PID_MONUMENT_CHUNCK, self_tile, 0));
+   Reply(149);                   // YEAH, WHATEVER. NOW GET OUTTA HERE.
+   Action(309, Node017a);        // [Turn to go.]
+end
+
+procedure Node017a begin
+   Reply(150);                   // DAMN TOURISTS.
+   Action(310, Node999);         // [Leave.]
+end
+
+procedure Node020 begin
+   Reply(151);                   // I ALREADY GAVE YOU A GIFT.
+   BAction(311, Node020a);       // [Don't move.]  (the head turns bad)
+end
+
+procedure Node020a begin
+   Reply(152);                   // BEGONE!
+   Action(312, Node020b);        // [Keep standing there.]
+end
+
+procedure Node020b begin
+   Reply(153);                   // Idiot.
+   Action(310, Node999);         // [Leave.]
+end
+
+procedure Node999 begin
+end
+
+procedure map_daylight begin
+   // VOCK: 1 while the map lighting is up (see the in_light comment at the top)
+   variable month;
+   month := get_month;
+   if ((month >= 3) and (month < 5)) then
+      return in_light(SPRING_MORNING, SPRING_EVENING);
+   if ((month >= 5) and (month < 9)) then
+      return in_light(SUMMER_MORNING, SUMMER_EVENING);
+   if ((month >= 9) and (month < 11)) then
+      return in_light(FALL_MORNING, FALL_EVENING);
+   return in_light(WINTER_MORNING, WINTER_EVENING);
+end
+
+procedure head_awake begin
+   // VOCK: the head's waking hours for the ambient floats: the map lighting's, or RPU's day with SacredHead=0
+   if (VOCK_SACRED_HEAD) then
+      return map_daylight;
+   return day;
+end
+
+procedure playerStepBack begin
+   reg_anim_clear(dude_obj);
+   reg_anim_begin();
+   self_walk_to_tile(STANDTILE);
+   self_rotate(5);
+   reg_anim_end();
+end

@@ -76,6 +76,7 @@
 | Name | Contribution |
 |------|--------------|
 | Cobraxys | Avatar and logo |
+| [medicaledical](https://www.artstation.com/medicaledical) | Sacred Head 3D model, used for its talking head |
 
 ## Font Design
 

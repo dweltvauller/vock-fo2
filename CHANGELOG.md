@@ -9,6 +9,8 @@
 - Post-endgame floats from Arthur, Skeeter and Vegeir now play whenever you are close to them, even while sneaking or standing behind them
 - New `vock-fo2.ini` (goes in the `mods` folder): set `PostEndgameFloats=0` under `[Additions]` to turn off the non-vanilla post-endgame easter-egg floats from Arthur, Skeeter, Vegeir, Happy Harry and Sergeant Granite, or change how often they play with `PostEndgameSeconds`
 - Kurisu, King Arthur, Amanda and Old Joe now show the night wasteland background when talked to at night (19:00-05:59), like the other outdoor talking heads
+- The Sacred Head (special encounter) now talks in the dialogue window with its own talking head, rendered from medicaledical's 3D model, instead of floating text; set `SacredHead=0` under `[Additions]` in `vock-fo2.ini` to keep the RPU floats
+- Fixed the Sacred Head never saying "DIE!" when you try to steal from it (RPU script bug)
 
 ## v1.15
 - Added voices: Don (Slaver Camp), Private Dobbs (Sierra Army Depot), Merk (NCR), Sergeant Granite (Enclave Oil Rig), Badger (San Francisco), Marjorie Reed (New Reno), Chip (San Francisco), Happy Harry (Vault City)

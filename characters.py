@@ -54,6 +54,7 @@ CHARACTERS = [
     ("ecbridge",   "Bridge Keeper",              "brige",   ['ecbridge'],              ['brige']),
     ("ecbdygrd",   "Enclave Squad Leader",       "encld",   ['ecbdygrd'],              []),
     ("ecbdygrd",   "Old Man",                    "oldmn",   ['ecbdygrd'],              []),
+    ("ecbhead",    "Sacred Head",                "bhead",   ['ecbhead'],               ['bhead']),
     ("ecbedemi",   "Sir Bedemir",                "sbed",    ['ecbedemi'],              []),
     ("ecdogmet",   "Dogmeat",                    "dogmt",   ['ecdogmet'],              ['dogmt']),
     ("ecgalaha",   "Sir Galahad",                "sgal",    ['ecgalaha'],              []),

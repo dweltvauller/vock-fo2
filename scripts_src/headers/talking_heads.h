@@ -198,6 +198,7 @@
 #define HEAD_HANK           (208)
 #define HEAD_DANBH          (245)
 #define HEAD_ERIC           (246)
+#define HEAD_BHEAD          (247)   //VOCK: Sacred Head (ecbhead.ssl)
 
 //GoatboyAddendum
 #define th_start_dialog_at_node(x,HEAD,BACKGROUND)    if (in_dialog == false) then begin                     \
