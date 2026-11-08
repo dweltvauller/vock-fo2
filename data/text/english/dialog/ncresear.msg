@@ -22,7 +22,7 @@
 {221}{marj37}{Test results from Jet Beta are very promising, but...}
 {222}{marj38}{"High" lasts 15 min to an hour... calculate one dose/hour period... hmmmmnnn.}
 {223}{marj39}{No. 12 still keeps having nasal bleeding...}
-{224}{marj40}{That's the fifth time No. 12 has had seizures... up the dose, see what happens...}
+{224}{marj40}{That's the fifth time No. 12 has had seizures... (sighs) up the dose, see what happens...}
 {225}{marj41}{Well, what SORT of hallucinations was he having?}
 {226}{marj42}{Check that one's heart rate. If it's still within tolerable limits, up the dosage.}
 {227}{marj43}{Why did the slave in the control group kill herself? We weren't even testing her!}
@@ -53,12 +53,12 @@
 {257}{}{Sorry, I thought you were some other bald woman with a clipboard. I'll be going now.}
 
 # 5. RETARD (4)
-{265}{marj2}{(The woman looks up and glares at you.) Are you one of the control subjects? As if matters anyway... Guards! Detain this slave!}
+{265}{marj2}{(The woman looks up and glares at you.) Are you one of the control subjects? Ugh. As if it matters anyway... Guards! Detain this slave!}
 {266}{}{Where slave? Me no see one}
 
 # 6. WHO ARE YOU? (4)
 {275}{marj3}{Look, I'm VERY busy, so if you don't mind... [Glances up from her clipboard at you, then scowls.] WHO are you? How did you get in here?}
-{276}{marj4}{Look, I'm VERY busy, so if you don't mind... [Glances up from her clipboard at you, then scowls.] You again? What do you want now?}
+{276}{marj4}{Look, I'm VERY busy, so if you don't mind... [Glances up from her clipboard at you, then scowls.] Ugh, you again? What do you want now?}
 {277}{}{Your barn door's open. Heh-heh... get it? I kill me.}
 {278}{}{I'm one of the new personnel assigned here.}
 {279}{}{I'm looking for Myron. Is he around?}
@@ -75,8 +75,7 @@
 {310}{marj57}{Guards! Guards, detain this person!}
 
 # 9. I'M ONE OF THE NEW PERSONNEL (6, 7)
-{315}{marj6}{MORE guards. Ha! As if they do any good... look, you SHOULD have received instructions from whoever sent you here. Talk
- to the other guards to find out your assignment. Now go.}
+{315}{marj6}{MORE guards. Ha! As if they do any good... look, you SHOULD have received instructions from whoever sent you here. Talk to the other guards to find out your assignment. Now go.}
 {316}{}{I'm not a guard; I'm one of the new researchers. Do you have an assignment for me?}
 {317}{}{Excuse me, but I was hoping YOU could show me around. I saw you standing over here and
  felt COMPELLED to talk to you. Perhaps after the tour we could have dinner...?}
@@ -95,8 +94,7 @@
 {337}{}{I'm going...::mumble::...you bald-headed bitch.}
 
 # 12. I KNOW QUITE A BIT ABOUT BASE NEUROCHEMCIAL COMPOUNDS . . . (10)
-{345}{marj9}{Hmmmm. All right then. Let me give you a run-down on what we do here: we test the effects and potency of a metamphetamine
- called Jet.}
+{345}{marj9}{Hmmmm. All right then. Let me give you a run-down on what we do here: we test the effects and potency of a methamphetamine called Jet.}
 {346}{}{I see. And how is the research coming?}
 {347}{}{I think I have the idea. I'll examine the rest of the testing area myself.}
 
@@ -107,14 +105,12 @@
 {358}{}{Sounds like a tough job. Look, I have to take care of something real quick - I'll be back.}
 
 # 14. WHY THE TIGHT SCHEDULE? (13)
-{365}{marj11}{No one's come out and said it, but it's probably due to Jet distribution in Redding. Jet's potent *enough,* but
- there's a good deal of room for improvement, and the 'brass' wants to increase Jet addiction in Redding.}
+{365}{marj11}{No one's come out and said it, but it's probably due to Jet distribution in Redding. Jet's potent *enough,* but there's a good deal of room for improvement, and the 'brass' wants to increase Jet addiction in Redding.}
 {366}{}{What's the deal with Redding?}
 {367}{}{Well, good luck meeting the schedule.}
 
 # 15. WHY? JET SEEMS ADDICTIVE ENOUGH ALREADY . . . (13)
-{375}{marj12}{It's potent *enough,* but there's room for improvement. The 'brass' wants to increase Jet distribution in
- Redding, and they want the addiction rate as close to 100% as we can get it. It's going to require us pulling some long hours.}
+{375}{marj12}{It's potent *enough,* but there's room for improvement. The 'brass' wants to increase Jet distribution in Redding, and they want the addiction rate as close to 100% as we can get it. Huh. It's going to require us pulling some long hours.}
 {377}{}{Thanks for the information. I'll be back later.}
 
 # 16. WHAT'S THE DEAL WITH REDDING? (14, 15)
@@ -122,21 +118,17 @@
 {386}{}{So... who does control the drugs?}
 
 # 17. SO WHO DOES CONTROL THE DRUGS? (16)
-{395}{marj14}{Who controls the drugs? The Mordinos. Of course, Myron laid all the groundwork for Jet's composition.
- We do mostly clean-up work.}
+{395}{marj14}{Who controls the drugs? The Mordinos. Of course, Myron laid all the groundwork for Jet's composition. We do mostly clean-up work.}
 {396}{}{Is Myron your boss?}
 
 # 18. MYRON'S OUR BOSS? (17)
-{405}{marj15}{You COULD call it that. He's a smart one, I'll give him that, but he doesn't care much about what goes
- on up here. He mostly stays in the basement vault... no visitors except for the train of prostitutes. Typical project leader.}
+{405}{marj15}{You COULD call it that. He's a smart one, I'll give him that, but he doesn't care much about what goes on up here. He mostly stays in the basement vault... no visitors except for the train of prostitutes. Typical project leader.}
 {406}{}{Could I see him?}
 {407}{}{Yeah, though marketing's worse. Anyway, thanks for the information. I'll be back later.}
 
 # 19. COULD I SEE HIM? (18)
-{415}{marj16}{I suppose... let me give you a temporary badge; just show it to the guards. Keep it quick, though, Myron doesn't
- like people staying long.}
-{416}{marj17}{I suppose... let me give you a temporary badge; just show it to the guards. Keep it quick, though, Myron doesn't
- like people staying long... though he may make an exception in your case.}
+{415}{marj16}{I suppose... let me give you a temporary badge; just show it to the guards. Keep it quick, though, Myron doesn't like people staying long.}
+{416}{marj17}{I suppose... let me give you a temporary badge; just show it to the guards. Keep it quick, though, Myron doesn't like people staying long... though he may make an exception in your case.}
 {417}{}{Thanks for the badge. I'll see you later.}
 
 # 20. EXCUSE ME FOR BEING FORWARD (FEMALE) (9)
@@ -153,8 +145,7 @@
 {437}{}{Well, I had to ask. Thanks anyway.}
 
 # 22. DO YOU MIND IF I PICKED YOU UP AFTER WORK . . .? (21)
-{445}{marj21}{Oh, not THAT busy... heh... well, no, pretty busy. I mean, mostly it's routine drug testing, and occasionally we have
- a slave go over the edge...}
+{445}{marj21}{Oh, not THAT busy... heh... well, no, pretty busy. I mean, mostly it's routine drug testing, and occasionally we have a slave go over the edge...}
 {446}{}{Doesn't purposely injecting experimental metamphetamines into enslaved humans make you question your basic humanity?}
 {447}{}{Wow. That sounds dangerous. You ever get hurt? Do you have many patient fatalities?}
 {448}{}{Drug testing? Really? How are things going?}
@@ -166,20 +157,17 @@
 {457}{}{Uh, yes. I have to be going.}
 
 # 24. PUMPED FULL OF DRUGS? (23)
-{465}{marj23}{I'm on THIS side of the stalls, they're on THAT side. Since we're getting into hypotheticals, would
- YOU like to find out what it's like to be them? We have an extra stall or two.}
+{465}{marj23}{I'm on THIS side of the stalls, they're on THAT side. Since we're getting into hypotheticals, would YOU like to find out what it's like to be them? We have an extra stall or two.}
 {466}{}{Now hold on a minute...}
 {467}{}{Uh, no thanks. Sorry to bother you.}
 
 # 25. PATIENT FATALTIES (22)
-{475}{marj24}{Slave deaths? A few. Mostly accidental overdoses - usually a tech's fault - or self-inflicted injuries.
- Some ingest too much Jet, and they REALLY want to fly.}
+{475}{marj24}{Slave deaths? Uhh, a few. Mostly accidental overdoses - usually a tech's fault - or self-inflicted injuries. Some ingest too much Jet, and they REALLY want to fly.}
 {476}{}{Other than that, how's the drug testing going?}
 {477}{}{I bet. Well, thanks for the information. You've been very helpful.}
 
 # 26. ACTUALLY, I WAS LOOKING FOR MYRON (6)
-{485}{marj25}{Try downstairs in the lab. The guarded door. If you see him, tell him to come up here when he has the
- chance. IF he's not too busy.}
+{485}{marj25}{Try downstairs in the lab. The guarded door. If you see him, tell him to come up here when he has the chance. IF he's not too busy.}
 
 # GET BADGE MESSAGE
 {1000}{}{You get a temporary pass from Marjorie.}
