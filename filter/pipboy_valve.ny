@@ -82,16 +82,34 @@ $release 1.0
 
 ;; Steps 3 to 5. Each step only looks back in time, so one pass over the
 ;; samples does all three. The delay keeps its last 22 ms in a ring buffer.
-(defun valve (s n)
-  (let* ((sr (snd-srate s))
-         (arr (snd-fetch-array s n n))
+;; The samples go through in blocks of 1024. Fetching the whole take as one
+;; Lisp array takes one memory node per sample; on a long take Nyquist runs
+;; out of nodes and its garbage collector recurses until Audacity crashes.
+(setf valve-class (send class :new '(src left sr ring dn pos env)))
+
+(send valve-class :answer :isnew '(s n) '(
+  (setf src s)
+  (setf left n)
+  (setf sr (snd-srate s))
+  ;; mechanical delay, 22 ms rounded down to whole samples
+  (setf dn (max 1 (truncate (/ (* sr 22.0) 1000.0))))
+  (setf ring (make-array dn))
+  (dotimes (i dn) (setf (aref ring i) 0.0))
+  (setf pos 0)
+  (setf env 0.0)))
+
+;; Returns the next block, or NIL after the last sample of the take.
+;; Every block must be the same length, so the last one carries the
+;; zeros snd-fetch-array pads it with; valve cuts them off afterwards.
+(send valve-class :answer :next '() '(
+  (let* ((arr (if (> left 0) (snd-fetch-array src 1024 1024)))
+         (k (if arr (length arr) 0))
+         (out (if arr (make-array k)))
          ;; saturation
          (drive 1.8)
          (warmth 0.2)
          (tdrive (tanh drive))
-         ;; mechanical delay, 22 ms rounded down to whole samples
-         (dn (max 1 (truncate (/ (* sr 22.0) 1000.0))))
-         (ring (make-array dn))
+         ;; mechanical delay
          (fb 0.3)
          (mix 0.3)
          ;; compressor
@@ -99,22 +117,26 @@ $release 1.0
          (slope (- (- 1.0 (/ 1.0 4.0))))      ; ratio 4:1
          (att (exp (/ -1.0 (* sr 0.005))))    ; 5 ms attack
          (rel (exp (/ -1.0 (* sr 0.080))))    ; 80 ms release
-         (env 0.0)
-         x d y j ax c)
-    (dotimes (i dn) (setf (aref ring i) 0.0))
-    (dotimes (i n)
+         x d y ax c)
+    (dotimes (i k)
       (setf d (* drive (aref arr i)))
       (setf x (/ (tanh (+ d (* warmth d (abs d)))) tdrive))
-      (setf j (rem i dn))
-      (setf y (+ x (* fb (aref ring j))))     ; ring holds y from dn ago
-      (setf (aref ring j) y)
+      (setf y (+ x (* fb (aref ring pos))))   ; ring holds y from dn ago
+      (setf (aref ring pos) y)
+      (setf pos (if (= (1+ pos) dn) 0 (1+ pos)))
       (setf x (+ (* (- 1.0 mix) x) (* mix y)))
       (setf ax (abs x))
       (setf c (if (> ax env) att rel))
       (setf env (+ (* c env) (* (- 1.0 c) ax)))
-      (setf (aref arr i)
+      (setf (aref out i)
             (if (> env thr) (* x (expt (/ env thr) slope)) x)))
-    (snd-from-array 0 sr arr)))
+    (setf left (- left k))
+    out)))
+
+(defun valve (s n)
+  (let ((sr (snd-srate s)))
+    (extract-abs 0 (/ n sr)
+                 (snd-fromarraystream 0 sr (send valve-class :new s n)))))
 
 (defun presence (s)
   (sum s (scale (- (db-to-linear 3) 1.0) (butter-bp s 2 840 1560))))

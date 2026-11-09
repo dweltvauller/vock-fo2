@@ -29,49 +29,71 @@ $control echo "Echo" choice "Yes,No" 0
       (mult 0.5 (sum (aref s 0) (aref s 1)))
       s))
 
-(defun array-peak (arr n)
-  (let ((pk 1e-9))
-    (dotimes (i n pk)
-      (setf pk (max pk (abs (aref arr i)))))))
+;; Feeds a sound through fn one sample at a time, in blocks of 1024.
+;; Fetching the whole take as one Lisp array takes one memory node per
+;; sample; on a long take Nyquist runs out of nodes and its garbage
+;; collector recurses until Audacity crashes. snd-fromarraystream needs
+;; every block the same length, so the last one carries the zeros
+;; snd-fetch-array pads it with; map-samples cuts them off.
+(setf block-class (send class :new '(src left fn)))
+
+(send block-class :answer :isnew '(s n f) '(
+  (setf src s)
+  (setf left n)
+  (setf fn f)))
+
+;; Returns the next block, or NIL after the last sample of the take.
+(send block-class :answer :next '() '(
+  (let* ((arr (if (> left 0) (snd-fetch-array src 1024 1024)))
+         (k (if arr (length arr) 0))
+         (out (if arr (make-array k))))
+    (dotimes (i k)
+      (setf (aref out i) (funcall fn (aref arr i))))
+    (setf left (- left k))
+    out)))
+
+(defun map-samples (s n fn)
+  (let ((sr (snd-srate s)))
+    (extract-abs 0 (/ n sr)
+                 (snd-fromarraystream 0 sr (send block-class :new s n fn)))))
 
 (defun tanh (x)
   (let ((e (exp (* 2.0 x))))
     (/ (- e 1.0) (+ e 1.0))))
 
-;; Steps 3 to 5 (before the high-pass). Nyquist has no built-in compressor
-;; or asymmetric clipper like this, so this walks the samples.
-(defun dynamics (s n)
+;; Step 3 on the peak-normalized signal. Nyquist has no built-in
+;; compressor like this, so this walks the samples.
+(defun compressor (s n)
   (let* ((sr (snd-srate s))
-         (arr (snd-fetch-array s n n))
+         (k (/ 1.0 (max 1e-9 (peak s ny:all))))
          (thr (expt 10.0 (/ -24.0 20.0)))
          (slope (- (- 1.0 (/ 1.0 5.0))))      ; ratio 5:1
          (att (exp (/ -1.0 (* sr 0.0002))))   ; 0.2 ms attack
          (rel (exp (/ -1.0 (* sr 0.080))))    ; 80 ms release
-         (drive 4.0)
-         (env 0.0)
-         (k 0.0)
-         x ax c)
-    ;; compressor on the peak-normalized signal
-    (setf k (/ 1.0 (array-peak arr n)))
-    (dotimes (i n)
-      (setf x (* k (aref arr i)))
-      (setf ax (abs x))
-      (setf c (if (> ax env) att rel))
-      (setf env (+ (* c env) (* (- 1.0 c) ax)))
-      (setf (aref arr i)
-            (if (> env thr) (* x (expt (/ env thr) slope)) x)))
-    ;; saturation and speaker clip on the peak-normalized result
-    (setf k (/ drive (array-peak arr n)))
-    (dotimes (i n)
-      (setf x (/ (tanh (* k (aref arr i))) (tanh drive)))
-      (setf (aref arr i) (max -0.70 (min 0.45 x))))
-    (snd-from-array 0 sr arr)))
+         (env 0.0))
+    (map-samples s n
+      (lambda (v)
+        (let* ((x (* k v))
+               (ax (abs x))
+               (c (if (> ax env) att rel)))
+          (setf env (+ (* c env) (* (- 1.0 c) ax)))
+          (if (> env thr) (* x (expt (/ env thr) slope)) x))))))
 
+;; Steps 4 and 5 (before the high-pass): saturation and the asymmetric
+;; speaker clip, on the peak-normalized result of the compressor.
+(defun grit (s n)
+  (let* ((drive 4.0)
+         (k (/ drive (max 1e-9 (peak s ny:all))))
+         (tdrive (tanh drive)))
+    (map-samples s n
+      (lambda (v)
+        (max -0.70 (min 0.45 (/ (tanh (* k v)) tdrive)))))))
 
 (let* ((n (truncate len))
        (s (mono *track*))
        (s (lowpass2 (highpass4 s 400) 2500))
-       (s (dynamics s n))
+       (s (compressor s n))
+       (s (grit s n))
        (s (hp s 30))
        (s (eq-band s 1800 3 0.44))   ; 1530-2070 Hz
        (s (eq-band s 1200 2 0.89))   ; 840-1560 Hz
