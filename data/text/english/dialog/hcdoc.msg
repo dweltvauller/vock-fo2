@@ -23,15 +23,12 @@
 {117}{}{How much?}
 {118}{}{Forget it.}
 
-{119}{hol5}{What do I do here? You're in a hospital. I'm wearing a doctor's coat. I'm covered with blood.
- There are sharp, pointy things lying all around. Either I'm a successful killer or a fair doctor. Take your pick.}
+{119}{hol5}{What do I do here? You're in a hospital. I'm wearing a doctor's coat. I'm covered with blood. There are sharp, pointy things lying all around. Either I'm a successful killer or a fair doctor. Take your pick.}
 {120}{}{I guess I can call you a doctor.}
 {121}{}{Don't get smart with me, old man.}
 {122}{}{A really good doctor wouldn't be getting blood all over himself.}
 
-{123}{hol6}{Let's see. I was born here years ago. Place was just getting started. I picked up when I was a
- teen and tooled around the place for a while. Met a woman. Fell in love. She died of sickness. I
- decided then that I was going to become a doctor.}
+{123}{hol6}{Let's see, uh... I was born here years ago, uh... Place was just getting started. I picked up when I was a teen and tooled around the place for a while. Met a woman. Fell in love. She died of sickness. I decided then that I was going to become a doctor.}
 {124}{}{Yeah? Go on.}
 {125}{}{We were talking about Broken Hills, not your history.}
 
@@ -63,28 +60,23 @@
 {145}{}{I'll pay.}
 {146}{}{Forget it.}
 
-{147}{hol14}{You been seeing some action? I remember back when I was a little spitfire. Got plenty of holes
- in me, too. This misadventure will cost you $100.}
+{147}{hol14}{You been seeing some action? I remember when I was a little spitfire. Got plenty of holes in me, too. This misadventure will cost you $100.}
 {148}{}{I'll pay.}
 {149}{}{Forget it.}
 
-{150}{hol15}{Kid, do you take care of your friends? ::cough:: If you're going to take care of this friend,
- you'll need to pay $150.}
+{150}{hol15}{Kid, do you take care of your friends? ::cough:: If you're going to take care of this friend, you'll need to pay $150.}
 {151}{}{I'll pay.}
 {152}{}{Forget it.}
 
-{153}{hol16}{You must be pretty good to inspire loyalty like this from your friends. I hope you're good...
-because this is going to cost ::cough:: $200.}
+{153}{hol16}{You must be pretty good to inspire loyalty like this from your friends. I hope you're good... because this is going to cost ::cough:: $200.}
 {154}{}{I'll pay.}
 {155}{}{Forget it.}
 
-{156}{hol17}{Ouch! I'll need to put a cast on that or something. For my extensive medical knowledge, you'll
- be parting with $300.}
+{156}{hol17}{Ouch! I'll need to put a cast on that or something. For my extensive medical knowledge, you'll be parting with $300.}
 {157}{}{I'll pay.}
 {158}{}{Forget it.}
 
-{159}{hol18}{Friend, you don't have that kind of money. I can sell you some stimpaks if you like, but with
- the healing you're looking for, you can't afford what I can afford to give you.}
+{159}{hol18}{Friend, you don't have that kind of money. I can sell you some stimpaks if you like, but with the healing you're looking for, you can't afford what I can afford to give you.}
 {160}{}{Give me the stimpaks.}
 {161}{}{No thanks.}
 
@@ -99,22 +91,19 @@ because this is going to cost ::cough:: $200.}
 {168}{}{Mo-ney?}
 {169}{}{'Es!}
 
-{170}{hol21}{Let me take a look at your bag. (he looks through your bag and takes something) Okay. Now, this
- may hurt a little bit.}
+{170}{hol21}{Let me take a look at your bag. (he looks through your bag and takes something) Okay. Now, this may hurt a little bit.}
 {171}{}{Hurt?}
 
-{172}{hol22}{Yes. Now... There! We're done. Good luck to you, okay? Don't get hurt!}
+{172}{hol22}{Yes. Now... There! We're done. Okay, good luck to you. Don't get hurt!}
 {173}{}{Tanks!}
 
-{174}{hol23}{That's right. I'm a doctor. Good to see that intelligence is alive and well in the post-nuclear
- world.}
+{174}{hol23}{That's right. I'm a doctor. Good to see that intelligence is alive and well in the post-nuclear world.}
 {175}{}{Ha! And it's kicking around inside the body of a 70-year-old man!}
 {176}{}{I don't want to be taking shit from you, old man.}
 {177}{}{Ummm.. Yeah. I had more questions.}
 {178}{}{Bye.}
 
-{179}{hol24}{Threaten the only doctor in town. Good thinking. ::cough:: Friend, if you want something, you
- can ask politely. Otherwise, get the hell out of my hospital.}
+{179}{hol24}{Threaten the only doctor in town. Good thinking. ::cough:: Friend, if you want something, you can ask politely. Otherwise, get the hell out of my hospital.}
 {180}{}{Bite me, old man. Get ready to die.}
 {181}{}{Yeah. Whatever.}
 {182}{}{Sorry. Bad day.}
@@ -125,8 +114,7 @@ because this is going to cost ::cough:: $200.}
 {186}{}{Yeah, all right.}
 {187}{}{Okay, you've pissed me off. Now you're going to need to heal yourself.}
 
-{188}{hol27}{(You can see a glint of laughter in his eyes behind his glasses.) Don't see it too many other
- places these days. The young of the world, for example...}
+{188}{hol27}{(You can see a glint of laughter in his eyes behind his glasses.) Don't see it too many other places these days. Ah, the young of the world, for example...}
 {189}{}{Hey!}
 {190}{}{Old man, don't push me.}
 {191}{}{...are the repository of what our elders once knew...}
@@ -135,8 +123,7 @@ because this is going to cost ::cough:: $200.}
 {193}{hol28}{Relax, kid. Just joking around with you.}
 {194}{}{Yeah, I know. So... ummm... }
 
-{195}{hol29}{... and what we refuse to tell you little bastards! (he bursts out laughing) Kid, the next time
- you need to see me for some medical help, it's on the house.}
+{195}{hol29}{... and what we refuse to tell you little bastards! (he bursts out laughing) Kid, the next time you need to see me for some medical help, it's on the house.}
 {196}{}{I had some other questions.}
 {197}{}{Thanks. I'll see you around.}
 
@@ -148,12 +135,10 @@ because this is going to cost ::cough:: $200.}
 {202}{}{One more thing...}
 {203}{}{Thanks! Bye!}
 
-{204}{hol32}{Surprisingly little. Sorry, but when I'm concentrating on healing someone, I don't usually pay
- attention to their innermost secrets.}
+{204}{hol32}{Surprisingly little. Uh, sorry, but when I'm concentrating on healing someone, I don't usually pay attention to their innermost secrets.}
 {205}{}{Oh. Will you answer more questions?}
 
-{206}{hol33}{So then I traveled to San Francisco and studied under the Chinese there... an old gentleman by
- the name of Mr. Fung taught me everything I know about medicine. He also taught me some wisdom.}
+{206}{hol33}{So then I traveled to San Francisco and studied under the Chinese there... an old gentleman by the name of Mr. Fung taught me everything I know about medicine. He also taught me some wisdom.}
 {207}{}{So then what happened?}
 {208}{}{And this ties into Broken Hills how?}
 
@@ -161,18 +146,14 @@ because this is going to cost ::cough:: $200.}
 {210}{}{Sorry. Go on.}
 {211}{}{This sucks. I'm outta here.}
 
-{212}{hol35}{Then, I came back here and watched Marcus build the town from the shanties I remember from my
- youth into the "sprawling metropolis" you see before you. I saw people attracted by promises of
- wealth. I saw people grow up and die. I saw the currents of history.}
+{212}{hol35}{Then, I came back here and watched Marcus build the town from the shanties I remember from my youth into the "sprawling metropolis" you see before you. I saw people attracted by promises of wealth. I saw people grow up and die. I saw the currents of history.}
 {213}{}{So that means...}
 
-{214}{hol36}{That means that I don't know most of the new people these days. Most of my memories are just
- that -- memories.}
+{214}{hol36}{That means I don't know most of the new people these days. Most of my memories are just that -- memories.}
 {215}{}{Oh. Well, thanks for the story.}
 {216}{}{You jerk! You made me wait that long for nothing?}
 
-{217}{hol37}{No, thank you for listening to me ramble. Next time you're here and need healing, it's on the
- house.}
+{217}{hol37}{No, thank you for listening to me ramble. Next time you're here and need healing, it's on the house.}
 {218}{}{Thanks! So anyway...}
 {219}{}{Thanks. So long!}
 

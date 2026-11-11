@@ -11,7 +11,7 @@
 - Fixed the Sacred Head never saying "DIE!" when you try to steal from it (RPU script bug)
 
 ## v1.15
-- Added voices: Don (Slaver Camp), Private Dobbs (Sierra Army Depot), Merk (NCR), Sergeant Granite (Enclave Oil Rig), Badger (San Francisco), Marjorie Reed (New Reno), Chip (San Francisco), Happy Harry (Vault City), Darion (Vault 15)
+- Added voices: Don (Slaver Camp), Private Dobbs (Sierra Army Depot), Merk (NCR), Sergeant Granite (Enclave Oil Rig), Badger (San Francisco), Marjorie Reed (New Reno), Chip (San Francisco), Happy Harry (Vault City), Darion (Vault 15), Doc Holliday (Broken Hills)
 - New `vock-fo2.ini` (goes in the `mods` folder): set `PostEndgameFloats=0` under `[Additions]` to turn off the non-vanilla post-endgame easter-egg floats from Arthur, Skeeter, Vegeir, Happy Harry and Sergeant Granite, or change how often they play with `PostEndgameSeconds`
 - Darion now greets you with a different taunt for neutral and bad karma (new lines by C. Jared Castor); set `DarionKarmaLines=0` under `[Additions]` in `vock-fo2.ini` to keep the original line for every karma
 
