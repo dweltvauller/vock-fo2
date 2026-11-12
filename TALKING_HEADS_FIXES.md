@@ -16,6 +16,7 @@ The Talking Heads mod (TH) gives Fallout 2 characters animated, lifelike portrai
 - **Jenny** (Klamath): spots on her top are filled.
 - **Valerie** (Vault City): a spot on her collar is filled.
 - **Badger** (San Francisco): spots in his teeth and on his shoulder pad are filled.
+- **Frankie** (The Den): spots on his shoulder, chin and neck are filled.
 
 ### Heads that jumped or shook
 
@@ -30,6 +31,10 @@ The Talking Heads mod (TH) gives Fallout 2 characters animated, lifelike portrai
 ### Blue aura
 
 - **Tyler** (The Den): the blue ring around his outline is gone.
+
+### Black aura
+
+- **Frankie** (The Den): the black edge on his left shoulder and the white dots at his temple are gone.
 
 ## v1.14
 

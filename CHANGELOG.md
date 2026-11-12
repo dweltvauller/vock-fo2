@@ -3,7 +3,7 @@
 ## WIP
 - Louise (Redding), Painless Doc Johnson (Redding), Big Jesus Mordino (New Reno)
 - Fixed voice audio being slightly out of phase in all voiced lines (re-encoded every ACM)
-- Talking-head fixes: Francis, AHS-9, Jenny, Big Jesus Mordino, Valerie, Lao Chou, Tyler, Merk, Badger (see [TALKING_HEADS_FIXES.md](TALKING_HEADS_FIXES.md))
+- Talking-head fixes: Francis, AHS-9, Jenny, Big Jesus Mordino, Valerie, Lao Chou, Tyler, Merk, Badger, Frankie (see [TALKING_HEADS_FIXES.md](TALKING_HEADS_FIXES.md))
 - THAT fixes: Louis Salvatore, Stuart Little, Matthew, Dragon, Stark (see [THAT_FIXES.md](THAT_FIXES.md))
 - Post-endgame floats from Arthur, Skeeter and Vegeir now play whenever you are close to them, even while sneaking or standing behind them
 - Kurisu, King Arthur, Amanda and Old Joe now show the night wasteland background when talked to at night (19:00-05:59), like the other outdoor talking heads
