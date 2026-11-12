@@ -54,10 +54,10 @@ item []:
             text = "me" 
         intervals [11]:
             xmin = 4.38 
-            xmax = 5.03 
+            xmax = 5.04 
             text = "ramble" 
         intervals [12]:
-            xmin = 5.03 
+            xmin = 5.04 
             xmax = 6.31 
             text = "" 
         intervals [13]:
@@ -236,10 +236,10 @@ item []:
             text = "AH0" 
         intervals [30]:
             xmin = 4.83 
-            xmax = 5.03 
+            xmax = 5.04 
             text = "L" 
         intervals [31]:
-            xmin = 5.03 
+            xmin = 5.04 
             xmax = 6.31 
             text = "" 
         intervals [32]:

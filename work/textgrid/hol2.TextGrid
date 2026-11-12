@@ -14,10 +14,10 @@ item []:
         intervals: size = 7 
         intervals [1]:
             xmin = 0.0 
-            xmax = 0.2 
+            xmax = 0.19 
             text = "" 
         intervals [2]:
-            xmin = 0.2 
+            xmin = 0.19 
             xmax = 0.36 
             text = "now" 
         intervals [3]:
@@ -48,10 +48,10 @@ item []:
         intervals: size = 14 
         intervals [1]:
             xmin = 0.0 
-            xmax = 0.2 
+            xmax = 0.19 
             text = "" 
         intervals [2]:
-            xmin = 0.2 
+            xmin = 0.19 
             xmax = 0.24 
             text = "N" 
         intervals [3]:

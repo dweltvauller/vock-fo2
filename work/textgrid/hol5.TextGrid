@@ -54,10 +54,10 @@ item []:
             text = "a" 
         intervals [11]:
             xmin = 3.06 
-            xmax = 4.19 
+            xmax = 4.2 
             text = "hospital" 
         intervals [12]:
-            xmin = 4.19 
+            xmin = 4.2 
             xmax = 4.48 
             text = "" 
         intervals [13]:
@@ -308,10 +308,10 @@ item []:
             text = "AH0" 
         intervals [27]:
             xmin = 3.93 
-            xmax = 4.19 
+            xmax = 4.2 
             text = "L" 
         intervals [28]:
-            xmin = 4.19 
+            xmin = 4.2 
             xmax = 4.48 
             text = "" 
         intervals [29]:

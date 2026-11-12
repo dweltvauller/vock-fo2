@@ -128,10 +128,10 @@ item []:
             text = "DH" 
         intervals [9]:
             xmin = 1.53 
-            xmax = 1.83 
+            xmax = 1.78 
             text = "EH1" 
         intervals [10]:
-            xmin = 1.83 
+            xmin = 1.78 
             xmax = 2.05 
             text = "R" 
         intervals [11]:
@@ -240,10 +240,10 @@ item []:
             text = "G" 
         intervals [37]:
             xmin = 5.27 
-            xmax = 5.44 
+            xmax = 5.43 
             text = "EH1" 
         intervals [38]:
-            xmin = 5.44 
+            xmin = 5.43 
             xmax = 5.48 
             text = "T" 
         intervals [39]:

@@ -26,10 +26,10 @@ item []:
             text = "friend" 
         intervals [4]:
             xmin = 1.95 
-            xmax = 2.3 
+            xmax = 2.29 
             text = "this" 
         intervals [5]:
-            xmin = 2.3 
+            xmin = 2.29 
             xmax = 2.52 
             text = "is" 
         intervals [6]:
@@ -148,10 +148,10 @@ item []:
             text = "IH1" 
         intervals [11]:
             xmin = 2.19 
-            xmax = 2.3 
+            xmax = 2.29 
             text = "S" 
         intervals [12]:
-            xmin = 2.3 
+            xmin = 2.29 
             xmax = 2.43 
             text = "IH1" 
         intervals [13]:

@@ -412,10 +412,10 @@ item []:
             text = "AH0" 
         intervals [73]:
             xmin = 7.32 
-            xmax = 7.49 
+            xmax = 7.53 
             text = "T" 
         intervals [74]:
-            xmin = 7.49 
+            xmin = 7.53 
             xmax = 7.63 
             text = "EH1" 
         intervals [75]:

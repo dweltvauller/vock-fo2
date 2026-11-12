@@ -332,10 +332,10 @@ item []:
             text = "AH0" 
         intervals [55]:
             xmin = 6.41 
-            xmax = 6.54 
+            xmax = 6.52 
             text = "P" 
         intervals [56]:
-            xmin = 6.54 
+            xmin = 6.52 
             xmax = 6.67 
             text = "OW1" 
         intervals [57]:

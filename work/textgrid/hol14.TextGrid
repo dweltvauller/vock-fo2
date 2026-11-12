@@ -102,10 +102,10 @@ item []:
             text = "me" 
         intervals [23]:
             xmin = 8.53 
-            xmax = 9.03 
+            xmax = 9.01 
             text = "too" 
         intervals [24]:
-            xmin = 9.03 
+            xmin = 9.01 
             xmax = 9.43 
             text = "" 
         intervals [25]:
@@ -424,10 +424,10 @@ item []:
             text = "T" 
         intervals [68]:
             xmin = 8.63 
-            xmax = 9.03 
+            xmax = 9.01 
             text = "UW1" 
         intervals [69]:
-            xmin = 9.03 
+            xmin = 9.01 
             xmax = 9.43 
             text = "" 
         intervals [70]:

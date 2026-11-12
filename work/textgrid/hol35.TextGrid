@@ -190,10 +190,10 @@ item []:
             text = "i" 
         intervals [45]:
             xmin = 18.66 
-            xmax = 19.0 
+            xmax = 18.99 
             text = "saw" 
         intervals [46]:
-            xmin = 19.0 
+            xmin = 18.99 
             xmax = 19.4 
             text = "people" 
         intervals [47]:
@@ -234,10 +234,10 @@ item []:
             text = "the" 
         intervals [56]:
             xmin = 22.51 
-            xmax = 23.25 
+            xmax = 23.26 
             text = "currents" 
         intervals [57]:
-            xmin = 23.25 
+            xmin = 23.26 
             xmax = 23.309999 
             text = "" 
         intervals [58]:
@@ -812,10 +812,10 @@ item []:
             text = "S" 
         intervals [139]:
             xmin = 18.83 
-            xmax = 19.0 
+            xmax = 18.99 
             text = "AA1" 
         intervals [140]:
-            xmin = 19.0 
+            xmin = 18.99 
             xmax = 19.1 
             text = "P" 
         intervals [141]:
@@ -924,10 +924,10 @@ item []:
             text = "T" 
         intervals [167]:
             xmin = 23.059999 
-            xmax = 23.25 
+            xmax = 23.26 
             text = "S" 
         intervals [168]:
-            xmin = 23.25 
+            xmin = 23.26 
             xmax = 23.309999 
             text = "" 
         intervals [169]:

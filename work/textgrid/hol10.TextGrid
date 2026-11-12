@@ -172,10 +172,10 @@ item []:
             text = "HH" 
         intervals [19]:
             xmin = 2.0 
-            xmax = 2.14 
+            xmax = 2.13 
             text = "AE1" 
         intervals [20]:
-            xmin = 2.14 
+            xmin = 2.13 
             xmax = 2.17 
             text = "V" 
         intervals [21]:

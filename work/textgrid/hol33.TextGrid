@@ -26,10 +26,10 @@ item []:
             text = "then" 
         intervals [4]:
             xmin = 1.06 
-            xmax = 1.5 
+            xmax = 1.51 
             text = "" 
         intervals [5]:
-            xmin = 1.5 
+            xmin = 1.51 
             xmax = 1.83 
             text = "i" 
         intervals [6]:
@@ -220,10 +220,10 @@ item []:
             text = "N" 
         intervals [7]:
             xmin = 1.06 
-            xmax = 1.5 
+            xmax = 1.51 
             text = "" 
         intervals [8]:
-            xmin = 1.5 
+            xmin = 1.51 
             xmax = 1.83 
             text = "AY1" 
         intervals [9]:
@@ -568,10 +568,10 @@ item []:
             text = "V" 
         intervals [94]:
             xmin = 13.87 
-            xmax = 13.97 
+            xmax = 13.96 
             text = "R" 
         intervals [95]:
-            xmin = 13.97 
+            xmin = 13.96 
             xmax = 14.1 
             text = "IY0" 
         intervals [96]:

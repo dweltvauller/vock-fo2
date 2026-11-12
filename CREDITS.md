@@ -51,7 +51,13 @@
 | [Chip](https://fallout.fandom.com/wiki/Chip) | San Francisco | Max Troia | [Instagram](https://www.instagram.com/maxatroia/) · [Website](https://www.maxtroia.com) |
 | [Orville Wright](https://fallout.fandom.com/wiki/Orville_Wright) | New Reno | AnInsaneProfessional | [Bluesky](https://bsky.app/profile/insanepr0fessional.bsky.social) · [Youtube](https://www.youtube.com/@insaneprofessional2061) |
 | [Frankie](https://fallout.fandom.com/wiki/Frankie_(Fallout_2)) | The Den | Jake 'The Voice' Parr | [Website](https://jakeparrthevoice.co.uk) · [YouTube](https://www.youtube.com/@JakeTheVoice) |
-| [Doc Holliday](https://fallout.fandom.com/wiki/Holliday) | Broken Hills | Michael A. Downey | - |
+| [Doc Holliday](https://fallout.fandom.com/wiki/Holliday) | Broken Hills | Michael A. Downey | [Instagram](https://www.instagram.com/m_a_downey) · [TikTok](https://www.tiktok.com/@m_a_downey) |
+
+## Holodisks
+
+| Holodisk | Location | Voice Actor | Links |
+|----------|----------|-------------|-------|
+| [Westin's holodisk](https://fallout.fandom.com/wiki/Westin) | NCR | DarkLoreDash | - |
 
 ## Quality Assurance
 

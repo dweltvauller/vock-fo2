@@ -110,18 +110,18 @@ item []:
             text = "gonna" 
         intervals [25]:
             xmin = 8.18 
-            xmax = 8.76 
+            xmax = 8.75 
             text = "cost" 
         intervals [26]:
-            xmin = 8.76 
+            xmin = 8.75 
             xmax = 8.88 
             text = "" 
         intervals [27]:
             xmin = 8.88 
-            xmax = 9.15 
+            xmax = 9.17 
             text = "(cough)" 
         intervals [28]:
-            xmin = 9.15 
+            xmin = 9.17 
             xmax = 9.5 
             text = "" 
         intervals [29]:
@@ -204,10 +204,10 @@ item []:
             text = "IY0" 
         intervals [15]:
             xmin = 1.21 
-            xmax = 1.3 
+            xmax = 1.31 
             text = "G" 
         intervals [16]:
-            xmin = 1.3 
+            xmin = 1.31 
             xmax = 1.51 
             text = "UH1" 
         intervals [17]:
@@ -448,14 +448,14 @@ item []:
             text = "AA1" 
         intervals [76]:
             xmin = 8.61 
-            xmax = 8.73 
+            xmax = 8.72 
             text = "S" 
         intervals [77]:
-            xmin = 8.73 
-            xmax = 8.76 
+            xmin = 8.72 
+            xmax = 8.75 
             text = "T" 
         intervals [78]:
-            xmin = 8.76 
+            xmin = 8.75 
             xmax = 8.88 
             text = "" 
         intervals [79]:
@@ -468,10 +468,10 @@ item []:
             text = "AH1" 
         intervals [81]:
             xmin = 8.96 
-            xmax = 9.15 
+            xmax = 9.17 
             text = "HH" 
         intervals [82]:
-            xmin = 9.15 
+            xmin = 9.17 
             xmax = 9.5 
             text = "" 
         intervals [83]:

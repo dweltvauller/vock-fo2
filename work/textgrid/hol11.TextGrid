@@ -22,10 +22,10 @@ item []:
             text = "ouch" 
         intervals [3]:
             xmin = 1.64 
-            xmax = 1.93 
+            xmax = 1.94 
             text = "" 
         intervals [4]:
-            xmin = 1.93 
+            xmin = 1.94 
             xmax = 2.25 
             text = "you're" 
         intervals [5]:
@@ -88,10 +88,10 @@ item []:
             text = "CH" 
         intervals [4]:
             xmin = 1.64 
-            xmax = 1.93 
+            xmax = 1.94 
             text = "" 
         intervals [5]:
-            xmin = 1.93 
+            xmin = 1.94 
             xmax = 2.06 
             text = "Y" 
         intervals [6]:
