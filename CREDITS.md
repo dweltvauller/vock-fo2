@@ -57,7 +57,7 @@
 
 | Holodisk | Location | Voice Actor | Links |
 |----------|----------|-------------|-------|
-| [Westin's holodisk](https://fallout.fandom.com/wiki/Westin) | NCR | DarkLoreDash | - |
+| [Westin's holodisk](https://fallout.fandom.com/wiki/Westin_holodisk) | NCR | DarkLoreDash | - |
 
 ## Quality Assurance
 
