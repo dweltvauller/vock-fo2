@@ -12,6 +12,18 @@
            Created: December 31, 1997
 
            Updated:
+           VOCK changes:
+             Added Node850: once the Enclave is destroyed, Frankie throws out an
+             ambient easter-egg float (frank42-45, msgs 800-803) on a
+             self-rescheduling timer, the same pattern as Skeeter, Arthur, Vegeir
+             and Happy Harry. Dialogue is untouched. The float is skipped while
+             Frankie is hostile, the player is an enemy of the Den or attacked Mom,
+             and while he is away from his spot behind the bar.
+             The post-endgame float can be switched off with PostEndgameFloats=0 under
+             [Additions] in mods\vock-fo2.ini (VOCK_POST_ENDGAME_FLOATS), and its
+             interval set with PostEndgameSeconds. It plays when the player is within
+             10 hexes on the same elevation, not on line of sight, so facing and
+             sneaking do not block it.
 */
 
 /* Include Files */
@@ -26,6 +38,29 @@
 #include "../headers/modreact.h"
 #include "../headers/denbus2.h"
 #include "../headers/talking_heads.h"
+
+#define TIMER_VOCK_ENDGAME_FLOAT (850)  //VOCK: post-endgame ambient bonus-float timer (Node850)
+#define VOCK_POST_ENDGAME_FLOATS (get_ini_setting("mods\\vock-fo2.ini|Additions|PostEndgameFloats") != 0)  //VOCK: mods\vock-fo2.ini toggle; a missing file or key reads -1, so the floats stay on
+
+//VOCK: post-endgame float range. A fixed distance check instead of self_can_see_dude, which
+// depends on facing, line of sight and sneak, and made the float start and stop at random.
+#define VOCK_ENDGAME_FLOAT_RANGE (10)
+#define VOCK_DUDE_IN_FLOAT_RANGE ((elevation(self_obj) == elevation(dude_obj)) and (tile_distance_objs(self_obj, dude_obj) <= VOCK_ENDGAME_FLOAT_RANGE))
+
+//VOCK: Frankie is only tending bar while he is not hostile, the player is not an enemy of the Den
+// and has not attacked Mom (talk_p_proc's own hostile checks), and he is at his spot behind the bar.
+#define VOCK_FRANKIE_AT_BAR ((not hostile) and (not REP_ENEMY_DEN) and (not mom_attacked) and (self_tile == local_var(LVAR_Home_Tile)))
+
+//VOCK: re-arm delay for the post-endgame float timer, in game ticks. Reads PostEndgameSeconds from
+// mods\vock-fo2.ini; a missing or invalid value falls back to 10 seconds, and anything under 5 is
+// raised to 5 so floats do not cut each other off.
+procedure vock_endgame_float_delay begin
+   variable secs;
+   secs := get_ini_setting("mods\\vock-fo2.ini|Additions|PostEndgameSeconds");
+   if (secs < 1) then secs := 10;
+   if (secs < 5) then secs := 5;
+   return game_ticks(secs);
+end
 
 /* Standard Script Procedures */
 procedure start;
@@ -72,6 +107,7 @@ procedure Node025;
 procedure Node026;
 procedure Node027;
 
+procedure Node850;                                      //VOCK: post-endgame bonus float
 procedure Node998;                                      // This Node is Always Combat
 
 procedure Node996;
@@ -111,6 +147,15 @@ procedure timed_event_p_proc begin
    if (fixed_param == timed_event_post_sex) then begin
       call Node024;
    end
+   //VOCK: post-endgame ambient bonus-float timer, same as gcskeetr.ssl: a self-rescheduling timer,
+   // gated on VOCK_DUDE_IN_FLOAT_RANGE, VOCK_FRANKIE_AT_BAR and not being in combat, that calls
+   // Node850 once Fallout2_enclave_destroyed is true. The re-arm interval does the pacing.
+   else if (fixed_param == TIMER_VOCK_ENDGAME_FLOAT) then begin
+      if ( (not combat_is_initialized) and VOCK_DUDE_IN_FLOAT_RANGE and VOCK_FRANKIE_AT_BAR and (Fallout2_enclave_destroyed) and VOCK_POST_ENDGAME_FLOATS ) then begin
+         call Node850;
+      end
+      add_timer_event(self_obj, vock_endgame_float_delay, TIMER_VOCK_ENDGAME_FLOAT);
+   end
 end
 
 procedure map_enter_p_proc begin
@@ -124,6 +169,11 @@ procedure map_enter_p_proc begin
       end
       critter_attempt_placement(self_obj, local_var(LVAR_Home_Tile), 0);
    end
+
+   //VOCK: arm the post-endgame ambient float timer. Always armed regardless of endgame state --
+   // timed_event_p_proc itself checks Fallout2_enclave_destroyed before doing anything, and just
+   // keeps re-arming either way, same as vanilla's own ambient-float timers (e.g. vcdwnbar.ssl).
+   add_timer_event(self_obj, vock_endgame_float_delay, TIMER_VOCK_ENDGAME_FLOAT);
 end
 
 procedure critter_p_proc begin
@@ -188,6 +238,13 @@ procedure description_p_proc begin
 end
 
 procedure use_skill_on_p_proc begin
+end
+
+//VOCK: post-endgame bonus float. frank42-45 (msg 800-803) called from the
+// TIMER_VOCK_ENDGAME_FLOAT loop in timed_event_p_proc (armed from map_enter_p_proc) as ambient
+// ONLY, never from talk_p_proc -- see timed_event_p_proc for the gating.
+procedure Node850 begin
+   floater(random(800,803));
 end
 
 procedure Node999 begin

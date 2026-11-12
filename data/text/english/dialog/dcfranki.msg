@@ -135,3 +135,8 @@
 {410}{frank26}{Baby, I do have work to do you know. I don't just stand around in this spot all day and do nothing. Well, okay, so what if I do? That's what I'm here to do.}
 
 {420}{frank27}{Look, I just wanted her still destroyed and you do it. Now beat it.}
+
+{800}{frank42}{I would like to show my fondness for... that particular beer.}
+{801}{frank43}{You ever heard the story about a hobo from the pre-war days that kicked ass and ate pie?}
+{802}{frank44}{Someone screamed "Dopefish lives!" in my face earlier. What the hell does that mean?}
+{803}{frank45}{The Hole has beers, steers, and... ah, never mind. What do you need?}
