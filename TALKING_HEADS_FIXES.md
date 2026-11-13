@@ -2,7 +2,7 @@
 
 The Talking Heads mod (TH) gives Fallout 2 characters animated, lifelike portraits. Some of them flicker, jump, freeze, show see-through spots, or carry a blue edge from the blue background they were cut out of. vock-fo2 fixes the heads it finds. Versions match [CHANGELOG.md](CHANGELOG.md). For the voices, see [THAT_FIXES.md](THAT_FIXES.md).
 
-## WIP
+## v1.15
 
 ### Lighting
 

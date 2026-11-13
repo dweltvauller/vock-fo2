@@ -2,7 +2,7 @@
 
 Talking Heads Actually Talk (THAT) gives about 60 Fallout 2 characters real voices. Play it on top of the Restoration Project and some of those voices go quiet, or say something the subtitle doesn't. vock-fo2 carries THAT's recordings and fixes what we find as we review each character. Versions match [CHANGELOG.md](CHANGELOG.md). For the talking-head art, see [TALKING_HEADS_FIXES.md](TALKING_HEADS_FIXES.md).
 
-## WIP
+## v1.15
 
 ### Lines you never got to hear
 
