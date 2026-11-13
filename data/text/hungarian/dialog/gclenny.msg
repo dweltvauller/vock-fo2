@@ -192,7 +192,7 @@
 {1700}{lenny42}{A nyomodban f'fogok l'lihegni.}
 {1800}{lenny43}{G'gondolom nem akarunk k'könnyû célponttá v'válni.}
 {1900}{lenny44}{Rendben. K'kicsit lemaradok. Úgy t'tûnik egyébként, hogy az emberek leginkább téged akarnak h'holtan látni.}
-{2000}{lenny45}{Úgy látom, egy csomóan vannak m'ár itt. Nem kell n'neked az én segítségem. L'légy szerencsés.}
+{2000}{lenny33}{Úgy látom, egy csomóan vannak m'ár itt. Nem kell n'neked az én segítségem. L'légy szerencsés.}
 {2100}{}{Sosem g'gondoltam volna, hogy megérem a n'napot, hogy sz'szégyellni fogom a tetteidet. M'megszégyeníted a Menedéklakó emlékét. Menny', menny', ne is lássalak.}
 {2200}{lenny47}{N'nem voltam benne b'biztos, hogy még visszajössz.}
 {2300}{}{Minek ez a hercehurca állandóan?}

@@ -11,7 +11,7 @@
 {110}{}{D'accordo. Lo prendo.}
 {111}{}{Eh, ottocento? Tornero'... con i soldi.}
 {112}{}{Scordatelo. Gli Smith possono anche morire di fame.}
-{113}{}{E' tuo. [incassa il denaro.] Lo prendi subito, o desideri che venga recapitato da qualche parte?}
+{113}{hhary3}{E' tuo. [incassa il denaro.] Lo prendi subito, o desideri che venga recapitato da qualche parte?}
 {114}{}{Consegnalo agli Smith.}
 {115}{hhary4}{Spiacente, amico. Ti costera' ottocento monete.}
 {119}{hhary5}{Hai bisogno dei soldi per pagarmi, amico.}

@@ -17,7 +17,7 @@
 {116}{}{Nel database medico di Vault City ho trovato degli schemi che descrivono l'impianto di innesti da combattimento. Saresti in grado di eseguire l'operazione?}
 {117}{}{Non adesso. Non e' cosi' grave come sembra.}
 {118}{}{No, sto bene. Volevo solo salutare.}
-{119}{andr6}{D'accordo... ad una prima occhiata, direi che ti costera' }
+{119}{}{D'accordo... ad una prima occhiata, direi che ti costera' }
 {120}{}{ dollari. Se hai i soldi, avrai tutte le cure che ti servono. }
 {121}{}{Naturalmente, non garantisco sull'operato del vecchio Doc, nella stanza sul retro...}
 {122}{}{Posshhhto? Poshhto! Prendere soldi, tappare buchi.}
@@ -56,7 +56,7 @@
 {155}{}{Puoi curare me, invece?}
 {156}{}{Capisco. Senti, avrei delle domande che vorrei farti...}
 {157}{}{Oh, pazienza. Grazie lo stesso.}
-{158}{andr7}{D'accordo... ad una prima occhiata, direi che ti costera' }
+{158}{}{D'accordo... ad una prima occhiata, direi che ti costera' }
 {159}{}{ dollari. Se hai i soldi, avrai tutte le cure che ti servono. }
 {160}{}{Naturalmente, non ti do garanzie sull'operato del vecchio Doc, nella stanza sul retro...}
 {161}{}{Okay.}
@@ -67,7 +67,7 @@
 {166}{}{Nel database medico di Vault City ho trovato degli schemi che descrivono l'impianto di innesti da combattimento. Saresti in grado di eseguire l'operazione?}
 {167}{}{Non ho abbastanza soldi. Tornero' quando avro' il contante.}
 {168}{}{Ho cambiato idea. Sara' per un'altra volta.}
-{169}{andr15}{Beh, vediamo... ecco la mia proposta. }
+{169}{}{Beh, vediamo... ecco la mia proposta. }
 {170}{}{ dollari per tutto il gruppo e poi possiamo dirci pari. Cosa ne dici?}
 {171}{}{Okay.}
 {172}{}{Non saprei. E' un po' caro. Che ne dici di }
@@ -88,8 +88,8 @@
 {187}{}{Capisco. Senti, avrei delle altre domande da farti...}
 {188}{}{Hmmm. Magari tornero' quando avro' bisogno di te.}
 {189}{}{Si', l'Auto-Doc che si trova nella stanza sul retro. E' un gentile prestito della citta'. }
-{190}{andr19}{A volte e' un po' inaffidabile, ma di solito fa il suo lavoro. Di solito.}
-{191}{andr20}{Ultimamente funziona meglio, il che e' un bene. Di certo aiuta a non perdere la clientela.}
+{190}{}{A volte e' un po' inaffidabile, ma di solito fa il suo lavoro. Di solito.}
+{191}{}{Ultimamente funziona meglio, il che e' un bene. Di certo aiuta a non perdere la clientela.}
 {192}{}{Si', ho sostituito alcuni cavi e ho pulito l'interno. Non dovrebbe piu' darti problemi.}
 {193}{}{Capisco. Senti, avrei delle altre domande da farti...}
 {194}{}{Inaffidabile, eh? Magari potrei darci un'occhiata io...}
@@ -154,8 +154,8 @@
 {253}{}{Parlami degli altri innesti.}
 {254}{}{Come non detto. Avrei delle altre domande.}
 {255}{}{Capisco. Magari un'altra volta.}
-{256}{andr35}{Grossomodo posso dirti che tutte le linee curve del viso si trasformeranno in spigoli. }
-{257}{andr36}{Avrai l'aspetto di un pupazzo fatto di Lego, quando avro' finito. }
+{256}{}{Grossomodo posso dirti che tutte le linee curve del viso si trasformeranno in spigoli. }
+{257}{}{Avrai l'aspetto di un pupazzo fatto di Lego, quando avro' finito. }
 {258}{}{Ficcare tutte quelle placche nel tuo corpo avra' un impatto negativo sul tuo carisma. Sei sempre sicuro di voler procedere?}
 {259}{}{Oh, al diavolo. Ecco i soldi e l'armatura.}
 {260}{}{Non saprei. 40,000$ e' un po' caro. Pero' qui con me ne ho 30,000.}

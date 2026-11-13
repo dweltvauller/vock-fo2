@@ -129,7 +129,7 @@
 {228}{}{Ez rossz húzás volt, jóember!}
 {229}{}{Mi a szart csinál?}
 {230}{}{Hé, már itt se vagyok.}
-{231}{chris33}{Igen, igaz.}
+{231}{}{Igen, igaz.}
 {232}{}{Bekapcsolja a rádióját. Fel fogja lármázni az egész bázist, hacsak nem tudod gyorsan elintézni!}
 {233}{}{Oh, ne. Ember szed ki beszélõ doboz. Õ beszél hozzám. Kell õt állj.}
 {800}{}{Meggyõzted Christ, hogy adja meg a jelszót.}

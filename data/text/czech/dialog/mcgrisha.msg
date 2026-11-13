@@ -97,21 +97,21 @@
 {350}{}{(Vrhneš pohled na Bessy.) S nìèím.}
 {360}{}{Neudìlal byste pro mì trochu sušeného masa?}
 {400}{grish70}{Co se to tady dìje?}
-{402}{grish71}{Do prdele! Já vìdìl, e s }
-{403}{grish72}{Jak se opovauješ pošpinit èest }
-{404}{grish73}{Eh, Jo, nemùeme tu pøísahu prostì pøeskoèit?}
-{406}{grish74}{Chlapèe...}
-{407}{grish75}{Sleèinko...}
-{410}{grish76}{Nechtìj, abych udìlal z }
-{412}{grish77}{Mirie}
-{413}{grish78}{Davina}
-{414}{grish79}{Eh, Bo, nemùeme tu pøísahu prostì pøeskoèit?}
-{420}{grish80}{Nikam nepùjdeš, chlapèe!}
-{421}{grish81}{Nikam nepùjdete, sleèinko!}
-{452}{grish82}{ není nìco v poøádku. Teï u zbıvá jen jedinej zpùsob, jak to napravit!}
-{453}{grish83}{?! Existuje jen jedinej zpùsob, jak to napravit!}
-{460}{grish84}{ vdovu.}
-{461}{grish85}{ vdovce.}
+{402}{}{Do prdele! Já vìdìl, e s }
+{403}{}{Jak se opovauješ pošpinit èest }
+{404}{grish75}{Eh, Jo, nemùeme tu pøísahu prostì pøeskoèit?}
+{406}{grish76}{Chlapèe...}
+{407}{grish77}{Sleèinko...}
+{410}{}{Nechtìj, abych udìlal z }
+{412}{}{Mirie}
+{413}{}{Davina}
+{414}{grish80}{Eh, Bo, nemùeme tu pøísahu prostì pøeskoèit?}
+{420}{grish81}{Nikam nepùjdeš, chlapèe!}
+{421}{grish82}{Nikam nepùjdete, sleèinko!}
+{452}{}{ není nìco v poøádku. Teï u zbıvá jen jedinej zpùsob, jak to napravit!}
+{453}{}{?! Existuje jen jedinej zpùsob, jak to napravit!}
+{460}{}{ vdovu.}
+{461}{}{ vdovce.}
 {500}{grish44}{No to je ale pìknı zviøátko. Bude z nìj vıbornı sušenı maso. Poslouchej, udìláme to takhle. Pøipravím ti prvotøídní sušenı maso a nechám si z nìj pár kouskù jako odmìnu za práci. Co ty na to?}
 {501}{}{Nikdy! Miluju Bess. Nikdo z ní sušené maso dìlat nebude.}
 {502}{}{To zní dobøe. Kdy se mùu zastavit pro to sušené maso?}
@@ -130,13 +130,13 @@
 {750}{grish48}{Musím zpátky do práce. Uvidíme se pozdìji.}
 {800}{}{Grishamovy brahmíny byly ochránìny.}
 {1101}{}{Vidíš strıèka Biffa.}
-{1155}{grish86}{Vìdìl jsem, e je na mojí neteøi nìco divnıho.}
-{1156}{grish87}{Nìkdo má rád holky, jinı zase vdolky...}
-{1157}{grish88}{Ještì, e se toho starej Grisham nedoil.}
-{1158}{grish89}{Vìdìl jsem, e je na mım synovci nìco divnıho.}
-{1159}{grish90}{Tak a teï patøíš do rodiny.}
-{1160}{grish91}{Dobøe se o moji neteø starej.}
-{1161}{grish92}{Dobøe se o mıho synovce starej.}
+{1155}{grish83}{Vìdìl jsem, e je na mojí neteøi nìco divnıho.}
+{1156}{grish62}{Nìkdo má rád holky, jinı zase vdolky...}
+{1157}{grish85}{Ještì, e se toho starej Grisham nedoil.}
+{1158}{grish86}{Vìdìl jsem, e je na mım synovci nìco divnıho.}
+{1159}{grish66}{Tak a teï patøíš do rodiny.}
+{1160}{grish88}{Dobøe se o moji neteø starej.}
+{1161}{grish89}{Dobøe se o mıho synovce starej.}
 {1228}{grish49}{Hele, ani se mi to nepokoušej vysvìtlit. Nechci to slyšet. Seenu knìze, udìláme z toho právoplatnej svazek a ty odejdeš i s mım synovcem.}
 {1229}{grish50}{Nemùu øíct, e mì to ani trochu nepotìšilo, ale musím udìlat to, co by si Grisham pøál... musíte se vzít a odejít odsud.}
 {1230}{grish51}{Nechceš mi vysvìtlit, co tu dìláš s mojí neteøí?}
@@ -146,8 +146,8 @@
 {1237}{grish54}{No to je skvìlı. Budu mít v rodinì chytraèku. Tak pojï, neteøi... a u je to za náma.}
 {1238}{grish55}{Já si myslím, e jste si s mojí neteøí hráli na brahmíny v dobì páøení.}
 {1239}{grish56}{Já si myslím, e jste s mım synovcem tancovali pod peøinami horizontální tango.}
-{1403}{grish93}{Jak si dovoluješ pošpinit èest Grishamova potomka, }
-{1412}{grish94}{jeho dcery?}
-{1413}{grish95}{jeho syna?}
+{1403}{}{Jak si dovoluješ pošpinit èest Grishamova potomka, }
+{1412}{}{jeho dcery?}
+{1413}{}{jeho syna?}
 {1600}{}{. Doufám, e se dobøe staráš o moji dcerku Miriu. Ona je svìtlo mého ivota a zlomilo by mi srdce, kdyby se jí nìco stalo. Mimochodem, kde je? Doufal jsem, e ji zase uvidím.}
 {1601}{}{. Tak jak se ti zamlouvá manelskej ivot? Vidím, e Davin s tebou necestuje. Moc mi chybí. Vezmi ho s sebou, a pøijdeš pøíštì na návštìvu. Starıho mue to potìší, kdy zase uvidí svıho jedinıho synka.}

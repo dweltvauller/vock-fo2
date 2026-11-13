@@ -138,9 +138,9 @@
 {455}{}{Tu peux garder ta récompense. Je l'ai fait uniquement parce que je pensais que c'était la meilleure chose à faire.}
 {460}{wong43}{Et voilà. [Il te tend un stock d'armes puissantes.]}
 {461}{}{[Terminé]}
-{470}{wong44}{Et voilà. [Il te donne divers matériels.]}
+{470}{wong43}{Et voilà. [Il te donne divers matériels.]}
 {471}{}{[Terminé]}
-{480}{wong45}{Et voilà. [Il te donne $5 000.]}
+{480}{wong43}{Et voilà. [Il te donne $5 000.]}
 {481}{}{[Terminé]}
 {490}{wong46}{Les Shis apprécient ton aide dans cette affaire. J'ai du travail à faire. Au revoir.}
 {491}{}{[Terminé]}

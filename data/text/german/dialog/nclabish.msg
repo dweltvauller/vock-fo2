@@ -162,7 +162,7 @@
 {500}{}{Du siehst Mrs. Bishop. Es ist nicht leicht, sich auf ihr Aussehen zu konzentrieren, solange sie nach den Wachen ruft.}
 {510}{}{Mmmmm... oh, }
 {511}{}{Mmmzrrmnmn... noch mal, }
-{512}{lbshp122}{Kombinnnazion für'n Safe... }
+{512}{}{Kombinnnazion für'n Safe... }
 {515}{lbshp123}{Ein Einbrecher! Hilfe!}
 {516}{lbshp124}{Ein Dieb! Ein Dieb!}
 {517}{lbshp125}{Ein Einbrecher! Wache! Wache!}
@@ -249,7 +249,7 @@
 {652}{}{Äh... gibt es dafür irgendwo einen BEWEIS?}
 {655}{lbshp82}{Nein... John hat wahrscheinlich hier irgendwo eine Karte, auf der ihr Versteck eingezeichnet ist... (Schnieft etwas, reibt sich die Nase.) Mmmmm...}
 {657}{}{Lass uns lieber über was anderes reden...}
-{660}{lbshp83}{, ich schlage vor... über so etwas...}
+{660}{}{, ich schlage vor... über so etwas...}
 {663}{}{Genialer... Zeitpunkt, um einen Safe zu knacken... schlaf gut, Mrs. Bishop.}
 {665}{}{Oh, }
 {666}{}{Oh. Danke.}
@@ -292,7 +292,7 @@
 {750}{lbshp104}{*Gähn*...(Rollt sich zusammen.) In meinem Safe. Ohne einen PIPBoy ist sie allerdings nicht viel wert. Keine Ahnung, warum ich sie immer noch aufhebe.}
 {751}{}{Kann ich sie haben?}
 {752}{}{Hmmmmm. Ich hätte da noch ein paar andere Fragen...}
-{760}{lbshp105}{(Zuckt die Schultern.) Klar, wenn du sie willst. Die Kombination ist }
+{760}{}{(Zuckt die Schultern.) Klar, wenn du sie willst. Die Kombination ist }
 {761}{}{Wie funktioniert sie?}
 {762}{}{Danke. Sag mal, ich hätte da noch ein paar andere Fragen...}
 {770}{lbshp106}{(Mrs. Bishop rollt sich auf die andere Seite und schließt die Augen. Sekunden später schläft sie auch schon.)}

@@ -49,7 +49,7 @@
 {148}{}{No te preocupes, liberaré a tu marido. Después de recibir mi pago.}
 {149}{}{Olvídalo. Quizá pueda hablar con alguien en Centro de Asignación.}
 {150}{}{No importa. Olvida que nos hemos conocido.}
-{151}{}{Oye, ¡¿y yo?!}
+{151}{myron6}{Oye, ¡¿y yo?!}
 {152}{ama18}{Por favor, rescata a Joshua. Está dentro de la ciudad, en el Centro de Asignación de Siervos.}
 {153}{ama19}{¡Gracias por rescatar a mi marido! Por favor... acepta esto como recompensa. No es mucho, pero...}
 {154}{ama20}{Gracias de nuevo por rescatar a mi marido. Pronto nos marcharemos.}

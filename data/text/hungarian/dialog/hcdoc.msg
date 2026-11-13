@@ -17,11 +17,11 @@
 {116}{hol4}{Igen, meg tudom gyógyítani, de... ::hhhhõh:: pénzbe fog kerülni.}
 {117}{}{Mennyibe?}
 {118}{}{Rövid úton felejtsd el!}
-{119}{}{Hogy mit csinálok itt? Nos, itt vagyunk a kórházban, rajtam orvosi köpeny van, ami mellesleg tiszta vér, az asztalon meg hegyes és éles tárgyak hevernek. Vagy egy befutott gyilkos vagyok, vagy csak egy egyszerû orvos. A döntést rád bízom.}
+{119}{hol5}{Hogy mit csinálok itt? Nos, itt vagyunk a kórházban, rajtam orvosi köpeny van, ami mellesleg tiszta vér, az asztalon meg hegyes és éles tárgyak hevernek. Vagy egy befutott gyilkos vagyok, vagy csak egy egyszerû orvos. A döntést rád bízom.}
 {120}{}{Asszem, hívhatom orvosnak.}
 {121}{}{Ne okoskodjon velem, öreg!}
 {122}{}{Egy igazán jó orvos nem hagyja, hogy véres legyen a ruhája.}
-{123}{}{Lássuk csak. Itt születtem. Annak idején még épp csak kezdett beindulni ez a hely. Itt éldegéltem csendesen. Egyszer találkoztam egy nõvel, beleszerettem, de meghalt betegségben. Akkor határoztam el, hogy orvos leszek.}
+{123}{hol6}{Lássuk csak. Itt születtem. Annak idején még épp csak kezdett beindulni ez a hely. Itt éldegéltem csendesen. Egyszer találkoztam egy nõvel, beleszerettem, de meghalt betegségben. Akkor határoztam el, hogy orvos leszek.}
 {124}{}{Igen? Folytassa!}
 {125}{}{Mi lenne, ha Broken Hillsrõl mesélne, nem magáról?}
 {126}{hol7}{Meglepõdnél, ha tudnád, mi mindent mondanak az emberek fájdalmukban.}
@@ -45,19 +45,19 @@
 {144}{hol13}{Egy kis kötözés után rendben lesz... ::hhhhöh:: 50 dolcsiért.}
 {145}{}{Kifizetem.}
 {146}{}{Rövid úton felejtsd el!}
-{147}{}{Volt egy kis zûrötök? Emlékszem, amikor még vagány legény voltam. Jó sok lyukat szereztem magamba én is. Ez a kis kaland egy 100-asba fog kerülni.}
+{147}{hol14}{Volt egy kis zûrötök? Emlékszem, amikor még vagány legény voltam. Jó sok lyukat szereztem magamba én is. Ez a kis kaland egy 100-asba fog kerülni.}
 {148}{}{Kifizetem.}
 {149}{}{Rövid úton felejtsd el!}
-{150}{}{Vigyázhatnál a barátaidra, kölyök! ::köhh:: Ha ezt itt le akarod kezeltetni, akkor az 150 dollár lesz.}
+{150}{hol15}{Vigyázhatnál a barátaidra, kölyök! ::köhh:: Ha ezt itt le akarod kezeltetni, akkor az 150 dollár lesz.}
 {151}{}{Kifizetem.}
 {152}{}{Rövid úton felejtsd el!}
-{153}{}{Elég jó lehetsz, ha képes vagy így ösztönözni a barátaid hûségét. Remélem, tényleg jó vagy... mert ez ::köhh:: 200 dollárba fog kerülni.}
+{153}{hol16}{Elég jó lehetsz, ha képes vagy így ösztönözni a barátaid hûségét. Remélem, tényleg jó vagy... mert ez ::köhh:: 200 dollárba fog kerülni.}
 {154}{}{Kifizetem.}
 {155}{}{Rövid úton felejtsd el!}
-{156}{}{Ajjaj! Erre gyorsan kell valamit tennem. A felbecsülhetetlen szaktudásomért 300 dolcsit kell fizetned.}
+{156}{hol17}{Ajjaj! Erre gyorsan kell valamit tennem. A felbecsülhetetlen szaktudásomért 300 dolcsit kell fizetned.}
 {157}{}{Kifizetem.}
 {158}{}{Rövid úton felejtsd el!}
-{159}{}{Nincs elég pénzed, barátom. Vehetsz pár stimpakkot, ha akarsz, talán azt még ki tudod fizetni. Mást nem nyújthatok annyiért, amennyit te képes vagy nyújtani.}
+{159}{hol18}{Nincs elég pénzed, barátom. Vehetsz pár stimpakkot, ha akarsz, talán azt még ki tudod fizetni. Mást nem nyújthatok annyiért, amennyit te képes vagy nyújtani.}
 {160}{}{Akkor adjon pár stimpakkot!}
 {161}{}{Háááát...}
 {162}{hol19}{Örömmel.}
@@ -68,16 +68,16 @@
 {167}{hol20}{::hhhhõh:: Megsebesültél? Hadd lássam! Van pénzed?}
 {168}{}{Péndz?}
 {169}{}{Ige'!}
-{170}{}{Hadd kukkantsak bele a hátizsákodba! (átkutatja a zsákodat, és kivesz valamit) Rendben. Ez egy kicsit fájni fog.}
+{170}{hol21}{Hadd kukkantsak bele a hátizsákodba! (átkutatja a zsákodat, és kivesz valamit) Rendben. Ez egy kicsit fájni fog.}
 {171}{}{Fájni?}
 {172}{hol22}{Igen. Most... kész! Rendben vagyunk. Jó utat, és vigyázz magadra!}
 {173}{}{Köfönet!}
-{174}{}{Igen, orvos vagyok. Öröm látni, hogy az intelligencia él és virul a posztnukleáris világban is.}
+{174}{hol23}{Igen, orvos vagyok. Öröm látni, hogy az intelligencia él és virul a posztnukleáris világban is.}
 {175}{}{Ha! És csak úgy ugrál örömében egy 70 éves öregemberben!}
 {176}{}{Nem akarom a szart is kiverni magából, doki!}
 {177}{}{Õõõ.. persze. Kérdeznék még.}
 {178}{}{Viszlát!}
-{179}{}{Fenyegesd csak a város egyetlen orvosát! Jó ötlet. ::köhh:: Ha akarsz valamit, akkor kérd illedelmesen! Máskülönben tûnj a francba a kórházamból!}
+{179}{hol24}{Fenyegesd csak a város egyetlen orvosát! Jó ötlet. ::köhh:: Ha akarsz valamit, akkor kérd illedelmesen! Máskülönben tûnj a francba a kórházamból!}
 {180}{}{Ezt nem kellett volna, öreg! Most megdöglik!}
 {181}{}{Igen. Persze.}
 {182}{}{Bocs. Rossz napom volt.}
@@ -86,14 +86,14 @@
 {185}{hol26}{Sokat kell még tanulnod a humorról, haver!}
 {186}{}{Aha, ahogy mondja.}
 {187}{}{Oké, most lett elegem. Ezután magát kell majd meggyógyítania, öreg!}
-{188}{}{(Szemében nevetõ fény játszik) Hát, nem találkozni vele túl sok egyéb helyen manapság. A fiatalság, például...}
+{188}{hol27}{(Szemében nevetõ fény játszik) Hát, nem találkozni vele túl sok egyéb helyen manapság. A fiatalság, például...}
 {189}{}{Hé!}
 {190}{}{Ne szórakozzon velem, öreg!}
 {191}{}{...tárháza mindazon tudásnak, amit az öregek valaha birtokoltak...}
 {192}{}{Persze, persze... mennem kell!}
 {193}{hol28}{Nyugi, kölyök! Csak vicceltem!}
 {194}{}{Ja. Tudom. Szóval... õõõ... }
-{195}{}{...és amit soha nem mondunk el nektek, nyálasszájúaknak! (nevetésben tör ki) Legközelebb, ha orvosi segítségre szorulsz, a kórház állja a számlád, kölyök.}
+{195}{hol29}{...és amit soha nem mondunk el nektek, nyálasszájúaknak! (nevetésben tör ki) Legközelebb, ha orvosi segítségre szorulsz, a kórház állja a számlád, kölyök.}
 {196}{}{Kérdeznék valami mást.}
 {197}{}{Kösz. Viszlát legközelebb!}
 {198}{hol30}{Megsebesültél? Hadd segítsek!}
@@ -102,20 +102,20 @@
 {201}{hol31}{Kinek van baja? Ó, akkor álljatok szépen sorba, és majd egyesével végignézem!}
 {202}{}{One more thing...}
 {203}{}{Kösz! Viszlát!}
-{204}{}{Meglepõen keveset. Sajnálom, de amikor a gyógyításra összpontosítok, nem nagyon figyelek a legbelsõbb titkaikra.}
+{204}{hol32}{Meglepõen keveset. Sajnálom, de amikor a gyógyításra összpontosítok, nem nagyon figyelek a legbelsõbb titkaikra.}
 {205}{}{Óh. Válaszolna még pár kérdésre?}
-{206}{}{Szóval elmentem San Franciscóba és az ottani kínaiaktól tanultam... egy öreg úriember, név szerint Mr. Fung tanított meg mindenre, amit tudok a gyógymódokról. Némi bölcsességre is szert tettem tõle.}
+{206}{hol33}{Szóval elmentem San Franciscóba és az ottani kínaiaktól tanultam... egy öreg úriember, név szerint Mr. Fung tanított meg mindenre, amit tudok a gyógymódokról. Némi bölcsességre is szert tettem tõle.}
 {207}{}{Aztán mi történt?}
 {208}{}{És ennek mi köze Broken Hillshez?}
 {209}{hol34}{Mindjárt odaérek! A gyerekek manapság... olyan türelmetlenek.}
 {210}{}{Bocs. Folytasd.}
 {211}{}{Ez seggség. Tûnök innen!}
-{212}{}{Aztán visszajöttem, és látom, hogy Marcus várost épít a putriból, amire fiatalkoromból emlékszem. Ezt a "terjeszkedõ metropoliszt" láthatod most itt. Láttam az embereket, akiket a gazdagság ígérete csábított ide. Láttam az embereket felnõni és meghalni. Láttam a hely fontosabb pillanatait.}
+{212}{hol35}{Aztán visszajöttem, és látom, hogy Marcus várost épít a putriból, amire fiatalkoromból emlékszem. Ezt a "terjeszkedõ metropoliszt" láthatod most itt. Láttam az embereket, akiket a gazdagság ígérete csábított ide. Láttam az embereket felnõni és meghalni. Láttam a hely fontosabb pillanatait.}
 {213}{}{Ami azt jelenti, hogy...}
-{214}{}{Ami azt jelenti, hogy nem ismerem a város mai lakóit. Az emlékeim legtöbbje valóban nem más, mint... emlék.}
+{214}{hol36}{Ami azt jelenti, hogy nem ismerem a város mai lakóit. Az emlékeim legtöbbje valóban nem más, mint... emlék.}
 {215}{}{Óh. Hát, kösz a történetet.}
 {216}{}{Maga vén szivar! Ezért a semmiért váratott ennyit?}
-{217}{}{Nem, kösz, hogy meghallgattál. Legközelebb, ha orvosi segítségre szorulsz, nem kell fizetned semmit.}
+{217}{hol37}{Nem, kösz, hogy meghallgattál. Legközelebb, ha orvosi segítségre szorulsz, nem kell fizetned semmit.}
 {218}{}{Köszönöm! Egyébként...}
 {219}{}{Kösz. Viszlát!}
 {220}{hol38}{Aha. Remélem, megérte! (kuncog)}

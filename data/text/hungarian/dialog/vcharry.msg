@@ -11,7 +11,7 @@
 {110}{}{Rendben van, megveszem.}
 {111}{}{Nyolcszáz? Rendben, mindjárt hozom a pénzt.}
 {112}{}{Az túl sok! Smith-ék pusztuljanak csak éhen!}
-{113}{}{Nagyszerû [elteszi a pénzt]. Házhozszállítást is kérsz? Ingyen van.}
+{113}{hhary3}{Nagyszerû [elteszi a pénzt]. Házhozszállítást is kérsz? Ingyen van.}
 {114}{}{Házhozszállítás? Ingyen? Remek! Kérlek, vitesd el Smith-ékhez!}
 {115}{hhary4}{Sajnálom, barátom. Nyolcszáz az ára, egy centtel se kevesebb.}
 {119}{hhary5}{Ez sajnos nem lesz elég, barátom!}

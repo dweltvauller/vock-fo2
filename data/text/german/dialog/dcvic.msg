@@ -149,9 +149,9 @@
 {1800}{vic58}{OK, ich halte Abstand, aber nicht zu viel, Boss.}
 {1801}{vic59}{Okay, ich werde es nicht tun, Boss.}
 {1802}{vic60}{Ich bleibe dann also ein Stück zurück, Boss.}
-{1803}{vic61}{Klar, Boss.}
+{1803}{vic51}{Klar, Boss.}
 {1900}{vic62}{Genau, Boss. Ich bleib ein wenig zurück.}
-{1901}{vic63}{Was immer du sagst, Boss.}
+{1901}{vic39}{Was immer du sagst, Boss.}
 {1902}{vic64}{Sofort, Boss.}
 {1903}{vic65}{Falle zurück, Boss.}
 {1904}{vic66}{Zieh mich zurück, Boss.}
@@ -179,7 +179,7 @@
 {2311}{vic85}{Vault City. Schau es auf deinem neumodischen Kartending da nach.}
 {2403}{}{Woher hast du denn die Wasserflasche aus Vault 13?}
 {2404}{}{Macht nichts.}
-{2500}{vic86}{Klar, Boss.}
+{2500}{vic51}{Klar, Boss.}
 {2501}{vic87}{Frag mich alles, was du willst, Boss.}
 {2502}{vic88}{Ich werde dir helfen, soweit ich kann, Boss.}
 {2503}{vic89}{Ich hab doch keinen Ärger, oder, Boss?}

@@ -96,7 +96,7 @@
 {351}{}{Megteszem, amit csak tudok. Elõbb viszont kérdeznék még valamit.}
 {352}{}{I'll do my best, Mrs. Buckner. Goodbye.}
 {353}{}{Azt hiszem, mégsem tudok magának segíteni. Viszlát}
-{360}{ardin56}{Megtaláltad már Smileyt?}
+{360}{ardin38}{Megtaláltad már Smileyt?}
 {361}{}{Sajnálom, Mrs. Buckner. Még mindig keresem. Lenne még pár kérdésem viszont.}
 {362}{}{Nem, még csak most fogom elkezdeni a keresését. Viszlát}
 {370}{}{Biztos valami borzalmas dolog történt a fiammal, Torr-ral. Számítottam rád (zokog), hogy még idõben megtalálod. Az a szegény, együgyû fiú. El sem hiszem, hogy rád számítottam.}

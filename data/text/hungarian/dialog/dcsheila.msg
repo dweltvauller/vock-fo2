@@ -70,7 +70,7 @@
 {220}{shela22}{Rendben, nem várok tovább.}
 {221}{shela23}{Gyerünk, gyerünk!}
 {222}{shela16}{Kezdesz már felizgulni, vagy valami?}
-{223}{shela24}{Kövess!}
+{223}{shela17}{Kövess!}
 {224}{shela25}{Hé, haver, vedd le a kezed az áruról!}
 {225}{shela26}{Hagyd abba! Nem vagyok játékszer.}
 {230}{shela15}{Hogy...? Ez volt az elsõ alkalom?}

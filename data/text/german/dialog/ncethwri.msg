@@ -96,7 +96,7 @@
 {359}{}{Eigentlich nicht. Tja, ich muss dann mal los.}
 {360}{ew25}{Oh. (Blinzelt) Was kann ich also für dich tun?}
 {361}{ew26}{Und was sind das für Fragen?}
-{362}{ew27}{(Zuckt zusammen) Du meine Güte! Du hast mich ganz schön erschreckt! (Schielt) Na, hallo schon wieder!}
+{362}{ew2}{(Zuckt zusammen) Du meine Güte! Du hast mich ganz schön erschreckt! (Schielt) Na, hallo schon wieder!}
 {363}{}{Was hast du doch vorhin über die Abstinenzler-Vereinigung gesagt?}
 {364}{}{Ich suche nach einem GECK.}
 {365}{}{Ich suche einen Ort namens Vault 13.}

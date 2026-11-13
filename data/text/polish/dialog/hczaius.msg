@@ -16,7 +16,7 @@
 {115}{zaius4}{Dobrze. Có¿, jestem Zaius. Skoro siê ju¿ przedstawiliœmy... Znasz siê na naprawianiu? Mamy problem z naszym systemem oczyszczania powietrza na dolnym poziomie kopalni, ale nie mamy czêœci, by go naprawiæ ani sprzêtu, który ochroni³by nas przed gazem radonowym.}
 {116}{}{Nie znam siê na tym. Przykro mi.}
 {117}{}{Nie wygl¹da na trudne. Co muszê zrobiæ?}
-{118}{zaius5}{Có¿, mam nadziejê, ¿e podoba ci siê w Broken Hills.}
+{118}{}{Có¿, mam nadziejê, ¿e podoba ci siê w Broken Hills.}
 {119}{}{[dalej]}
 {120}{zaius6}{Cha. Cha. Bardzo œmieszne. Potrzebujemy jakiegoœ spryciarza do rozwi¹zania problemu.}
 {121}{}{Mam wiêcej sprytu ni¿ ktokolwiek inny na tym zadupiu.}

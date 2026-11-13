@@ -97,21 +97,21 @@
 {350}{}{[Guardando Bessy] Consegnare.}
 {360}{}{Potresti prepararmi un po' di carne?}
 {400}{grish70}{Cosa sta succedendo qui?}
-{402}{grish71}{Per tutti i diavoli! Sapevo che }
-{403}{grish72}{Come osi disonorare }
-{404}{grish73}{Uh, Jo, potremmo saltare la parte del giuramento?}
-{406}{grish74}{Ragazzo... }
-{407}{grish75}{Ragazza... }
-{410}{grish76}{Non costringermi a fare di }
-{412}{grish77}{Miria}
-{413}{grish78}{Davin}
-{414}{grish79}{Uh, Bo, possiamo saltare direttamente allo scambio dei voti?}
-{420}{grish80}{Tu non vai da nessuna parte, ragazzo!}
-{421}{grish81}{Tu non vai da nessuna parte, ragazza!}
-{452}{grish82}{ non era molto normale, ma c'e' un solo modo per sistemare le cose!}
-{453}{grish83}{? C'e' un solo modo per sistemare le cose!}
-{460}{grish84}{ una vedova.}
-{461}{grish85}{ un vedovo.}
+{402}{}{Per tutti i diavoli! Sapevo che }
+{403}{}{Come osi disonorare }
+{404}{grish75}{Uh, Jo, potremmo saltare la parte del giuramento?}
+{406}{grish76}{Ragazzo... }
+{407}{grish77}{Ragazza... }
+{410}{}{Non costringermi a fare di }
+{412}{}{Miria}
+{413}{}{Davin}
+{414}{grish80}{Uh, Bo, possiamo saltare direttamente allo scambio dei voti?}
+{420}{grish81}{Tu non vai da nessuna parte, ragazzo!}
+{421}{grish82}{Tu non vai da nessuna parte, ragazza!}
+{452}{}{ non era molto normale, ma c'e' un solo modo per sistemare le cose!}
+{453}{}{? C'e' un solo modo per sistemare le cose!}
+{460}{}{ una vedova.}
+{461}{}{ un vedovo.}
 {500}{grish44}{Beh, ma che bell'animale abbiamo qui. Ci potrei ricavare dell'ottima carne. Senti, ti daro' un po' di carne come pagamento. Che ne dici?}
 {501}{}{Assolutamente no! Io voglio bene a Bess. Nessuno ci fara' della carne.}
 {502}{}{Per me va bene. Quando posso passare a prendere la mia carne?}
@@ -130,13 +130,13 @@
 {750}{grish48}{Beh, adesso devo tornare al lavoro. Ci vediamo.}
 {800}{}{Hai salvato i brahmin di Grisham.}
 {1101}{}{Vedi lo zio Biff.}
-{1155}{grish86}{Lo sapevo che mia nipote era strana.}
-{1156}{grish87}{Sui gusti non si discute, immagino.}
-{1157}{grish88}{Sono felice che Grisham non possa assistere a questo spettacolo.}
-{1158}{grish89}{Lo sapevo che mio nipote era strano.}
-{1159}{grish90}{Credo che adesso tu possa chiamarmi zio.}
-{1160}{grish91}{Prenditi cura di mia nipote.}
-{1161}{grish92}{Prenditi cura di mio nipote.}
+{1155}{grish83}{Lo sapevo che mia nipote era strana.}
+{1156}{grish62}{Sui gusti non si discute, immagino.}
+{1157}{grish85}{Sono felice che Grisham non possa assistere a questo spettacolo.}
+{1158}{grish86}{Lo sapevo che mio nipote era strano.}
+{1159}{grish66}{Credo che adesso tu possa chiamarmi zio.}
+{1160}{grish88}{Prenditi cura di mia nipote.}
+{1161}{grish89}{Prenditi cura di mio nipote.}
 {1228}{grish49}{Ragazzo, non provarci nemmeno a spiegare questa cosa. Non voglio stare ad ascoltarti. Adesso andiamo a prendere il prete, diamo un qualche valore legale a questa storia e poi tu e mia nipote ve ne andate da qui.}
 {1229}{grish50}{Non posso negare che questo spettacolo mi eccita un po', ma devo fare quel che avrebbe fatto Grisham. Voi due adesso vi sposate e poi sparite da questa citta'.}
 {1230}{grish51}{Ti dispiacerebbe spiegarmi cosa stai facendo a mia nipote?}
@@ -146,8 +146,8 @@
 {1237}{grish54}{Davvero splendido. Avro' un furbacchione in famiglia. Beh, coraggio... 'nipote'. Chiudiamo in fretta questa storia.}
 {1238}{grish55}{Vediamo un po'... A me sembra che tu e mia nipote steste imitando due brahmin durante la stagione degli amori.}
 {1239}{grish56}{Vediamo un po'... A me sembra che tu e mio nipote steste ballando il tango orizzontale tra le lenzuola.}
-{1403}{grish93}{Come osi disonorare }
-{1412}{grish94}{daughter.}
-{1413}{grish95}{son.}
+{1403}{}{Come osi disonorare }
+{1412}{}{daughter.}
+{1413}{}{son.}
 {1600}{}{. Spero che tu ti sia preso cura di mia figlia Miria. E' la luce della mia vita e mi si spezzerebbe il cuore se le succedesse qualcosa. A proposito, dov'e'? Speravo tanto di rivederla.}
 {1601}{}{. Come va la vita matrimoniale? Vedo che mio figlio Davin non e' con te. Mi manca davvero molto. Magari la prossima volta che vieni a farmi visita potresti portarlo con te. Rivedere il mio unico figlio mi renderebbe un vecchio felice.}

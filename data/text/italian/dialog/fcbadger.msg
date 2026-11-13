@@ -102,8 +102,8 @@
 {201}{badge31}{Gli Shi hanno il controllo su tutto il carburante della citta'. Potrei dare uno sguardo al loro mainframe per te.}
 {202}{}{Puoi farlo?}
 {203}{badge40}{Cosa diavolo vuoi?}
-{204}{}{Badger il punk, suppongo?}
-{205}{}{Hai disonorato il nostro Imperatore per l'ultima volta!}
+{204}{shig1}{Badger il punk, suppongo?}
+{205}{shig2}{Hai disonorato il nostro Imperatore per l'ultima volta!}
 {206}{badge41}{Credo che andro' a prendermi qualche dolcetto da Lao Chou, giu' in citta'.}
 {207}{}{Alla faccia del giusto processo. Hmmm...}
 {208}{badge42}{Ragazzo, rilassati. Volevo solo qualche dolcetto.}

@@ -14,7 +14,7 @@
 {113}{}{Szívembõl szóltál, testvérem!}
 {114}{}{Asszem, épp eleget hallottam. Viszlát!}
 {115}{}{Nem vagyok kíváncsi erre a maszlagra.}
-{116}{moore3}{Igen! }
+{116}{}{Igen! }
 {117}{moore4}{Itt az idõ, hogy meghalljuk eme falakon kívül élõ rokonaink jajveszékelését és beengedjük õket. Több, mint elég erõforrás áll a rendelkezésünkre, hogy befogadjuk és etessük testvéreinket. Hisz' nem kell gazdagnak lennünk, ha oly HATALMAS odakint a szegénység.}
 {118}{}{Jól beszélsz, testvérem!}
 {119}{}{Szentigaz! Miért rekesszünk ki másokat, ha egyszer a segítség itt van, e falak közt?!}

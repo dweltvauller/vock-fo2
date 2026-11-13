@@ -14,7 +14,7 @@
 {113}{}{Ámen, bratøe!}
 {114}{}{Myslím, že už to nechci poslouchat. Sbohem.}
 {115}{}{Bìž si vykládat ty svoje bláboly nìkam jinam, kámo... takovejch, jako jsi ty, už tu bylo dost.}
-{116}{moore3}{Ano! }
+{116}{}{Ano! }
 {117}{moore4}{Je NAÈASE vyslyšet naøíkání našich druhù za zdí a pustit je dovnitø! Máme víc než dost k nasycení a ubytování našich bratrù... nepotøebujeme být bohatí zatímco je na svìtì TOLIK chudých.}
 {118}{}{Souhlasím!}
 {119}{}{Koneènì nìkdo, kdo má rozum! Proè musí ostatní trpìt, když pomoc leží pøímo mezi tìmito zdmi?}

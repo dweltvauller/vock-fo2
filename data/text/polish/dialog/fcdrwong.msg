@@ -138,9 +138,9 @@
 {455}{}{Zatrzymaj swoj¹ nagrodê. Zrobi³em tylko to, co musia³em.}
 {460}{wong43}{Proszê bardzo. [Wrêcza ci ró¿ne broni o wysokiej sile ra¿enia]}
 {461}{}{[dalej]}
-{470}{wong44}{Proszê bardzo. [Wrêcza ci parê drobiazgów]}
+{470}{wong43}{Proszê bardzo. [Wrêcza ci parê drobiazgów]}
 {471}{}{[dalej]}
-{480}{wong45}{Proszê bardzo. [Wrêcza ci 5000 dolarów]}
+{480}{wong43}{Proszê bardzo. [Wrêcza ci 5000 dolarów]}
 {481}{}{[dalej]}
 {490}{wong46}{Shi docenia twoj¹ pomoc. A teraz, jeœli wybaczysz, mam du¿o pracy. Mi³ego dnia!}
 {491}{}{[dalej]}

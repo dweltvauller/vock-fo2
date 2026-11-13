@@ -192,7 +192,7 @@
 {1700}{lenny42}{Ti s'staro' a'appicciato.}
 {1800}{lenny43}{Immagino che tu non voglia f'farci d'diventare un bersaglio t'troppo facile, eh?}
 {1900}{lenny44}{Okay, me ne s'staro' un p'pochino in disparte. S'sembra che i nemici cerchino di uccidere t'te, p'principalmente.}
-{2000}{lenny45}{Ci s'sono gia' cosi' tante p'persone con te. N'non hai bisogno del mio a'aiuto. B'buona fortuna.}
+{2000}{lenny33}{Ci s'sono gia' cosi' tante p'persone con te. N'non hai bisogno del mio a'aiuto. B'buona fortuna.}
 {2100}{}{Non avrei mai p'pensato di vivere abbastanza da vedere il g'giorno in cui mi sarei vergognato di partecipare alle tue a'azioni. Tu d'disonori la m'memoria dell'Abitante del Vault. B’dee-ya, b’dee-ya, addio.}
 {2200}{lenny47}{Non ero s'sicuro che saresti t'tornato.}
 {2300}{}{P'perche' hai sempre c'cosi' fretta?}

@@ -18,7 +18,7 @@ struppigen Bart wirkt seine Kleidung ordentlich und gepflegt.}
 {113}{}{Amen, Bruder!}
 {114}{}{Also weißt du, das reicht mir jetzt. Mach's gut.}
 {115}{}{Versuch doch, deinen Mist woanders loszuwerden... wir haben keinen Bedarf.}
-{116}{moore3}{Ja!}
+{116}{}{Ja!}
 {117}{}{Die ZEIT ist gekommen, das Wimmern unserer Blutsverwandten dort draußen vor den
  Stadttoren zu erhören und sie endlich einzulassen! Wir haben mehr als genug, unsre Brüder zu
  nähren und ihnen Obdach zu schenken. Wie können wir reich sein, wenn so VIELE arm sind?}

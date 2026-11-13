@@ -17,7 +17,7 @@
 {116}{}{V lékaøské databázi Vaultu se nacházely schémata bojových implantátù. Dokázal byste provést takovou operaci?}
 {117}{}{Teï ne. Není to tak zlé, jak to vypadá.}
 {118}{}{Ne, jsem v pohodì. Jen tudy procházím.}
-{119}{andr6}{Tak dobøe... co se tak dívám, bude to stát }
+{119}{}{Tak dobøe... co se tak dívám, bude to stát }
 {120}{}{ babek. Jestli máte prachy, mùžeme se do toho dát hned teï.}
 {121}{}{A na starýho Doka tam vzadu samozøejmì neposkytuju žádný záruky...}
 {122}{}{Odvázat? Odvázat! Tady peníze, ty odvázat mì.}
@@ -56,7 +56,7 @@
 {155}{}{Mùžete radìji vyléèit mì?}
 {156}{}{Aha. Poslyšte, chci se vás na nìco zeptat...}
 {157}{}{Co už. Každopádnì díky.}
-{158}{andr7}{Tak dobøe... co se tak dívám, bude to stát }
+{158}{}{Tak dobøe... co se tak dívám, bude to stát }
 {159}{}{ babek. Jestli máte prachy, mùžeme se do toho dát hned teï.}
 {160}{}{A na starýho Doka tam vzadu samozøejmì neposkytuju žádný záruky...}
 {161}{}{Tak dobøe.}
@@ -67,7 +67,7 @@
 {166}{}{V lékaøské databázi Vaultu se nacházely schémata bojových implantátù. Dokázal byste provést takovou operaci?}
 {167}{}{Nemám dost. Vrátím se, až budu mít trochu víc penìz.}
 {168}{}{Rozmyslel jsem si to. Možná nìkdy jindy.}
-{169}{andr15}{No, takže... víte vy co? Dejte mi }
+{169}{}{No, takže... víte vy co? Dejte mi }
 {170}{}{ babek za všechny a plácneme si. Co vy na to?}
 {171}{}{Tak dobøe.}
 {172}{}{Nevím. To je trochu moc. Co takhle }
@@ -88,8 +88,8 @@
 {187}{}{Aha. Chci se ještì na nìco zeptat...}
 {188}{}{Hmmm. Možná se vrátím, až budu potøebovat vaše služby.}
 {189}{}{Jo, ten Auto-Dok vzadu v místnosti. Je to zápùjèka z mìsta.}
-{190}{andr19}{Obèas trochu neposlouchá, ale vìtšinou svou práci odvede. Vìtšinou.}
-{191}{andr20}{V poslední dobì šlape jako hodinky, což je fajn. Pøi opakovaném použití ale trochu zlobí.}
+{190}{}{Obèas trochu neposlouchá, ale vìtšinou svou práci odvede. Vìtšinou.}
+{191}{}{V poslední dobì šlape jako hodinky, což je fajn. Pøi opakovaném použití ale trochu zlobí.}
 {192}{}{Vymìnil jsem pár kabelù a vyèistil vnitøek. Nemìl by už dìlat žádné problémy.}
 {193}{}{Aha. Chci se ještì na nìco zeptat...}
 {194}{}{Neposlouchá, jo? Tak na to se možná podívám...}
@@ -154,8 +154,8 @@
 {253}{}{Povìzte mi o tìch dalších implantátech.}
 {254}{}{Zapomeòte na to. Chci se ještì na nìco zeptat.}
 {255}{}{Aha. Tak snad nìkdy jindy..}
-{256}{andr35}{Všechny vaše køivky se zmìní na hrany, aspoò co já vím.}
-{257}{andr36}{Až s vámi skonèím, budete mít všude hrany.}
+{256}{}{Všechny vaše køivky se zmìní na hrany, aspoò co já vím.}
+{257}{}{Až s vámi skonèím, budete mít všude hrany.}
 {258}{}{Nacpání všech tìhlech plátù do vašeho tìla poznamená vaši charismu. Poøád máte zájem?}
 {259}{}{To je mi fuk. Tady jsou peníze a kevlarová zbroj.}
 {260}{}{No, nevím. 40 tácù je docela dost. Ale 30 tisíc u sebe mám.}

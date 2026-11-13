@@ -70,7 +70,7 @@
 {220}{shela22}{Bien; no pienso esperar más.}
 {221}{shela23}{Vamos, vamos.}
 {222}{shela16}{¿Llevas una pistola en el bolsillo o es que te alegras de verme?}
-{223}{shela24}{Sígueme.}
+{223}{shela17}{Sígueme.}
 {224}{shela25}{Eh, amigo, las manos fuera de la mercancía.}
 {225}{shela26}{¡Para ya! No soy ningún juguete.}
 {230}{shela15}{¿Qué...? ¿Era tu primera vez?}

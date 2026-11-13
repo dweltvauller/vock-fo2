@@ -102,8 +102,8 @@
 {201}{badge31}{Shi vlastní všechno palivo v okolí. Mohl bych pro tebe prohledat jejich poèítaè.}
 {202}{}{Opravdu?}
 {203}{badge40}{Co sakra chceš?}
-{204}{}{Badger od pankáèù, pøedpokládám?}
-{205}{}{To bylo naposled, co jsi zostudil našeho Císaøe!}
+{204}{shig1}{Badger od pankáèù, pøedpokládám?}
+{205}{shig2}{To bylo naposled, co jsi zostudil našeho Císaøe!}
 {206}{badge41}{Myslím, že pùjdu do mìsta sehnat nìjaký lízátka od Lao Chou.}
 {207}{}{Tolik ke spravedlivýmu procesu. Hmmm...}
 {208}{badge42}{Kámo, prober se. Jenom jsem chtìl nìjaký sladkosti.}

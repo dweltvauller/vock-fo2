@@ -50,7 +50,7 @@
 {149}{jub16}{Sóshús egy öreg földmérõ - jobban mondva - egy részeg disznó. Westin birtokán él.}
 {150}{}{Kérdeznék még...}
 {151}{}{Köszönöm, hogy megosztotta ezt velem.}
-{152}{jub17}{Hát, reméltem, hogy nem ingyen válok meg tõle. Legyen az ára }
+{152}{}{Hát, reméltem, hogy nem ingyen válok meg tõle. Legyen az ára }
 {153}{}{Talán késõbb, de még valami érdekelne...}
 {154}{}{Talán késõbb, de most mennem kell.}
 {155}{jub18}{Sóshús egy öreg földmérõ - jobban mondva - egy részeg disznó. Westin birtokán él.}

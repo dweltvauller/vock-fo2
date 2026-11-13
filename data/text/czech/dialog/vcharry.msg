@@ -11,7 +11,7 @@
 {110}{}{Dohodnuto. To beru.}
 {111}{}{Eh, osm set? Vydr, vrátím se... s penìzi.}
 {112}{}{Zapomeò na to. Jen a si Smithovi hladoví.}
-{113}{}{Je tvùj. (Dá si do kapsy peníze.) Vezmeš si ho hned, nebo ho chceš nìkam dopravit?}
+{113}{hhary3}{Je tvùj. (Dá si do kapsy peníze.) Vezmeš si ho hned, nebo ho chceš nìkam dopravit?}
 {114}{}{Doprav ho ke Smithovım.}
 {115}{hhary4}{Promiò, pøíteli. Bude tì to stát osm set.}
 {119}{hhary5}{Na zaplacení potøebuješ peníze, pøíteli.}
@@ -19,7 +19,7 @@
 {121}{hhary6}{ádnı problém. Hned ho tam nechám dopravit.}
 {122}{hhary17}{Chtìli jsme si pøilepšit, co? Zatracenej zlodìji... stráe! Stráe!}
 {123}{}{Posílá mì Dave. Pokoušíme se opravit rozbitou vodní pumpu a on mi øíkal, e budeš mít náhradní motor.}
-{124}{}{Pracuješ s Davem, jo? Jo, znám toho chlápka. Koukám, e se mu stále daøí pøemlouvat ostatní, aby udìlali práci za nìj. Parchant jeden línej. (Usmìje se.) No ale myslím, e mám pøesnì to, co potøebuješ, ale pro jistotu se zajdu podívat. (Harry odejde do zadní místnosti, odkud je slyšet, jak hıbe s nìjakımi krabicemi. Za minutu se vrátí.) Jo, mám ho tady. $500 a je tvùj.}
+{124}{hhary7}{Pracuješ s Davem, jo? Jo, znám toho chlápka. Koukám, e se mu stále daøí pøemlouvat ostatní, aby udìlali práci za nìj. Parchant jeden línej. (Usmìje se.) No ale myslím, e mám pøesnì to, co potøebuješ, ale pro jistotu se zajdu podívat. (Harry odejde do zadní místnosti, odkud je slyšet, jak hıbe s nìjakımi krabicemi. Za minutu se vrátí.) Jo, mám ho tady. $500 a je tvùj.}
 {125}{}{Jistì. Tady jsou peníze.}
 {126}{}{$500? Sakra. Doufám, e se mi to vyplatí. Fajn, tady jsou peníze.}
 {127}{hhary8}{Díky za obchod. Mìj se.}

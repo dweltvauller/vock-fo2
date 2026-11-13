@@ -14,7 +14,7 @@
 {159}{}{Was ist denn los, Alter, willst du mir etwas sagen?}
 {160}{lad4}{Grrrr! [Laddie schnappt wütend nach dir.]}
 {161}{}{[Hmm... Aus irgendeinem Grund mag er dich nicht.]}
-{162}{lad3}{Wuff! Wuff! Wuff! [Laddie springt an dir hoch und leckt dir das Gesicht.]}
+{162}{lad6}{Wuff! Wuff! Wuff! [Laddie springt an dir hoch und leckt dir das Gesicht.]}
 {163}{}{[Was für ein guter Hund.]}
 {164}{lad5}{Wuff? [Du kannst den Hund geradezu über dich lachen hören.]}
 {165}{}{[Niemand mag Klugschwätzer.]}

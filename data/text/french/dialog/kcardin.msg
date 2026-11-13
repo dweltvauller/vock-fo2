@@ -94,7 +94,7 @@
 {351}{}{Je ferai de mon mieux. Mais avant, j'aimerais vous poser une question.}
 {352}{}{Je ferai de mon mieux, Mme Buckner. Au revoir.}
 {353}{}{Vous savez, je ne pense pas pouvoir vous aider en ce moment. Au revoir.}
-{360}{ardin56}{Vous avez trouvé mon Souriant ?}
+{360}{ardin38}{Vous avez trouvé mon Souriant ?}
 {361}{}{Je regrette, Mme Buckner. Je continue à le chercher. Mais, laissez-moi vous poser une autre question.}
 {362}{}{Non, j'allais justement partir à sa recherche. Au revoir.}
 {370}{}{Je crois que quelque chose d'horrible est arrivé à mon pauvre Torr. [Sanglots...] Je comptais sur vous pour le trouver avant qu'il ne soit trop tard... Mon pauvre petit garçon. Et moi qui comptais sur vous...}

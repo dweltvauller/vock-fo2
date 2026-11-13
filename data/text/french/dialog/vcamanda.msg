@@ -49,7 +49,7 @@
 {148}{}{Ne t'inquiète pas. Je ferai libérer ton mari. Une fois que j'aurai reçu mon dû.}
 {149}{}{Laisse tomber. Peut-être que je pourrai parler à quelqu'un du Centre de répartition.}
 {150}{}{Tant pis. Oublie qu'on s'est rencontrés.}
-{151}{}{Hé, et moi alors ?!}
+{151}{myron6}{Hé, et moi alors ?!}
 {152}{ama18}{Je t'en prie, sauve Joshua. Il est dans la Cité, au Centre de répartition des domestiques.}
 {153}{ama19}{Merci d'avoir sauvé mon mari ! Je t'en prie... accepte ceci comme récompense. Ce n'est pas beaucoup, mais...}
 {154}{ama20}{Merci encore d'avoir sauvé mon mari. On va partir d'ici peu.}

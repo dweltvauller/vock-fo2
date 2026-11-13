@@ -162,7 +162,7 @@
 {500}{}{Vidíš paní Bishopovou. Špatnì se ti ale soustøeïuje na její vzhled, když køièí na stráže.}
 {510}{}{Mmmmm... ach, }
 {511}{}{Mmmzrrmnmn... ještì, }
-{512}{lbshp122}{Kombinace k sejfu... }
+{512}{}{Kombinace k sejfu... }
 {515}{lbshp123}{Vetøelec! Pomoc!}
 {516}{lbshp124}{Zlodìj! Zlodìj!}
 {517}{lbshp125}{Vetøelec! Stráže! Stráže!}
@@ -249,7 +249,7 @@
 {652}{}{Eh... víte o nìjakém DÙKAZU?}
 {655}{lbshp82}{Ne... John má nejspíš nìkde mapu jejich úkrytu. (Popotáhne a utøe si nos.) Mmmmm...}
 {657}{}{Bavme se radìji o nìèem jiném...}
-{660}{lbshp83}{ myslím... nebo nìco takového...}
+{660}{}{ myslím... nebo nìco takového...}
 {663}{}{Výbornì... èas rozlousknout sejf... spìte dobøe, paní Bishopová.}
 {665}{}{Víte, }
 {666}{}{Aha. Díky.}
@@ -292,7 +292,7 @@
 {750}{lbshp104}{*Zív*... (Schoulí se do klubíèka.) Je v mém sejfu. Bez Pip-Boye je ale k nièemu. Ani nevím, proè ho ještì mám.}
 {751}{}{Mùžu si ho vzít?}
 {752}{}{Hmmmnn. Chci se ještì zeptat...}
-{760}{lbshp105}{(Pokrèí rameny.) Jistì, jestli ho chcete. Kombinace je }
+{760}{}{(Pokrèí rameny.) Jistì, jestli ho chcete. Kombinace je }
 {761}{}{Jak se to používá?}
 {762}{}{Díky. Poslyšte, chci se ještì zeptat...}
 {770}{lbshp106}{(Leslie se pøevrátí na bok a zavøe oèi. Bìhem nìkolika vteøin usne.)}

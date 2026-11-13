@@ -16,7 +16,7 @@
 {115}{zaius4}{Rendben. Nos, a nevem Zaius. Most pedig, hogy bemutatkoztunk... jó a kézügyességed? Van egy kis gond ugyanis a légtisztító berendezéssel a bánya alsó szintjén, de sajnos nincs hozzá megfelelõ alkatrészünk, sem védõruhánk, ami megvédjen minket az odalent szétterjedt radongáztól.}
 {116}{}{Nem, sajnos nem.}
 {117}{}{Nem túl rossz. Mire van szükség?}
-{118}{zaius5}{Hát, remélem, jól fogod érezni magad itt Broken Hillsben.}
+{118}{}{Hát, remélem, jól fogod érezni magad itt Broken Hillsben.}
 {119}{}{(tovább)}
 {120}{zaius6}{Ha ha. Vicces. Épp egy ilyen csodás elmére van szükségünk a probléma megoldásához.}
 {121}{}{Okosabb vagyok bárkinél ebben a segglyuknyi faluban.}

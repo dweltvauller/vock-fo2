@@ -49,7 +49,7 @@
 {148}{}{Bez obav, tvého muže osvobodím. Až dostanu svoji odmìnu.}
 {149}{}{Zapomeò na to. Zkusím promluvit s nìkým v Centru rozdìlovaní služebníkù.}
 {150}{}{Kašli na to. Zapomeò, že jsme se potkali.}
-{151}{}{Hej, a co já?!}
+{151}{myron6}{Hej, a co já?!}
 {152}{ama18}{Prosím, zachraò Joshuu. Je ve mìstì ve Centru rozdìlování služebníkù.}
 {153}{ama19}{Díky za záchranu mého muže! Prosím... pøijmi toto jako odmìnu. Není to moc, ale...}
 {154}{ama20}{Ještì jednou díky za záchranu mého muže. Brzy se odstìhujeme.}

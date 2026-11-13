@@ -54,7 +54,7 @@
 {298}{}{Abban a jegyzetfüzetben az új teszteredmények vannak? Vethetnék rájuk egy pillantást? Én magam is kutató vagyok.}
 {300}{}{Jól van. Elnézést, hogy zavartam önt.}
 {310}{marj57}{Õrség! Õrség, vigyék innen ezt a személyt!}
-{315}{}{Szóval még több õrt raknak ide... Szépen vagyunk! Mintha számítana egyáltalán hányan vannak... nézze, bárki is küldte ide magát, nyilván ellátta instrukciókkal. Beszéljen a többi õr valamelyikével, hogy megtalálja, hova van beosztva! Menjen!}
+{315}{marj6}{Szóval még több õrt raknak ide... Szépen vagyunk! Mintha számítana egyáltalán hányan vannak... nézze, bárki is küldte ide magát, nyilván ellátta instrukciókkal. Beszéljen a többi õr valamelyikével, hogy megtalálja, hova van beosztva! Menjen!}
 {316}{}{Nem vagyok õr. Az új kutatók egyike vagyok. Van számomra valami feladata?}
 {317}{}{Elnézést, de azt reméltem, hogy körbevezet engem. Láttam, hogy itt áll, és erõs kényszert éreztem, hogy beszéljek magával. A vizit után akár vacsorázhatnánk is...}
 {318}{}{Köszönöm. Ön igen segítõkész.}
@@ -65,27 +65,27 @@
 {335}{marj8}{Ha! Pontosan ezt fogom tenni. Figyelem, ahogy elmegy innen. Pont. Távozzon, mielõtt hívom az õrséget!}
 {336}{}{Értem.}
 {337}{}{Megyek... ::aztán magadban hozzáteszed:: kopasz kurva.}
-{345}{}{Hmmmm. Jól van. Hadd vázoljam, mit is csinálunk itt. Egy Jetnek nevezett metamfetamin hatásait és hatékonyságát vizsgáljuk.}
+{345}{marj9}{Hmmmm. Jól van. Hadd vázoljam, mit is csinálunk itt. Egy Jetnek nevezett metamfetamin hatásait és hatékonyságát vizsgáljuk.}
 {346}{}{Értem. És hogy halad a kutatás?}
 {347}{}{Azt hiszem, támadt egy ötletem. Egyedül fogom szemrevételezni a tesztterület többi részét.}
 {355}{marj10}{Nem túl rózsás. A határidõk szorosak és rövid idõn belül le kell tisztáznunk a Jet gyártási folyamatát.}
 {356}{}{Miért? A Jet már így is éppen elég addiktív.}
 {357}{}{Mire fel a szoros határidõ?}
 {358}{}{Hát nem egyszerû feladat annyi szent. Nézze, valamit nagyon sürgõsen el kell intéznem. Mindjárt visszajövök.}
-{365}{}{Mondjuk senki nem mondott konkrétumot, de valószínûleg a reddingi Jet disztribúciónak köszönhetõ. A Jet *eléggé* potens anyag, de van még mit javítani rajta, és a nagykutyák növelni akarják a reddingi Jet-függõséget.}
+{365}{marj11}{Mondjuk senki nem mondott konkrétumot, de valószínûleg a reddingi Jet disztribúciónak köszönhetõ. A Jet *eléggé* potens anyag, de van még mit javítani rajta, és a nagykutyák növelni akarják a reddingi Jet-függõséget.}
 {366}{}{Mi ez a reddingi balhé?}
 {367}{}{Hát sok szerencsét a határidõk betartásához...}
-{375}{}{A Jet *eléggé* potens anyag, de van még mit javítani rajta, és a nagykutyák növelni akarják a reddingi Jet-függõséget. Olyan közel szeretnék a száz százalékhoz, amennyire csak tõlünk telik. Ehhez még jó sokat kell túlóráznunk.}
+{375}{marj12}{A Jet *eléggé* potens anyag, de van még mit javítani rajta, és a nagykutyák növelni akarják a reddingi Jet-függõséget. Olyan közel szeretnék a száz százalékhoz, amennyire csak tõlünk telik. Ehhez még jó sokat kell túlóráznunk.}
 {377}{}{Köszönöm az információt. Késõbb még jövök.}
 {385}{marj13}{Addict the miners in Redding to Jet, and whoever controls the Jet, controls Redding. Typical power play.}
 {386}{}{Nos... kinek a kezében is van a drog?}
-{395}{}{Hogy kinek a kezében van a drog? A Mordinók kezében. Természetesen Myron rakta le a Jet-gyártás alapjait, nekünk csak a tucatmunka marad.}
+{395}{marj14}{Hogy kinek a kezében van a drog? A Mordinók kezében. Természetesen Myron rakta le a Jet-gyártás alapjait, nekünk csak a tucatmunka marad.}
 {396}{}{Myron az ön fõnöke?}
-{405}{}{Akár ANNAK is nevezheti. Okos ember, ezt nem tudom elvitatni tõle, de nem sokat törõdik vele, mi történik idefenn. Leginkább az alagsori kuckójában tartózkodik... látogatókat nem fogad, csak a prostituáltak hadait. Tipikus projekt vezetõ.}
+{405}{marj15}{Akár ANNAK is nevezheti. Okos ember, ezt nem tudom elvitatni tõle, de nem sokat törõdik vele, mi történik idefenn. Leginkább az alagsori kuckójában tartózkodik... látogatókat nem fogad, csak a prostituáltak hadait. Tipikus projekt vezetõ.}
 {406}{}{Benézhetnék hozzá?}
 {407}{}{Igen, de a marketingesek rosszabbak. Mindenesetre kösz az információt. Késõbb még benézek.}
-{415}{}{Gondolom... hadd adjak egy belépõjelvényt. Csak mutassa meg az õröknek. Ne sokat maradjon, ha nem muszáj! Myron nem szereti, ha sok idejét rabolják.}
-{416}{}{Gondolom... hadd adjak egy belépõjelvényt. Csak mutassa meg az õröknek. Ne sokat maradjon, ha nem muszáj! Myron nem szereti, ha sok idejét rabolják... persze a maga esetében lehet, hogy kivételt tesz.}
+{415}{marj16}{Gondolom... hadd adjak egy belépõjelvényt. Csak mutassa meg az õröknek. Ne sokat maradjon, ha nem muszáj! Myron nem szereti, ha sok idejét rabolják.}
+{416}{marj17}{Gondolom... hadd adjak egy belépõjelvényt. Csak mutassa meg az õröknek. Ne sokat maradjon, ha nem muszáj! Myron nem szereti, ha sok idejét rabolják... persze a maga esetében lehet, hogy kivételt tesz.}
 {417}{}{Köszönöm a jelvényt. Késõbb találkozunk.}
 {425}{marj18}{Nézze, nagyon elfoglalt vagyok, szóval, ha nem bánja...}
 {426}{marj19}{Nézze, én... én, ööö, nagyon elfoglalt vagyok, szóval, ha nem bánja...}
@@ -104,11 +104,11 @@
 {455}{marj22}{Ez valami gyenge próbálkozás volt, hogy viccesnek tûnjön?}
 {456}{}{Csak úgy megkérdeztem. Gondoljon bele... mi lenne, ha önt elhurcolnák rabszolgának, ide lehoznák és telenyomnák drogokkal?}
 {457}{}{Ööö, igen. Most mennem kell.}
-{465}{}{Én a karám egyik oldalán állok, õk pedig a másik oldalán. Mivel kezdünk hipotézisekbe bocsátkozni, megérdeklõdöm, hogy esetleg nincs-e kedve személyesen meggyõzõdni, milyen is lehet a másik oldalon állni. Van egy-két kihasználatlan karámunk.}
+{465}{marj23}{Én a karám egyik oldalán állok, õk pedig a másik oldalán. Mivel kezdünk hipotézisekbe bocsátkozni, megérdeklõdöm, hogy esetleg nincs-e kedve személyesen meggyõzõdni, milyen is lehet a másik oldalon állni. Van egy-két kihasználatlan karámunk.}
 {466}{}{Várjunk egy pillanatot...}
 {467}{}{Öö, kösz nem kérek belõle. Bocsánat, hogy zavartam.}
-{475}{}{A rabszolgák halála érdekli? Nem sok történik. Többnyire véletlen túladagolás szokta okozni, általában egy asszisztens hibájából, de elõfordul, hogy egy rabszolga saját magát sebesíti meg. Némelyek túl sok Jetet vesznek be, mert a repülést túl komolyan gondolják.}
+{475}{marj24}{A rabszolgák halála érdekli? Nem sok történik. Többnyire véletlen túladagolás szokta okozni, általában egy asszisztens hibájából, de elõfordul, hogy egy rabszolga saját magát sebesíti meg. Némelyek túl sok Jetet vesznek be, mert a repülést túl komolyan gondolják.}
 {476}{}{Ezt leszámítva, hogy halad a drogteszt?}
 {477}{}{Fogadni mertem volna. Azért kösz az információt. Ön igen segítõkész.}
-{485}{}{Próbálkozzon lent a laborban! Az õrzött ajtónál. Ha találkoznak, mondja már meg neki, hogy ha van ideje, jöjjön fel ide. Ha nem ANNYIRA elfoglalt...}
+{485}{marj25}{Próbálkozzon lent a laborban! Az õrzött ajtónál. Ha találkoznak, mondja már meg neki, hogy ha van ideje, jöjjön fel ide. Ha nem ANNYIRA elfoglalt...}
 {1000}{}{Kaptál egy ideiglenes belépõt Marjorie-tõl.}

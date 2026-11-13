@@ -207,7 +207,7 @@
 {1090}{kit109}{¿Qué se supone que es esto, un campo de trabajo?}
 {1100}{kit110}{Dentro de lo tienen mucho mejor que los que están fuera. El mundo no ha cambiado tanto.}
 {1110}{kit111}{¿Qué clase de pueblo minero le llamas a esto?}
-{1120}{kit112}{No es mi tipo de lugar para nacer en el, sin ofender a nadie.}
+{1120}{kit101}{No es mi tipo de lugar para nacer en el, sin ofender a nadie.}
 {1130}{kit113}{Buen lugar para esconderse si la ley está en su cola.}
 {1140}{kit114}{Me pregunto si hay más bunkers como este por aquí.}
 {1150}{kit115}{La ciudad más pequeña del mundo. Apuesto a que sí.}
@@ -219,7 +219,7 @@
 {1200}{kit121}{Seguro que bloquea este lugar apretado.}
 {1210}{kit122}{He oído acerca de estos lugares...}
 {1220}{kit123}{Se siente muy agradable para caminar en una ciudad que parece ha juntos.}
-{1230}{kit124}{He oído acerca de estos lugares...}
+{1230}{kit122}{He oído acerca de estos lugares...}
 {1240}{kit125}{El único lugar santo en estos profano de los desechos.}
 {1250}{kit126}{Hace calor aquí.}
 {1251}{kit127}{Yo estoy sudando balas.}

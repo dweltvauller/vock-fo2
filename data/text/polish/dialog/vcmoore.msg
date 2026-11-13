@@ -14,7 +14,7 @@
 {113}{}{Amen, bracie!}
 {114}{}{Przykro mi, nie tym razem. Do zobaczenia.}
 {115}{}{Sprzedawaj szajbê komuœ innemu, kolego... Ja mam jej dosyæ.}
-{116}{moore3}{Tak! }
+{116}{}{Tak! }
 {117}{moore4}{Nadszed³ CZAS us³yszeæ naszych braci, czekaj¹cych za murami i wpuœciæ ich! Jesteœmy w stanie ich wy¿ywiæ i utrzymaæ... Nie wolno nam siê bogaciæ, gdy jest tylu BIEDNYCH.}
 {118}{}{S³yszê ciê!}
 {119}{}{Nareszcie ktoœ tu mówi do rzeczy! Czemu inni musz¹ cierpieæ, skoro tu mo¿na im pomóc?}

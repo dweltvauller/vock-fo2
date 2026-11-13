@@ -102,8 +102,8 @@
 {201}{badge31}{Die Shi haben das ganze Benzin in dieser Gegend. Ich könnte für dich einen Blick in ihren Großrechner werfen.}
 {202}{}{Kannst du das?}
 {203}{badge40}{Was zum Teufel willst du?}
-{204}{}{Dachs von den Vagabunden, nehm ich an?}
-{205}{}{Du hast zum letzten Mal Schande über unseren Kaiser gebracht.}
+{204}{shig1}{Dachs von den Vagabunden, nehm ich an?}
+{205}{shig2}{Du hast zum letzten Mal Schande über unseren Kaiser gebracht.}
 {206}{badge41}{Ich werde mir jetzt ein paar Süßigkeiten von Lao Chou in der Stadt holen.}
 {207}{}{Soviel zu einer fairen Verhandlung. Hmmm...}
 {208}{badge42}{Bleib locker Alter. Ich wollte doch bloß ein paar Süßigkeiten.}

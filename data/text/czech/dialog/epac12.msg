@@ -183,7 +183,7 @@
 {1090}{kit109}{Co má tohle jako být? Pracovní tábor?}
 {1100}{kit110}{Lidé uvnitø se mají daleko lépe než ti venku. Svìt se zase tak moc nezmìnil.}
 {1110}{kit111}{Co je tohle za hornické mìsto?}
-{1120}{kit112}{Bez urážky, ale tohle není místo, kde bych se chtìla narodit.}
+{1120}{kit101}{Bez urážky, ale tohle není místo, kde bych se chtìla narodit.}
 {1130}{kit113}{Perfektní místo, když se chceš schovat pøed zákonem.}
 {1140}{kit114}{Zajímalo by mì, jestli je tady v okolí víc takových bunkrù.}
 {1150}{kit115}{Vsadím se, že je tohle "Nejvìtší malé mìsto na svìtì".}
@@ -195,7 +195,7 @@
 {1200}{kit121}{Tohle vypadá na dobøe støežené místo.}
 {1210}{kit122}{O tomhle místì jsem kdysi slyšela...}
 {1220}{kit123}{Je to pøíjemný pocit pøijít do mìsta, kde to vypadá, že všechno funguje jak má.}
-{1230}{kit124}{O tomhle místì jsem kdysi slyšela...}
+{1230}{kit122}{O tomhle místì jsem kdysi slyšela...}
 {1240}{kit125}{Poslední svaté místo v tìchto nehostinných pustinách.}
 {1250}{kit126}{Tady je ale horko.}
 {1251}{kit127}{Potím se jako brahmína.}

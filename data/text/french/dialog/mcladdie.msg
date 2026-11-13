@@ -14,7 +14,7 @@
 {159}{}{Que se passe-t-il ? Tu essaies de me dire quelque chose ?}
 {160}{lad4}{Grrrr ! [Laddie te mord de toutes ses forces.]}
 {161}{}{[Hmm... Le chien n'a pas l'air de t'aimer... Va savoir pourquoi.]}
-{162}{lad3}{Ouaf ! Ouaf ! Ouaf ! [Laddie te saute dessus et te lèche le visage.]}
+{162}{lad6}{Ouaf ! Ouaf ! Ouaf ! [Laddie te saute dessus et te lèche le visage.]}
 {163}{}{[Quel bon toutou.]}
 {164}{lad5}{Ouaf ? [Tu peux presque entendre le rire du chien qui se moque de toi.]}
 {165}{}{[Personne n'aime les grandes gueules.]}

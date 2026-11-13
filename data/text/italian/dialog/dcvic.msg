@@ -127,9 +127,9 @@
 {1800}{vic58}{OK, me ne staro' a distanza, ma non troppo lontano, Boss.}
 {1801}{vic59}{Okay, non lo faro', Boss.}
 {1802}{vic60}{Allora me ne staro' un poco dietro, Boss.}
-{1803}{vic61}{Certo, Boss.}
+{1803}{vic51}{Certo, Boss.}
 {1900}{vic62}{D'accordo, Boss. Me ne staro' ben dietro.}
-{1901}{vic63}{Come vuoi, Boss.}
+{1901}{vic39}{Come vuoi, Boss.}
 {1902}{vic64}{Ecco fatto, Boss.}
 {1903}{vic65}{Sto nelle retrovie, Boss.}
 {1904}{vic66}{Vado dietro, Boss.}
@@ -156,7 +156,7 @@
 {2311}{vic85}{A Vault City. Controlla quella tua strana mappa.}
 {2403}{}{Dove l'hai presa la fiaschetta del Vault 13?}
 {2404}{}{Nulla.}
-{2500}{vic86}{Certo, Boss.}
+{2500}{vic51}{Certo, Boss.}
 {2501}{vic87}{Chiedimi qualsiasi cosa, Boss.}
 {2502}{vic88}{Ti aiutero' come posso, Boss.}
 {2503}{vic89}{Non sono nei guai, vero Boss?}

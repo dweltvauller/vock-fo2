@@ -127,9 +127,9 @@
 {1800}{vic58}{Dobra, bêdê siê krêci³ gdzieœ w pobli¿u ciebie, szefie.}
 {1801}{vic59}{Dobrze, bêdê uwa¿a³, szefie.}
 {1802}{vic60}{No to trochê sobie pospacerujê, szefie.}
-{1803}{vic61}{Dobra, szefie.}
+{1803}{vic51}{Dobra, szefie.}
 {1900}{vic62}{Dobra, szefie. Bêdê siê trzyma³ na dystans.}
-{1901}{vic63}{Jak sobie ¿yczysz, szefie.}
+{1901}{vic39}{Jak sobie ¿yczysz, szefie.}
 {1902}{vic64}{Ju¿ siê robi, szefie.}
 {1903}{vic65}{Trzymam siê z dala, szefie.}
 {1904}{vic66}{Ju¿ siê oddalam, szefie.}
@@ -156,7 +156,7 @@
 {2311}{vic85}{Kryptopolis. Rzuæ okiem na tê swoj¹ fikuœn¹ mapê.}
 {2403}{}{Sk¹d wzi¹³eœ manierkê Krypty 13?}
 {2404}{}{Niewa¿ne.}
-{2500}{vic86}{Dobra, szefie.}
+{2500}{vic51}{Dobra, szefie.}
 {2501}{vic87}{Pytaj o co chcesz, szefie.}
 {2502}{vic88}{Pomogê ci w miarê mo¿liwoœci, szefie.}
 {2503}{vic89}{Chyba nie wpad³em w k³opoty, co szefie?}

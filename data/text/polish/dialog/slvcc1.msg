@@ -8,7 +8,7 @@
 {109}{}{Ups, to nie tu stoi mój samochód...}
 {200}{don2}{Ty pierwszy, kretynie.}
 {201}{don3}{Nie mam na to czasu, braæ ich ch³opaki.}
-{202}{}{Do³¹czyæ do nas? To nie jest ¿adne pieprzone centrum rekrutacyjne. Jak chcesz do³¹czyæ do ³owców niewolników gadaj z Metzgerem. A teraz potrzebujesz jeszcze czegoœ, czy jesteœ tu tylko po to, ¿eby mnie zdenerwowaæ?}
+{202}{don4}{Do³¹czyæ do nas? To nie jest ¿adne pieprzone centrum rekrutacyjne. Jak chcesz do³¹czyæ do ³owców niewolników gadaj z Metzgerem. A teraz potrzebujesz jeszcze czegoœ, czy jesteœ tu tylko po to, ¿eby mnie zdenerwowaæ?}
 {203}{don5}{Metzger ciê przys³a³? [Zacz¹³ siê wierciæ, niewygodnie.] Nie mów, ¿e ju¿ chce wiêcej niewolników, jasna cholera, dopiero wys³aliœmy mu dostawê w zesz³ym tygodniu.}
 {300}{}{W³aœciwie to tak, potrzebujê czegoœ.}
 {301}{don6}{Dlaczego tu jesteœ?}
@@ -28,4 +28,4 @@
 {601}{don15}{Giñ, pieprzony Stra¿niku!}
 {800}{don16}{Hmm...Przeka¿ Metzgerowi moje pozdrowienia.}
 {900}{}{Nie, w³aœciwie, jestem tu ¿eby rzuciæ okiem na towar. Widzisz, mam bardzo szczególny gust, ale p³ace ekstra.}
-{901}{}{Gówno prawda. Metzger nigdy nie przysy³a³ tu klientów. Nie wiem co tu kombinujesz, ale masz trzy sekundy na spieprzanie zanim zawo³am ch³opaków, ¿eby nafaszerowali ciê o³owiem.}
+{901}{don12}{Gówno prawda. Metzger nigdy nie przysy³a³ tu klientów. Nie wiem co tu kombinujesz, ale masz trzy sekundy na spieprzanie zanim zawo³am ch³opaków, ¿eby nafaszerowali ciê o³owiem.}

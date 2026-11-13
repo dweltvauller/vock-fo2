@@ -139,9 +139,9 @@
 {455}{}{Mantenga su recompensa. Sólo lo hice porque era lo correcto a hacer.}
 {460}{wong43}{Aquí tienes. [Que las manos de varias armas de alta potencia]}
 {461}{}{[HECHO]}
-{470}{wong44}{Aquí tienes. [Él las manos suministros diversos]}
+{470}{wong43}{Aquí tienes. [Él las manos suministros diversos]}
 {471}{}{[HECHO]}
-{480}{wong45}{Aquí tienes. [Él de manos a $5,000]}
+{480}{wong43}{Aquí tienes. [Él de manos a $5,000]}
 {481}{}{[HECHO]}
 {490}{wong46}{El Shi agradece su asistencia. Ahora, tengo mucho trabajo que hacer. Buen día.}
 {491}{}{[HECHO]}

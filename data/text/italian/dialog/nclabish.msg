@@ -162,7 +162,7 @@
 {500}{}{Vedi la signora Bishop. E' difficile riuscire a concentrarsi sul suo aspetto mentre sta chiamando le guardie.}
 {510}{}{Mmmmm...oh, }
 {511}{}{Mmmzrrmnmn... ancora, }
-{512}{lbshp122}{Combinazzzz... cassaforzzz...}
+{512}{}{Combinazzzz... cassaforzzz...}
 {515}{lbshp123}{Un intruso! Aiuto!}
 {516}{lbshp124}{Al ladro! Al ladro!}
 {517}{lbshp125}{Un intruso! Guardie! Guardie!}
@@ -249,7 +249,7 @@
 {652}{}{Uh... C'e' qualche PROVA di quanto dici, da qualche parte?}
 {655}{lbshp82}{No... John probabilmente ha una mappa con la loro posizione da qualche parte qui intorno... (Tira un po' su col naso, si gratta il naso.) Mmmmm...}
 {657}{}{Parliamo di qualcos'altro...}
-{660}{lbshp83}{, credo... qualcosa del genere...}
+{660}{}{, credo... qualcosa del genere...}
 {663}{}{Splendido... e' ora di andare a scassinare una cassaforte... dormi bene, Leslie.}
 {665}{}{Oh, }
 {666}{}{Oh. Grazie.}
@@ -292,7 +292,7 @@
 {750}{lbshp104}{*Yawn*... (Si raggomitola.) E' nella mia cassaforte. Non e' molto utile senza un Pip Boy, pero'. Non so perche' io continui a conservarlo.}
 {751}{}{Posso averlo?}
 {752}{}{Hmmmnn. Avrei delle altre domande...}
-{760}{lbshp105}{(Alza le spallle.) Certo, se lo vuoi. La combinazione e' }
+{760}{}{(Alza le spallle.) Certo, se lo vuoi. La combinazione e' }
 {761}{}{Come si usa?}
 {762}{}{Grazie. Senti, avrei delle altre domande...}
 {770}{lbshp106}{(La signora Bishop si gira e chiude gli occhi. Dopo pochi secondi si addormenta.)}

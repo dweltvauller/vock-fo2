@@ -97,21 +97,21 @@
 {350}{}{[Patrz¹c na Bessy.] Zostawiam.}
 {360}{}{Chcê, abyœ przygotowa³ dla mnie trochê wêdzonki.}
 {400}{grish70}{Co tu siê dzieje?}
-{402}{grish71}{Cholera jasna! Wiedzia³em, ¿e }
-{403}{grish72}{Jak mo¿na by³o tak zhañbiæ moje dziecko! }
-{404}{grish73}{Ech, Jo, czy mo¿emy pomin¹æ te nudne kawa³ki?}
-{406}{grish74}{Ch³opcze...}
-{407}{grish75}{Panienko...}
-{410}{grish76}{Nie zmuszaj mnie, aby }
-{412}{grish77}{Miria}
-{413}{grish78}{Davin}
-{414}{grish79}{Yyy, Bo, mo¿emy pomin¹æ tê czêœæ o wi¹zaniu?}
-{420}{grish80}{Nigdzie nie pójdziesz, ch³opcze!}
-{421}{grish81}{Nigdzie nie pójdziesz, panienko!}
-{452}{grish82}{ jest trochê nie tego, ale jest tylko jedna metoda, aby to wszystko wyprostowaæ!}
-{453}{grish83}{! Wiesz, ¿e jest tylko jedna metoda, aby to naprawiæ!}
-{460}{grish84}{ sta³a siê wdow¹.}
-{461}{grish85}{ sta³ siê wdowcem.}
+{402}{}{Cholera jasna! Wiedzia³em, ¿e }
+{403}{}{Jak mo¿na by³o tak zhañbiæ moje dziecko! }
+{404}{grish75}{Ech, Jo, czy mo¿emy pomin¹æ te nudne kawa³ki?}
+{406}{grish76}{Ch³opcze...}
+{407}{grish77}{Panienko...}
+{410}{}{Nie zmuszaj mnie, aby }
+{412}{}{Miria}
+{413}{}{Davin}
+{414}{grish80}{Yyy, Bo, mo¿emy pomin¹æ tê czêœæ o wi¹zaniu?}
+{420}{grish81}{Nigdzie nie pójdziesz, ch³opcze!}
+{421}{grish82}{Nigdzie nie pójdziesz, panienko!}
+{452}{}{ jest trochê nie tego, ale jest tylko jedna metoda, aby to wszystko wyprostowaæ!}
+{453}{}{! Wiesz, ¿e jest tylko jedna metoda, aby to naprawiæ!}
+{460}{}{ sta³a siê wdow¹.}
+{461}{}{ sta³ siê wdowcem.}
 {500}{grish44}{O, ten okaz wygl¹da na ca³kiem dorodny. Powinno byæ z niego sporo dobrej wêdzonki. Wiesz co, powiedzmy, ¿e zatrzymam sobie czêœæ tego miêsa jako zap³atê. Co ty na to?}
 {501}{}{Nie ma mowy! Kocham Bess. Nikt nie bêdzie z niej robi³ ¿adnej wêdzonki.}
 {502}{}{Jak dla mnie, brzmi nieŸle. Kiedy mogê przyjœæ po moj¹ wêdzonkê?}
@@ -130,13 +130,13 @@
 {750}{grish48}{Có¿, muszê teraz wróciæ do pracy. Do zobaczenia.}
 {800}{}{Uda³o ci siê uratowaæ braminy Grishama.}
 {1101}{}{Widzisz wuja Biffa.}
-{1155}{grish86}{Wiedzia³em, ¿e moja bratanica by³a jakaœ dziwna.}
-{1156}{grish87}{Ró¿ni ludzie, ró¿ne gusta - jak przypuszczam.}
-{1157}{grish88}{Cieszê siê, ¿e Grisham tego nie do¿y³.}
-{1158}{grish89}{Wiedzia³em, ¿e mój bratanek by³ jakiœ dziwny.}
-{1159}{grish90}{Opiekuj siê dobrze moj¹ córk¹.}
-{1160}{grish91}{Dobrze siê opiekuj moj¹ bratanic¹.}
-{1161}{grish92}{Dobrze siê opiekuj moim bratankiem.}
+{1155}{grish83}{Wiedzia³em, ¿e moja bratanica by³a jakaœ dziwna.}
+{1156}{grish62}{Ró¿ni ludzie, ró¿ne gusta - jak przypuszczam.}
+{1157}{grish85}{Cieszê siê, ¿e Grisham tego nie do¿y³.}
+{1158}{grish86}{Wiedzia³em, ¿e mój bratanek by³ jakiœ dziwny.}
+{1159}{grish66}{Opiekuj siê dobrze moj¹ córk¹.}
+{1160}{grish88}{Dobrze siê opiekuj moj¹ bratanic¹.}
+{1161}{grish89}{Dobrze siê opiekuj moim bratankiem.}
 {1228}{grish49}{Ch³opcze, nawet nie próbuj tego wyjaœniæ. Nie chcê tego s³yszeæ. Idê po kaznodziejê, za³atwimy to zgodnie z prawem, a potem wyjedziesz i zabierzesz ze sob¹ mojego bratanka.}
 {1229}{grish50}{Nie mogê powiedzieæ, ¿e nie jestem tym wkurzony, ale muszê zrobiæ to co zrobi³by Grisham. Musicie siê hajtn¹æ i wyjechaæ.}
 {1230}{grish51}{Mo¿esz mi wyjaœniæ, co robisz z moj¹ bratanic¹?}
@@ -146,8 +146,8 @@
 {1237}{grish54}{Œwietnie. Bêdê mia³ teraz cwaniaczkê w rodzinie. Có¿... chodŸ bratanico, za³atwmy to szybko.}
 {1238}{grish55}{Popatrzmy. Wygl¹da mi na to, ¿e ty i moja bratanica naœladowaliœcie braminy w sezonie parzenia.}
 {1239}{grish56}{Popatrzmy. Wygl¹da mi na tu, ¿e ty i mój bratanek odstawialiœcie poziome tango miêdzy przeœcierad³ami.}
-{1403}{grish93}{Jak œmiesz plamiæ honor }
-{1412}{grish94}{córki mojego brata.}
-{1413}{grish95}{syna mojego brata.}
+{1403}{}{Jak œmiesz plamiæ honor }
+{1412}{}{córki mojego brata.}
+{1413}{}{syna mojego brata.}
 {1600}{}{. Mam nadziejê, ¿e dobrze opiekujesz siê moj¹ córk¹, Miri¹. Ona jest dla mnie œwiate³kiem rozjaœniaj¹cym moje ¿ycie. Pêk³o by mi serce, gdyby coœ mia³o siê jej staæ. Gdzie ona jest, tak przy okazji? Mia³em nadziejê, ¿e znowu siê z ni¹ zobaczê.}
 {1601}{}{. Jak tam ci siê ¿yje w ma³¿eñstwie? Widzê, ¿e mój syn, Davin, nie podró¿uje z tob¹. Bardzo mi go brak. Mo¿e kiedy tu wpadniesz nastêpnym razem, to i on móg³by tu przyjœæ razem z tob¹? Staruszek ucieszy³by siê, gdyby móg³ znowu zobaczyæ swojego syna.}

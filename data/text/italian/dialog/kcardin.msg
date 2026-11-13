@@ -94,7 +94,7 @@
 {351}{}{Faro' quel che posso. Lasci che le chieda qualcos'altro, pero'.}
 {352}{}{Faro' del mio meglio, signora Buckner. Arrivederci.}
 {353}{}{Sa, non credo proprio di poterla aiutare in questo momento. Addio.}
-{360}{ardin56}{Hai trovato il mio Smiley?}
+{360}{ardin38}{Hai trovato il mio Smiley?}
 {361}{}{Spiacente, signora Buckner. Lo sto ancora cercando. Vorrei chiederle qualcos'altro, pero'.}
 {362}{}{No, ma stavo proprio per andare a cercarlo. Arrivederci.}
 {370}{}{Temo che qualcosa di orribile sia capitato al mio povero ragazzo, Torr. Contavo su di te (sob) per ritrovarlo prima che fosse troppo tardi. Quel povero, ingenuo ragazzo. Non posso credere di essermi fidata di te.}

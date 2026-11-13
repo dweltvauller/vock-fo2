@@ -139,9 +139,9 @@
 {455}{}{Keep your reward. I only did it because it was the right thing to do.}
 {460}{wong43}{Here you go. [He hands you various high powered weapons]}
 {461}{}{[FATTO]}
-{470}{wong44}{Here you go. [He hands you various supplies]}
+{470}{wong43}{Here you go. [He hands you various supplies]}
 {471}{}{[FATTO]}
-{480}{wong45}{Here you go. [He hands you $5,000]}
+{480}{wong43}{Here you go. [He hands you $5,000]}
 {481}{}{[FATTO]}
 {490}{wong46}{The Shi appreciates your assistance. Now, I have much work to do. Good day.}
 {491}{}{[FATTO]}

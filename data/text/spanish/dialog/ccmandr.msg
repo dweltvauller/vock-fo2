@@ -22,7 +22,7 @@
 {121}{}{¿Papeles? ¡Tengo tus papeles aquí mismo!}
 {122}{cmdr9}{Respuesta errónea, gusano. Debes llevar tus papales contigo en todo momento. ¡Deberías saberlo!}
 {123}{}{Vete a la mierda.}
-{124}{cmdr10}{Deja mi casillero tranquilo o te daré una buena paliza.}
+{124}{cmdr7}{Deja mi casillero tranquilo o te daré una buena paliza.}
 {125}{cmdr11}{Hora de morir.}
 {200}{}{Muy bien, vamos a terminar con esto--no me gusta muties apestando mi oficina, y me tienes nada que hacer. ¿Trabajas
  para los Salvatores? }
@@ -43,7 +43,7 @@
 {252}{}{Nop. Jugar al escondite en tu máquina voladora fue idea mía. Genio, lo sé.}
 {253}{}{Sí, pensó que endulzaría el negocio enviándome. Qué trato, ¿eh?}
 {254}{}{Antes de responder a cualquier pregunta, tengo algunas de las mías.}
-{260}{cmdr18}{No tengo tiempo para esta mierda. ¡Guardias! ¡Maten a este muti!}
+{260}{cmdr13}{No tengo tiempo para esta mierda. ¡Guardias! ¡Maten a este muti!}
 {270}{cmdr19}{¿Se supone que es gracioso, mutante? Creo que serás mucho más divertido para mí cuando seas un sangriento cadáver. ¡Guardias! Maten a este muti!}
 {280}{cmdr20}{Oh, ¿tú? [Él se ríe.] Bien, ¿por qué no? Te estás muriendo de todos modos. ¿Qué quieres saber, mutante?}
 {281}{}{¿Por qué sigues llamándome mutante?}

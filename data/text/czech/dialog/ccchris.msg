@@ -131,7 +131,7 @@
 {228}{}{To byl špatnej tah, kámo.}
 {229}{}{Co si myslíš, že dìláš?}
 {230}{}{Poslyš, už jdu.}
-{231}{chris33}{Jo, dobøe.}
+{231}{}{Jo, dobøe.}
 {232}{}{Vytáhl vysílaèku a chystá se varovat celou základnu! Musím to s ním rychle vyøídit.}
 {233}{}{Sakra. Chlap vytáhnout mluvící krabièka. On mì prozradit. Muset on zastavit.}
 {800}{}{Podaøilo se ti pøelstít Chrise, aby ti øekl heslo.}

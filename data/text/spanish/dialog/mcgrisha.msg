@@ -97,21 +97,21 @@
 {350}{}{[Mirando a Bessy] A dejar.}
 {360}{}{Me gustaría que hicieras algo de cecina para mí.}
 {400}{grish70}{¿Qué está pasando aquí?}
-{402}{grish71}{¡Mi madre! Sabía que }
-{403}{grish72}{Cómo te atreves a mancillar el honor de mi }
-{404}{grish73}{Eh, Jo, ¿podemos pasar a la parte de los votos matrimoniales?}
-{406}{grish74}{Chico...}
-{407}{grish75}{Señorita...}
-{410}{grish76}{No querrás que }
-{412}{grish77}{Miria}
-{413}{grish78}{Davin}
-{414}{grish79}{Eh, Bo, ¿podemos pasar a la parte de los votos matrimoniales?}
-{420}{grish80}{¡No vas a ir a ninguna parte, chico!}
-{421}{grish81}{Esto me pasa por mandar a un neanderthal. ¡Ve!}
-{452}{grish82}{ era algo rarito, pero esto... ¡Sólo hay una forma de arreglarlo!}
-{453}{grish83}{. ¡Sólo hay una forma de arreglar esto!}
-{460}{grish84}{ se quede viuda, ¿no?.}
-{461}{grish85}{ se quede viudo, ¿no?.}
+{402}{}{¡Mi madre! Sabía que }
+{403}{}{Cómo te atreves a mancillar el honor de mi }
+{404}{grish75}{Eh, Jo, ¿podemos pasar a la parte de los votos matrimoniales?}
+{406}{grish76}{Chico...}
+{407}{grish77}{Señorita...}
+{410}{}{No querrás que }
+{412}{}{Miria}
+{413}{}{Davin}
+{414}{grish80}{Eh, Bo, ¿podemos pasar a la parte de los votos matrimoniales?}
+{420}{grish81}{¡No vas a ir a ninguna parte, chico!}
+{421}{grish82}{Esto me pasa por mandar a un neanderthal. ¡Ve!}
+{452}{}{ era algo rarito, pero esto... ¡Sólo hay una forma de arreglarlo!}
+{453}{}{. ¡Sólo hay una forma de arreglar esto!}
+{460}{}{ se quede viuda, ¿no?.}
+{461}{}{ se quede viudo, ¿no?.}
 {500}{grish44}{Oye, es un buen animal el que tienes ahí. Podría hacer una cecina muy buena con él. Te diré qué: sólo me quedaría con una parte como pago. ¿Qué me dices?}
 {501}{}{¡Ni de broma! Quiero a Bess. Nadie va a hacer cecina con ella.}
 {502}{}{Me parece bien. ¿Cuando podré volver para recoger mi cecina?}
@@ -130,13 +130,13 @@
 {750}{grish48}{Bueno, tengo que volver al trabajo. Ya nos veremos.}
 {800}{}{Has salvado a los brahmines de Grisham.}
 {1101}{}{Ves a Tío Biff.}
-{1155}{grish86}{Sabía que mi sobrina era rara.}
-{1156}{grish87}{Gente diferente, gustos diferentes, supongo.}
-{1157}{grish88}{Me alegro de que Grisham no este vivo para ver esto.}
-{1158}{grish89}{Sabía que mi sobrino era raro.}
-{1159}{grish90}{Supongo que ahora eres parte de la familia.}
-{1160}{grish91}{Cuida bien de mi sobrina.}
-{1161}{grish92}{Cuida bien de mi sobrino.}
+{1155}{grish83}{Sabía que mi sobrina era rara.}
+{1156}{grish62}{Gente diferente, gustos diferentes, supongo.}
+{1157}{grish85}{Me alegro de que Grisham no este vivo para ver esto.}
+{1158}{grish86}{Sabía que mi sobrino era raro.}
+{1159}{grish66}{Supongo que ahora eres parte de la familia.}
+{1160}{grish88}{Cuida bien de mi sobrina.}
+{1161}{grish89}{Cuida bien de mi sobrino.}
 {1228}{grish49}{Chico, no intentes explicar esto. No quiero oírlo. Voy a llamar al predicador, vamos a hacer todo esto legalmente, y te llevarás a mi sobrino contigo cuando te vayas de aquí.}
 {1229}{grish50}{No puedo decir que no este un poco consternado por esto, pero debo hacer lo que Grisham hubiera querido que hiciera. Vosotros dos vais a venir conmigo y vamos a casaros.}
 {1230}{grish51}{¿Te importaría explicar qué estabas haciendo con mi sobrina?}
@@ -146,8 +146,8 @@
 {1237}{grish54}{Esto es la hostia. Voy a tener un sabihondo como consuegro. Bueno, vamos... sobrina. Acabemos con esto.}
 {1238}{grish55}{Déjame ver. Me parece que tú y mi sobrina estábais imitando el ritual del cortejo del brahmin en la época de celo.}
 {1239}{grish56}{Déjame ver... Me parece que tú y mi sobrino estábais bailando un tango horizontal entre las sábanas.}
-{1403}{grish93}{Cómo te atreves a mancillar el honor de }
-{1412}{grish94}{hija de mi hermano.}
-{1413}{grish95}{hijo de mi hermano.}
+{1403}{}{Cómo te atreves a mancillar el honor de }
+{1412}{}{hija de mi hermano.}
+{1413}{}{hijo de mi hermano.}
 {1600}{}{. Espero que estés cuidando bien de mi hija Miria. Ella es la luz de mi vida y se me partiría el corazón si algo le ocurriera. ¿Dónde está, ya que estamos? Esperaba volver a verla.}
 {1601}{}{. ¿Qué tal la vida de casados? Veo que mi hijo Davin no viaja contigo. Le echo de menos. Quizás la próxima vez que vengas a visitarme puedas traerlo contigo. Harías muy feliz a este viejo si pudiera volver a ver a su hijo.}

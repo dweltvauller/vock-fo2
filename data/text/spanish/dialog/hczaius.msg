@@ -20,7 +20,7 @@
  o la ropa de protección que le evite a uno ser asfixiado por el gas radón que se ha estado acumulando.}
 {116}{}{No soy demasiado mañoso. Lo siento.}
 {117}{}{No demasiado malo. ¿Qué se necesitará?}
-{118}{zaius5}{Bien, pues espero que disfrutes de tu estancia en Broken Hills.}
+{118}{}{Bien, pues espero que disfrutes de tu estancia en Broken Hills.}
 {119}{}{(más)}
 {120}{zaius6}{Ja. Ja. Muy divertido. No hay nada mejor que un tipo listo para resolver un problema.}
 {121}{}{Más listo que cualquiera en esta mierda de ciudad.}

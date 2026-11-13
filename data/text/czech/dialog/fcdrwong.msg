@@ -138,9 +138,9 @@
 {455}{}{Nechte si svoji odmìnu. Udìlal jsem to jen proto, protože to bylo správné.}
 {460}{wong43}{Tady máte. (Pøedá ti rùzné zbranì silného kalibru.)}
 {461}{}{[KONEC]}
-{470}{wong44}{Tady máte. (Pøedá ti rùzné zásoby.)}
+{470}{wong43}{Tady máte. (Pøedá ti rùzné zásoby.)}
 {471}{}{[KONEC]}
-{480}{wong45}{Tady máte. (Pøedá ti $5000.)}
+{480}{wong43}{Tady máte. (Pøedá ti $5000.)}
 {481}{}{[KONEC]}
 {490}{wong46}{Shi si cení vaší pomoci. A teï mám spoustu práce. Hezký den.}
 {491}{}{[KONEC]}

@@ -192,7 +192,7 @@
 {1700}{lenny42}{Me m-mantendré c-cerca de ti.}
 {1800}{lenny43}{S-supongo que no queremos ser un b-blanco fácil, ¿eh?}
 {1900}{lenny44}{Está bien, me m-mantendré un poco más lejos. D-de todas formas la g-gente siempre parece querer matarte.}
-{2000}{lenny45}{H-hay d-demasiada gente aquí. T-tú ya n-no necesitas mi ayuda. B-buena suerte.}
+{2000}{lenny33}{H-hay d-demasiada gente aquí. T-tú ya n-no necesitas mi ayuda. B-buena suerte.}
 {2100}{}{J-jamás p-pensé que viviría para ver el d-día en el que estaría avergonzado de f-formar parte d-de lo que estás haciendo. E-eres una desgracia para e-el recuerdo del Morador d-del Refugio. Hasta nunca.}
 {2200}{lenny47}{No estaba s-seguro de que volverías.}
 {2300}{}{¿Por qué estás tan apurado siempre?}

@@ -8,7 +8,7 @@
 {109}{}{Uhh, ce n'est pas là que j'ai laissé ma voiture...}
 {200}{don2}{Toi le premier, enculé.}
 {201}{don3}{j'ai pas l'temps pour ça, chopez-les, les mecs !}
-{202}{}{Nous rejoindre ? C'est pas un putain de centre de recrutement ici. Si tu veux nous rejoindre va à la fosse voir Metzger. Tu veux vraiment quelque chose ou tu es là pour me faire chier ?}
+{202}{don4}{Nous rejoindre ? C'est pas un putain de centre de recrutement ici. Si tu veux nous rejoindre va à la fosse voir Metzger. Tu veux vraiment quelque chose ou tu es là pour me faire chier ?}
 {203}{don5}{Metzger t'envoie ? [Incommodé, il se met à remuer.] Il veut d'autres esclaves ? Il a reçu une livraison la semaine dernière.}
 {300}{}{Effectivement, j'ai besoin de quelque chose.}
 {301}{don6}{Alors, pourquoi t'es là ?}
@@ -28,4 +28,4 @@
 {601}{don15}{Meurs, fumier de Ranger !}
 {800}{don16}{Hum... Fais part à Metzger de mes respects.}
 {900}{}{Non, en fait, il m'a demandé de jeter un coup d'oeil à votre stock. Vous voyez, j'ai des goûts très particuliers et je suis prêt à y mettre le prix.}
-{901}{}{C'est des conneries. Metzger n'a jamais envoyé de client ici avant. Bordel de merde ! Jsais pas c'qui t'ammènes, mais j'te laisse trois secondes pour virer ta sale gueule de là avant que j'demande à mes gars de te transformer en passoire.}
+{901}{don12}{C'est des conneries. Metzger n'a jamais envoyé de client ici avant. Bordel de merde ! Jsais pas c'qui t'ammènes, mais j'te laisse trois secondes pour virer ta sale gueule de là avant que j'demande à mes gars de te transformer en passoire.}

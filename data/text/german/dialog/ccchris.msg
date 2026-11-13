@@ -164,7 +164,7 @@ wollen?}
 {228}{}{Keine gute Idee, Partner.}
 {229}{}{Was glaubst du denn, was du da machst?}
 {230}{}{He, ich hau hier ab.}
-{231}{chris33}{Ja, genau.}
+{231}{}{Ja, genau.}
 {232}{}{Er zieht ein Funkgerät heraus. Er wird die ganze verfluchte Basis warnen. Ich muss mir
  schnell was einfallen lassen.}
 {233}{}{Oh nein. Mann holt Sprechgerät raus. Er mich verraten. Muss aufhalten.}

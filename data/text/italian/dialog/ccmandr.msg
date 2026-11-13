@@ -22,7 +22,7 @@
 {121}{}{Documenti? Eccoteli qua i documenti che cerchi!}
 {122}{cmdr9}{Risposta sbagliata, pidocchio. Devi sempre portare i documenti con te, in ogni momento. Dovresti saperlo!}
 {123}{}{Fottiti.}
-{124}{cmdr10}{Lascia in pace il mio armadietto o te ne faro' pentire amaramente.}
+{124}{cmdr7}{Lascia in pace il mio armadietto o te ne faro' pentire amaramente.}
 {125}{cmdr11}{E' tempo... di morire.}
 {200}{}{Alright, let's get this over with--I don't like muties stinking up my office, and I got shit to do. Do you work
  for the Salvatores? }
@@ -46,7 +46,7 @@
 {252}{}{Nope. Playing hide-and-seek in your flying machine was all my own idea. Genius, I know.}
 {253}{}{Yeah, he thought he'd sweeten the trade by sending me along. What a deal, huh?}
 {254}{}{Before I answer any questions, I've got a few of my own.}
-{260}{cmdr18}{I don't have time for this bullshit. Guards! Kill this mutie!}
+{260}{cmdr13}{I don't have time for this bullshit. Guards! Kill this mutie!}
 {270}{}{That supposed to be funny, mutant? I think you'll be a lot funnier to me when you're a bleeding corpse. Guards!
  Kill this mutie!}
 {280}{cmdr20}{Oh, you do? [He chuckles.] Well hell, why not? You're dying anyway. What do you want to know, mutant?}

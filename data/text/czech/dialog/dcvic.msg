@@ -138,9 +138,9 @@
 {1800}{vic58}{Dobøe, budu se držet dál, ale ne moc daleko, šéfe.}
 {1801}{vic59}{Dobøe, nebudu, šéfe.}
 {1802}{vic60}{Budu se držet trochu dál, šéfe.}
-{1803}{vic61}{Jasnì, šéfe.}
+{1803}{vic51}{Jasnì, šéfe.}
 {1900}{vic62}{Jasnì, šéfe. Budu se držet dál.}
-{1901}{vic63}{Cokoliv øekneš, šéfe.}
+{1901}{vic39}{Cokoliv øekneš, šéfe.}
 {1902}{vic64}{Hotovo, šéfe.}
 {1903}{vic65}{Stojím dál, šéfe.}
 {1904}{vic66}{Trochu ustoupím, šéfe.}
@@ -168,7 +168,7 @@
 {2311}{vic85}{Vault City. Mrkni se do tý svojí parádní mapy.}
 {2403}{}{Odkud máš tuhle láhev na vodu?}
 {2404}{}{Zapomeò na to.}
-{2500}{vic86}{Jasnì, šéfe.}
+{2500}{vic51}{Jasnì, šéfe.}
 {2501}{vic87}{Zeptej se mì na cokoliv, šéfe.}
 {2502}{vic88}{Když mùžu, pomùžu, šéfe.}
 {2503}{vic89}{Nejsem v prùseru, že ne šéfe?}

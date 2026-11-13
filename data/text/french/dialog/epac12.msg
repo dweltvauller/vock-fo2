@@ -183,7 +183,7 @@
 {1090}{kit109}{Qu'est-ce que cet endroit est-il sensé être, un camp de travail ?}
 {1100}{kit110}{Les gens à l'intérieur se portent tellement mieux que ceux de l'extérieur. Le monde n'a pas tant changé que ça finalement.}
 {1110}{kit111}{Comment appelles-tu ce genre de ville minière ?}
-{1120}{kit112}{C'est pas trop le genre de lieu où je suis née, sans vouloir te vexer.}
+{1120}{kit101}{C'est pas trop le genre de lieu où je suis née, sans vouloir te vexer.}
 {1130}{kit113}{C'est une bonne cachette si la police est à tes trousses.}
 {1140}{kit114}{Je me demande s'il y'a d'autres bunkers comme celui-ci dans le coin.}
 {1150}{kit115}{La plus grande des petites villes de la planète. J'parie.}
@@ -195,7 +195,7 @@
 {1200}{kit121}{Ils ont sûrement très bien verrouillé cette base.}
 {1210}{kit122}{J'ai entendu parler de ces bunkers...}
 {1220}{kit123}{C'est sympa de se promener dans une ville qui n'a pas l'air trop détraquée.}
-{1230}{kit124}{J'ai entendu parler de ces bunkers...}
+{1230}{kit122}{J'ai entendu parler de ces bunkers...}
 {1240}{kit125}{Un lieu si sacré au beau milieu de ces ordures.}
 {1250}{kit126}{Il fait chaud ici.}
 {1251}{kit127}{Je transpire à pleines gouttes.}

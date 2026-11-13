@@ -49,7 +49,7 @@
 {148}{}{Ne aggódj! Kiszabadítom a férjedet, miután jó alaposan... megismertük egymást.}
 {149}{}{Bocsáss meg, csak hülye tréfa volt. Megnézem, mit tehetek.}
 {150}{}{Tudod mit? Felejtsük el az egészet!}
-{151}{}{Hé, és velem mi lesz?!}
+{151}{myron6}{Hé, és velem mi lesz?!}
 {152}{ama18}{Kérlek, szabadítsd ki Joshuát! A városban van, a Szolgaközvetítõ Központban.}
 {153}{ama19}{Köszönöm, hogy kiszabadítottad a férjemet. Kérlek, fogadd el ezt a kis pénzt! Nem sok, de ennél többet nem tudok adni.}
 {154}{ama20}{Még egyszer köszönöm, hogy kiszabadítottad a férjemet. Hamarosan elmegyünk innen.}

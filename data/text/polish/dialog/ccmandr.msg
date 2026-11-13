@@ -22,7 +22,7 @@
 {121}{}{Papiery? Zaraz ci poka¿e papiery!}
 {122}{cmdr9}{Z³a odpowiedŸ, robaku. Masz obowi¹zek nosiæ swoje papiery przy sobie przez ca³y czas. ¯o³nierz powinien to wiedzieæ.}
 {123}{}{IdŸ siê jebaæ.}
-{124}{cmdr10}{Zostaw moj¹ szafkê w spokoju, albo ukarzê ciê porz¹dn¹ dawk¹ bólu.}
+{124}{cmdr7}{Zostaw moj¹ szafkê w spokoju, albo ukarzê ciê porz¹dn¹ dawk¹ bólu.}
 {125}{cmdr11}{Czas na œmieræ.}
 {200}{cmdr12}{Dobra, za³atwmy to szybko nie chcê ¿eby mi biuro zaœmierd³o mutkami, a mam od cholery roboty. Pracujesz dla Salvatore? }
 {201}{}{Nie twój interes, dupku.}
@@ -42,7 +42,7 @@
 {252}{}{Nie. Zabawa w chowanego w twojej lataj¹cej maszynie by³a moim pomys³em. Genialne, wiem.}
 {253}{}{Tak, chcia³ os³odziæ handel wysy³aj¹c mnie tutaj. Jaka okazja, co?}
 {254}{}{Zanim odpowiem na jakiekolwiek pytania, mam kilka swoich.}
-{260}{cmdr18}{Nie mam czasu na te bzdury. Stra¿! Zabiæ tego mutka!}
+{260}{cmdr13}{Nie mam czasu na te bzdury. Stra¿! Zabiæ tego mutka!}
 {270}{cmdr19}{To mia³o byæ zabawne, mutancie? Wiesz co, myœlê, ¿e bardziej ubawi¹ mnie twoje krwawi¹ce zw³oki. Stra¿! Zabiæ tego mutka!}
 {280}{cmdr20}{O, naprawdê? [Œmieje siê krótko.] A co? I tak zginiesz. Co chcesz wiedzieæ, mutancie?}
 {281}{}{Dlaczego wci¹¿ nazywasz mnie mutantem?}

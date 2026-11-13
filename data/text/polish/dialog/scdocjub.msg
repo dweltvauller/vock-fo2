@@ -50,7 +50,7 @@
 {149}{jub16}{Bardzo du¿¹ po prostu. Peklowany to stary poszukiwacz uranu - œciœlej mówi¹c, pijak. ¯yje sobie teraz na posiad³oœci Westina.}
 {150}{}{Kolejne pytanie...}
 {151}{}{Dziêki za opowieœæ.}
-{152}{jub17}{W³aœciwie to mia³em wielk¹ nadziejê, ¿e dostanê za niego trochê pieniêdzy. Puszczê go za $}
+{152}{}{W³aœciwie to mia³em wielk¹ nadziejê, ¿e dostanê za niego trochê pieniêdzy. Puszczê go za $}
 {153}{}{Mo¿e póŸniej, mam jeszcze jedno pytanie...}
 {154}{}{Mo¿e póŸniej, muszê ju¿ iœæ.}
 {155}{jub18}{Peklowany to stary poszukiwacz uranu. ¯yje sobie teraz na posiad³oœci Westina.}

@@ -43,14 +43,14 @@
 {322}{jules145}{Co kdybys mì pøedstavil nìkterejm hereèkám, se kterýma dìláš, brácho?}
 {323}{jules146}{Nazdar, doufám, že jsi pøi svým vzestupu nezapomnìla na starýho kámoše Julese.}
 {324}{jules147}{Štìstìna se na tebe usmála, chlape. Jseš boží.}
-{325}{jules148}{Vždycky jsem vìdìl, že tvý jméno bude záøit. Vìdìl jsem to hned, jak jsem tì spatøil.}
+{325}{jules139}{Vždycky jsem vìdìl, že tvý jméno bude záøit. Vìdìl jsem to hned, jak jsem tì spatøil.}
 {340}{jules149}{No podívejte se na tu slaïounkou sestøièku.}
 {341}{jules150}{Puká mi srdce, když tì vidím.}
 {342}{jules151}{No tak, ségro, co takhle pusa pro starýho Julese?}
 {343}{jules152}{Sákryš, podívejte se na tu záøící hvìzdu... záøíš tak, že tì skoro nevidím, ségro!}
 {344}{jules153}{Nazdar! Øekl bych, že se ti v New Renu daøí!}
 {345}{jules154}{Co kdybych si s tebou zahrál v pár scénách, drahoušku?}
-{346}{jules155}{Nazdar, doufám, že jsi pøi svým vzestupu nezapomnìla na starýho kámoše Julese.}
+{346}{jules146}{Nazdar, doufám, že jsi pøi svým vzestupu nezapomnìla na starýho kámoše Julese.}
 {347}{jules156}{Štìstìna se na tebe usmála, drahoušku. Jseš boží.}
 {348}{jules157}{Vždycky jsem vìdìl, že tvý jméno bude záøit. Vìdìl jsem to hned, jak jsem tì spatøil.}
 {349}{jules158}{Jseš fakt parádní koèka, když øveš a vzdycháš ve filmech.}

@@ -14,7 +14,7 @@
 {159}{}{Copak pejsku, snažíš se mi nìco øíct?}
 {160}{lad4}{Vrrrr! (Laddie tì ošklivì kousne.)}
 {161}{}{(Hmm... z nìjakého dùvodu tì nemá rád.)}
-{162}{lad3}{HAF! HAF! HAF! (Laddie na tebe skáèe a líže tvoji tváø.)}
+{162}{lad6}{HAF! HAF! HAF! (Laddie na tebe skáèe a líže tvoji tváø.)}
 {163}{}{(Hodný pejsek.)}
 {164}{lad5}{HAF? (Skoro jako kdyby se ti ten pes smál.)}
 {165}{}{(Nikdo nemá rád chytráky.)}

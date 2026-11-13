@@ -97,21 +97,21 @@
 {350}{}{[Regardant Bessy.] Elle s'endort.}
 {360}{}{Pourriez-vous me préparer un peu de viande séchée ?}
 {400}{grish70}{Mais, que se passe-t-il là-dedans ?}
-{402}{grish71}{Merde alors... Je savais que }
-{403}{grish72}{Vous avez souillé l'honneur de }
-{404}{grish73}{Hé Jo, on pourrait passer directement à la fin ?}
-{406}{grish74}{Petit t'avise pas de...}
-{407}{grish75}{Petite t'avise pas de...}
-{410}{grish76}{J'aimerais pas que }
-{412}{grish77}{Miria}
-{413}{grish78}{Davin}
-{414}{grish79}{Hé Bo, on pourrait passer directement à la fin ?}
-{420}{grish80}{Tu ne vas nulle part, mon garçon !}
-{421}{grish81}{Tu ne vas nulle part, jeune fille !}
-{452}{grish82}{était différent, mais on peut encore redresser la situation !}
-{453}{grish83}{. Il faut redresser la situation !}
-{460}{grish84}{devienne veuve.}
-{461}{grish85}{devienne veuf.}
+{402}{}{Merde alors... Je savais que }
+{403}{}{Vous avez souillé l'honneur de }
+{404}{grish75}{Hé Jo, on pourrait passer directement à la fin ?}
+{406}{grish76}{Petit t'avise pas de...}
+{407}{grish77}{Petite t'avise pas de...}
+{410}{}{J'aimerais pas que }
+{412}{}{Miria}
+{413}{}{Davin}
+{414}{grish80}{Hé Bo, on pourrait passer directement à la fin ?}
+{420}{grish81}{Tu ne vas nulle part, mon garçon !}
+{421}{grish82}{Tu ne vas nulle part, jeune fille !}
+{452}{}{était différent, mais on peut encore redresser la situation !}
+{453}{}{. Il faut redresser la situation !}
+{460}{}{devienne veuve.}
+{461}{}{devienne veuf.}
 {500}{grish44}{Hé, quel bel animal vous avez là ! Il ferait une excellente viande séchée. Tenez, je n'ai qu'à vous payer en viande séchée, qu'en dites-vous ?}
 {501}{}{Pas question ! J'aime Bessy. Elle ne finira jamais en viande séchée.}
 {502}{}{Ca me convient. Quand puis-je revenir pour prendre ma viande séchée ?}
@@ -130,13 +130,13 @@
 {750}{grish48}{Bon, il faut que je retourne au travail, maintenant. A plus tard.}
 {800}{}{Tu as sauvé la Brahmine de Grisham.}
 {1101}{}{Tu vois Oncle Biff.}
-{1155}{grish86}{Je savais que ma nièce était bizarre.}
-{1156}{grish87}{A chacun ses goûts, je suppose.}
-{1157}{grish88}{Je suis heureux que Grisham ne soit plus en vie pour voir ça.}
-{1158}{grish89}{Je savais que mon neveu était bizarre.}
-{1159}{grish90}{Vous faites partie de la famille maintenant.}
-{1160}{grish91}{Prenez bien soin de ma nièce.}
-{1161}{grish92}{Prenez bien soin de mon neveu.}
+{1155}{grish83}{Je savais que ma nièce était bizarre.}
+{1156}{grish62}{A chacun ses goûts, je suppose.}
+{1157}{grish85}{Je suis heureux que Grisham ne soit plus en vie pour voir ça.}
+{1158}{grish86}{Je savais que mon neveu était bizarre.}
+{1159}{grish66}{Vous faites partie de la famille maintenant.}
+{1160}{grish88}{Prenez bien soin de ma nièce.}
+{1161}{grish89}{Prenez bien soin de mon neveu.}
 {1228}{grish49}{Bon sang, n'essayez même pas de vous expliquer. Je ne veux rien entendre. Je vais aller chercher le prêtre pour que tout soit fait dans les règles. Vous partirez en emmenant mon neveu avec vous.}
 {1229}{grish50}{Je ne peux pas dire que je ne sois pas bouleversé par ça, mais je dois faire ce que Grisham aurait souhaité. Vous deux, il va falloir vous marier et partir.}
 {1230}{grish51}{Ca vous ferait rien de m'expliquer ce que vous faites avec ma nièce ?}
@@ -146,8 +146,8 @@
 {1237}{grish54}{Ca c'est la meilleure. Il va falloir que j'aie une grande gueule dans la famille ! Allez... viens ma nièce. Finissons-en.}
 {1238}{grish55}{Allons donc. On dirait plutôt que vous et ma nièce étiez en train d'imiter les Brahmines pendant la saison du rut !}
 {1239}{grish56}{Allons donc. On dirait plutôt que vous et mon neveu étiez en train de danser le tango horizontal sous les draps !}
-{1403}{grish93}{Comment osez-vous souiller l'honneur de }
-{1412}{grish94}{ma fille ?}
-{1413}{grish95}{mon fils ?}
+{1403}{}{Comment osez-vous souiller l'honneur de }
+{1412}{}{ma fille ?}
+{1413}{}{mon fils ?}
 {1600}{}{. J'espère que tu prends bien soin de ma fille Miria. Elle est le soleil de ma vie et ça me briserait vraiment le coeur s'il lui arrivait quoi que ce soit. Où est-elle, d'ailleurs ? J'espérais bien pouvoir la revoir.}
 {1601}{}{. Comment ça se passe, la vie de couple ? Je vois que mon fils Davin ne t'accompagne pas. On peut dire qu'il me manque. Peut-être qu'à ta prochaine visite, tu l'amèneras avec toi. Ca ferait vraiment le bonheur d'un vieil homme, s'il pouvait revoir son seul fils.}

@@ -11,7 +11,7 @@
 {110}{}{Ok, ça marche. Je la prends.}
 {111}{}{Hein, huit cents, tu dis ? Bon, je reviendrai... avec l'argent.}
 {112}{}{Laisse tomber. Les Smith peuvent crever.}
-{113}{}{Elle est à toi. [Il empoche l'argent.] Tu la prends tout de suite, ou il faut la livrer quelque part ?}
+{113}{hhary3}{Elle est à toi. [Il empoche l'argent.] Tu la prends tout de suite, ou il faut la livrer quelque part ?}
 {114}{}{Dépose-la chez les Smith.}
 {115}{hhary4}{Je regrette l'ami, ça va te coûter huit cents.}
 {119}{hhary5}{Tu as besoin d'argent pour me payer, mon ami.}
@@ -19,7 +19,7 @@
 {121}{hhary6}{Y'a pas de problème. Je vais la faire livrer tout de suite.}
 {122}{hhary17}{Tu voulais te servir, hein ? Saleté de voleur... Gardes ! Gardes !}
 {123}{}{Un marchand nommé Dave m'envoie. Je travaille avec lui sur un projet et on a besoin d'un nouveau moteur pour une pompe à eau.}
-{124}{}{Tu bosses avec Dave, hein ? Ouais, je connais ce mec. Je crois que j'ai ce qu'il te faut, laisse-moi voir. [Harry va dans son arrière-salle et tu entends des boîtes se mélanger et se déplacer dans tous les sens. Il revient au bout d'une minute.] Ouais, je l'ai. Ca te fera $500 pour ça.}
+{124}{hhary7}{Tu bosses avec Dave, hein ? Ouais, je connais ce mec. Je crois que j'ai ce qu'il te faut, laisse-moi voir. [Harry va dans son arrière-salle et tu entends des boîtes se mélanger et se déplacer dans tous les sens. Il revient au bout d'une minute.] Ouais, je l'ai. Ca te fera $500 pour ça.}
 {125}{}{Ca marche. Voilà la monnaie.}
 {126}{}{500 ? Bon sang. J'espère que je serai remboursé. Bien, voilà le fric.}
 {127}{hhary8}{Merci pour cette affaire. Prends soin de toi.}

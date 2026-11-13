@@ -18,7 +18,7 @@
 {113}{}{¡Amén, hermano!}
 {114}{}{Me parece que ya he oído bastante. Adiós.}
 {115}{}{Ve a vender tu locura en otro lugar, compadre... aquí tenemos más que de sobra.}
-{116}{moore3}{¡Sí! }
+{116}{}{¡Sí! }
 {117}{}{¡Es HORA de escuchar el llanto de nuestros parientes del exterior y dejarlos entrar! Tenemos más
  que suficiente para alimentar y albergar a nuestros hermanos... no necesitamos ser ricos cuando hay TANTOS pobres.}
 {118}{}{¡Te escucho!}

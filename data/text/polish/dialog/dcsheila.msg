@@ -70,7 +70,7 @@
 {220}{shela22}{Trudno. Mam doúÊ tego czekania.}
 {221}{shela23}{No chodü, no chodü!}
 {222}{shela16}{Napalony czy co?}
-{223}{shela24}{Chodü za mnπ.}
+{223}{shela17}{Chodü za mnπ.}
 {224}{shela25}{Hej, koleú, ≥apy z dala od towaru!}
 {225}{shela26}{Odwal siÍ! Co ja jestem - zabawka jakaú, czy co?}
 {230}{shela15}{Eee...? Czy to by≥ twÛj pierwszy raz?}

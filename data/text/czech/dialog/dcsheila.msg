@@ -70,7 +70,7 @@
 {220}{shela22}{Fajn. Už nehodlám èekat ani vteøinu.}
 {221}{shela23}{Tak už pojï.}
 {222}{shela16}{Jseš vzrušenej?}
-{223}{shela24}{Pojï za mnou.}
+{223}{shela17}{Pojï za mnou.}
 {224}{shela25}{Hej, kámo, dej ty pracky pryè.}
 {225}{shela26}{Ruce pryè! Nejsem žádná hraèka, se kterou si mùžeš hrát.}
 {230}{shela15}{Ehhh...? To bylo tvoje poprvé?}

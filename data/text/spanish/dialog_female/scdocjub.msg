@@ -50,7 +50,7 @@
 {149}{jub16}{Sí. Cecina Bob es un viejo buscador de uranio: para ser más precisos, un borracho. Ahora vive en las afueras de la hacienda de los Westin.}
 {150}{}{Otra pregunta...}
 {151}{}{Gracias por la historia.}
-{152}{jub17}{Bien, esperaba conseguir algo de dinero. Lo soltaré por }
+{152}{}{Bien, esperaba conseguir algo de dinero. Lo soltaré por }
 {153}{}{Puede que más tarde, otra pregunta...}
 {154}{}{Quizá más tarde, me tengo que ir.}
 {155}{jub18}{Cecina es un viejo buscador de uranio. Ahora vive en las afueras de la hacienda de los Westin.}

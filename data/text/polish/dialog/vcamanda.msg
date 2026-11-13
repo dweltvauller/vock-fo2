@@ -49,7 +49,7 @@
 {148}{}{Nie martw siê, uwolniê twojego mê¿a. Jak tylko otrzymam zap³atê.}
 {149}{}{Zapomnij o tym. Mo¿e mogê porozmawiaæ z kimœ w Centrum Rozmieszczania...}
 {150}{}{Niewa¿ne. Zapomnij, ¿e kiedykolwiek siê spotkaliœmy.}
-{151}{}{Hej, a co ze mn¹?!}
+{151}{myron6}{Hej, a co ze mn¹?!}
 {152}{ama18}{Proszê uratuj Joshue. Jest w mieœcie, w Centrum Rozmieszczania S³u¿¹cych...}
 {153}{ama19}{Dziêkujê ci za uratowanie mojego mê¿a! Proszê... weŸ to jako nagrodê... To niewiele, ale...}
 {154}{ama20}{Dziêkujê ponownie za uratowanie mego mê¿a. Wkrótce bêdziemy wyruszaæ.}

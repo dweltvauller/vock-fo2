@@ -50,7 +50,7 @@
 {149}{jub16}{A velikou. Slaneèek je starý hledaè uranu, pøesnìji øeèeno opilec. Momentálnì žije u Westina.}
 {150}{}{Další otázka...}
 {151}{}{Díky za pøíbìh.}
-{152}{jub17}{No, doufal jsem, že za nìj dostanu nìjaké peníze. Nechám vám ho za $}
+{152}{}{No, doufal jsem, že za nìj dostanu nìjaké peníze. Nechám vám ho za $}
 {153}{}{Možná pozdìji, další otázka...}
 {154}{}{Možná pozdìji, teï musím jít.}
 {155}{jub18}{Slaneèek je starý hledaè uranu. Momentálnì žije u Westina.}

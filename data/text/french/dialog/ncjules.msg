@@ -43,14 +43,14 @@
 {322}{jules145}{Et si tu me présentais quelques-unes de ces actrices avec lesquelles tu travailles ?}
 {323}{jules146}{Salut, et j'espère que ta gloire ne t'a pas fait oublier ton ami Jules, hein ?}
 {324}{jules147}{Dame Fortune te sourit, mec. Tu as le DON.}
-{325}{jules148}{Je savais que tu aurais ton nom en haut de l'affiche. Je l'ai su au premier coup d'oeil.}
+{325}{jules139}{Je savais que tu aurais ton nom en haut de l'affiche. Je l'ai su au premier coup d'oeil.}
 {340}{jules149}{Visez-moi cette jolie soeurette !}
 {341}{jules150}{J'ai le coeur tout chamboulé rien que de te voir.}
 {342}{jules151}{Allez, soeurette, un bisou pour ton vieil ami Jules.}
 {343}{jules152}{Merde, visez-moi cette étoile ! Tu brilles si fort que je te vois à peine, soeurette !}
 {344}{jules153}{Salut ! On dirait que New Reno t'a BIEN réussi !}
 {345}{jules154}{Et si tu me laissais partager quelques scènes avec toi, ma douce ?}
-{346}{jules155}{Salut, et j'espère que ta gloire ne t'a pas fait oublier ton ami Jules, hein ?}
+{346}{jules146}{Salut, et j'espère que ta gloire ne t'a pas fait oublier ton ami Jules, hein ?}
 {347}{jules156}{Dame Fortune te sourit, ma douce. Tu as le DON.}
 {348}{jules157}{Je savais que tu aurais ton nom en haut de l'affiche, soeurette. Je l'ai su au premier coup d'oeil.}
 {349}{jules158}{Tu as vraiment la classe comme gonzesse quand tu te trémousses et que tu gémis à l'écran.}

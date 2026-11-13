@@ -14,7 +14,7 @@
 {159}{}{Co jest piesku, chcesz mi coœ powiedzieæ?}
 {160}{lad4}{Grrrr! [Z dzikoœci¹ w oku Laddie gryzie ciê w ty³ek]}
 {161}{}{[Hmm... z jakiegoœ powodu nie lubi ciê.]}
-{162}{lad3}{Hau! Hau! Hau! [Laddie skacze na ciebie i li¿e ciê po twarzy]}
+{162}{lad6}{Hau! Hau! Hau! [Laddie skacze na ciebie i li¿e ciê po twarzy]}
 {163}{}{[Jaki mi³y piesek]}
 {164}{lad5}{Hau? [Niemal s³yszysz, jak pies siê z ciebie œmieje]}
 {165}{}{[Nikt nie lubi m¹drali]}

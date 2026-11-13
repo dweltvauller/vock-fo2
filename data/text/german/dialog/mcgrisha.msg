@@ -97,21 +97,21 @@
 {350}{}{[Mit Blick auf Bessy.] Abliefern.}
 {360}{}{Ich hätte gern, dass du etwas Schnetzelfleisch für mich machst.}
 {400}{grish70}{Was ist hier los?}
-{402}{grish71}{Ach du Scheiße! Ich hab gewusst, dass }
-{403}{grish72}{Wie kannst du die Ehre von }
-{404}{grish73}{Äh, Jo, können wir das Blabla am Anfang nicht einfach überspringen?}
-{406}{grish74}{Junge...}
-{407}{grish75}{Mädel...}
-{410}{grish76}{Zwing mich nicht }
-{412}{grish77}{Miria}
-{413}{grish78}{Davin}
-{414}{grish79}{Oh, Bo, können wir den Teil mit dem Ehegelöbnis nicht einfach überspingen?}
-{420}{grish80}{Du gehst niergendwo hin Junge!}
-{421}{grish81}{Du gehst niergendwo hin Mädel!}
-{452}{grish82}{ anders ist, aber das ist nur auf eine Art zu richten!}
-{453}{grish83}{. besudeln! Das ist nur auf eine Art zu richten!}
-{460}{grish84}{ zur Witwe machen.}
-{461}{grish85}{ zum Witwer machen.}
+{402}{}{Ach du Scheiße! Ich hab gewusst, dass }
+{403}{}{Wie kannst du die Ehre von }
+{404}{grish75}{Äh, Jo, können wir das Blabla am Anfang nicht einfach überspringen?}
+{406}{grish76}{Junge...}
+{407}{grish77}{Mädel...}
+{410}{}{Zwing mich nicht }
+{412}{}{Miria}
+{413}{}{Davin}
+{414}{grish80}{Oh, Bo, können wir den Teil mit dem Ehegelöbnis nicht einfach überspingen?}
+{420}{grish81}{Du gehst niergendwo hin Junge!}
+{421}{grish82}{Du gehst niergendwo hin Mädel!}
+{452}{}{ anders ist, aber das ist nur auf eine Art zu richten!}
+{453}{}{. besudeln! Das ist nur auf eine Art zu richten!}
+{460}{}{ zur Witwe machen.}
+{461}{}{ zum Witwer machen.}
 {500}{grish44}{Da hast du aber ein schönes Tier. Gibt gutes Schnetzelfleisch. Pass auf, ich behalt was vom Schnetzelfleisch als Zahlung. Was meinst du?}
 {501}{}{Niemals! Ich liebe Bess. Aus der macht niemand Schnetzelfleisch.}
 {502}{}{Klingt gut. Wann kann ich mir das Schnetzelfleisch abholen?}
@@ -130,13 +130,13 @@
 {750}{grish48}{OK, ich muss jetzt wieder an die Arbeit. Bis später mal.}
 {800}{}{Du hast Grishams Brahmin gerettet.}
 {1101}{}{Du siehst Onkel Biff.}
-{1155}{grish86}{Ich weiß meine Nichte war sonderbar.}
-{1156}{grish87}{Ich finde über Geschmack kann man sich streiten.}
-{1157}{grish88}{Ich bin froh das Grisham nicht mehr am Leben ist um das mit anzusehen.}
-{1158}{grish89}{Ich weiß mein Neffe war sonderbar.}
-{1159}{grish90}{Ich schätze du gehörst jetzt zur Familie.}
-{1160}{grish91}{Pass gut auf meine Nichte auf.}
-{1161}{grish92}{Pass gut auf meinem Neffen auf.}
+{1155}{grish83}{Ich weiß meine Nichte war sonderbar.}
+{1156}{grish62}{Ich finde über Geschmack kann man sich streiten.}
+{1157}{grish85}{Ich bin froh das Grisham nicht mehr am Leben ist um das mit anzusehen.}
+{1158}{grish86}{Ich weiß mein Neffe war sonderbar.}
+{1159}{grish66}{Ich schätze du gehörst jetzt zur Familie.}
+{1160}{grish88}{Pass gut auf meine Nichte auf.}
+{1161}{grish89}{Pass gut auf meinem Neffen auf.}
 {1228}{grish49}{Junge, versuche erst gar nicht mir das zu erklären. Ich will das nicht hören. Ich geh 'n Priester holen, um das hier nach Gesetz ablaufen zu lassen, wenn er fertig ist nimmst du meinen Neffen und verschwindest.}
 {1229}{grish50}{Ich kann nicht leugnen dass mich das nicht anmacht, aber ich muss das tun was Grisham getan hätte. Ihr zwei werdet heiraten und dann gehen.}
 {1230}{grish51}{Könntest du mir mal erklären, was du mit meiner Nichte machst?}
@@ -146,8 +146,8 @@
 {1237}{grish54}{Na Klasse. Jetzt krieg ich 'nen Klugscheißer als Verwandten. Komm schon... Nichte. Bringen wir's hinter uns.}
 {1238}{grish55}{Mal sehen. Es sah so aus, als ob du und meine Nichte die Paarungszeit der Brahmins nachgemacht hättet.}
 {1239}{grish56}{Mal sehen. Es sah so aus, als ob du und mein Neffe 'nen Horizontalen Tango unterm Betttuch tanzen würdet.}
-{1403}{grish93}{Wie kannst du nur die Ehre meines Bruders besudeln }
-{1412}{grish94}{Tochter.}
-{1413}{grish95}{Sohn.}
+{1403}{}{Wie kannst du nur die Ehre meines Bruders besudeln }
+{1412}{}{Tochter.}
+{1413}{}{Sohn.}
 {1600}{}{. Ich hoffe, du passt gut auf meine Tochter Miria auf. Sie ist das Licht meines Lebens, und es würde mir das Herz brechen, wenn ihr etwas zustoßen würde. Wo ist sie eigentlich? Ich wollte sie eigentlich wiedersehen.}
 {1601}{}{. Wie bekommt dir das Eheleben denn so? Wie ich sehe, reist mein Sohn Davin nicht mit dir zusammen. Ich vermisse ihn schon sehr. Vielleicht kannst du ihn ja beim nächsten Besuch mitbringen. Das wär eine große Freude für einen alten Mann, wenn er seinen einzigen Sohn wiedersehen könnte.}

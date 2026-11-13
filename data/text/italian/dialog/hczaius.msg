@@ -16,7 +16,7 @@
 {115}{zaius4}{Okay... Beh, io sono Zaius. Adesso che ci siamo presentati… Come te la cavi con i lavori manuali? Abbiamo un problema con il nostro purificatore d'aria nel livello inferiore della miniera, ma non abbiamo ne' i pezzi di ricambio per ripararlo ne' l'equipaggiamento necessario per proteggerci dall'aumentata concentrazione di gas radon.}
 {116}{}{Non sono molto bravo. Mi spiace.}
 {117}{}{Me la cavo. Cosa devo fare?}
-{118}{zaius5}{Beh, spero che il tuo soggiorno a Broken Hills sia piacevole.}
+{118}{}{Beh, spero che il tuo soggiorno a Broken Hills sia piacevole.}
 {119}{}{(avanti)}
 {120}{zaius6}{Ah. Ah. Divertente. Non c'e' niente di meglio che un ragazzo sveglio per risolvere un problema.}
 {121}{}{Piu' sveglio di chiunque altro in questo cesso di paese.}

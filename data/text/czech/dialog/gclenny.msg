@@ -192,7 +192,7 @@
 {1700}{lenny42}{Budu se d-držet p-poblíž.}
 {1800}{lenny43}{H-hádám, že takhle n-nás tak snadno n-netrefí, co?}
 {1900}{lenny44}{Dobøe, b-budu stát o t-trochu d-dál. S-stejnì to vypadá, že chtìjí všichni z-zabít jenom tebe.}
-{2000}{lenny45}{Už máš h-hodnì l-lidí. Už moji pomoc n-nepotøebuješ. Pøeju h-hodnì štìstí.}
+{2000}{lenny33}{Už máš h-hodnì l-lidí. Už moji pomoc n-nepotøebuješ. Pøeju h-hodnì štìstí.}
 {2100}{}{Nikdy jsem si n-nemyslel, že se d-doèkám d-dne, kdy se b-budu stydìt za to, že jsem souèástí tvých skutkù. Dìláš ostudu památce Zakladatele. Šupity, dupity, sbohem.}
 {2200}{lenny47}{N-nebyl jsem si j-jistej, jestli se v-vrátíš.}
 {2300}{}{Proè poøád tak spìcháme?}

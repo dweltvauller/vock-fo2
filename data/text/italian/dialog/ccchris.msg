@@ -129,7 +129,7 @@
 {228}{}{Mossa sbagliata, amico.}
 {229}{}{Cosa credi di fare?}
 {230}{}{Ehi, me ne vado.}
-{231}{chris33}{Yeah, certo.}
+{231}{}{Yeah, certo.}
 {232}{}{Sta tirando fuori una ricetrasmittente. Sta per avvertire l'intera base! Devo occuparmi di lui in fretta.}
 {233}{}{Oh, no. Tipo buffo tirare fuori scatoletta parlatrice. Lui parlare di me. Me deve fermare.}
 {800}{}{Hai convinto Chris a dirti la parola d'ordine.}

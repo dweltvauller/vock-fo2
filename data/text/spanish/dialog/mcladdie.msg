@@ -14,7 +14,7 @@
 {159}{}{¿Qué es lo que ocurre, chico? ¿Qué tratas de decirme?}
 {160}{lad4}{¡Grrrr! [Laddie te propina un gran mordisco].}
 {161}{}{[Hmm… Por alguna razón no le gustas].}
-{162}{lad3}{¡Guau! ¡Guau! ¡Guau! [Laddie salta sobre ti y empieza a lamerte la cara].}
+{162}{lad6}{¡Guau! ¡Guau! ¡Guau! [Laddie salta sobre ti y empieza a lamerte la cara].}
 {163}{}{[Qué buen perrito].}
 {164}{lad5}{¿Guau? [Casi puedes sentir como el perro se ríe de ti].}
 {165}{}{[A nadie le gustan los sabelotodos].}

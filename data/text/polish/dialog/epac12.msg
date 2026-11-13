@@ -183,7 +183,7 @@
 {1090}{kit109}{Co to niby ma byæ, obóz pracy?}
 {1100}{kit110}{Ci w œrodku maj¹ du¿o lepiej od tych na zewn¹trz. Œwiat nie zmieni³ siê tak bardzo.}
 {1110}{kit111}{Mówisz, ¿e niby jakiego rodzaju to jest miasteczko górnicze?}
-{1120}{kit112}{Bez obrazy, ale nie chcia³abym siê urodziæ w takim miejscu.}
+{1120}{kit101}{Bez obrazy, ale nie chcia³abym siê urodziæ w takim miejscu.}
 {1130}{kit113}{Dobre miejsce na kryjówkê, jeœli szukaj¹ ciê w³adze.}
 {1140}{kit114}{Ciekawe czy jest wiêcej takich bunkrów w pobli¿u.}
 {1150}{kit115}{Idê o zak³ad. Najwiêksze Ma³e Miasteczko na Œwiecie.}
@@ -195,7 +195,7 @@
 {1200}{kit121}{NieŸle zemknêli to miejsce.}
 {1210}{kit122}{S³ysza³am o takich miejscach...}
 {1220}{kit123}{Mi³o jest wejœæ do miasta, które wygl¹da jak nale¿y.}
-{1230}{kit124}{S³ysza³am o takich miejscach...}
+{1230}{kit122}{S³ysza³am o takich miejscach...}
 {1240}{kit125}{Jedyne œwiête miejsce na tych przeklêtych pustkowiach.}
 {1250}{kit126}{Gor¹co tu.}
 {1251}{kit127}{Nawet amunicja mi siê poci.}

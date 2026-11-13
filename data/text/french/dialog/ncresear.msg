@@ -54,7 +54,7 @@
 {298}{}{Ce sont des résultats de test sur l'écritoire ? Je peux les voir ? Moi aussi je fais de la recherche, enfin, pas la même.}
 {300}{}{Très bien. Je m'excuse de t'avoir dérangée.}
 {310}{marj57}{Gardes ! Gardes, attrapez cette personne !}
-{315}{}{ENCORE des gardes. Ha ! Comme si ça changeait quelque chose... Ecoute, tu aurais dû recevoir des instructions de la personne qui t'a envoyé ici. Va parler à l'autre garde pour savoir où tu dois aller. Vas-y !}
+{315}{marj6}{ENCORE des gardes. Ha ! Comme si ça changeait quelque chose... Ecoute, tu aurais dû recevoir des instructions de la personne qui t'a envoyé ici. Va parler à l'autre garde pour savoir où tu dois aller. Vas-y !}
 {316}{}{Je ne vais pas être garde, je fais de la recherche. Tu as du travail pour moi ?}
 {317}{}{Excuse-moi, j'espérais que tu pourrais me faire visiter. Je t'ai vue et j'ai ressenti le BESOIN de te parler. Peut-être qu'après la visite, on pourrait aller manger...}
 {318}{}{Merci. Ton aide m'a été très utile.}
@@ -65,27 +65,27 @@
 {335}{marj8}{Ha ! Je crois que je vais te laisser filer. Pars avant que j'appelle les gardes.}
 {336}{}{Très bien.}
 {337}{}{Je m'en vais... [Marmonne.] ... tête d'oeuf.}
-{345}{}{Hum. D'accord. Laisse-moi te briefer sur notre activité ici : nous testons les effets et la force d'une méta amphétamine qui s'appelle le Jet.}
+{345}{marj9}{Hum. D'accord. Laisse-moi te briefer sur notre activité ici : nous testons les effets et la force d'une méta amphétamine qui s'appelle le Jet.}
 {346}{}{Je vois. Et où en sont les recherches ?}
 {347}{}{Je crois que j'ai une idée. Je vais faire le reste des tests moi-même.}
 {355}{marj10}{Pas très bien. Notre programme est très juste et nous devrons bientôt purifier le procédé de fabrication du Jet.}
 {356}{}{Pourquoi ? Il semblerait que le Jet rende déjà assez dépendant.}
 {357}{}{Pourquoi un programme juste ?}
 {358}{}{Ca a l'air dur comme boulot. Ecoute, je dois m'occuper de quelque chose, mais je reviens.}
-{365}{}{Personne ne l'a jamais dit, mais c'est probablement dû à la distribution de Jet à Redding. Le Jet est *assez* fort, mais on peut encore faire de gros progrès. Et l'armée veut augmenter la dépendance de Jet à Redding.}
+{365}{marj11}{Personne ne l'a jamais dit, mais c'est probablement dû à la distribution de Jet à Redding. Le Jet est *assez* fort, mais on peut encore faire de gros progrès. Et l'armée veut augmenter la dépendance de Jet à Redding.}
 {366}{}{Que se passe-t-il avec Redding ?}
 {367}{}{Eh bien, bonne chance pour terminer dans les délais.}
-{375}{}{Le Jet est *assez* fort, mais on peut encore faire de gros progrès. Et l'armée veut augmenter la distribution de Jet à Redding. Le but est d'atteindre un taux de dépendance le plus proche de 100%. Ca va nous demander encore pas mal de boulot.}
+{375}{marj12}{Le Jet est *assez* fort, mais on peut encore faire de gros progrès. Et l'armée veut augmenter la distribution de Jet à Redding. Le but est d'atteindre un taux de dépendance le plus proche de 100%. Ca va nous demander encore pas mal de boulot.}
 {377}{}{Merci pour ces renseignements. Je reviendrai plus tard.}
 {385}{marj13}{Il suffit de rendre dépendants au Jet les mineurs de Redding. Celui qui contrôle le Jet contrôle Redding. C'est le jeu du pouvoir habituel.}
 {386}{}{Alors, qui contrôle la came ?}
-{395}{}{Qui contrôle la came ? Les Mordino. Bien sûr, Myron a fait le plus gros avec la composition de Jet. Nous faisons surtout de la purification.}
+{395}{marj14}{Qui contrôle la came ? Les Mordino. Bien sûr, Myron a fait le plus gros avec la composition de Jet. Nous faisons surtout de la purification.}
 {396}{}{Myron, c'est ton patron ?}
-{405}{}{En QUELQUE sorte. Il faut bien avouer que c'est un malin. Mais il se fout pas mal de ce qui se passe ici. En général, il reste au sous-sol... Les visiteurs sont interdits, sauf les putes. C'est un chef de projet typique.}
+{405}{marj15}{En QUELQUE sorte. Il faut bien avouer que c'est un malin. Mais il se fout pas mal de ce qui se passe ici. En général, il reste au sous-sol... Les visiteurs sont interdits, sauf les putes. C'est un chef de projet typique.}
 {406}{}{Puis-je le voir ?}
 {407}{}{Ouais, il y a pire, il y a le marketing. Merci quand même pour les renseignements. Je reviendrai.}
-{415}{}{Je suppose... Prends ce badge provisoire, et montre-le aux gardes. Fais vite, Myron n'aime pas les gens qui restent trop longtemps.}
-{416}{}{Je suppose... Prends ce badge provisoire, et montre-le aux gardes. Fais vite, Myron n'aime pas les gens qui restent trop longtemps... mais il fera peut-être une exception pour toi.}
+{415}{marj16}{Je suppose... Prends ce badge provisoire, et montre-le aux gardes. Fais vite, Myron n'aime pas les gens qui restent trop longtemps.}
+{416}{marj17}{Je suppose... Prends ce badge provisoire, et montre-le aux gardes. Fais vite, Myron n'aime pas les gens qui restent trop longtemps... mais il fera peut-être une exception pour toi.}
 {417}{}{Merci pour le badge. Je reviendrai te voir plus tard.}
 {425}{marj18}{Ecoute, j'ai des tas de choses à faire, si tu permets...}
 {426}{marj19}{Ecoute, heu... J'ai heu... Des tas de choses à faire, si tu permets...}
@@ -95,7 +95,7 @@
 {435}{marj20}{Ce... Hum... Je suis très flattée mais j'ai des tas de choses à faire en ce moment... Alors, heu...}
 {436}{}{Alors si tu veux, je passe te chercher après le boulot. Je te force pas... On ira dîner, c'est tout, et on fera un brin de causette. On dirait que tu as besoin de penser à autre chose que le boulot. Il a l'air d'y avoir beaucoup de travail pour toi.}
 {437}{}{Bon, j'ai essayé. Merci quand même.}
-{445}{}{Oh, je suis pas terriblement occupée, mais assez. Les expériences, c'est la routine, et de temps en temps, un esclave pète les plombs.}
+{445}{marj21}{Oh, je suis pas terriblement occupée, mais assez. Les expériences, c'est la routine, et de temps en temps, un esclave pète les plombs.}
 {446}{}{Ca ne te pose pas de problème éthique d'injecter sciemment des méta amphétamines expérimentales sur des humains réduits à l'esclavage ?}
 {447}{}{Ca a l'air dangereux. Ca t'arrive de te faire mal ? Le taux de mortalité est-il important ?}
 {448}{}{Des expériences de stupéfiants ? Comment ça se passe ?}
@@ -103,11 +103,11 @@
 {455}{marj22}{C'était une mauvaise blague, hein ?}
 {456}{}{Simple question. Et si c'était toi qui avais été vendue comme esclave, amenée ici, et bourrée de stupéfiants ?}
 {457}{}{Heu, oui. Il faut que je parte.}
-{465}{}{Moi, je suis de CE côté, les esclaves sont de l'AUTRE côté. Puisque nous parlons d'hypothèse, tu veux faire l'expérience, il nous reste certainement une place.}
+{465}{marj23}{Moi, je suis de CE côté, les esclaves sont de l'AUTRE côté. Puisque nous parlons d'hypothèse, tu veux faire l'expérience, il nous reste certainement une place.}
 {466}{}{Attends une minute...}
 {467}{}{Heu, non merci. Je m'excuse de t'avoir dérangée.}
-{475}{}{Les accidents mortels surviennent par overdose, résultats d'erreurs professionnelles en général, ou de blessures volontaires. Certains avalent trop de Jet et ils veulent VRAIMENT planer. }
+{475}{marj24}{Les accidents mortels surviennent par overdose, résultats d'erreurs professionnelles en général, ou de blessures volontaires. Certains avalent trop de Jet et ils veulent VRAIMENT planer. }
 {476}{}{A part ça, comment se passent les tests de stupéfiants ?}
 {477}{}{C'est clair. Merci pour ces renseignements. Ton aide a été très précieuse.}
-{485}{}{Va voir au labo, au sous-sol. Il y a une porte gardée. Si tu le vois, dis-lui de monter quand il aura un moment. Seulement s'il n'est pas trop occupé.}
+{485}{marj25}{Va voir au labo, au sous-sol. Il y a une porte gardée. Si tu le vois, dis-lui de monter quand il aura un moment. Seulement s'il n'est pas trop occupé.}
 {1000}{}{Marjorie te donne un passe provisoire.}

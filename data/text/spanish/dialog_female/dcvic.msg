@@ -127,9 +127,9 @@
 {1800}{vic58}{Vale, mantendré la distancia, pero no tan lejos, Jefe.}
 {1801}{vic59}{Vale, No lo haré, Jefa.}
 {1802}{vic60}{Entonces me quedaré sólo un poco por detrás tuyo, Jefa.}
-{1803}{vic61}{Claro, Jefa.}
+{1803}{vic51}{Claro, Jefa.}
 {1900}{vic62}{Cierto Jefa. Me retrasaré un poco.}
-{1901}{vic63}{Cómo tú digas, Jefa.}
+{1901}{vic39}{Cómo tú digas, Jefa.}
 {1902}{vic64}{Allá voy, Jefa.}
 {1903}{vic65}{Me quedo atrás, Jefa.}
 {1904}{vic66}{Detrás tuyo, Jefa.}
@@ -156,7 +156,7 @@
 {2311}{vic85}{Ciudad Refugio. Mira ese mapa chulo que tienes.}
 {2403}{}{¿Dónde conseguiste la cantimplora de agua del Refugio 13?}
 {2404}{}{No importa.}
-{2500}{vic86}{Claro, Jefa.}
+{2500}{vic51}{Claro, Jefa.}
 {2501}{vic87}{Pregunta lo que quieras, Jefa.}
 {2502}{vic88}{Te ayudaré si está en mi mano, Jefa.}
 {2503}{vic89}{No me he metido en problemas, ¿verdad, Jefa?}

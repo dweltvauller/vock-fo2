@@ -14,7 +14,7 @@
 {113}{}{Amen, fratello!}
 {114}{}{Credo di aver sentito abbastanza. Ci vediamo.}
 {115}{}{Va' a raccontare le tue assurdita' da qualche altra parte, amico... ne abbiamo gia' abbastanza.}
-{116}{moore3}{Si'! }
+{116}{}{Si'! }
 {117}{moore4}{E' TEMPO di ascoltare il lamento dei nostri fratelli al di fuori di queste mura e di lasciarli entrare! Abbiamo cibo e rifugio in abbondanza anche per i nostri fratelli... non abbiamo bisogno di essere ricchi quando cosi' TANTA gente e' povera.}
 {118}{}{Hai ragione!}
 {119}{}{Finalmente qualcuno con un po' di ragione da vendere! Perche' altri devono soffrire, quando l'aiuto risiede all'interno di queste mura?}

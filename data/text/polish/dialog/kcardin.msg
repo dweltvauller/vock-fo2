@@ -96,7 +96,7 @@ Torra. Jak myœlisz, dok¹d móg³ uciec?}
 {351}{}{Zrobiê co w mojej mocy, ale najpierw muszê pani¹ o coœ zapytaæ.}
 {352}{}{Zrobiê co w mojej mocy pani Buckner. Do zobaczenia.}
 {353}{}{Obawiam siê, ¿e chwilowo nie mogê pani pomóc. Do zobaczenia.}
-{360}{ardin56}{Wiesz ju¿ coœ o Smileyu?}
+{360}{ardin38}{Wiesz ju¿ coœ o Smileyu?}
 {361}{}{Przykro mi, pani Buckner, dalej go szukam. Mam do pani jeszcze jedno pytanie.}
 {362}{}{Nie, ale w³aœnie wybieram siê na poszukiwania. Do zobaczenia.}
 {370}{}{Obawiam siê, ¿e biednemu Torrowi przydarzy³o siê coœ strasznego. Mia³am nadziejê, ¿e pomo¿esz (szlocha) 

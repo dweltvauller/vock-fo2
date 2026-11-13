@@ -188,7 +188,7 @@ igual que la madre… (suspira irritada). Bien, ¿eso es *todo*?}
  gritando a los guardias.}
 {510}{}{Mmmmm…oh, }
 {511}{}{Mmmzrrmnmn…. otra vez, }
-{512}{lbshp122}{Combinnnación de caja… }
+{512}{}{Combinnnación de caja… }
 {515}{lbshp123}{¡Una intrusa! ¡Ayuda!}
 {516}{lbshp124}{¡Al ladrón! ¡Al ladrón!}
 {517}{lbshp125}{¡Una intrusa! ¡Guardias! ¡Guardias!}
@@ -300,7 +300,7 @@ igual que la madre… (suspira irritada). Bien, ¿eso es *todo*?}
 {652}{}{Eh... ¿hay alguna PRUEBA de ésto en algún lugar?}
 {655}{lbshp82}{No… John seguramente tenga por ahí un mapa con su localización... (Olfatea levemente, se frota la nariz). Mmmmm….}
 {657}{}{Hablemos de otra cosa…}
-{660}{lbshp83}{, eso creo… algo así...}
+{660}{}{, eso creo… algo así...}
 {663}{}{Excelente… hora de abrir la caja… que duerma bien, señora Bishop.}
 {665}{}{Oh, }
 {666}{}{Oh. Gracias.}
@@ -355,7 +355,7 @@ igual que la madre… (suspira irritada). Bien, ¿eso es *todo*?}
  No sé por qué lo sigo conservando.}
 {751}{}{¿Me lo puedo quedar?}
 {752}{}{Hmmmnn. Tenía algunas preguntas más...}
-{760}{lbshp105}{(Se encoge de hombros) Claro, si quieres. La combinación es }
+{760}{}{(Se encoge de hombros) Claro, si quieres. La combinación es }
 {761}{}{¿Cómo se utiliza?}
 {762}{}{Gracias. Tenía algunas preguntas más...}
 {770}{lbshp106}{(La señora Bishop se da la vuelta y cierra los ojos. En segundos se queda dormida).}

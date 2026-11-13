@@ -11,7 +11,7 @@
 {110}{}{Umowa stoi. Biorê.}
 {111}{}{Co? Osiemset? Eee... to czêœæ, wrócê z kas¹.}
 {112}{}{Zapomnij! Za tak¹ cenê Smithowie mog¹ trochê pocierpieæ.}
-{113}{}{Jest twój. [P³acisz.] Zapakowaæ i dostarczyæ w jakieœ konkretne miejsce, czy sam go weŸmiesz?}
+{113}{hhary3}{Jest twój. [P³acisz.] Zapakowaæ i dostarczyæ w jakieœ konkretne miejsce, czy sam go weŸmiesz?}
 {114}{}{Dostarcz to Smithowi.}
 {115}{hhary4}{Wybacz, ale bêdzie ciê to kosztowaæ osiem stów!}
 {119}{hhary5}{S³uchaj, potrzebujesz pieniêdzy, aby mi zap³aciæ!}
@@ -19,7 +19,7 @@
 {121}{hhary6}{¯aden problem, sam siê tym zajmê.}
 {122}{hhary17}{Pewnie chcia³eœ tylko poogl¹daæ, co? Nêdzny z³odziej! Stra¿! Stra¿!}
 {123}{}{Przysy³a mnie handlarz imieniem Dave. Staramy siê naprawiæ zepsut¹ pompê wodn¹ i powiedzia³, ¿e masz zapasowy silnik.}
-{124}{}{Pracujesz z Davem, co? Ta, znam go. Widzê, ¿e ci¹gle ma dar wyrêczania siê innymi. Leniwy sukinsyn. [Œmieje siê.] Tak czy inaczej, myœlê, ¿e mam to czego ci trzeba, zaraz sprawdzê. [Harry poszed³ na zaplecze, s³yszysz szuranie przesuwanych pude³. Wróci³ minutê póŸniej.] Tak, mam go tutaj. 500$ i jest ca³y twój.}
+{124}{hhary7}{Pracujesz z Davem, co? Ta, znam go. Widzê, ¿e ci¹gle ma dar wyrêczania siê innymi. Leniwy sukinsyn. [Œmieje siê.] Tak czy inaczej, myœlê, ¿e mam to czego ci trzeba, zaraz sprawdzê. [Harry poszed³ na zaplecze, s³yszysz szuranie przesuwanych pude³. Wróci³ minutê póŸniej.] Tak, mam go tutaj. 500$ i jest ca³y twój.}
 {125}{}{Jasne. Pieni¹dze dla ciebie.}
 {126}{}{500? Cholera. Mam nadziejê, ¿e mi za to oddadz¹. Dobra, proszê.}
 {127}{hhary8}{Dziêkujê za zakup. Dbaj o siebie.}

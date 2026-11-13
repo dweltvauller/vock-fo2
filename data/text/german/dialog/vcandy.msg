@@ -21,7 +21,7 @@
  gefunden. Könntest du so eine Operation durchführen?}
 {117}{}{Im Moment nicht. Sieht schlimmer aus, als es ist.}
 {118}{}{Nein. Mir geht's prima. Wollt nur mal vorbeischauen.}
-{119}{andr6}{OK... so wie's aussieht, wird's schon 'n paar }
+{119}{}{OK... so wie's aussieht, wird's schon 'n paar }
 {120}{}{ Hühner kosten. Wenn du das Geld hast, ist's kein Problem.}
 {121}{}{Aber natürlich gibt's keine Garantie für das, was der alte Doc im Hinterzimmer treibt...}
 {122}{}{Pflick? Pflick! Nimm Geeeeld, flick Loch.}
@@ -66,7 +66,7 @@
 {155}{}{Kannst du mich statt dessen behandeln?}
 {156}{}{Verstehe. Hör mal, ich wollt dich da ein paar Sachen fragen...}
 {157}{}{Nun gut. Jedenfalls vielen Dank.}
-{158}{andr7}{OK... so wie's aussieht, wird's schon 'n paar }
+{158}{}{OK... so wie's aussieht, wird's schon 'n paar }
 {159}{}{ Hühner kosten. Wenn du das Geld hast, ist's kein Problem.}
 {160}{}{Aber natürlich gibt's keine Garantie für das, was der alte Doc im Hinterzimmer treibt...}
 {161}{}{Also gut.}
@@ -78,7 +78,7 @@
  gefunden. Könntest du so eine Operation durchführen?}
 {167}{}{Ich hab nicht genug. Ich komm wieder, wenn ich mehr aufgetrieben habe.}
 {168}{}{Hab meine Meinung geändert. Vielleicht ein andermal.}
-{169}{andr15}{Äh, also...ich mach dir einen Vorschlag. }
+{169}{}{Äh, also...ich mach dir einen Vorschlag. }
 {170}{}{ Eier für euch alle und wir sind quitt. Was sagst du dazu?}
 {171}{}{Also gut.}
 {172}{}{Ich weiß nicht recht. Das ist ein bisschen teuer. Wie wär's mit }
@@ -190,8 +190,8 @@
 {253}{}{Erzähl mir ein bisschen was über die anderen Implantate.}
 {254}{}{Egal. Ich hätt da ein paar andere Fragen.}
 {255}{}{Verstehe. Vielleicht ein andermal.}
-{256}{andr35}{Alle Rundungen werden zu Kanten, das ist alles, was ich dir dazu sagen kann.}
-{257}{andr36}{Du wirst ziemlich eckig aussehen, wenn ich fertig bin.}
+{256}{}{Alle Rundungen werden zu Kanten, das ist alles, was ich dir dazu sagen kann.}
+{257}{}{Du wirst ziemlich eckig aussehen, wenn ich fertig bin.}
 {258}{}{Wenn ich alle diese Platten in deinen Körper stopfe, wird deine Ausstrahlung 'n bisschen
  leiden. Bist du immer noch dabei?}
 {259}{}{Ach, was soll's. Hier hast du das Geld und die Kampfrüstung.}

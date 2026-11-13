@@ -207,7 +207,7 @@
 {1090}{kit109}{What is this supposed to be, a labor camp?}
 {1100}{kit110}{The ones inside have it so much better than the ones outside. The world hasn't changed all that much.}
 {1110}{kit111}{Just what kind of mining town do you call this?}
-{1120}{kit112}{Not my kind of place to be born in, no offense.}
+{1120}{kit101}{Not my kind of place to be born in, no offense.}
 {1130}{kit113}{Good place to hide out if the law's on your tail.}
 {1140}{kit114}{I wonder if there're any more bunkers like this around.}
 {1150}{kit115}{Biggest Little City in the World. I'll bet.}
@@ -219,7 +219,7 @@
 {1200}{kit121}{They sure locked this place down tight.}
 {1210}{kit122}{I've heard about these places...}
 {1220}{kit123}{Feels nice to walk into a town that looks like it has it together.}
-{1230}{kit124}{I've heard about these places...}
+{1230}{kit122}{I've heard about these places...}
 {1240}{kit125}{The only holy place in these unholy wastes.}
 {1250}{kit126}{It's hot out here.}
 {1251}{kit127}{I'm sweating bullets.}

@@ -17,7 +17,7 @@
 {116}{}{Találtam néhány harci beültetés tervet Menedékváros orvosi adatbázisában. Képes vagy végrehajtani egy ilyen operációt?}
 {117}{}{Kösz nem, ez csak egy karcolás. Viszlát!}
 {118}{}{Csak benéztem. Viszlát!}
-{119}{andr6}{Ahogy elnézem, ez uszkve }
+{119}{}{Ahogy elnézem, ez uszkve }
 {120}{}{ dollár lesz. Ha van pénzed, akár kezdhetjük is.}
 {121}{}{Azért elõre szólok, nincs garancia. Eléggé leharcolt berendezésrõl van szó.}
 {122}{}{Patshhh? Patshh! Elveszi lovéé, betöm lukak.}
@@ -56,7 +56,7 @@
 {155}{}{Meg tudsz gyógyítani?}
 {156}{}{Értem. Kérdeznék valami mást.}
 {157}{}{Rendben. Azért kösz.}
-{158}{andr7}{Ahogy elnézem, ez uszkve }
+{158}{}{Ahogy elnézem, ez uszkve }
 {159}{}{ dollár lesz. Ha van pénzed, akár kezdhetjük is.}
 {160}{}{Garancia persze nincs, ezt jobb, ha tudod. Elég lepukkant Auto-dokit használok.}
 {161}{}{Értem.}
@@ -67,7 +67,7 @@
 {166}{}{Találtam néhány harci beültetés tervet Menedékváros orvosi adatbázisában. Képes vagy végrehajtani egy ilyen operációt?}
 {167}{}{Nincs nálam ennyi. Visszajövök, ha lesz elég pénzem.}
 {168}{}{Meggondoltam magam. Viszlát!}
-{169}{andr15}{Nos... mondok valamit. Legyen }
+{169}{}{Nos... mondok valamit. Legyen }
 {170}{}{ dollár az egészért, és pöpecül rendbeteszek mindent! Mit mondasz?}
 {171}{}{Értem.}
 {172}{}{Nem is tudom, ez soknak tûnik. Legyen inkább }
@@ -88,8 +88,8 @@
 {187}{}{Értem. Kérdeznék valami mást.}
 {188}{}{Most mennem kell. Viszlát!}
 {189}{}{Az. Tudod, én már csak így hívom az Auto-dokit a hátsó szobában. A városból adták kölcsön.}
-{190}{andr19}{Néha elég rakoncátlan tud lenni, de általában megcsinálja, amit kell. Mondom... általában.}
-{191}{andr20}{Mostanában sokkal jobban vagdos, mint korábban, ami ugye jó dolog. Lefaragja a törzsvendégek számát.}
+{190}{}{Néha elég rakoncátlan tud lenni, de általában megcsinálja, amit kell. Mondom... általában.}
+{191}{}{Mostanában sokkal jobban vagdos, mint korábban, ami ugye jó dolog. Lefaragja a törzsvendégek számát.}
 {192}{}{Kicseréltem néhány kábelt és kitisztítottam a belsejét. Ezután nem lesz vele gondod.}
 {193}{}{Értem. Kérdeznék valami mást.}
 {194}{}{Rakoncátlan? Rendbeteszem semmi perc alatt.}
@@ -154,8 +154,8 @@
 {253}{}{Beszélj inkább más beültetésekrõl!}
 {254}{}{Nem tesz semmit. Feltehetnék még egy kérdést?}
 {255}{}{Értem. Talán majd máskor.}
-{256}{andr35}{Valószínûleg... szögletesebbé válnak a vonalaid...}
-{257}{andr36}{Olyan... hehe... kocka forma leszel, mire végzünk.}
+{256}{}{Valószínûleg... szögletesebbé válnak a vonalaid...}
+{257}{}{Olyan... hehe... kocka forma leszel, mire végzünk.}
 {258}{}{Azzal a sok lemezzel a bõröd alatt igencsak megcsappan majd a vonzerõd. Biztos, hogy ezt akarod?}
 {259}{}{Szarok a kinézetemre. Itt a pénz, meg a harci páncélzat.}
 {260}{}{Nem is tudom. 40000 borzalmasan hangzik. 30000 már kevésbé sokkoló.}

@@ -54,7 +54,7 @@
 {298}{}{To jsou vısledky testù? Mùu je vidìt? Jsem novı pracovník.}
 {300}{}{Tak dobøe. Promiòte, e obtìuju.}
 {310}{marj57}{Stráe! Stráe! Zadrte tu osobu!}
-{315}{}{DALŠÍ strá? Ha! Jako by vùbec k nìèemu byli... poslyšte, urèitì MÁTE instrukce od toho, kdo vás sem poslal. Promluvte si s ostatními stráemi a neobtìujte pracující lidi. A teï jdìte.}
+{315}{marj6}{DALŠÍ strá? Ha! Jako by vùbec k nìèemu byli... poslyšte, urèitì MÁTE instrukce od toho, kdo vás sem poslal. Promluvte si s ostatními stráemi a neobtìujte pracující lidi. A teï jdìte.}
 {316}{}{Já nejsem strá, jsem novı vìdec. Máte pro mì práci?}
 {317}{}{Promiòte, ale doufal jsem, e mì to tu ukáete VY. Vidìl jsem vás tady tak postávat a nìco mi poøád ØÍKALO, a si s vámi promluvím. A moná bysme se po té prohlídce mohli stavit na veèeøi...}
 {318}{}{Díky. Moc jste mi pomohla.}
@@ -65,27 +65,27 @@
 {335}{marj8}{Ha! Myslím, e bude lepší, kdy odejdete, nebo zavolám stráe.}
 {336}{}{Tak dobøe.}
 {337}{}{U jdu... ::mumlat:: ...ty plešatá dìvko.}
-{345}{}{Hmmmm. Dobøe. Take k naší práci: testujeme úèinky a sílu metamfetaminu zvaného Jet.}
+{345}{marj9}{Hmmmm. Dobøe. Take k naší práci: testujeme úèinky a sílu metamfetaminu zvaného Jet.}
 {346}{}{Rozumím. A jak jde vızkum?}
 {347}{}{Aha, rozumím. Myslím, e si pùjdu prohlídnout zbytek laboratoøí bez vás.}
 {355}{marj10}{Moc dobøe ne. Náš èasovı plán je dost napjatı a naším úkolem je co nejdøíve vylepšit a zkvalitnit vırobu Jetu.}
 {356}{}{Proè? Jet mi pøipadá u dostateènì návykovı.}
 {357}{}{Proè máte tak napjatı èasovı plán?}
 {358}{}{To vypadá na tìkou práci. Poslyšte, musím si nìco zaøídit, ale ještì se vrátím.}
-{365}{}{Nikdo to sice pøímo neøekl, ale je to nejspíše kvùli distribuci Jetu do Reddingu. Jet je *dost* silnı, ale ještì je stále co zlepšovat a 'vedení' chce zvıšit závislost na Jetu v Reddingu.}
+{365}{marj11}{Nikdo to sice pøímo neøekl, ale je to nejspíše kvùli distribuci Jetu do Reddingu. Jet je *dost* silnı, ale ještì je stále co zlepšovat a 'vedení' chce zvıšit závislost na Jetu v Reddingu.}
 {366}{}{Proè zrovna v Reddingu?}
 {367}{}{No, tak hodnì štìstí, a to stihnete vèas.}
-{375}{}{Je *dost* silnı, ale ještì je stále co zlepšovat. 'Velení' chce zvıšit distribuci Jetu do Reddingu, aby dosáhli pokud mono stoprocentní závislosti. A to nám zabere spoustu èasu.}
+{375}{marj12}{Je *dost* silnı, ale ještì je stále co zlepšovat. 'Velení' chce zvıšit distribuci Jetu do Reddingu, aby dosáhli pokud mono stoprocentní závislosti. A to nám zabere spoustu èasu.}
 {377}{}{Díky za informace. Ještì se vrátím.}
 {385}{marj13}{Aby byli horníci v Reddingu závislí na Jetu. Kdo ovládá Jet, ovládá i Redding. Typická mocenská partie.}
 {386}{}{Take... kdo ovládá drogy?}
-{395}{}{Kdo ovládá drogy? Mordinové. Myron toti vytvoøil základ Jetu a zpùsob jeho vıroby. My ho u jen uhlazujeme a vylepšujeme.}
+{395}{marj14}{Kdo ovládá drogy? Mordinové. Myron toti vytvoøil základ Jetu a zpùsob jeho vıroby. My ho u jen uhlazujeme a vylepšujeme.}
 {396}{}{Myron je váš šéf?}
-{405}{}{DALO by se to tak øíct. Je chytrı, to uznávám, ale kašle na to, co se dìje tady nahoøe. Vìtšinou je dole v podzemních prostorách. Nikdo k nìmu nesmí... kromì zástupu prostitutek. Typickı vedoucí projektu.}
+{405}{marj15}{DALO by se to tak øíct. Je chytrı, to uznávám, ale kašle na to, co se dìje tady nahoøe. Vìtšinou je dole v podzemních prostorách. Nikdo k nìmu nesmí... kromì zástupu prostitutek. Typickı vedoucí projektu.}
 {406}{}{Mùu se s ním setkat?}
 {407}{}{Jo, i kdy v marketingu to bıvá ještì horší. Díky za informace. Ještì se vrátím.}
-{415}{}{Moná... dám vám doèasnou ID kartu. Staèí ji ukázat stráím. Ale pospìšte si, Myron nemá rád, kdy ho lidé dlouho otravují.}
-{416}{}{Moná... dám vám doèasnou ID kartu. Staèí ji ukázat stráím. Ale pospìšte si, Myron nemá rád, kdy ho lidé dlouho otravují... i kdy ve vašem pøípadì moná udìlá vıjimku.}
+{415}{marj16}{Moná... dám vám doèasnou ID kartu. Staèí ji ukázat stráím. Ale pospìšte si, Myron nemá rád, kdy ho lidé dlouho otravují.}
+{416}{marj17}{Moná... dám vám doèasnou ID kartu. Staèí ji ukázat stráím. Ale pospìšte si, Myron nemá rád, kdy ho lidé dlouho otravují... i kdy ve vašem pøípadì moná udìlá vıjimku.}
 {417}{}{Díky za kartu. Uvidíme se pozdìji.}
 {425}{marj18}{Poslyšte, jsem opravdu VELMI zamìstnaná, take pokud vám to nebude vadit...}
 {426}{marj19}{Poslyšte, já... jsem, eh, velmi zamìstnaná, take kdy mì omluvíte...}
@@ -95,7 +95,7 @@
 {435}{marj20}{To je... hmm... jsem VELMI polichocena, ale mám teï spoustu práce... take... eh...}
 {436}{}{Take vám nebude vadit, kdy vás vyzvednu po práci? O nic nejde... jenom veèeøe a trochu rozumné konverzace. Vypadáte jako nìkdo, kdo by si potøeboval trochu odpoèinout od práce. Musíte mít opravdu tìkou práci.}
 {437}{}{No, za zeptání nic nedám. Stejnì díky.}
-{445}{}{No, TOLIK práce zase nemám... hehe... chci øíct, vlastnì mám. Asi takhle, vìtšinou jde jen o rutinní testy drog... i kdy obèas nìjakı otrok spáchá sebevradu...}
+{445}{marj21}{No, TOLIK práce zase nemám... hehe... chci øíct, vlastnì mám. Asi takhle, vìtšinou jde jen o rutinní testy drog... i kdy obèas nìjakı otrok spáchá sebevradu...}
 {446}{}{Co øíká na vstøikování experimentálních metamfetaminù do zotroèenıch lidí váš smysl pro humanitu?}
 {447}{}{Páni. To zní nebezpeènì. Nezranila jste se pøi tom nìkdy? Máte hodnì úmrtí mezi pacienty?}
 {448}{}{Testování drog? Opravdu? Jak to jde?}
@@ -103,11 +103,11 @@
 {455}{marj22}{To mìl bıt nìjakı pokus o vtip?}
 {456}{}{Jen se ptám. Chci øíct, co byste øekla na to, kdybyste byla prodána do otroctví, odvezena na tohle místo a napumpována drogami?}
 {457}{}{Eh, jo. U musím bìet.}
-{465}{}{Já jsem na TÉHLE stranì a oni jsou na té DRUHÉ. A kdy u probíráme takovéto hypotézy, nechcete si vyzkoušet, jaké to je bıt na jejich stranì? Máme dost volnıch míst.}
+{465}{marj23}{Já jsem na TÉHLE stranì a oni jsou na té DRUHÉ. A kdy u probíráme takovéto hypotézy, nechcete si vyzkoušet, jaké to je bıt na jejich stranì? Máme dost volnıch míst.}
 {466}{}{Tak moment...}
 {467}{}{Eh, ne, díky. Promiòte, e obtìuju.}
-{475}{}{Úmrtí? Pár jich bylo. Vìtšinou šlo o neúmyslné pøedávkování. Vìtšinou vina laboranta. Nebo sebepoškození. Nìkteøí do sebe dostanou pøíliš mnoho Jetu a pak chtìjí lítat DOOPRAVDY.}
+{475}{marj24}{Úmrtí? Pár jich bylo. Vìtšinou šlo o neúmyslné pøedávkování. Vìtšinou vina laboranta. Nebo sebepoškození. Nìkteøí do sebe dostanou pøíliš mnoho Jetu a pak chtìjí lítat DOOPRAVDY.}
 {476}{}{A jak jde jinak testování drogy?}
 {477}{}{Aha. No, díky za informace. Moc jste mi pomohla.}
-{485}{}{Zkuste to dole v laboratoøi. Ty hlídané dveøe. A jestli se s ním uvidíte, vyøiïte mu, aby se tu brzy zastavil. POKUD nebude mít moc práce.}
+{485}{marj25}{Zkuste to dole v laboratoøi. Ty hlídané dveøe. A jestli se s ním uvidíte, vyøiïte mu, aby se tu brzy zastavil. POKUD nebude mít moc práce.}
 {1000}{}{Získáváš doèasnou propustku od Marjorie.}

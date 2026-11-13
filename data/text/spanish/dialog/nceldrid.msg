@@ -1,38 +1,38 @@
 {100}{}{Ves a Eldridge.}
 {150}{}{Ves a un hombre fuertemente armado lleno de grasa. Está mirando fijamente a su colección de armas en la pared y sonriendo embobado.}
 {151}{}{Ves a Eldridge. Está mirando fijamente a su colección de armas en la pared y sonriendo embobado.}
-{200}{eld47}{¡Felicidades, héroe! ¡Lo has hecho bien!}
-{201}{eld48}{::Dispara su arma al aire, y comienza a menearse y a gritar:: ¡El Enclave está MUERTO! ¡MUERTO! ¡MUERTO! Yeeee-haw!}
-{202}{eld49}{::Ding-dong, el Enclave está muerto, el Enclave está muerto... ::}
-{203}{eld50}{El Enclave es una buena razón para que todo ciudadano tenga el derecho a portar armas.}
+{200}{eld43}{¡Felicidades, héroe! ¡Lo has hecho bien!}
+{201}{eld44}{::Dispara su arma al aire, y comienza a menearse y a gritar:: ¡El Enclave está MUERTO! ¡MUERTO! ¡MUERTO! Yeeee-haw!}
+{202}{eld45}{::Ding-dong, el Enclave está muerto, el Enclave está muerto... ::}
+{203}{eld46}{El Enclave es una buena razón para que todo ciudadano tenga el derecho a portar armas.}
 {204}{}{La próxima vez, no vayas al Enclave sin pasar por aquí primero... me aseguraré que tengas toda la potencia de fuego
  que NECESITAS.}
-{210}{eld52}{Saaaanta madre de Dios. ¡Una servoarmadura!}
-{211}{eld53}{Jeeeeesus. ::Se frota los ojos:: ¡¿Eso es una servoarmadura?!}
-{212}{eld54}{Que alguien me pellizque. ¡¿Eso es una SERVOARMADURA?!}
-{213}{eld55}{¡Que bailen sobre mi tumba y meen sobre mi primogénito! ¡Una servoarmadura! ¡En Reno!}
-{214}{eld56}{¡¡¿Venderías esa armadura, amigo?!! ¡Eh! ¡¡¿Hay alguien en casa?!!}
-{220}{eld57}{Una 9mm está BIEN, pero una .233 frena cualquier cosa...}
-{221}{eld58}{Lo que realmente quiero es una Red Ryder BB.}
-{222}{eld59}{Espero que nadie consiga un rifle de turbo-plasma antes que yo.}
-{223}{eld60}{Me pregunto dónde conseguirán los Salvatore esas armas láser...}
-{224}{eld61}{Soñé de nuevo esta noche con armas de plasma...}
-{225}{eld62}{Será mejor llevar ese nuevo envío de munición para escopetas a los Wright...}
-{226}{eld63}{Espero que los Mordino tengan el oro con el que pagar su pedido...}
-{227}{eld64}{¿Ese arma? Puede agujerear un muro metálico.}
-{228}{eld65}{Ese chico es un genio… apenas se daría cuenta de que lo miran...}
-{229}{eld66}{Mejor será llevarse a dar un paseo a esos perros antes de que empiecen a mearse por todas partes.}
-{230}{eld67}{Esos Aldeanos Sucios están acumulando más armas... son un grupo difícil.}
-{231}{eld68}{Ojalá alguien me robase para que pudiera dispararle.}
-{232}{eld69}{Voy a tener que despejar las estanterías pronto...}
-{233}{eld70}{No puedo esperar a ir a la caza de bandidos la próxima semana...}
-{234}{eld71}{Tengo fusiles ametralladores, pistolas, dinamita, granadas... y aún así la gente viene buscando espadas y ballestas.}
+{210}{eld48}{Saaaanta madre de Dios. ¡Una servoarmadura!}
+{211}{eld49}{Jeeeeesus. ::Se frota los ojos:: ¡¿Eso es una servoarmadura?!}
+{212}{eld50}{Que alguien me pellizque. ¡¿Eso es una SERVOARMADURA?!}
+{213}{eld51}{¡Que bailen sobre mi tumba y meen sobre mi primogénito! ¡Una servoarmadura! ¡En Reno!}
+{214}{eld52}{¡¡¿Venderías esa armadura, amigo?!! ¡Eh! ¡¡¿Hay alguien en casa?!!}
+{220}{eld53}{Una 9mm está BIEN, pero una .233 frena cualquier cosa...}
+{221}{eld54}{Lo que realmente quiero es una Red Ryder BB.}
+{222}{eld55}{Espero que nadie consiga un rifle de turbo-plasma antes que yo.}
+{223}{eld56}{Me pregunto dónde conseguirán los Salvatore esas armas láser...}
+{224}{eld57}{Soñé de nuevo esta noche con armas de plasma...}
+{225}{eld58}{Será mejor llevar ese nuevo envío de munición para escopetas a los Wright...}
+{226}{eld59}{Espero que los Mordino tengan el oro con el que pagar su pedido...}
+{227}{eld60}{¿Ese arma? Puede agujerear un muro metálico.}
+{228}{eld61}{Ese chico es un genio… apenas se daría cuenta de que lo miran...}
+{229}{eld62}{Mejor será llevarse a dar un paseo a esos perros antes de que empiecen a mearse por todas partes.}
+{230}{eld63}{Esos Aldeanos Sucios están acumulando más armas... son un grupo difícil.}
+{231}{eld64}{Ojalá alguien me robase para que pudiera dispararle.}
+{232}{eld65}{Voy a tener que despejar las estanterías pronto...}
+{233}{eld66}{No puedo esperar a ir a la caza de bandidos la próxima semana...}
+{234}{eld67}{Tengo fusiles ametralladores, pistolas, dinamita, granadas... y aún así la gente viene buscando espadas y ballestas.}
 {240}{}{¡Bienvenido, héroe! Hiciste un maldito buen trabajo con el Enclave... salvaste nuestros pellejos, eso hiciste, y te lo agradezco. Eldridge es mi nombre. ¿Estás en el mercado en busca de algo de hierro con el que llenar tu cartuchera?}
 {241}{eld2}{Bienvenido, caballero... Eldridge es mi nombre. ¿Estás en el mercado en busca de algo de hierro con el que llenar tu cartuchera?}
 {242}{eld3}{Bienvenido, viajero... Eldridge es mi nombre. ¿Estás en el mercado en busca de algo de hierro con el que llenar tu cartuchera?}
 {243}{}{Ernnnnh? ¿Cartu-c-chera?}
-{244}{eld92}{Depende de lo que vendas.}
-{250}{eld4}{¡Bienvenido, héroe! Hiciste un maldito buen trabajo con el Enclave... salvaste nuestros pellejos, eso hiciste, y te lo agradezco. }
+{244}{eld87}{Depende de lo que vendas.}
+{250}{}{¡Bienvenido, héroe! Hiciste un maldito buen trabajo con el Enclave... salvaste nuestros pellejos, eso hiciste, y te lo agradezco. }
 {251}{eld5}{Si ves algo que te gusta, házmelo saber, y se te hará un descuento *especial*, ¿vale?}
 {252}{}{Vaaale.}
 {253}{}{Te alejas.}
@@ -60,41 +60,41 @@
 {302}{}{S-si}
 {303}{}{Quiero cosas no ex-istencia}
 {304}{}{Nah}
-{310}{eld11}{Jules te envió a mí, ¿eh? }
-{311}{eld12}{Ya era hora de que el perezoso bastardo hiciera su trabajo... entonces, ¿qué puedo hacer por ti, caballero?}
-{312}{eld13}{Ya era hora de que el perezoso bastardo hiciera su trabajo... disculpa mi lenguaje. entonces, ¿qué puedo hacer por ti, señorita?}
+{310}{}{Jules te envió a mí, ¿eh? }
+{311}{}{Ya era hora de que el perezoso bastardo hiciera su trabajo... entonces, ¿qué puedo hacer por ti, caballero?}
+{312}{}{Ya era hora de que el perezoso bastardo hiciera su trabajo... disculpa mi lenguaje. entonces, ¿qué puedo hacer por ti, señorita?}
 {330}{}{No, no... solíamos estar en ese negocio, pero...(parece dolido)... bueno, hubo un
  acidente... y simplemente ya no seguimos en ello. ¿Puedo hacer alguna otra cosa por ti?}
 {331}{}{Muy bien, entonces. Me interesa otra cosa...}
-{340}{eld15}{Vaya que si puedo. ¿Qué necesitas mejorar?}
+{340}{eld14}{Vaya que si puedo. ¿Qué necesitas mejorar?}
 {341}{}{¿Puedes hacer algo con alguna de estas pistolas que tengo?}
 {342}{}{Alguno de mis rifles podría incluir algún accesorio.}
 {343}{}{¿Puedes hacer algo con esta picana?}
 {344}{}{No importa. Me interesa otra cosa...}
 {345}{}{En realidad, hoy nada.}
-{350}{eld16}{(Estudia tu mágnum). Puedo mejorar la velocidad de recarga en esa mágnum por }
-{351}{eld17}{Esa Desert Eagle que tienes... si quieres, puedo ponerle una recámara expandida por }
+{350}{eld15}{(Estudia tu mágnum). Puedo mejorar la velocidad de recarga en esa mágnum por }
+{351}{eld16}{Esa Desert Eagle que tienes... si quieres, puedo ponerle una recámara expandida por }
 {352}{}{Pon la recarga mejorada en la mágnum.}
 {353}{}{Expande la recámara de esta Desert Eagle.}
 {354}{}{En realidad, tenía en mente otra arma...}
 {355}{}{No importa. Quería algo más...}
 {356}{}{En realidad, nada. Tengo que irme.}
 {357}{}{Demasiado para mis posibilidades. Volveré cuando tenga más dinero.}
-{365}{eld18}{(Estudia tus rifles y asiente). }
-{366}{eld19}{Puedo poner una mira telescópica en esa rifle de caza por }
-{367}{eld20}{Ese rifle de asalto que tienes ahí... puedo ponerle una recámara expandida por }
-{368}{eld21}{Tengo una mira de visión nocturna que puedo instalar en ese FN FAL por $}
+{365}{eld17}{(Estudia tus rifles y asiente). }
+{366}{eld18}{Puedo poner una mira telescópica en esa rifle de caza por }
+{367}{eld19}{Ese rifle de asalto que tienes ahí... puedo ponerle una recámara expandida por }
+{368}{eld20}{Tengo una mira de visión nocturna que puedo instalar en ese FN FAL por $}
 {369}{}{De acuerdo entonces... pon una mira telescópica en el rifle de asalto Colt.}
 {370}{}{Coloca la recámara expandida en el rifle de asalto AK-112.}
 {371}{}{Instala la mira de visión nocturna en el FN FAL.}
-{385}{eld22}{¿Quieres darle vidilla a esa picana? Puedo SUPERCARGARLA por }
+{385}{eld21}{¿Quieres darle vidilla a esa picana? Puedo SUPERCARGARLA por }
 {386}{}{Claro.}
 {395}{}{(Eldridge toma el objeto y lo examina atentamente). Muy bien... espera un momentito, y veré lo que puedo hacer.
  (Desaparece en la trastienda).}
 {396}{}{Vale.}
-{400}{eld24}{(Esperas...)}
+{400}{eld23}{(Esperas...)}
 {401}{}{Esperas...}
-{405}{eld25}{(Esperas más tiempo...)}
+{405}{eld24}{(Esperas más tiempo...)}
 {406}{}{Dum de dum de dum...}
 {410}{}{(Estás a punto de quedarte dormido, cuando de repente Eldridge regresa). Perdón por la espera... aquí está. Eso debería darte ventaja sobre cualquier hijo de puta que intente interponerse en tu camino.}
 {411}{}{Gracias. ¿Puedes mejorar alguna de mis otras armas?}
@@ -105,9 +105,9 @@
 {423}{}{Eh... es "algo", cierto. ¿Puedo echarle un vistazo?}
 {424}{}{Seguro que lo es. Pero estaba interesado en alguna otra cosa...}
 {425}{}{No me interesa. Gracias de todos modos.}
-{430}{eld28}{((Es un bonito cuadrado de plástico con agujeros y líneas metálicas dibujadas en él. Divertidas letras-símbolo están escritas en él. Te recuerda a una tarta pero mecánica, y se te hace la boca agua).}
-{431}{eld29}{(Es lo que parece una placa de circuitos. Está un poco polvorienta, pero parece estar en buenas condiciones. Parece parte de... algo. Impreso en la placa pone: 'Módulo de reconocimiento de voz Vault-Tec').}
-{432}{eld30}{(Es una placa de circuitos completa. Tiene colocado un chip de memoria, y varias conexiones para computadora en un lado, incluyendo una de entrada y una de salida. Impreso en la placa se puede leer: 'Módulo de reconocimiento de voz Vault-Tec').}
+{430}{eld27}{((Es un bonito cuadrado de plástico con agujeros y líneas metálicas dibujadas en él. Divertidas letras-símbolo están escritas en él. Te recuerda a una tarta pero mecánica, y se te hace la boca agua).}
+{431}{eld28}{(Es lo que parece una placa de circuitos. Está un poco polvorienta, pero parece estar en buenas condiciones. Parece parte de... algo. Impreso en la placa pone: 'Módulo de reconocimiento de voz Vault-Tec').}
+{432}{eld29}{(Es una placa de circuitos completa. Tiene colocado un chip de memoria, y varias conexiones para computadora en un lado, incluyendo una de entrada y una de salida. Impreso en la placa se puede leer: 'Módulo de reconocimiento de voz Vault-Tec').}
 {433}{}{Quiero cuadrado sabroso.}
 {434}{}{Quiero otras cosas.}
 {435}{}{Marcho ahora.}
@@ -115,23 +115,23 @@
 {437}{}{Por fin... ¿cuánto por este módulo?}
 {438}{}{No gracias, quería alguna otra cosa...}
 {439}{}{Hoy no, gracias.}
-{450}{eld31}{Tres mil pavos. Lo tomas o lo dejas.}
-{451}{eld32}{Por última vez: tres mil pavos. Lo tomas o lo dejas.}
+{450}{eld30}{Tres mil pavos. Lo tomas o lo dejas.}
+{451}{eld31}{Por última vez: tres mil pavos. Lo tomas o lo dejas.}
 {452}{}{Vaaaale.}
 {454}{}{Te abalanzas para tomar la tarta mecánica.}
 {455}{}{Lo dejas.}
 {457}{}{Eh, eso es un poco caro. ¿Qué tal... 1.500?}
 {458}{}{No, gracias. Quería alguna otra cosa...}
 {459}{}{Me marcharé.}
-{470}{eld33}{2.500 dólares. Y es mi última oferta.}
+{470}{eld32}{2.500 dólares. Y es mi última oferta.}
 {471}{}{Vale, vale. Aquí tienes.}
 {472}{}{Olvídalo entonces. Quería alguna otra cosa...}
 {473}{}{Entonces no, gracias. Ya nos veremos.}
 {474}{}{Demasiado para lo que puedo pagar. Hablaremos en otro momento, cuando tenga más dinero.}
-{480}{eld34}{(Sonríe, se frota las manos mientras pones el dinero sobre la mesa). Muy bien, aquí lo tienes. }
+{480}{}{(Sonríe, se frota las manos mientras pones el dinero sobre la mesa). Muy bien, aquí lo tienes. }
 {481}{}{(Piensa en ello un momento, te estudia, y luego asiente). De acuerdo entonces... voy a dejar que lo consigas casi regalado, pero
  aquí lo tienes. (Te entrega el módulo y se guarda tu dinero). }
-{482}{eld36}{¿Algo más?}
+{482}{}{¿Algo más?}
 {485}{}{Sí, estaba interesado en algo más...}
 {486}{}{Nada más hoy, gracias.}
 {495}{}{(Parpadea sorprendido, luego se ríe). ¡Ja! No, no... esas armas son otra cosa, ¿no es así? Desde luego, me ENCANTARÍA
@@ -146,42 +146,42 @@
 {508}{}{Entonces no importa. Quizá puedas ayudarme con otra cosa...}
 {509}{}{Hecho. Te conseguiré una, y te la traeré.}
 {510}{}{No puedo prometerte eso... parece que los problemas y yo viajemos juntos. Hasta luego, Eldridge.}
-{520}{eld39}{¡Que me aspen hasta dejarme tonto del todo! }
-{521}{eld40}{¡Bueno, qué demonios! Siendo fiel a mi palabra, aquí hay algo por las molestias... }
-{522}{eld41}{(Te da un puñado de dólares y toma la pistola). Maldición... una cosa realmente extraña, no ¿crees? (Examina el cañón). Hmmm...}
+{520}{}{¡Que me aspen hasta dejarme tonto del todo! }
+{521}{}{¡Bueno, qué demonios! Siendo fiel a mi palabra, aquí hay algo por las molestias... }
+{522}{}{(Te da un puñado de dólares y toma la pistola). Maldición... una cosa realmente extraña, no ¿crees? (Examina el cañón). Hmmm...}
 {523}{}{Quería algo más...}
 {524}{}{Un placer hacer negocios contigo, Eldridge. Disfrútala.}
 {530}{}{(Eldridge te mira de arriba abajo, y su tono se vuelve más respetuoso). Claro, desde luego. Déjame que te muestre nuestra
  mercancía especial... con un descuento, por supuesto.}
 {532}{}{En realidad, estaba interesado en otra cosa...}
 {533}{}{No importa. Volveré.}
-{545}{eld72}{Cerrad el pico de una puta vez, ¿me oís?}
-{546}{eld73}{¡Cerrad el pico, chuchos callejeros!}
-{547}{eld74}{Criaturas de la noche... ¡callad!}
-{548}{eld75}{¡Packard! ¡Buck! ¡Missy! Mejor será que cerréis el pico, o entro ahí!}
-{549}{eld76}{¡Un GUAU más, y entro ahí!}
-{550}{eld77}{¡Malditos perros!}
-{560}{eld78}{¿Qué, te piensas que tengo los ojos vendados?}
-{561}{eld79}{¡Aleja tus manazas de esa puerta!}
-{562}{eld80}{Deja tranquila esa puerta.}
-{563}{eld81}{Toca esa puerta, y será lo último que toques.}
-{564}{eld82}{Es gracioso, porque la última persona que tocó esa puerta está enterrada en el Gólgota. No vuelvas a tocarla.}
-{575}{eld83}{¡Se supone que no debes estar aquí! ¡Fuera! ¡Sal de aquí!}
-{576}{eld84}{¡No se permite entrar ahí atrás! Lárgate!}
-{577}{eld85}{Sal de ahí atrás antes de que te llene de agujeros!}
-{578}{eld86}{Si continúas en la parte de atrás, te usaré para mis prácticas de tiro!}
-{600}{eld87}{Muchacho, está cerrado... }
-{601}{eld88}{Señorita, está cerrado... }
-{610}{eld89}{Así que te sugiero que salgas de aquí de una puta vez antes de que te pegue un tiro.}
-{700}{eld93}{¡Malditos perros! Volveré a la cama.}
-{701}{eld90}{¡Estúpidos perros! Lo primero que haré mañana será poneros a dormir.}
-{702}{eld91}{¡Cerrad el pico, idiotas! ¡Nadie es lo bastante tonto como para irrumpir en una tienda de armas!}
+{545}{eld68}{Cerrad el pico de una puta vez, ¿me oís?}
+{546}{eld69}{¡Cerrad el pico, chuchos callejeros!}
+{547}{eld70}{Criaturas de la noche... ¡callad!}
+{548}{eld71}{¡Packard! ¡Buck! ¡Missy! Mejor será que cerréis el pico, o entro ahí!}
+{549}{eld72}{¡Un GUAU más, y entro ahí!}
+{550}{eld73}{¡Malditos perros!}
+{560}{eld74}{¿Qué, te piensas que tengo los ojos vendados?}
+{561}{eld75}{¡Aleja tus manazas de esa puerta!}
+{562}{eld76}{Deja tranquila esa puerta.}
+{563}{eld77}{Toca esa puerta, y será lo último que toques.}
+{564}{eld78}{Es gracioso, porque la última persona que tocó esa puerta está enterrada en el Gólgota. No vuelvas a tocarla.}
+{575}{eld79}{¡Se supone que no debes estar aquí! ¡Fuera! ¡Sal de aquí!}
+{576}{eld80}{¡No se permite entrar ahí atrás! Lárgate!}
+{577}{eld81}{Sal de ahí atrás antes de que te llene de agujeros!}
+{578}{eld82}{Si continúas en la parte de atrás, te usaré para mis prácticas de tiro!}
+{600}{}{Muchacho, está cerrado... }
+{601}{}{Señorita, está cerrado... }
+{610}{}{Así que te sugiero que salgas de aquí de una puta vez antes de que te pegue un tiro.}
+{700}{eld88}{¡Malditos perros! Volveré a la cama.}
+{701}{eld85}{¡Estúpidos perros! Lo primero que haré mañana será poneros a dormir.}
+{702}{eld86}{¡Cerrad el pico, idiotas! ¡Nadie es lo bastante tonto como para irrumpir en una tienda de armas!}
 {800}{}{Has entregado una pistola láser a Eldridge.}
-{801}{eld43}{Oye, ¿te parezco un mago? Vas a necesitar la arma si quieres mejorarlo. Ahora vete de aquí y ve a encontrar una que puedo mejorar. ¡Cielos!}
-{802}{eld44}{Vuelve cuando tengas dinero.}
+{801}{eld40}{Oye, ¿te parezco un mago? Vas a necesitar la arma si quieres mejorarlo. Ahora vete de aquí y ve a encontrar una que puedo mejorar. ¡Cielos!}
+{802}{eld41}{Vuelve cuando tengas dinero.}
 {1340}{}{Vaya que si puedo. (Mira tu equipamiento). Pero no parece que tengas nada con lo que pueda jugar.
  Tráeme una virgen… eh, una pistola o rifle "normales", y podría ayudarte.}
 {1345}{}{De acuerdo. Me interesa otra cosa...}
 {1346}{}{Lo haré. Adiós.}
 {5256}{}{...me dijo que me pasara por aquí, y que tú podrías "actualizarme".}
-{5500}{eld46}{.}
+{5500}{}{.}

@@ -70,7 +70,7 @@
 {220}{shela22}{Bon. Je vais pas attendre ici plus longtemps.}
 {221}{shela23}{Allez, allez.}
 {222}{shela16}{Tu t'excites ou quoi ?}
-{223}{shela24}{Suis-moi.}
+{223}{shela17}{Suis-moi.}
 {224}{shela25}{Hé coco, pas touche à la marchandise !}
 {225}{shela26}{Bas les pattes, j'suis pas ton jouet !}
 {230}{shela15}{Tu sais, j'en ai eu des mauvaises baises, mais celle-là, c'était la pire de toutes.}

@@ -96,7 +96,7 @@
 {359}{}{Pas vraiment. Ecoute, il faut que je parte.}
 {360}{ew25}{Oh. [Elle cligne des yeux.] Alors, que puis-je faire pour toi ?}
 {361}{ew26}{Alors, je t'écoute. Pose-moi tes questions.}
-{362}{ew27}{[Elle sursaute.] Mon dieu ! Tu m'as fait une de ces peurs ! [Elle plisse les yeux.] Rebonjour !}
+{362}{ew2}{[Elle sursaute.] Mon dieu ! Tu m'as fait une de ces peurs ! [Elle plisse les yeux.] Rebonjour !}
 {363}{}{Que disais-tu à propos de la Ligue Antialcoolique ?}
 {364}{}{Je cherche un Jardin d'Eden en Kit.}
 {365}{}{Je cherche un endroit appelé l'Abri 13.}

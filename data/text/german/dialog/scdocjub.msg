@@ -50,7 +50,7 @@
 {149}{jub16}{Das ganz große Ding. Pökel hat lange Zeit nach Uran gesucht. Ein Trinker. Jetzt wohnt er draußen auf Westins Ranch.}
 {150}{}{Noch eine Frage...}
 {151}{}{Danke für die Geschichte.}
-{152}{jub17}{Also, eigentlich wollte ich schon was dafür haben. Ich trenne mich davon für... $}
+{152}{}{Also, eigentlich wollte ich schon was dafür haben. Ich trenne mich davon für... $}
 {153}{}{Später vielleicht. Noch eine Frage...}
 {154}{}{Später vielleicht. Ich muss jetzt.}
 {155}{jub18}{Pökel hat lange Zeit nach Uran gesucht. Jetzt wohnt er draußen auf Westins Ranch.}

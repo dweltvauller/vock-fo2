@@ -96,7 +96,7 @@
 {359}{}{Veramente no. Senta, adesso devo andare.}
 {360}{ew25}{Oh. (Sbatte le palpebre.) Allora, cosa posso fare per te? }
 {361}{ew26}{E allora quali sono queste domande?}
-{362}{ew27}{(Sobbalza.) Oh, cielo! Mi hai fatto davvero paura! (Ti guarda con gli occhi socchiusi.) Beh, bentornato! }
+{362}{ew2}{(Sobbalza.) Oh, cielo! Mi hai fatto davvero paura! (Ti guarda con gli occhi socchiusi.) Beh, bentornato! }
 {363}{}{Cosa mi stava dicendo a proposito dell'Associazione Sobrieta'?}
 {364}{}{Sto cercando un Kit di Creazione del Giardino dell'Eden.}
 {365}{}{Sto cercando un posto chiamato Vault 13.}

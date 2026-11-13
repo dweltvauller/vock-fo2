@@ -8,7 +8,7 @@
 {109}{}{Eh, asi jsem na špatné adrese...}
 {200}{don2}{Ty první, kreténe.}
 {201}{don3}{Na tohle nemám èas. Na nì, hoši.}
-{202}{}{Pøidat se k nám? Tohle není ádnı posranı náborovı centrum. Jestli se chceš pøidat k otrokáøùm, jdi do Denu a promluv si s Metzgerem. Potøebuješ teï ještì nìco, nebo mì chceš jenom nasrat?}
+{202}{don4}{Pøidat se k nám? Tohle není ádnı posranı náborovı centrum. Jestli se chceš pøidat k otrokáøùm, jdi do Denu a promluv si s Metzgerem. Potøebuješ teï ještì nìco, nebo mì chceš jenom nasrat?}
 {203}{don5}{Metzger? (Trochu znejistí.) Neøíkej mi, e chce další otroky? No kurva, vdy jsme mu jednu várku pøed tejdnem poslali.}
 {300}{}{Vlastnì ano, nìco ještì potøebuju.}
 {301}{don6}{Take, proè tady jseš?}
@@ -28,4 +28,4 @@
 {601}{don15}{Chcípni, Rangerská špíno!}
 {800}{don16}{Eh... pozdravuj ode mì Metzgera.}
 {900}{}{Ne, ve skuteènosti mì sem poslal, a se podívám na tvoje zboí. Víš, mám ponìkud zvláštní poadavky, ale dobøe ti za to zaplatím.}
-{901}{}{Hovno. Metzger sem ještì nikdy neposlal ádnıho zákazníka. Nevím, o co se tu snaíš, ale máš tøi sekundy na to, abys mi kurva zmizel z oèí, ne øeknu svejm hochùm, aby do tebe napumpovali olovo.}
+{901}{don12}{Hovno. Metzger sem ještì nikdy neposlal ádnıho zákazníka. Nevím, o co se tu snaíš, ale máš tøi sekundy na to, abys mi kurva zmizel z oèí, ne øeknu svejm hochùm, aby do tebe napumpovali olovo.}

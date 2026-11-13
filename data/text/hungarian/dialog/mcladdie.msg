@@ -14,7 +14,7 @@
 {159}{}{Mi a baj, fiú, akarsz valamit mondani?}
 {160}{lad4}{Grrrr! [Öcsi rendesen belédharap egyet.]}
 {161}{}{[Hmm... Valami oknál fogva nem szeret téged.]}
-{162}{lad3}{Vaú! Vaú! Vaú! [Öcsi rádugrik és elkezdi nyalogatni az arcodat.]}
+{162}{lad6}{Vaú! Vaú! Vaú! [Öcsi rádugrik és elkezdi nyalogatni az arcodat.]}
 {163}{}{ [Milyen kedves kis kutya.]}
 {164}{lad5}{Vaú? [Olyan érzésed van, mintha a kutya kinevetne.]}
 {165}{}{[Senki sem szereti az okostojásokat.]}

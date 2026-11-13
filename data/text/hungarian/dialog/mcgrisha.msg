@@ -100,21 +100,21 @@
 {350}{}{[Bessy-re pillantván] Inkább leadnék.}
 {360}{}{Szeretném, ha készítene nekem egy kis szárított húst.}
 {400}{grish70}{Mi folyik itt?}
-{402}{grish71}{Szent ég! Tudtam, hogy }
-{403}{grish72}{How dare you sully the honor of my }
-{404}{grish73}{Elnézést, Jo, nem tudnánk esetleg az esküdözõs résztõl eltekinteni?}
-{406}{grish74}{Fiam...}
-{407}{grish75}{Missy...}
-{410}{grish76}{Ne akard, hogy özvegyet csináljak }
-{412}{grish77}{Miria}
-{413}{grish78}{Davin}
-{414}{grish79}{Uh, Bo, can we just skip to the vow tying parts?}
-{420}{grish80}{Nem mész te sehova, fiam!}
-{421}{grish81}{Nem mész te sehova, Missy!}
-{452}{grish82}{ amolyan másféle... ezt viszont csak egy módon lehet helyrehozni.}
-{453}{grish83}{ nevét akarod beszennyezni ilyesmivel? Csak egy módon lehet ezt orvosolni!}
-{460}{grish84}{ "testvérünkbõl"!}
-{461}{grish85}{ "testvérünkbõl"!}
+{402}{}{Szent ég! Tudtam, hogy }
+{403}{}{How dare you sully the honor of my }
+{404}{grish75}{Elnézést, Jo, nem tudnánk esetleg az esküdözõs résztõl eltekinteni?}
+{406}{grish76}{Fiam...}
+{407}{grish77}{Missy...}
+{410}{}{Ne akard, hogy özvegyet csináljak }
+{412}{}{Miria}
+{413}{}{Davin}
+{414}{grish80}{Uh, Bo, can we just skip to the vow tying parts?}
+{420}{grish81}{Nem mész te sehova, fiam!}
+{421}{grish82}{Nem mész te sehova, Missy!}
+{452}{}{ amolyan másféle... ezt viszont csak egy módon lehet helyrehozni.}
+{453}{}{ nevét akarod beszennyezni ilyesmivel? Csak egy módon lehet ezt orvosolni!}
+{460}{}{ "testvérünkbõl"!}
+{461}{}{ "testvérünkbõl"!}
 {500}{grish44}{Nagyon derék állat ez. Jó kis szárított húst lehetne belõle készíteni. Na, tudja mit, egyszerûen megtartom a szárított húst fizetség gyanánt. Mit szól?}
 {501}{}{Dehogyis! Bess a kedvencem. Senki nem csinál belõle semmiféle szárított húst!}
 {502}{}{Jól hangzik. Mikor jöhetek vissza a húsért?}
@@ -133,13 +133,13 @@
 {750}{grish48}{Most vissza kell térnem a munkámhoz. Viszlát bármikor.}
 {800}{}{Megóvtad Grisham brahminjait.}
 {1101}{}{You see Uncle Biff.}
-{1155}{grish86}{I knew my niece was odd.}
-{1156}{grish87}{Különbözõ emberek, különbözõ ízlések...}
-{1157}{grish88}{I'm glad Grisham ain't alive to see this.}
-{1158}{grish89}{I knew my nephew was odd.}
-{1159}{grish90}{Gondolom most már egy a család.}
-{1160}{grish91}{You take good care of my niece.}
-{1161}{grish92}{You take good care of my nephew.}
+{1155}{grish83}{I knew my niece was odd.}
+{1156}{grish62}{Különbözõ emberek, különbözõ ízlések...}
+{1157}{grish85}{I'm glad Grisham ain't alive to see this.}
+{1158}{grish86}{I knew my nephew was odd.}
+{1159}{grish66}{Gondolom most már egy a család.}
+{1160}{grish88}{You take good care of my niece.}
+{1161}{grish89}{You take good care of my nephew.}
 {1228}{}{Boy, dont even try to explain this. I dont want to hear it. I'm gonna get the preacher, make
  this all lawful like, and you will leave and take my nephew with you when you go.}
 {1229}{}{I can't say Im not just a little turned on by this, but I've got to do what Grisham would've
@@ -155,8 +155,8 @@
  season.}
 {1239}{}{Let me see. It looked to me that you and my nephew were doing the horizontal tango between the
  sheets.}
-{1403}{grish93}{How dare you sully the honor of my brother's }
-{1412}{grish94}{daughter.}
-{1413}{grish95}{son.}
+{1403}{}{How dare you sully the honor of my brother's }
+{1412}{}{daughter.}
+{1413}{}{son.}
 {1600}{}{. Õ az életem értelme és a szívem szakadna meg, ha valami történne vele. Hol van egyébként? Reméltem, hogy hamarosan láthatom.}
 {1601}{}{. Milyen amúgy a házasélet? Davint nem látom veled. Nagyon hiányzik. Ha legközelebb erre járnál, hozd magaddal. Az öregember szívét megmelengetné, ha látná néha egyetlen fiát.}

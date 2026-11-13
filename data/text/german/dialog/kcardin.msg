@@ -94,7 +94,7 @@
 {351}{}{Ich werde tun, was ich kann. Ich habe allerdings noch eine Frage.}
 {352}{}{Ich werde mein Möglichstes tun, Mrs. Buckner. Wiedersehn.}
 {353}{}{Ich glaube nicht, dass ich dir jetzt helfen kann. Wiedersehn.}
-{360}{ardin56}{Hast du meinen Smiley gefunden?}
+{360}{ardin38}{Hast du meinen Smiley gefunden?}
 {361}{}{Tut mir leid, Mrs. Buckner. Ich suche immer noch nach ihm. Ich würde allerdings zuerst gerne noch was fragen.}
 {362}{}{Nein, ich werde mich jedoch auf die Suche nach ihm machen. Auf Wiedersehen.}
 {370}{}{Ich glaube, meinem armen Torr ist etwas Schreckliches zugestoßen ist. Ich hatte so gehofft (schluchz), du würdest ihn finden, bevor es zu spät ist. Dieser arme, hilflose Junge. Ich kann einfach nicht glauben, dass ich mich auf dich verlassen habe.}

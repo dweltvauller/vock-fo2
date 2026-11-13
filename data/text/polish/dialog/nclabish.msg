@@ -162,7 +162,7 @@
 {500}{}{Widzisz pani¹ Bishop. Trudno jest w tej chwili skupiæ siê na jej wygl¹dzie, poniewa¿ w³aœnie wo³a stra¿e.}
 {510}{}{Mmmmm... och, }
 {511}{}{Mmmzrrmnmn... jeszcze raz, }
-{512}{lbshp122}{Szzzyfr do zamka... }
+{512}{}{Szzzyfr do zamka... }
 {515}{lbshp123}{Na pomoc! Intruz!}
 {516}{lbshp124}{Kradzie¿! Kradzie¿!}
 {517}{lbshp125}{Stra¿! Stra¿! Intruz!}
@@ -249,7 +249,7 @@
 {652}{}{Uch... jest gdzieœ na to jakiœ DOWÓD?}
 {655}{lbshp82}{Nie... John ma pewnie gdzieœ tutaj mapê z ich pozycj¹...}
 {657}{}{Porozmawiajmy o czymœ innym...}
-{660}{lbshp83}{, jak s¹dzê... coœ w tym rodzaju...}
+{660}{}{, jak s¹dzê... coœ w tym rodzaju...}
 {663}{}{Doskonale... czas w³amaæ siê do sejfu... s³odkich snów, pani Bishop.}
 {665}{}{Och, }
 {666}{}{Och. Dziêki.}
@@ -292,7 +292,7 @@
 {750}{lbshp104}{*Zieeew*... (Kuli siê) Le¿y w moim sejfie. Ale bez Pip-Boy'a nie ma z niego wiele po¿ytku. Nie mam pojêcia, po co go ci¹gle trzymam.}
 {751}{}{Mogê go dostaæ?}
 {752}{}{Hmmmnn. Mam kilka innych pytañ...}
-{760}{lbshp105}{(Wzrusza ramionami) Pewnie, skoro chcesz. W³aœciwa kombinacja to }
+{760}{}{(Wzrusza ramionami) Pewnie, skoro chcesz. W³aœciwa kombinacja to }
 {761}{}{Jak siê tego u¿ywa?}
 {762}{}{Dziêki. Wiesz co, mam kilka innych pytañ...}
 {770}{lbshp106}{(Pani Bishop odwraca siê i zamyka oczy. Po kilku sekundach zasypia.)}

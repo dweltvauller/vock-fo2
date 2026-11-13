@@ -129,7 +129,7 @@
 {228}{}{To by³o z³e posuniêcie, koleœ.}
 {229}{}{Co ty w³aœciwie robisz, co?}
 {230}{}{Hej, ju¿ siê st¹d wynoszê.}
-{231}{chris33}{Jasne.}
+{231}{}{Jasne.}
 {232}{}{On wyci¹ga radio. Zaraz postawi na nogi ca³¹ bazê! Muszê go szybko za³atwiæ.}
 {233}{}{O, nie. Facet wyci¹ga krótkofalówkê. Zamelduje o mnie. Muszê go powstrzymaæ.}
 {800}{}{Uda³o siê przekonaæ Chrisa, ¿eby poda³ ci has³o.}

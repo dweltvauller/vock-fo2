@@ -14,7 +14,7 @@
 {113}{}{Amen, mon frère !}
 {114}{}{Je pense en avoir assez entendu. Au revoir.}
 {115}{}{Va vendre tes salades ailleurs, mon pote... On a tout ce qu'il faut ici.}
-{116}{moore3}{Oui !}
+{116}{}{Oui !}
 {117}{moore4}{Il est TEMPS de prêter l'oreille à la plainte de nos semblables de l'autre côté de ces murs et de les laisser entrer ! Nous avons largement de quoi nourrir et abriter nos frères... Nous n'avons pas besoin de richesses alors que TANT d'autres vivent dans la pauvreté.}
 {118}{}{Je t'entends !}
 {119}{}{Enfin, un langage sensé ! Pourquoi les autres devraient-ils souffrir quand ils pourraient trouver leur salut entre ces murs ?}

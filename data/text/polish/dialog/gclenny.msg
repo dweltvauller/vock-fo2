@@ -192,7 +192,7 @@
 {1700}{lenny42}{Bêdê siê trzyma³ blisko ciebie.}
 {1800}{lenny43}{Nie chcemy chyba, ¿eby strzelali do nas jak do ka-aczek, nie?}
 {1900}{lenny44}{Dobra, bêdê siê trzyma³ trochê d-dalej. Wrogowie i t-tak najczêœciej celuj¹ w ciebie.}
-{2000}{lenny45}{Jest tu tak wielu ludzi. Nie potrzebujesz ju¿ m-mojej pomocy. P-powodzenia.}
+{2000}{lenny33}{Jest tu tak wielu ludzi. Nie potrzebujesz ju¿ m-mojej pomocy. P-powodzenia.}
 {2100}{}{Nie myœla³em, ¿e do¿yjê kiedyœ dnia, w którym p-powstydzê siê mojego udzia³u w tym, co robisz. Przynosisz ujmê dobremu imieniu Przybysza z Krypty. ¯egnaj.}
 {2200}{lenny47}{Ju¿ siê b-ba³em, ¿e nigdy nie wrócisz.}
 {2300}{}{Sk¹d ten wieczny poœpiech?}

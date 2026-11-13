@@ -64,7 +64,7 @@
  kann, Schwester!}
 {344}{jules153}{Hey! Sieht aus, als sei New Reno NETT zu dir gewesen!!}
 {345}{jules154}{Wieso kann ich nicht in ein paar Szenen mit dir spielen, Süße?}
-{346}{jules155}{Hey, du hast doch deinen alten Freund Jules nicht vergessen auf dem Weg nach oben, oder??}
+{346}{jules146}{Hey, du hast doch deinen alten Freund Jules nicht vergessen auf dem Weg nach oben, oder??}
 {347}{jules156}{Du hast Glück in letzter Zeit, Süße. Du weißt, wie's geht.}
 {348}{}{Ich wusste ja immer, dass du mal ganz groß sein wirst, Schwester. Hab ich gleich gewusst,
  als ich dich das erste Mal gesehen hab.}

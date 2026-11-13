@@ -43,14 +43,14 @@
 {322}{jules145}{Nem akarsz bemutatni a veled dolgozó színésznõknek, tesó?}
 {323}{jules146}{Hela! Ugye nem feledkezel meg Jules barátodról, miközben a szamárlétrát járod?}
 {324}{jules147}{A szerencse rádmosolygott, ember. Mindenkit elvarázsoltál.}
-{325}{jules148}{Mindig tudtam, hogy a neved fényárban fog úszni. Már akkor tudtam, amikor elõször megláttalak.}
+{325}{jules139}{Mindig tudtam, hogy a neved fényárban fog úszni. Már akkor tudtam, amikor elõször megláttalak.}
 {340}{jules149}{Nézzétek az én édes kis barátnõmet!}
 {341}{jules150}{A szívem is megdobban, ha látlak.}
 {342}{jules151}{Gyerünk, hugi, adj egy csókot öreg Jules barátodnak.}
 {343}{jules152}{A mindenit, nézzétek EZT a csillogó sztárt... úgy ragyogsz, hugi, hogy nem merem rádvetni a szemem!}
 {344}{jules153}{Hela! Úgy tûnik, Reno nagyon bejön neked!}
 {345}{jules154}{Mit szólnál, édeske, ha egy-két jelenetben veled együtt szerepelnék?}
-{346}{jules155}{Hela! Ugye nem feledkezel meg Jules barátodról, miközben a szamárlétrát járod?}
+{346}{jules146}{Hela! Ugye nem feledkezel meg Jules barátodról, miközben a szamárlétrát járod?}
 {347}{jules156}{A szerencse rádmosolygott, édeske. Mindenkit elvarázsoltál.}
 {348}{jules157}{Mindig tudtam, hugi, hogy a neved fényárban fog úszni. Már akkor tudtam, amikor elõször megláttalak.}
 {349}{jules158}{Egy klasszis, ahogy a képernyõn vonaglasz és sóhajtozol.}

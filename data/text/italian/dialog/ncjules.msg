@@ -43,14 +43,14 @@
 {322}{jules145}{Che ne diresti di presentarmi una di quelle attrici con le quali lavori, fratello?}
 {323}{jules146}{Yo, non ti sei dimenticata del tuo amico Jules adesso che sei diventata qualcuno, vero?}
 {324}{jules147}{Donna Fortuna brilla su di te, amico. Hai la MAGIA.}
-{325}{jules148}{Ho sempre saputo che il tuo nome sarebbe stato scritto nella luce. L'ho capito la prima volta che ti ho visto.}
+{325}{jules139}{Ho sempre saputo che il tuo nome sarebbe stato scritto nella luce. L'ho capito la prima volta che ti ho visto.}
 {340}{jules149}{Guardate un po' QUESTA dolce sorellina.}
 {341}{jules150}{Il mio cuore freme al sol vederti.}
 {342}{jules151}{Eddai, sorella, dai un bacio al tuo vecchio amico Jules.}
 {343}{jules152}{Diamine, guardate QUESTA stella luminosa...sei cosi' luminosa che faccio fatica a guardarti, sorella!}
 {344}{jules153}{Yo! Mi pare che venire a New Reno ti abbia fatto BENE!}
 {345}{jules154}{Che ne diresti di farmi recitare con te in alcune scene, dolcezza?}
-{346}{jules155}{Yo, non ti sei dimenticata del tuo amico Jules adesso che sei diventata qualcuno, vero?}
+{346}{jules146}{Yo, non ti sei dimenticata del tuo amico Jules adesso che sei diventata qualcuno, vero?}
 {347}{jules156}{Donna Fortuna brilla su di te, dolcezza. Hai la MAGIA.}
 {348}{jules157}{Ho sempre saputo che il tuo nome sarebbe stato scritto nella luce, sorella. L'ho capito la prima volta che ti ho vista.}
 {349}{jules158}{Sei davvero una donna di classe quando mandi dei gemiti e ti fai montare, sullo schermo.}

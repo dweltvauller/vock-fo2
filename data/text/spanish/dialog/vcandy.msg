@@ -17,7 +17,7 @@
 {116}{}{Encontré ciertos planos de un implante de combate en la base de datos médica de Ciudad Refugio. ¿Puedes llevar a cabo la operación?}
 {117}{}{No en este momento. Se ve peor de lo que es.}
 {118}{}{No, estoy bien. Tan sólo pasaba por aquí.}
-{119}{andr6}{De acuerdo... por la pinta que tiene, te va a costar }
+{119}{}{De acuerdo... por la pinta que tiene, te va a costar }
 {120}{}{ pavos. Si tienes el dinero, pues estarás listo para ello.}
 {121}{}{No hay garantías con el viejo doctor ahí atrás, por supuesto...}
 {122}{}{¿Arreglar? !Arregla! Coge dinero, arregla fugas.}
@@ -56,7 +56,7 @@
 {155}{}{¿Puedes curarme entonces?}
 {156}{}{Ya veo. Oye, tenía algunas preguntas que quisiera hacerte...}
 {157}{}{Oh, bueno. Gracias de todas formas.}
-{158}{andr7}{De acuerdo... por la pinta que tiene, te va a costar }
+{158}{}{De acuerdo... por la pinta que tiene, te va a costar }
 {159}{}{ pavos. Si tienes el dinero, pues estarás listo para ello.}
 {160}{}{No hay garantías con el viejo doctor ahí atrás, por supuesto...}
 {161}{}{De acuerdo.}
@@ -67,7 +67,7 @@
 {166}{}{Encontré ciertos planos de un implante de combate en la base de datos médica de Ciudad Refugio. ¿Puedes llevar a cabo la operación?}
 {167}{}{No tengo suficiente. Volveré cuando tenga más dinero.}
 {168}{}{He cambiado de opinión. Tal vez en otro momento.}
-{169}{andr15}{Bien, ahora... te cuento. }
+{169}{}{Bien, ahora... te cuento. }
 {170}{}{ pavos por ser tú, y nos ponemos a ello. ¿Qué me dices?}
 {171}{}{De acuerdo.}
 {172}{}{No sé. Me parece excesivo. ¿Qué tal }
@@ -88,8 +88,8 @@
 {187}{}{Ya veo. Verás, tenía algunas otras preguntas que hacerte...}
 {188}{}{Hmmm. Quizá regrese cuando necesite de tus servicios.}
 {189}{}{Sí, el "Auto-Doctor" de la habitación trasera. Es un préstamo de la ciudad.}
-{190}{andr19}{A veces puede ser un poco terco, pero casi siempre hace su trabajo. Casi siempre.}
-{191}{andr20}{Ha estado funcionando con mucha más suavidad últimamente, lo cual es bueno. Reduce la repetición de las visitas.}
+{190}{}{A veces puede ser un poco terco, pero casi siempre hace su trabajo. Casi siempre.}
+{191}{}{Ha estado funcionando con mucha más suavidad últimamente, lo cual es bueno. Reduce la repetición de las visitas.}
 {192}{}{Sí, reemplacé parte del cableado y limpié el interior. Ya no debería dar más problemas.}
 {193}{}{Ya veo. Verás, tenía algunas otras preguntas que hacerte...}
 {194}{}{Terco, ¿eh? Tal vez deba echarle un vistazo...}
@@ -154,8 +154,8 @@
 {253}{}{Háblame de los demás implantes.}
 {254}{}{No importa. Tengo otras preguntas.}
 {255}{}{Ya veo. Quizá en otro momento.}
-{256}{andr35}{Todas las curvas que tienes se van a convertir en ángulos rectos, hasta donde yo sé.}
-{257}{andr36}{Parecerás un bloque cuando haya terminado.}
+{256}{}{Todas las curvas que tienes se van a convertir en ángulos rectos, hasta donde yo sé.}
+{257}{}{Parecerás un bloque cuando haya terminado.}
 {258}{}{Meter todas esas placas en tu cuerpo significa que tu carisma recibirá un duro golpe. ¿Aún quieres jugar?}
 {259}{}{Oh, qué demonios. Aquí está el dinero y la armadura de combate.}
 {260}{}{No lo sé. 40.000 me resulta excesivo. Aunque tengo 30.000 dólares encima ahora mismo.}

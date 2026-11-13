@@ -22,7 +22,7 @@
 {121}{}{Papírok? Ja, persze a papírok! Itt vannak, ni...}
 {122}{cmdr9}{Rossz válasz! A katona mindig magánál hordja a papírjait! Ezt tudnia kellett volna!}
 {123}{}{Baszd meg!}
-{124}{cmdr10}{Hagyja békén a szekrényemet, különben szíjat hasítok a hátából!}
+{124}{cmdr7}{Hagyja békén a szekrényemet, különben szíjat hasítok a hátából!}
 {125}{cmdr11}{Legfõbb ideje, hogy a föld alá kerüljön!}
 {200}{}{Alright, let's get this over with--I don't like muties stinking up my office, and I got shit to do. Do you work
  for the Salvatores? }
@@ -46,7 +46,7 @@
 {252}{}{Nope. Playing hide-and-seek in your flying machine was all my own idea. Genius, I know.}
 {253}{}{Yeah, he thought he'd sweeten the trade by sending me along. What a deal, huh?}
 {254}{}{Before I answer any questions, I've got a few of my own.}
-{260}{cmdr18}{I don't have time for this bullshit. Guards! Kill this mutie!}
+{260}{cmdr13}{I don't have time for this bullshit. Guards! Kill this mutie!}
 {270}{}{That supposed to be funny, mutant? I think you'll be a lot funnier to me when you're a bleeding corpse. Guards!
  Kill this mutie!}
 {280}{cmdr20}{Oh, you do? [He chuckles.] Well hell, why not? You're dying anyway. What do you want to know, mutant?}

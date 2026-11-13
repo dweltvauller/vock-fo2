@@ -17,7 +17,7 @@
 {116}{}{W medycznej bazie danych Kryptopolis znajduj¹ siê schematy bojowego implantu. Móg³byœ przeprowadziæ operacjê wszczepienia?}
 {117}{}{Nie teraz. Nie jest a¿ tak Ÿle, jak wygl¹da.}
 {118}{}{Nie, nic mi nie jest. Tylko siê rozgl¹dam.}
-{119}{andr6}{W porz¹dku... bêdzie ciê to kosztowaæ }
+{119}{}{W porz¹dku... bêdzie ciê to kosztowaæ }
 {120}{}{ papierów. Jeœli masz kasê, to od razu bierzemy siê do roboty.}
 {121}{}{Oczywiœcie za doktorka na zapleczu nie mogê rêczyæ...}
 {122}{}{Poszywaæ? Poszywaæ! Ma pieni¹dze, poszywa dziury!}
@@ -56,7 +56,7 @@
 {155}{}{Mo¿esz mnie uleczyæ?}
 {156}{}{Rozumiem. Chcê ciê jeszcze o coœ zapytaæ...}
 {157}{}{Och, trudno. Dziêki za wszystko.}
-{158}{andr7}{W porz¹dku... bêdzie ciê to kosztowaæ }
+{158}{}{W porz¹dku... bêdzie ciê to kosztowaæ }
 {159}{}{ papierów. Jeœli masz kasê, to od razu bierzemy siê do roboty.}
 {160}{}{Oczywiœcie nie mogê rêczyæ za starego doktorka na zapleczu...}
 {161}{}{Dobrze.}
@@ -67,7 +67,7 @@
 {166}{}{W medycznej bazie danych Kryptopolis znajduj¹ siê schematy bojowego implantu. Móg³byœ przeprowadziæ operacjê wszczepienia?}
 {167}{}{Nie mam a¿ tyle pieniêdzy. Wrócê, kiedy zbiorê trochê gotówki.}
 {168}{}{Chyba jednak zmieniê zdanie. Mo¿e innym razem...}
-{169}{andr15}{No có¿... Wiesz co? }
+{169}{}{No có¿... Wiesz co? }
 {170}{}{ papierów za was wszystkich i bêdziemy kwita. Co ty na to?}
 {171}{}{Dobrze.}
 {172}{}{No nie wiem. To trochê drogo. A mo¿e }
@@ -88,8 +88,8 @@
 {187}{}{Rozumiem. Mam do ciebie jeszcze kilka pytañ...}
 {188}{}{Hmmm. Mo¿e wrócê, kiedy bêdê potrzebowaæ waszych us³ug.}
 {189}{}{Aha, to nasz "Auto-doktor" na zapleczu. Wypo¿yczamy go z Kryptopolis.}
-{190}{andr19}{Czasami jest trochê kapryœny, ale z regu³y dzia³a jak nale¿y. Z regu³y.}
-{191}{andr20}{Na szczêœcie ostatnio dzia³a ca³kiem sprawnie. Dziêki temu coraz mniej mamy reklamacji.}
+{190}{}{Czasami jest trochê kapryœny, ale z regu³y dzia³a jak nale¿y. Z regu³y.}
+{191}{}{Na szczêœcie ostatnio dzia³a ca³kiem sprawnie. Dziêki temu coraz mniej mamy reklamacji.}
 {192}{}{Tak, po wymianie paru kabli i solidnym czyszczeniu nie powinno z nim byæ ¿adnych problemów.}
 {193}{}{Rozumiem. Mam do ciebie jeszcze kilka pytañ...}
 {194}{}{Kapryœny, tak? Mo¿e mogê rzuciæ na niego okiem?}
@@ -154,8 +154,8 @@
 {253}{}{Opowiedz mi o innych implantach.}
 {254}{}{Niewa¿ne. Mam parê pytañ...}
 {255}{}{Rozumiem. Mo¿e innym razem.}
-{256}{andr35}{Jeœli siê nie mylê, wszystkie twoje kr¹g³oœci zamieni¹ siê w k¹ty proste.}
-{257}{andr36}{Po wszczepieniu implantów bêdziesz wygl¹daæ jak szafa na nogach.}
+{256}{}{Jeœli siê nie mylê, wszystkie twoje kr¹g³oœci zamieni¹ siê w k¹ty proste.}
+{257}{}{Po wszczepieniu implantów bêdziesz wygl¹daæ jak szafa na nogach.}
 {258}{}{Wciœniêcie takiej kupy ¿elastwa pod twoj¹ skórê odbije siê negatywnie na twojej charyzmie. Chcesz mimo to zaryzykowaæ?}
 {259}{}{A co mi tam! Oto pieni¹dze i pancerz.}
 {260}{}{No nie wiem... 40 tysiêcy to niema³o. Mam tylko $30000.}

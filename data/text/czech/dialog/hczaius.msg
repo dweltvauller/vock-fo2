@@ -16,7 +16,7 @@
 {115}{zaius4}{Jasnì. No, jmenuju se Zaius. Teï když jsme se pøedstavili... máš šikovné ruce? Máme tu takovej problém s èistièkou vzduchu ve spodním podlaží dolu a bohužel nemáme díly na to, abysme to spravili a ani ochrannou výstroj, kterou bysme se chránili pøed radonem, který se tam hromadí.}
 {116}{}{Nemám šikovné ruce. Promiò.}
 {117}{}{Docela jo. Co potøebuješ?}
-{118}{zaius5}{No, tak doufám, že se ti bude v Broken Hills líbit.}
+{118}{}{No, tak doufám, že se ti bude v Broken Hills líbit.}
 {119}{}{[Více]}
 {120}{zaius6}{Haha. Dobrý vtip. Chytráci jsou na øešení problémù nejlepší.}
 {121}{}{Jsi chytøejší než všichni v týhle prdeli.}

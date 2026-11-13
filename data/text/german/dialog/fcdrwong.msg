@@ -155,9 +155,9 @@
 {455}{}{Behalten Sie die Belohnung. Ich habe es nur getan, weil es das Richtige war.}
 {460}{wong43}{Bitte schön. [Er gibt dir verschiedene Hochleistungswaffen]}
 {461}{}{[Fertig]}
-{470}{wong44}{Bitte schön. [Er gibt dir verschiedene Vorräte]}
+{470}{wong43}{Bitte schön. [Er gibt dir verschiedene Vorräte]}
 {471}{}{[Fertig]}
-{480}{wong45}{Bitte sehr. [Er gibt dir $5.000]}
+{480}{wong43}{Bitte sehr. [Er gibt dir $5.000]}
 {481}{}{[Fertig]}
 {490}{wong46}{Die Shi schätzen Ihre Hilfe. Jetzt habe ich noch viel zu tun. Guten Tag.}
 {491}{}{[Fertig]}

@@ -43,14 +43,14 @@
 {322}{jules145}{Co ty na to, ¿eby przedstawiæ mnie kilku z tych aktorek, nad którymi pracujesz, co bracie?}
 {323}{jules146}{Jo, wspinaj¹c siê na szczyt nie zapomnia³eœ o swoim przyjacielu Julesie, co?}
 {324}{jules147}{Fortuna ci sprzyja, cz³owieku. Masz w sobie MAGIÊ.}
-{325}{jules148}{Zawsze wiedzia³em, ¿e twoje imiê zawêdruje na neony. Wiedzia³em to jak tylko pierwszy raz ciê zobaczy³em.}
+{325}{jules139}{Zawsze wiedzia³em, ¿e twoje imiê zawêdruje na neony. Wiedzia³em to jak tylko pierwszy raz ciê zobaczy³em.}
 {340}{jules149}{Popatrzcie na T¥ s³odk¹ siostrzyczkê.}
 {341}{jules150}{Moje serce bije ¿ywiej, kiedy ciê widzê.}
 {342}{jules151}{No, siostrzyczko, daj swojemu staremu kumplowi Julesowi buziaka.}
 {343}{jules152}{Kurde, popatrzcie na T¥ œwietlist¹ gwiazdê... tyœ jezd tak jasna, ¿e ledwo mogê na ciebie patrzeæ, moja siostro!}
 {344}{jules153}{Jo! Wygl¹da na to, ¿e pobyt w Nowym Reno DOBRZE ci zrobi³!}
 {345}{jules154}{Co ty na to, s³odziutka, ¿ebym wyst¹pi³ z tob¹ w kilku scenach?}
-{346}{jules155}{Jo, wspinaj¹c siê na szczyt nie zapomnia³eœ o swoim przyjacielu Julesie, co?}
+{346}{jules146}{Jo, wspinaj¹c siê na szczyt nie zapomnia³eœ o swoim przyjacielu Julesie, co?}
 {347}{jules156}{Fortuna ci sprzyja, s³odziutka. Masz w sobie MAGIÊ.}
 {348}{jules157}{Zawsze wiedzia³em, ¿e twoje imiê zawêdruje na neony, siostro. Wiedzia³em to, jak tylko pierwszy raz ciê zobaczy³em.}
 {349}{jules158}{Jesteœ dam¹ z wielk¹ klas¹, kiedy siê tak trzêsiesz i jêczysz na ekranie.}

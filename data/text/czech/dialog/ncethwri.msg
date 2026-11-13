@@ -98,7 +98,7 @@
 {359}{}{Ani ne. Poslyšte, musím odejít.}
 {360}{ew25}{Aha. (Zamrká.) Takže co pro vás mùžu udìlat?}
 {361}{ew26}{Co chcete vìdìt?}
-{362}{ew27}{(Pøekvapenì vyskoèí.) Božínku, to jsem se ale polekala! (Zamžourá.) Ááá, to jste zase vy!}
+{362}{ew2}{(Pøekvapenì vyskoèí.) Božínku, to jsem se ale polekala! (Zamžourá.) Ááá, to jste zase vy!}
 {363}{}{Co jste to pøedtím øíkala o tom Protialkoholickém hnutí?}
 {364}{}{Hledám GECK.}
 {365}{}{Hledám místo, kterému se øíká Vault 13.}

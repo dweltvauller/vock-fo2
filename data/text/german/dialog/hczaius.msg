@@ -22,7 +22,7 @@
  gebildet hat.}
 {116}{}{Darin bin ich nicht so gut, tut mir leid.}
 {117}{}{Geht so. Wo fehlt's denn?}
-{118}{zaius5}{Na gut, also dann viel Spaß weiterhin hier in Broken Hills.}
+{118}{}{Na gut, also dann viel Spaß weiterhin hier in Broken Hills.}
 {119}{}{(Weiter)}
 {120}{zaius6}{Ha. Ha. Sehr witzig. So ein Superhirn löst ja jedes Problem.}
 {121}{}{Schlauer als alle anderen hier in diesem Loch von einer Stadt.}

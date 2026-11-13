@@ -102,8 +102,8 @@
 {201}{badge31}{El Shi tiene todo el combustible por aquí. Yo podría tomar un vistazo a su mainframe para usted.}
 {202}{}{¿Podrías?}
 {203}{badge40}{¿Qué carajo quieres?}
-{204}{}{¿Badger, supongo?}
-{205}{}{¡Has deshonrado a nuestro Emperador por última vez!}
+{204}{shig1}{¿Badger, supongo?}
+{205}{shig2}{¡Has deshonrado a nuestro Emperador por última vez!}
 {206}{badge41}{Creo que voy a ir a comprarle algunos caramelos a Lao Chou en la ciudad.}
 {207}{}{Demasiado para un juicio justo. Hmmm...}
 {208}{badge42}{Colega, relájate. Yo sólo quería algunos caramelos.}

@@ -96,7 +96,7 @@
 {359}{}{Niezupe³nie. Niestety, muszê ju¿ iœæ.}
 {360}{ew25}{Och. (Mruga.) Wiêc co mogê dla ciebie zrobiæ?}
 {361}{ew26}{A wiêc o co chcesz mnie zapytaæ?}
-{362}{ew27}{(Podskakuje.) Ojej! Strasznie siê wystraszy³am! (Zezuje na ciebie) O, witam znowu!}
+{362}{ew2}{(Podskakuje.) Ojej! Strasznie siê wystraszy³am! (Zezuje na ciebie) O, witam znowu!}
 {363}{}{Mówi³a pani coœ o Unii WstrzemiêŸliwoœci?}
 {364}{}{Szukam Generatora Ekosystemu Cudownej Krainy.}
 {365}{}{Szukam miejsca, które nazywa siê Krypta 13.}

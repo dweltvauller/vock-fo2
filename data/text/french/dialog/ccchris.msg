@@ -129,7 +129,7 @@
 {228}{}{Je ferais pas ça à ta place !}
 {229}{}{Non mais tu t'crois où ?}
 {230}{}{J'me casse.}
-{231}{chris33}{Ouais, d'accord.}
+{231}{}{Ouais, d'accord.}
 {232}{}{Il sort une radio. Il va alerter toute la base ! Je dois me débarrasser de lui rapidement.}
 {233}{}{Oh, non. Le monsieur a sorti une boite qui parle. Lui grosse balance. Moi arrêter lui.}
 {800}{}{Tu as dupé Chris pour avoir le mot de passe.}

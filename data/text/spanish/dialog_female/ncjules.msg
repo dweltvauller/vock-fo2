@@ -44,14 +44,14 @@
 {322}{jules145}{¿Qué tal si me presentas a algunas de esas actrices con las que te trabajas, hermano?}
 {323}{jules146}{Eh, no has olvidado a tu amigo Jules en tu ascenso a la cima, ¿verdad?}
 {324}{jules147}{La luz de la Dama Fortuna brilla en ti, amigo. Tienes la MAGIA.}
-{325}{jules148}{Siempre supe que tu nombre brillaría en los neones. Lo supe la primera vez que te vi.}
+{325}{jules139}{Siempre supe que tu nombre brillaría en los neones. Lo supe la primera vez que te vi.}
 {340}{jules149}{Mira a ESTA dulce hermanita.}
 {341}{jules150}{Mi corazón palpita al verte.}
 {342}{jules151}{Vamos, hermana, dale un beso a tu viejo amigo Jules.}
 {343}{jules152}{Maldición, mirad a ESTA brillante estrella… ¡tan luminosa que apenas puedo verte, hermana!}
 {344}{jules153}{¡Tú! ¡Me parece que Nuevo Reno te ha sentado BIEN!}
 {345}{jules154}{¿Qué me dices de interpretar contigo unas cuantas escenas, dulzura?}
-{346}{jules155}{Eh, no has olvidado a tu amigo Jules en tu ascenso a la cima, ¿verdad?}
+{346}{jules146}{Eh, no has olvidado a tu amigo Jules en tu ascenso a la cima, ¿verdad?}
 {347}{jules156}{La luz de la Dama Fortuna brilla en ti, dulzura. Tienes la MAGIA.}
 {348}{jules157}{Siempre supe que tu nombre brillaría en los neones, hermana. Lo supe la primera vez que te vi.}
 {349}{jules158}{Tienes mucha clase cuando brincas y gimes en pantalla.}

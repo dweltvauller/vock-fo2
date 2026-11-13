@@ -102,8 +102,8 @@
 {201}{badge31}{Les Shis ont tout le carburant des alentours. Je pourrais infiltrer leur ordinateur pour toi.}
 {202}{}{Vraiment ?}
 {203}{badge40}{Que veux-tu ?}
-{204}{}{Badger du gang de voyous, je suppose ?}
-{205}{}{Tu as déshonoré notre Empereur pour la dernière fois !}
+{204}{shig1}{Badger du gang de voyous, je suppose ?}
+{205}{shig2}{Tu as déshonoré notre Empereur pour la dernière fois !}
 {206}{badge41}{Je crois que je vais aller acheter des bonbons chez Lao Chou en ville.}
 {207}{}{Tu parles d'une épreuve juste. Hum...}
 {208}{badge42}{Déstresse mon gars. Je voulais juste des bonbons.}

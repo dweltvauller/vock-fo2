@@ -110,7 +110,7 @@
 {359}{}{En realidad no. Oye, tengo que irme.}
 {360}{ew25}{Oh. (Parpadea). Entonces, ¿qué puedo hacer por ti?}
 {361}{ew26}{Entonces, ¿qué preguntas tienes?}
-{362}{ew27}{(Se sobresalta). ¡Oh, Dios! Me has asustado (Te ojea). ¡Bien, hola otra vez!}
+{362}{ew2}{(Se sobresalta). ¡Oh, Dios! Me has asustado (Te ojea). ¡Bien, hola otra vez!}
 {363}{}{¿Qué decías antes sobre la Unión por la Templanza?}
 {364}{}{Estoy buscando un Kit de Creación del Jardín del Edén.}
 {365}{}{Estoy buscando un lugar llamado Refugio 13.}

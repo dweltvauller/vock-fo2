@@ -299,7 +299,7 @@
 {1200}{kit121}{Diesen Ort haben sie gut gesichert.}
 {1210}{kit122}{Ich habe von diesen Orten gehört...}
 {1220}{kit123}{Fühlt sich gut an, in einer Stadt zu sein, die alles beisammen hat.}
-{1230}{kit124}{Ich habe von diesen Orten gehört...}
+{1230}{kit122}{Ich habe von diesen Orten gehört...}
 {1240}{kit125}{Der einzige heilige Ort in dieser gottlosen Einöde.}
 {1250}{kit126}{Es ist heiß hier draußen.}
 {1251}{kit127}{Ich schwitze wie ein Schwein.}

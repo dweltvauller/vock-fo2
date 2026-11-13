@@ -23,7 +23,7 @@
 {121}{}{Papiere? Deine Papiere habe ich hier!}
 {122}{cmdr9}{Falsche Antwort, du Wurm. Du musst deine Papiere immer bei dir haben und das solltest du wissen!}
 {123}{}{LMAA.}
-{124}{cmdr10}{Lass die Finger vom Spind, oder du wirst gleich echte Schmerzen erleben.}
+{124}{cmdr7}{Lass die Finger vom Spind, oder du wirst gleich echte Schmerzen erleben.}
 {125}{cmdr11}{Zeit zum sterben.}
 {200}{cmdr12}{Okay, lass es uns kurz machen — ich mag's nicht wenn Mutanten mein Büro verpesten, und ich hab 'n Haufen Mist zu erledigen. Arbeitest du für die Salvatores? }
 {201}{}{Geht dich nichts an, Drecksack.}
@@ -43,7 +43,7 @@
 {252}{}{Nö. In deiner Flugmaschine Verstecken zu spielen war meine eigene Idee. Genial, ich weiß.}
 {253}{}{Ja, er dachte, er versüßt dir das Geschäft, indem er mich herschickt. Was für ein Handel, nicht?}
 {254}{}{Bevor ich irgendwelche Fragen beantworte, habe ich selbst ein paar.}
-{260}{cmdr18}{Ich habe keine Zeit für solchen Bockmist. Wache! Legt den Mutanten um!}
+{260}{cmdr13}{Ich habe keine Zeit für solchen Bockmist. Wache! Legt den Mutanten um!}
 {270}{cmdr19}{Das soll wohl lustig sein, Mutant? Ich glaube, du wirst für mich als blutige Leiche viel lustiger sein. Wache! Legt diesen Mutanten um!}
 {280}{cmdr20}{Oh, wirklich? [Er kichert.] Teufel ja, warum nicht? Du stirbst sowieso. Was willst du wissen, Mutant?}
 {281}{}{Warum bezeichnest du mich die ganze Zeit als Mutanten?}

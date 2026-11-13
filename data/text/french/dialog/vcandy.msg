@@ -17,7 +17,7 @@
 {116}{}{J'ai trouvé quelques schémas d'implants de combat dans la base de données médicale de la Cité de l'Abri. Pourrais-tu pratiquer l'opération ?}
 {117}{}{Pas maintenant. Ca a l'air pire que ça n'est.}
 {118}{}{Non, ça va. Je faisais que passer.}
-{119}{andr6}{Très bien... Vu l'état, ça va coûter }
+{119}{}{Très bien... Vu l'état, ça va coûter }
 {120}{}{ dollars. Si t'as le fric, c'est bon.}
 {121}{}{Evidemment, je garantis rien avec le vieux Doc dans la pièce du fond...}
 {122}{}{'fistoleeer ? 'fistoler ! Prendre argeent, répppare fuites.}
@@ -56,7 +56,7 @@
 {155}{}{Peux-tu me soigner, à la place ?}
 {156}{}{Je vois. Il y a une ou deux questions que je voulais te poser...}
 {157}{}{Ah, bon. Merci quand même.}
-{158}{andr7}{Très bien... Vu l'état, ça va coûter }
+{158}{}{Très bien... Vu l'état, ça va coûter }
 {159}{}{ dollars. Si t'as le fric, c'est bon.}
 {160}{}{Evidemment, je garantis rien avec le vieux Doc de la pièce du fond...}
 {161}{}{Très bien.}
@@ -67,7 +67,7 @@
 {166}{}{J'ai trouvé quelques schémas d'implants de combat dans la base de données médicale de la Cité de l'Abri. Pourrais-tu pratiquer l'opération ?}
 {167}{}{J'ai pas assez. Je reviendrai quand j'aurai plus d'argent.}
 {168}{}{J'ai changé d'avis. Peut-être une autre fois.}
-{169}{andr15}{Bon, alors, écoute... }
+{169}{}{Bon, alors, écoute... }
 {170}{}{ dollars pour vous tous, et on dira qu'on est quittes. Qu'en dis-tu ?}
 {171}{}{Très bien.}
 {172}{}{Je ne sais pas. C'est pas donné. Que dirais-tu de }
@@ -88,8 +88,8 @@
 {187}{}{Je vois. Dis, je voulais te poser une ou deux autres questions...}
 {188}{}{Hum. Peut-être que je reviendrai quand j'aurai besoin de tes services.}
 {189}{}{Ouais, l'« Auto-Docteur », dans l'arrière-salle, là. C'est un prêt de la cité.}
-{190}{andr19}{Il est parfois un peu tête de mule mais, dans l'ensemble, il fait son boulot. La plupart du temps.}
-{191}{andr20}{Il est moins capricieux ces temps-ci, heureusement. Ca limite les visites à répétition.}
+{190}{}{Il est parfois un peu tête de mule mais, dans l'ensemble, il fait son boulot. La plupart du temps.}
+{191}{}{Il est moins capricieux ces temps-ci, heureusement. Ca limite les visites à répétition.}
 {192}{}{Ouais, j'ai remplacé certains câbles et nettoyé l'intérieur. Il devrait plus poser de problèmes.}
 {193}{}{Je vois. Dis, je voulais te poser une ou deux autres questions...}
 {194}{}{Tête de mule, hein ? Je vais peut-être aller voir ça...}
@@ -154,8 +154,8 @@
 {253}{}{Parle-moi des autres implants.}
 {254}{}{Alors oublie ça, tu veux bien ? J'avais deux ou trois autres questions.}
 {255}{}{Je vois. Peut-être une autre fois.}
-{256}{andr35}{Ben, toutes les courbes que tu as, là, ça va devenir des angles droits, c'est à peu près tout ce que je peux dire.}
-{257}{andr36}{Tu auras l'air d'un bloc quand j'aurai fini.}
+{256}{}{Ben, toutes les courbes que tu as, là, ça va devenir des angles droits, c'est à peu près tout ce que je peux dire.}
+{257}{}{Tu auras l'air d'un bloc quand j'aurai fini.}
 {258}{}{Quand j'aurai logé toutes ces plaques dans ton corps, ton charisme va en prendre un sacré coup. Ca marche quand même ?}
 {259}{}{Oh, et puis merde. Voilà le pognon et l'armure de combat.}
 {260}{}{Je sais pas. $40 000, c'est plutôt cher. Mais si tu veux, j'ai $30 000 sur moi.}

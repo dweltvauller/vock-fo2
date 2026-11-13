@@ -70,7 +70,7 @@
 {220}{shela22}{Bene; non ti aspettero' un minuto di piu'.}
 {221}{shela23}{Dai, dai.}
 {222}{shela16}{Ti stai eccitando o cosa?}
-{223}{shela24}{Seguimi.}
+{223}{shela17}{Seguimi.}
 {224}{shela25}{Ehi, amico, tieni giu' le mani dalla mercanzia.}
 {225}{shela26}{Smettila! Non sono un giocattolo.}
 {230}{shela15}{Uhhh...? Era la tua prima volta?}

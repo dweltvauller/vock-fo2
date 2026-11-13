@@ -22,7 +22,7 @@
 {121}{}{Des papiers ? Les v'là tes papiers, tiens, regarde !}
 {122}{cmdr9}{Mauvaise réponse, l'asticot. Tu dois toujours avoir tes papiers sur toi. Tu devrais le savoir !}
 {123}{}{Va te faire mettre !}
-{124}{cmdr10}{Laisse mon placard tranquille ou j'te fais une tête au carré !}
+{124}{cmdr7}{Laisse mon placard tranquille ou j'te fais une tête au carré !}
 {125}{cmdr11}{Je t'avais prévenu !}
 {200}{cmdr12}{Très bien, on va faire avec... Je n'aime pas quand les mutants empestent dans mon bureau, et j'ai encore des choses à faire. Tu travailles pour les Salvatore ?}
 {201}{}{C'est pas tes oignons, connard.}
@@ -42,7 +42,7 @@
 {252}{}{Non. Jouer à cache-cache dans ta machine volante était ma propre idée. Je suis un génie, je sais.}
 {253}{}{Oui, il pensait pouvoir interférer dans cette affaire en m'envoyant. Alors c'est quoi le deal ?}
 {254}{}{Avant de te répondre, j'aurais moi-même encore quelques questions.}
-{260}{cmdr18}{Je n'ai pas le temps pour ces conneries. Gardes ! Tuez ce mutant !}
+{260}{cmdr13}{Je n'ai pas le temps pour ces conneries. Gardes ! Tuez ce mutant !}
 {270}{cmdr19}{C'est censé être drôle, mutant ? Je pense que ce sera d'autant plus drôle quand tu seras réduit en un cadavre ensanglanté. Gardes ! Tuez ce mutant !}
 {280}{cmdr20}{Oh, tu as des questions ? [Il hausse les épaules.] Très bien pourquoi pas ? Tu vas mourir de toute façon. Que veux-tu savoir, l'mutant ?}
 {281}{}{Pourquoi me traites-tu constamment de *mutant* ?}

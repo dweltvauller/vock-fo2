@@ -127,9 +127,9 @@
 {1800}{vic58}{D'accord, je garde mes distances, mais pas trop, Patron.}
 {1801}{vic59}{D'accord, je ne le ferai plus, Patron.}
 {1802}{vic60}{Je reste juste un peu en retrait, Patron.}
-{1803}{vic61}{Certainement, Boss.}
+{1803}{vic51}{Certainement, Boss.}
 {1900}{vic62}{D'accord, Patron. Je reste loin.}
-{1901}{vic63}{C'est toi le patron, Patron.}
+{1901}{vic39}{C'est toi le patron, Patron.}
 {1902}{vic64}{Voilà, Patron.}
 {1903}{vic65}{Je m'écarte, Patron.}
 {1904}{vic66}{Je prends mes distances, Patron.}
@@ -156,7 +156,7 @@
 {2311}{vic85}{La Cité de l'Abri. Regardes sur cette drôle de carte.}
 {2403}{}{Où t'es-tu procuré la fiole d'eau de l'Abri 13 ?}
 {2404}{}{Ca ne fait rien.}
-{2500}{vic86}{Certainement, Boss.}
+{2500}{vic51}{Certainement, Boss.}
 {2501}{vic87}{Demande-moi ce que tu veux, Boss.}
 {2502}{vic88}{Si je le peux, je t'aiderai, Boss.}
 {2503}{vic89}{Je n'ai pas d'ennuis, pas vrai, Boss ?}

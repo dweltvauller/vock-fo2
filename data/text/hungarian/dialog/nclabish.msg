@@ -162,7 +162,7 @@
 {500}{}{Ez itt Mrs. Bishop. Miközben éppen az õrséget szólongatja, elég nehéz a külsejére koncentrálni, }
 {510}{}{Mmmmm... ó, }
 {511}{}{Mmmzrrmnmn....again, }
-{512}{lbshp122}{Kombbináziójja széfhez... }
+{512}{}{Kombbináziójja széfhez... }
 {515}{lbshp123}{Behatoló! Segítség!}
 {516}{lbshp124}{Tolvaj! Tolvaj!}
 {517}{lbshp125}{Behatoló! Õrség! Õrség!}
@@ -250,7 +250,7 @@
 {655}{}{No... John probably has a map of their location somewhere around here...
  (Sniffs slightly, rubs nose.) Mmmmm....}
 {657}{}{Beszéljünk inkább valami másról...}
-{660}{lbshp83}{, gondolom... valami ilyesmi...}
+{660}{}{, gondolom... valami ilyesmi...}
 {663}{}{Kiváló... itt az idõ, hogy megbontsuk a széfet... szép álmokat, Mrs. Bishop.}
 {665}{}{Ó, }
 {666}{}{Ó, köszönöm.}
@@ -293,7 +293,7 @@
 {750}{lbshp104}{*Ásít*... (Összegömbölyödik.) A széfemben. PipBoy nélkül nem sokat ér. Máig nem tudom, minek õrizgettem.}
 {751}{}{Enyém lehet?}
 {752}{}{Hmmmnn. I had some other questions...}
-{760}{lbshp105}{(Vállat von.) Persze, ha kell. A kombináció }
+{760}{}{(Vállat von.) Persze, ha kell. A kombináció }
 {761}{}{Hogy kell használni?}
 {762}{}{Thanks. Say, I had some other questions...}
 {770}{lbshp106}{(Mrs. Bishop átfordul és behúnyja a szemét. Néhány másodperc múlva már alszik is.)}

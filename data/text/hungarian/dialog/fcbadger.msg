@@ -102,8 +102,8 @@
 {201}{badge31}{Az összes üzemanyagot a Shik birtokolják nálunk. Ha akarod, rákukkanthatok neked a számítógépükre.}
 {202}{}{Megtennéd?}
 {203}{badge40}{Mi a fenét akarsz?}
-{204}{}{Borzot, a punk-ot, szerintem.}
-{205}{}{Megszégyenítetted az Uralkodónkat!}
+{204}{shig1}{Borzot, a punk-ot, szerintem.}
+{205}{shig2}{Megszégyenítetted az Uralkodónkat!}
 {206}{badge41}{Asszem, megyek cukorkáért Lao Chouhoz a városba.}
 {207}{}{Ennyit a tisztességes tárgyalásról. Hmmm...}
 {208}{badge42}{Haver, fogd vissza magad! Én csak egy kis cukorkát szerettem volna.}

@@ -193,7 +193,7 @@
 {1700}{lenny42}{Ich bleib dicht bei dir.}
 {1800}{lenny43}{W-wir wollen ihnen k-keine zu einfache Z-zielscheibe bieten, was?}
 {1900}{lenny44}{OK, ich b-bleib etwas zurück. Scheint, als w-wollten die meisten L-leute dich töten.}
-{2000}{lenny45}{Hier sind so v-viele Leute. Du brauchst m-meine Hilfe nicht mehr. Ich wünsche dir v-viel Glück.}
+{2000}{lenny33}{Hier sind so v-viele Leute. Du brauchst m-meine Hilfe nicht mehr. Ich wünsche dir v-viel Glück.}
 {2100}{}{Ich hätt n-nicht gedacht, dass ich den Tag erlebe, an d-dem ich mich für das w-was du
  tust sch-schämen würde. Du bist eine Schande für den Vaultbewohner. Wiedersehn.}
 {2200}{lenny47}{Ich w-wusste nicht, ob du z-zurückkommst.}

@@ -192,7 +192,7 @@
 {1700}{lenny42}{J'je vais r'rester p'près de toi.}
 {1800}{lenny43}{J'imagine qu'il f'faut pas qu'on s'soit une c'cible trop facile, hein ?}
 {1900}{lenny44}{Ok, je vais r'rester un p'peu en retrait. De t'toute f'façon on d'dirait que les gens v'veulent te t'tuer.}
-{2000}{lenny45}{Il y a déjà bien assez d'monde ici. T'as p'plus besoin de mon aide. Je te s'souhaite bonne chance.}
+{2000}{lenny33}{Il y a déjà bien assez d'monde ici. T'as p'plus besoin de mon aide. Je te s'souhaite bonne chance.}
 {2100}{}{J'aurais jamais cru qq'un j'jour j'aurais honte d'être avec toi. Tu déshonores la mémoire de l'Habitant de l'Abri. Au revoir.}
 {2200}{lenny47}{J'pensais pas qu'tu reviendrais.}
 {2300}{}{Je peux pas aller plus vite que la musique !}

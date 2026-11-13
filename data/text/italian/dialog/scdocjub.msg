@@ -50,7 +50,7 @@
 {149}{jub16}{Il colpo grosso. Saltbeef e' un vecchio cercatore d'uranio - piu' precisamente, un ubriacone. Negli ultimi tempi vive nella proprieta' di Westin.}
 {150}{}{Un'altra domanda...}
 {151}{}{Grazie per la storia.}
-{152}{jub17}{Beh, speravo proprio di ricavarci dei soldi. Te lo lascero' per }
+{152}{}{Beh, speravo proprio di ricavarci dei soldi. Te lo lascero' per }
 {153}{}{Magari piu' tardi. Un'altra domanda...}
 {154}{}{Magari un'altra volta. Devo andare.}
 {155}{jub18}{Saltbeef e' un vecchio cercatore d'uranio. Negli ultimi tempi vive nella proprieta' di Westin.}

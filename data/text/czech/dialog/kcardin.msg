@@ -94,7 +94,7 @@
 {351}{}{Udìlám, co budu moct. Mùžu se ale nejdøív na nìco zeptat?}
 {352}{}{Udìlám pro to vše, co bude v mých silách, paní Bucknerová. Sbohem.}
 {353}{}{Víte, myslím, že vám teï nemùžu pomoct. Sbohem.}
-{360}{ardin56}{Už se vám podaøilo najít mého Smileyho?}
+{360}{ardin38}{Už se vám podaøilo najít mého Smileyho?}
 {361}{}{Bohužel, paní Bucknerová. Stále po nìm pátrám. Mùžu se nejdøív na nìco zeptat?}
 {362}{}{Ne, ale právì se ho chystám hledat. Sbohem.}
 {370}{}{Vìdìla jsem, že se mému ubohému chlapci Torrovi muselo pøihodit nìco strašného. Spoléhala jsem na to (vzlyk), že ho najdete, než bude pozdì. Ubohý, prostoduchý chlapec. Nechápu, proè jsem na vás spoléhala.}

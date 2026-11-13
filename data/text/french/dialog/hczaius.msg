@@ -16,7 +16,7 @@
 {115}{zaius4}{Ouais. Je m'appelle Zaius. Maintenant qu'on se connaît... T'es habile de tes dix doigts ? On a un problème avec notre purificateur d'air au niveau inférieur de la mine, mais on n'a pas les pièces pour le réparer ni l'équipement de protection contre le radon qui s'est accumulé.}
 {116}{}{C'est pas trop mon truc. Je regrette.}
 {117}{}{Pas trop mal. De quoi s'agit-il ?}
-{118}{zaius5}{Bien, j'espère que ton séjour aux Collines Brisées sera agréable.}
+{118}{}{Bien, j'espère que ton séjour aux Collines Brisées sera agréable.}
 {119}{}{[Suite]}
 {120}{zaius6}{Ha. Ha. Très drôle. Rien de mieux qu'une grande gueule pour résoudre un problème.}
 {121}{}{Grande gueule peut-être mais moins con que n'importe qui dans cette ville pourrie !}

@@ -49,7 +49,7 @@
 {148}{}{Non preoccuparti, liberero' tuo marito. Dopo che avro' ricevuto il mio pagamento.}
 {149}{}{Lasciamo perdere. Magari posso provare a parlare con qualcuno del Centro di Collocamento.}
 {150}{}{Non importa. Dimentica che ci siamo incontrati.}
-{151}{}{Ehi, e io?!}
+{151}{myron6}{Ehi, e io?!}
 {152}{ama18}{Ti prego, salva Joshua. E' all'interno della citta', nel Centro di Collocamento Servi.}
 {153}{ama19}{Grazie per aver salvato mio marito! Ti prego... accetta questo. Non e' molto, ma...}
 {154}{ama20}{Grazie ancora per aver salvato mio marito. Presto partiremo.}

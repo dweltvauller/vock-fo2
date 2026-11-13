@@ -162,7 +162,7 @@
 {500}{}{Tu vois Mme Bishop, mais tu as du mal à bien l'observer tandis qu'elle appelle les gardes.}
 {510}{}{<Hmmm...> <Oh>,}
 {511}{}{<Mmmzrmnmn...> Encore, }
-{512}{lbshp122}{Combinaichon d'coffre... }
+{512}{}{Combinaichon d'coffre... }
 {515}{lbshp123}{Un intrus ! A l'aide !}
 {516}{lbshp124}{Au voleur ! Au voleur !}
 {517}{lbshp125}{Un intrus ! Gardes ! Gardes !}
@@ -249,7 +249,7 @@
 {652}{}{Heu... Y a-t-il une *preuve* de tout ceci quelque part ?}
 {655}{lbshp82}{Non... John garde sans doute une carte où leur campement est marqué... [Elle renifle et se frotte le nez.] Hmmm...}
 {657}{}{Parlons d'autre chose...}
-{660}{lbshp83}{, je crois... en quelque sorte.}
+{660}{}{, je crois... en quelque sorte.}
 {663}{}{Parfait... J'ai un coffre-fort à forcer, donc... bonne nuit, Mme Bishop.}
 {665}{}{Oh, }
 {666}{}{Oh. Merci.}
@@ -292,7 +292,7 @@
 {750}{lbshp104}{[Elle baille et se roule en boule.] Dans mon coffre. Ils ne servent à rien sans Pip-Boy, ceci dit. Je ne sais pas pourquoi je les garde.}
 {751}{}{Je peux les prendre ?}
 {752}{}{Hmmm. J'ai d'autres questions.}
-{760}{lbshp105}{[Elle hausse les épaules.] Bien sûr. La combinaison, c'est }
+{760}{}{[Elle hausse les épaules.] Bien sûr. La combinaison, c'est }
 {761}{}{Comment est-ce qu'on les utilise ?}
 {762}{}{Merci. Dis, j'ai d'autres questions...}
 {770}{lbshp106}{[Mme Bishop s'enroule sur elle-même, ferme les yeux et s'endort aussitôt.]}

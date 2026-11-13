@@ -14,7 +14,7 @@
 {159}{}{Cosa c'e', ragazzo? Stai cercando di dirmi qualcosa?}
 {160}{lad4}{Grrrr! [Laddie ti morde con cattiveria.]}
 {161}{}{[Hmm… Per qualche ragione non gli piaci.]}
-{162}{lad3}{Woof! Woof! Woof! [Laddie ti salta addosso e inizia a leccarti la faccia.]}
+{162}{lad6}{Woof! Woof! Woof! [Laddie ti salta addosso e inizia a leccarti la faccia.]}
 {163}{}{[Che bel cagnolino.]}
 {164}{lad5}{Woof? [Puoi quasi sentire il cane ridere di te.]}
 {165}{}{[A nessuno piacciono i sapientoni.]}

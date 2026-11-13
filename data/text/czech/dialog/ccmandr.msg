@@ -22,7 +22,7 @@
 {121}{}{Doklady? Mám vaše doklady pøímo tady!}
 {122}{cmdr9}{Špatná odpovìï, èerve. Doklady bys mìl mít vdy u sebe. To bys mìl vìdìt!}
 {123}{}{Jdi do prdele.}
-{124}{cmdr10}{Nech moji skøíòku na pokoji, nebo ti ukáu co je to opravdová bolest.}
+{124}{cmdr7}{Nech moji skøíòku na pokoji, nebo ti ukáu co je to opravdová bolest.}
 {125}{cmdr11}{Èas zemøít.}
 {200}{cmdr12}{No dobøe, tak a to máme rychle za sebou. Nemám rád, kdy mi mutanti smrdí v kanceláøi a já mám práce, e bych se z toho mohl posrat. Pracuješ pro Salvatora? }
 {201}{}{Do toho ti nic není, kreténe.}
@@ -42,7 +42,7 @@
 {252}{}{Ne. Hrát si na schovku v tom vašem létajícím stroji byl mùj nápad. Geniální, já vím.}
 {253}{}{Jo. Myslel si, e by ten obchod mohl ještì vylepšit, kdy mì pošle s váma. Dobrı, ne?}
 {254}{}{Ne odpovím na jakoukoliv otázku, chci se nejdøív zeptat na pár vlastních.}
-{260}{cmdr18}{Na takové kecy nemám èas. Stráe! Zabijte toho mutanta!}
+{260}{cmdr13}{Na takové kecy nemám èas. Stráe! Zabijte toho mutanta!}
 {270}{cmdr19}{To má bıt vtip, mutante? Myslím, e budeš mnohem vtipnìjší jako krvácející mrtvola. Stráe! Zabijte toho mutanta!}
 {280}{cmdr20}{Coe? (Zachechtá se.) Krucinál, proè ne? Stejnì u jseš jednou nohou v hrobì. Co chceš vìdìt, mutante?}
 {281}{}{Proè mi poøád øíkáš mutant?}

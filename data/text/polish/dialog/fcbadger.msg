@@ -102,8 +102,8 @@
 {201}{badge31}{Shi krêc¹ tu ca³ym paliwem. Móg³bym zerkn¹æ dla ciebie do ich g³ównego komputera.}
 {202}{}{Móg³byœ?}
 {203}{badge40}{Czego do cholery chcesz?}
-{204}{}{Punk Badger, jak s¹dzê?}
-{205}{}{Po raz ostatni poni¿y³eœ naszego Imperatora!}
+{204}{shig1}{Punk Badger, jak s¹dzê?}
+{205}{shig2}{Po raz ostatni poni¿y³eœ naszego Imperatora!}
 {206}{badge41}{Chyba pójdê na miasto po trochê s³odyczy od Lao Chou.}
 {207}{}{To by by³o na tyle, jeœli chodzi o uczciwy proces. Hmm...}
 {208}{badge42}{Ej, wyluzuj. Chcia³em tylko trochê s³odyczy.}

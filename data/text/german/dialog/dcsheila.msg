@@ -71,7 +71,7 @@
 {220}{shela22}{Na gut, ich warte jetzt nicht noch länger.}
 {221}{shela23}{Also hab dich doch nicht so.}
 {222}{shela16}{Bist du aufgeregt oder was?}
-{223}{shela24}{Komm mit.}
+{223}{shela17}{Komm mit.}
 {224}{shela25}{Hey Kumpel, Hände weg von der Ware.}
 {225}{shela26}{Hör auf, ich lasse mich nicht wie ein Spielzeug benutzen.}
 {230}{}{Ich habe ja schon einige schlechte Nummern geschoben, aber das muss wohl die mieseste

@@ -127,9 +127,9 @@
 {1800}{vic58}{Rendben, tartok némi távolságot, de nem megyek túl messzire, fõnök!}
 {1801}{vic59}{Oké, nem fogok, fõnök.}
 {1802}{vic60}{Akkor egy kicsit lemaradok, fõnök.}
-{1803}{vic61}{Naná, fõnök!}
+{1803}{vic51}{Naná, fõnök!}
 {1900}{vic62}{Jól van, fõnök! Kicsit lemaradok.}
-{1901}{vic63}{Ahogy parancsolja, kedves fõnök!}
+{1901}{vic39}{Ahogy parancsolja, kedves fõnök!}
 {1902}{vic64}{Te mész elõl, fõnök.}
 {1903}{vic65}{Lemaradok, fõnök.}
 {1904}{vic66}{Hátrébb megyek, fõnök.}
@@ -156,7 +156,7 @@
 {2311}{vic85}{Menedékvárosban. Nézd meg azon a térkép-bigyón!}
 {2403}{}{Hol szerezted a 13-as Menedék kulacsát?}
 {2404}{}{Rá se ránts!}
-{2500}{vic86}{Naná, fõnök!}
+{2500}{vic51}{Naná, fõnök!}
 {2501}{vic87}{Kérdezz bármit, fõnök!}
 {2502}{vic88}{Segítek, ha tudok, fõnök!}
 {2503}{vic89}{Ugye nem vagyok bajban, fõnök?}

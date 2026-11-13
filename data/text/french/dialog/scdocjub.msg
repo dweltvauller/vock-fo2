@@ -50,7 +50,7 @@
 {149}{jub16}{Le gros. Petit Salé était un ancien chercheur d'uranium, un ivrogne si tu veux savoir. Il vit sur les terres de Westin.}
 {150}{}{Une autre question...}
 {151}{}{Merci pour l'histoire.}
-{152}{jub17}{Eh bien, c'est que je comptais l'échanger contre de l'argent. Je te fais un prix : $}
+{152}{}{Eh bien, c'est que je comptais l'échanger contre de l'argent. Je te fais un prix : $}
 {153}{}{Plus tard peut-être. Une autre question...}
 {154}{}{Plus tard peut-être, il faut que je parte.}
 {155}{jub18}{Petit Salé était un ancien chercheur d'uranium. Il vit sur les terres de Westin.}

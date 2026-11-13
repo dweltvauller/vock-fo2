@@ -94,7 +94,7 @@
 {351}{}{Haré todo lo que pueda. Pero antes, déjeme preguntarle algo.}
 {352}{}{Haré todo lo que pueda, señora Buckner. Adiós.}
 {353}{}{Sabe, no creo que pueda ayudarla ahora mismo. Adiós.}
-{360}{ardin56}{¿Has encontrado ya a mi Smiley?}
+{360}{ardin38}{¿Has encontrado ya a mi Smiley?}
 {361}{}{Lo siento, señora Buckner. Aún estoy buscándole. Antes, déjeme preguntarle algo.}
 {362}{}{No, aunque pensaba ir ahora a buscarle. Adiós.}
 {370}{}{Creo que algo horrible ha debido pasarle a mi pobre hijo, Torr. Contaba contigo (sollozo) para que le encontraras antes de que fuera demasiado tarde. Mi pobrecito chico. No me puedo creer que confiara en ti.}

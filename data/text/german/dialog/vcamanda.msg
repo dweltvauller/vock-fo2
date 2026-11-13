@@ -64,7 +64,7 @@
 {148}{}{Keine Sorge, ich befreie deinen Ehemann. Nachdem ich meinen Lohn erhalten habe.}
 {149}{}{Vergiss es. Vielleicht kann ich ja mit jemandem im Amt für die Zuteilung reden.}
 {150}{}{Schon gut. Vergiss, dass wir uns begegnet sind.}
-{151}{}{Hey, was ist mit mir?!}
+{151}{myron6}{Hey, was ist mit mir?!}
 {152}{ama18}{Bitte befreie Joshua. Er ist in der Stadt im Amt für die Dienerzuteilung.}
 {153}{}{Vielen Dank, dass du meinen Mann befreit hast! Bitte...nimm dies als Belohnung. Es ist
  nicht viel, aber...}

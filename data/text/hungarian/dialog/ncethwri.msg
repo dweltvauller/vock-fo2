@@ -96,7 +96,7 @@
 {359}{}{Nem igazán... és sajnos mennem is kell.}
 {360}{ew25}{Ó. (Pislog.) Tehát mit is tehetek önért?}
 {361}{ew26}{Szóval milyen kérdéseket akart feltenni?}
-{362}{ew27}{(Megrezzen.) Ó, istenkém! Annyira megijesztett! (Rádsandít.) Szóval újra találkoztunk... üdvözlöm!}
+{362}{ew2}{(Megrezzen.) Ó, istenkém! Annyira megijesztett! (Rádsandít.) Szóval újra találkoztunk... üdvözlöm!}
 {363}{}{Mit is mondott az Önmegtartóztatók Szövetségérõl?}
 {364}{}{Az Édenkert Létrehozást Elõsegítõ Táskát keresem.}
 {365}{}{Egy 13-as Menedék nevû helyet keresek.}
